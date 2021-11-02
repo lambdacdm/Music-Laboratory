@@ -23,6 +23,6 @@
 
 lxqd2021@outlook.com
 
-我的[简历](https://lambdacdm.github.io/homepage/)
-
-我的[github主页](https://github.com/lambdacdm)
+* 我的网易云音乐播客 [声学实验室](http://music.163.com/radio/?id=794396440&userid=477097094)
+* 我的[简历](https://lambdacdm.github.io/homepage/)
+* 我的[github主页](https://github.com/lambdacdm)

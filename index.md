@@ -9,6 +9,9 @@
 
 # 联系我
 李想 Xiang Li
+
 lxqd2021@outlook.com
+
 我的[简历](https://lambdacdm.github.io/homepage/)
+
 我的[github主页](https://github.com/lambdacdm)

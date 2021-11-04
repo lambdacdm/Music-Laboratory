@@ -8,6 +8,7 @@
 * 魏如萱 / [变形金刚](http://music.163.com/song?id=1855414338&userid=477097094) / 专辑：HAVE A NICE DAY / 2021.6
 * 曾轶可 / [艳遇](http://music.163.com/song?id=1887047662&userid=477097094) / 专辑：Burning / 2021.10
 * 艾怡良 / [以灰之名](http://music.163.com/song?id=1890449485&userid=477097094) / 专辑：偏偏我却都记得 / 2021.10
+* 孙燕姿 / [匿名万岁](http://music.163.com/song?id=1890616371&userid=477097094) / 单曲：匿名万岁 / 2021.10
 
 # 2020 华语音乐推荐
 * 周杰伦 / Mojito / 单曲：Mojito / 2020.6
@@ -17,6 +18,19 @@
 * 谭维维 / [钱夫人](http://music.163.com/song?id=1501952242&userid=477097094) / 专辑：3811 / 2020.12
 * 九连真人 / [莫欺少年穷](http://music.163.com/song?id=1493931568&userid=477097094) / 专辑：阿民 / 2020.12
 * 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12
+
+# 2019 华语音乐推荐
+* 吴青峰 / 巴别塔庆典 / 专辑：太空人 / 2019.9
+* ETA乐队 / [Feel The Beat](http://music.163.com/song?id=1395827621&userid=477097094) / 专辑：η! ETA / 2019.10
+* 持修 / [根本不是我对手](http://music.163.com/song?id=1403757056&userid=477097094) / 专辑：房间里的大象 / 2019.11
+* 阿爆 / [Thank You 感谢](http://music.163.com/song?id=1423143127&userid=477097094) / 专辑：kinakaian 母亲的舌头 / 2019.12
+* G.E.M.邓紫棋 / [摩天动物园](http://music.163.com/song?id=1409382131&userid=477097094) / 专辑：摩天动物园 / 2019.12
+
+# 2018 华语音乐推荐
+* 曾轶可 / [I Need Love](http://music.163.com/song?id=862100069&userid=477097094) / 专辑：Anti ! Yico / 2018.6
+* 许嵩 / [大千世界](http://music.163.com/song?id=569213279&userid=477097094) / 专辑：寻宝游戏 / 2018.7
+* 艾怡良 / [十四号登机门](http://music.163.com/song?id=1334659555&userid=477097094) / 专辑：垂直活着，水平留恋着 / 2018.12
+* 林忆莲 / [沙文](http://music.163.com/song?id=1334667453&userid=477097094) / 专辑：0 / 2018.12
 
 # 联系我
 李想 Xiang Li

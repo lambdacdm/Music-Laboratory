@@ -1,6 +1,7 @@
 # 我的音乐作品
 * [梦境](https://music.163.com/dj?id=2065012886&userid=477097094) / 2020.1
 * [庞加莱回归](https://music.163.com/dj?id=2065237607&userid=477097094) / 2020.2
+* [T台秀(副歌demo)](http://music.163.com/dj?id=2069087183&userid=477097094)/ 2020.8
 
 # 2021 华语音乐推荐
 * 刘柏辛Lexie / [SHADOW](http://music.163.com/song?id=1821292148&userid=477097094) / 专辑：上线了 GONE GOLD / 2021.1

@@ -29,6 +29,7 @@
 # 2019 华语音乐推荐
 * 余佩真 / 昏你 / 专辑：真 真 / 2019.4
 * 卢凯彤 / [圆谎](http://music.163.com/song?id=1382303860&userid=477097094) / 单曲：圆谎 / 2019.8
+* 陈婧霏 / [积极向下](http://music.163.com/song?id=1387183465&userid=477097094) / 单曲：积极向下 / 2019.8
 * 昨夜派对(L.N Party) / [All about Anna](http://music.163.com/song?id=1367358886&userid=477097094) / 专辑：短篇与玫瑰的八毫米 / 2019.9
 * 吴青峰 / 巴别塔庆典 / 专辑：太空人 / 2019.9
 * ETA乐队 / [Feel The Beat](http://music.163.com/song?id=1395827621&userid=477097094) / 专辑：η! ETA / 2019.10

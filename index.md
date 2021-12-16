@@ -28,8 +28,9 @@
 * 荷尔蒙少年 / [中华商场1971 feat.修齐](http://music.163.com/song?id=1432517121&userid=477097094) / 专辑：黑色台北 / 2020.4
 
 # 2019 华语音乐推荐
-* G.E.M.邓紫棋 / [摩天动物园](http://music.163.com/song?id=1409382131&userid=477097094) / 专辑：摩天动物园 / 2019.12
 * 阿爆 / [Thank You 感谢](http://music.163.com/song?id=1423143127&userid=477097094) / 专辑：kinakaian 母亲的舌头 / 2019.12
+* G.E.M.邓紫棋 / [摩天动物园](http://music.163.com/song?id=1409382131&userid=477097094) / 专辑：摩天动物园 / 2019.12
+* 刘柏辛Lexie / [Manta](http://music.163.com/song?id=1411536847&userid=477097094) / 专辑：无限意识 Meta Ego / 2019.12
 * 持修 / [根本不是我对手](http://music.163.com/song?id=1403757056&userid=477097094) / 专辑：房间里的大象 / 2019.11
 * ETA乐队 / [Feel The Beat](http://music.163.com/song?id=1395827621&userid=477097094) / 专辑：η! ETA / 2019.10
 * 吴青峰 / 巴别塔庆典 / 专辑：太空人 / 2019.9

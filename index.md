@@ -14,6 +14,8 @@
 * 福禄寿FloruitShow / [超度我](http://music.163.com/song?id=1818820552&userid=477097094) / 专辑：我用什么把你留住 / 2021.2
 * 刘柏辛Lexie / [SHADOW](http://music.163.com/song?id=1821292148&userid=477097094) / 专辑：上线了 GONE GOLD / 2021.1
 
+同时移步b站视频 [2021年 华语音乐 十佳歌曲 个人向](https://www.bilibili.com/video/BV1cr4y1S7nY)
+
 # 2020 华语音乐推荐
 * 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12
 * 九连真人 / [莫欺少年穷](http://music.163.com/song?id=1493931568&userid=477097094) / 专辑：阿民 / 2020.12

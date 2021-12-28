@@ -4,6 +4,7 @@
 * [T台秀(副歌demo)](http://music.163.com/dj?id=2069087183&userid=477097094) / 2020.8
 
 # 2021 华语音乐推荐
+* 海妖 / [她](http://music.163.com/song?id=1852326661&userid=477097094) / 专辑：Sweet Waves / 2021.12
 * 9m88 / [Eyes](http://music.163.com/song?id=1892438343&userid=477097094) / 专辑：This Temporary Ensemble / 2021.11
 * 艾怡良 / [以灰之名](http://music.163.com/song?id=1890449485&userid=477097094) / 专辑：偏偏我却都记得 / 2021.10
 * 曾轶可 / [艳遇](http://music.163.com/song?id=1887047662&userid=477097094) / 专辑：Burning / 2021.10

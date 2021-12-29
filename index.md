@@ -8,6 +8,7 @@
 * 9m88 / [Eyes](http://music.163.com/song?id=1892438343&userid=477097094) / 专辑：This Temporary Ensemble / 2021.11
 * 艾怡良 / [以灰之名](http://music.163.com/song?id=1890449485&userid=477097094) / 专辑：偏偏我却都记得 / 2021.10
 * 曾轶可 / [艳遇](http://music.163.com/song?id=1887047662&userid=477097094) / 专辑：Burning / 2021.10
+* 许钧 / [美梦公司](https://music.163.com/song?id=1887031458&userid=477097094) / 专辑：美梦公司 / 2021.10
 * 陈粒 / 巨雾 / 专辑：悠长假期 / 2021.8
 * 裸儿 / [我想躺在地板上](http://music.163.com/song?id=1867580210&userid=477097094) / 专辑：果果 / 2021.8
 * 魏如萱 / [变形金刚](http://music.163.com/song?id=1855414338&userid=477097094) / 专辑：HAVE A NICE DAY / 2021.6

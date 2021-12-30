@@ -4,7 +4,7 @@
 * [T台秀(副歌demo)](http://music.163.com/dj?id=2069087183&userid=477097094) / 2020.8
 
 # 2021 华语音乐推荐
-* 海妖 / [她](http://music.163.com/song?id=1852326661&userid=477097094) / 专辑：Sweet Waves / 2021.12
+* 海妖Sea-Maiden / [她](http://music.163.com/song?id=1852326661&userid=477097094) / 专辑：Sweet Waves / 2021.12
 * 9m88 / [Eyes](http://music.163.com/song?id=1892438343&userid=477097094) / 专辑：This Temporary Ensemble / 2021.11
 * 艾怡良 / [以灰之名](http://music.163.com/song?id=1890449485&userid=477097094) / 专辑：偏偏我却都记得 / 2021.10
 * 曾轶可 / [艳遇](http://music.163.com/song?id=1887047662&userid=477097094) / 专辑：Burning / 2021.10
@@ -78,6 +78,7 @@
 * 张惠妹 / [母系社会](http://music.163.com/song?id=31311126&userid=477097094) / 专辑：阿密特2 / 2015.4
 * 张悬 / 玫瑰色的你 / 专辑：神的游戏 / 2012.8
 * G.E.M.邓紫棋 / [潜意式的残酷](http://music.163.com/song?id=233932&userid=477097094) / 专辑：Xposed / 2012.7
+* 万能青年旅店 / [杀死那个石家庄人](http://music.163.com/song?id=386844&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11
 * 周杰伦 / 免费教学录影带 / 专辑：跨时代 / 2010.5
 
 # 联系我

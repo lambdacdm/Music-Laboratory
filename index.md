@@ -12,6 +12,7 @@
 * 许钧 / [美梦公司](https://music.163.com/song?id=1887031458&userid=477097094) / 专辑：美梦公司 / 2021.10
 * 陈粒 / 巨雾 / 专辑：悠长假期 / 2021.8
 * 裸儿 / [我想躺在地板上](http://music.163.com/song?id=1867580210&userid=477097094) / 专辑：果果 / 2021.8
+* 郭采洁 / [NaKuNa](https://music.163.com/song?id=1857303974&userid=477097094) / 专辑：Vol.13-1986数羊 / 2021.7
 * 魏如萱 / [变形金刚](http://music.163.com/song?id=1855414338&userid=477097094) / 专辑：HAVE A NICE DAY / 2021.6
 * 许嵩 / [超市](http://music.163.com/song?id=1842802179&userid=477097094) / 专辑：呼吸之野 / 2021.5
 * 脏手指 Oh! Dirty Fingers / [Mazel Tov](http://music.163.com/song?id=1837817428&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4

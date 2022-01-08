@@ -5,6 +5,7 @@
 
 # 2021 华语音乐推荐
 * 原子邦妮 / [香草天空](https://music.163.com/song?id=1907220844&userid=477097094) / 专辑：如果我有勇气失去你 / 2021.12
+* 李权哲 / 今晚有空吗？ / 专辑：爱情一阵风 / 2021.12
 * 海妖Sea-Maiden / [她](http://music.163.com/song?id=1852326661&userid=477097094) / 专辑：Sweet Waves / 2021.12
 * 9m88 / [Eyes](http://music.163.com/song?id=1892438343&userid=477097094) / 专辑：This Temporary Ensemble / 2021.11
 * 艾怡良 / [以灰之名](http://music.163.com/song?id=1890449485&userid=477097094) / 专辑：偏偏我却都记得 / 2021.10

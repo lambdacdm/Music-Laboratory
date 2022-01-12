@@ -91,6 +91,11 @@
 * ilem 洛天依 言和 / [达拉崩吧](http://music.163.com/song?id=521493845&userid=477097094) / 单曲：达拉崩吧 / 2017.6
 * 洛天依 言和 乐正绫 DELA / [七重痼病](http://music.163.com/song?id=447292674&userid=477097094) / 专辑：妄想症Paranoia / 2015.11
 
+# 游戏配乐推荐（不局限华语地区）
+* MushREB / [Main Menu](http://music.163.com/song?id=1353455267&userid=477097094) / 专辑：Ballex Original Sound Track / 2019.3
+* Laura Shigihara / [Graze the Roof](http://music.163.com/song?id=3019698&userid=477097094) / 专辑：Plants Vs. Zombies (Original Video Game Soundtrack) / 2010.11
+* Frank Klepacki / [Hell March 3](http://music.163.com/song?id=5042952&userid=477097094) / 专辑：Command & Conquer: Red Alert 3 Premier Edition Music Disc / 2008.10
+
 # 联系我
 李想 Xiang Li
 

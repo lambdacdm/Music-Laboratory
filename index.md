@@ -22,6 +22,7 @@
 * 刘柏辛Lexie / [SHADOW](http://music.163.com/song?id=1821292148&userid=477097094) / 专辑：上线了 GONE GOLD / 2021.1
 
 同时移步b站视频 [2021年 华语音乐 十佳歌曲 个人向](https://www.bilibili.com/video/BV1cr4y1S7nY)
+[【第二弹】2021 华语音乐 十佳歌曲 个人向](https://www.bilibili.com/video/BV1rr4y1Y78P/)
 
 # 2020 华语音乐推荐
 * 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12

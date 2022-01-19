@@ -52,7 +52,7 @@
 * 荷尔蒙少年 / [中华商场1971 feat.修齐](http://music.163.com/song?id=1432517121&userid=477097094) / 专辑：黑色台北 / 2020.4
 
 外部链接：
-* [第32届金曲奖](https://zh.wikipedia.org/wiki/%E7%AC%AC32%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
+* [第32届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC32%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
 * [雪岭洞箫声 2020年36张华语专辑推荐](https://zhuanlan.zhihu.com/p/347472010)
 * [呆若木一在此 2020华语年度唱片盘点](https://www.bilibili.com/video/BV1YK411M76C)
 * [耳帝 2020华语年度100首最佳歌曲](https://www.bilibili.com/video/BV1Gi4y1w7pa)
@@ -72,7 +72,7 @@
 * 余佩真 / 昏你 / 专辑：真 真 / 2019.4
 
 外部链接：
-* [第31届金曲奖](https://zh.wikipedia.org/wiki/%E7%AC%AC31%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
+* [第31届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC31%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
 * [呆若木一在此 2019华语年度唱片盘点](https://www.bilibili.com/video/BV1pJ411L7gk)
 * [耳帝 2019年最值得听的100首华语歌曲](https://www.bilibili.com/video/BV1SJ411Y7Hg)
 
@@ -85,14 +85,14 @@
 * 曾轶可 / [I Need Love](http://music.163.com/song?id=862100069&userid=477097094) / 专辑：Anti ! Yico / 2018.6
 
 外部链接：
-* [第30届金曲奖](https://zh.wikipedia.org/wiki/%E7%AC%AC30%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
+* [第30届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC30%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
 
 # 2017 华语音乐推荐
 * 徐佳莹 / [病人](http://music.163.com/song?id=526099071&userid=477097094) / 专辑：心里学 / 2017.12
 * 孙燕姿 / [跳舞的梵谷](http://music.163.com/song?id=514055051&userid=477097094) / 专辑：孙燕姿 No.13 作品：跳舞的梵谷 / 2017.11
 
 外部链接：
-* [第29届金曲奖](https://zh.wikipedia.org/wiki/%E7%AC%AC29%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
+* [第29届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC29%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
 
 # 2016 华语音乐推荐
 * 魏如萱 / [I Will Be Fine](http://music.163.com/song?id=442867303&userid=477097094) / 专辑：末路狂花 / 2016.11
@@ -105,7 +105,7 @@
 * 草东没有派对 / 山海 / 专辑：丑奴儿 / 2016.2
 
 外部链接：
-* [第28届金曲奖](https://zh.wikipedia.org/wiki/%E7%AC%AC28%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
+* [第28届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC28%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
 
 # 2010-2015 华语音乐推荐
 * 谭维维 / 给你一点颜色 / 专辑：中国之星 第3期 / 2015.12

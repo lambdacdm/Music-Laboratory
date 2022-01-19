@@ -23,9 +23,14 @@
 * 福禄寿FloruitShow / [超度我](http://music.163.com/song?id=1818820552&userid=477097094) / 专辑：我用什么把你留住 / 2021.2
 * 刘柏辛Lexie / [SHADOW](http://music.163.com/song?id=1821292148&userid=477097094) / 专辑：上线了 GONE GOLD / 2021.1
 
-同时移步b站视频 [2021年 华语音乐 十佳歌曲 个人向](https://www.bilibili.com/video/BV1cr4y1S7nY)
+同时移步b站视频 
+* [2021年 华语音乐 十佳歌曲 个人向](https://www.bilibili.com/video/BV1cr4y1S7nY)
+* [【第二弹】 2021 华语音乐 十佳歌曲 个人向](https://www.bilibili.com/video/BV1rr4y1Y78P/)
 
-[【第二弹】 2021 华语音乐 十佳歌曲 个人向](https://www.bilibili.com/video/BV1rr4y1Y78P/)
+外部链接：
+* [雪岭洞箫声 我的2021年100首华语音乐新单推荐（上篇）](https://www.bilibili.com/video/BV1Fb4y1n7p9)
+* [呆若木一在此 2021华语年度唱片盘点](https://www.bilibili.com/video/BV15u411U7B9)
+* [耳帝 2021华语地区年度100首最佳歌曲](https://www.bilibili.com/video/BV1y44y1774p)
 
 # 2020 华语音乐推荐
 * 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12
@@ -46,6 +51,12 @@
 * 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6
 * 荷尔蒙少年 / [中华商场1971 feat.修齐](http://music.163.com/song?id=1432517121&userid=477097094) / 专辑：黑色台北 / 2020.4
 
+外部链接：
+* [第32届金曲奖](https://zh.wikipedia.org/wiki/%E7%AC%AC32%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
+* [雪岭洞箫声 2020年36张华语专辑推荐](https://zhuanlan.zhihu.com/p/347472010)
+* [呆若木一在此 2020华语年度唱片盘点](https://www.bilibili.com/video/BV1YK411M76C)
+* [耳帝 2020华语年度100首最佳歌曲](https://www.bilibili.com/video/BV1Gi4y1w7pa)
+
 # 2019 华语音乐推荐
 * 阿爆 / [Thank You 感谢](http://music.163.com/song?id=1423143127&userid=477097094) / 专辑：kinakaian 母亲的舌头 / 2019.12
 * G.E.M.邓紫棋 / [摩天动物园](http://music.163.com/song?id=1409382131&userid=477097094) / 专辑：摩天动物园 / 2019.12
@@ -59,6 +70,11 @@
 * 陈婧霏 / [积极向下](http://music.163.com/song?id=1387183465&userid=477097094) / 单曲：积极向下 / 2019.8
 * 卢凯彤 / [圆谎](http://music.163.com/song?id=1382303860&userid=477097094) / 单曲：圆谎 / 2019.8
 * 余佩真 / 昏你 / 专辑：真 真 / 2019.4
+
+外部链接：
+* [第31届金曲奖](https://zh.wikipedia.org/wiki/%E7%AC%AC31%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
+* [呆若木一在此 2019华语年度唱片盘点](https://www.bilibili.com/video/BV1pJ411L7gk)
+* [耳帝 2019年最值得听的100首华语歌曲](https://www.bilibili.com/video/BV1SJ411Y7Hg)
 
 # 2018 华语音乐推荐
 * 艾怡良 / [十四号登机门](http://music.163.com/song?id=1334659555&userid=477097094) / 专辑：垂直活着，水平留恋着 / 2018.12

@@ -73,6 +73,7 @@
 
 外部链接：
 * [第31届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC31%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
+* [雪岭洞箫声 我推荐的2019年40张华语专辑](https://zhuanlan.zhihu.com/p/103316404) 
 * [呆若木一在此 2019华语年度唱片盘点](https://www.bilibili.com/video/BV1pJ411L7gk)
 * [耳帝 2019年最值得听的100首华语歌曲](https://www.bilibili.com/video/BV1SJ411Y7Hg)
 

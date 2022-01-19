@@ -84,9 +84,15 @@
 * 许嵩 / [大千世界](http://music.163.com/song?id=569213279&userid=477097094) / 专辑：寻宝游戏 / 2018.7
 * 曾轶可 / [I Need Love](http://music.163.com/song?id=862100069&userid=477097094) / 专辑：Anti ! Yico / 2018.6
 
+外部链接：
+* [第30届金曲奖](https://zh.wikipedia.org/wiki/%E7%AC%AC30%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
+
 # 2017 华语音乐推荐
 * 徐佳莹 / [病人](http://music.163.com/song?id=526099071&userid=477097094) / 专辑：心里学 / 2017.12
 * 孙燕姿 / [跳舞的梵谷](http://music.163.com/song?id=514055051&userid=477097094) / 专辑：孙燕姿 No.13 作品：跳舞的梵谷 / 2017.11
+
+外部链接：
+* [第29届金曲奖](https://zh.wikipedia.org/wiki/%E7%AC%AC29%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
 
 # 2016 华语音乐推荐
 * 魏如萱 / [I Will Be Fine](http://music.163.com/song?id=442867303&userid=477097094) / 专辑：末路狂花 / 2016.11
@@ -97,6 +103,9 @@
 * 艾怡良 / [逃生计划](http://music.163.com/song?id=414979306&userid=477097094) / 专辑：说 艾怡良 / 2016.5
 * 后海大鲨鱼 / [偷月亮的人](http://music.163.com/song?id=406072143&userid=477097094) / 专辑：心要野 / 2016.3
 * 草东没有派对 / 山海 / 专辑：丑奴儿 / 2016.2
+
+外部链接：
+* [第28届金曲奖](https://zh.wikipedia.org/wiki/%E7%AC%AC28%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
 
 # 2010-2015 华语音乐推荐
 * 谭维维 / 给你一点颜色 / 专辑：中国之星 第3期 / 2015.12

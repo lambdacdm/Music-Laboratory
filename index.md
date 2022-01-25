@@ -28,7 +28,7 @@
 * [【第二弹】 2021 华语音乐 十佳歌曲 个人向](https://www.bilibili.com/video/BV1rr4y1Y78P/)
 
 外部链接：
-* [雪岭洞箫声 我的2021年100首华语音乐新单推荐（上篇）](https://zhuanlan.zhihu.com/p/457747192)
+* [雪岭洞箫声 我的2021年100首华语音乐新单推荐（中篇）](https://zhuanlan.zhihu.com/p/460992923)
 * [呆若木一在此 2021华语年度唱片盘点](https://www.bilibili.com/video/BV15u411U7B9)
 * [耳帝 2021华语地区年度100首最佳歌曲](https://www.bilibili.com/video/BV1y44y1774p)
 

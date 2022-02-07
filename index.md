@@ -129,6 +129,7 @@
 * 周杰伦 / 免费教学录影带 / 专辑：跨时代 / 2010.5
 
 # 2010以前 华语音乐推荐
+* 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11
 * 龚琳娜 / [忐忑](http://music.163.com/song?id=236690&userid=477097094) / 专辑：静夜思 / 2006.12
 * 周杰伦 潘儿 / 夜的第七章 / 专辑：依然范特西 / 2006.9
 * 张悬 / [Live酒馆300秒](http://music.163.com/song?id=326734&userid=477097094) / 专辑：my life will... / 2006.6

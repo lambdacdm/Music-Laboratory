@@ -68,6 +68,7 @@
 * G.E.M.邓紫棋 / [摩天动物园](http://music.163.com/song?id=1409382131&userid=477097094) / 专辑：摩天动物园 / 2019.12
 * 刘柏辛Lexie / [Manta](http://music.163.com/song?id=1411536847&userid=477097094) / 专辑：无限意识 Meta Ego / 2019.12
 * 许哲珮 / [失物之城](http://music.163.com/song?id=1407965265&userid=477097094) / 专辑：失物之城 / 2019.12
+* 魏如萱 / [恐慌症](http://music.163.com/song?id=1404530798&userid=477097094) / 专辑：藏着并不等于遗忘 / 2019.11
 * 持修 / [根本不是我对手](http://music.163.com/song?id=1403757056&userid=477097094) / 专辑：房间里的大象 / 2019.11
 * ETA乐队 / [Feel The Beat](http://music.163.com/song?id=1395827621&userid=477097094) / 专辑：η! ETA / 2019.10
 * 陈珊妮 / [你要去哪里](http://music.163.com/song?id=1386200220&userid=477097094) / 专辑：Juvenile A / 2019.9

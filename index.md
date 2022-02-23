@@ -129,6 +129,7 @@
 * 张惠妹 / [母系社会](http://music.163.com/song?id=31311126&userid=477097094) / 专辑：阿密特2 / 2015.4
 * 蔡依林 / [Play我呸](http://music.163.com/song?id=29572738&userid=477097094) / 专辑：呸 / 2014.11
 * 二手玫瑰 / [仙儿](http://music.163.com/song?id=27501008&userid=477097094) / 专辑：一枝独秀 / 2013.7
+* 王若琳 / [Galaxy Crisis](http://music.163.com/song?id=25918343&userid=477097094) / 专辑：银河的危机: 最奇异的午夜转播 / 2013.3
 * 林忆莲 / [爱笑了](http://music.163.com/song?id=255568&userid=477097094) / 专辑：盖亚 / 2012.9
 * 张悬 / 玫瑰色的你 / 专辑：神的游戏 / 2012.8
 * G.E.M.邓紫棋 / [潜意式的残酷](http://music.163.com/song?id=233932&userid=477097094) / 专辑：Xposed / 2012.7

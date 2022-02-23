@@ -69,6 +69,7 @@
 # 2019 华语音乐推荐
 * 阿爆 / [Thank You 感谢](http://music.163.com/song?id=1423143127&userid=477097094) / 专辑：kinakaian 母亲的舌头 / 2019.12
 * G.E.M.邓紫棋 / [摩天动物园](http://music.163.com/song?id=1409382131&userid=477097094) / 专辑：摩天动物园 / 2019.12
+* 宫阁 / [哥特电影](http://music.163.com/song?id=1399802153&userid=477097094) / 专辑：即将上映 / 2019.12
 * 刘柏辛Lexie / [Manta](http://music.163.com/song?id=1411536847&userid=477097094) / 专辑：无限意识 Meta Ego / 2019.12
 * 许哲珮 / [失物之城](http://music.163.com/song?id=1407965265&userid=477097094) / 专辑：失物之城 / 2019.12
 * 魏如萱 / [恐慌症](http://music.163.com/song?id=1404530798&userid=477097094) / 专辑：藏着并不等于遗忘 / 2019.11

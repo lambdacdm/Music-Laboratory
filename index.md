@@ -82,6 +82,7 @@
 * 陈婧霏 / [积极向下](http://music.163.com/song?id=1387183465&userid=477097094) / 单曲：积极向下 / 2019.8
 * 卢凯彤 / [圆谎](http://music.163.com/song?id=1382303860&userid=477097094) / 单曲：圆谎 / 2019.8
 * 余佩真 / 昏你 / 专辑：真 真 / 2019.4
+* 布朗尼 / [Julie (朱莉)](http://music.163.com/song?id=1352818588&userid=477097094) / 专辑：Julie / 2019.3
 
 外部链接：
 * [第31届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC31%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)

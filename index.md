@@ -111,7 +111,6 @@
 * 林忆莲 / [沙文](http://music.163.com/song?id=1334667453&userid=477097094) / 专辑：0 / 2018.12
 * 蔡依林 / 怪美的 / 专辑：UGLY BEAUTY / 2018.12
 * 孙盛希 / [红苹果](http://music.163.com/song?id=1323302841&userid=477097094) / 专辑：希游记 / 2018.10
-* 许嵩 / [大千世界](http://music.163.com/song?id=569213279&userid=477097094) / 专辑：寻宝游戏 / 2018.7
 * 曾轶可 / [I Need Love](http://music.163.com/song?id=862100069&userid=477097094) / 专辑：Anti ! Yico / 2018.6
 
 外部链接：

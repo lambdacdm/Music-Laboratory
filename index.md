@@ -20,8 +20,8 @@
 * 陈珊妮 / [捆缚](http://music.163.com/song?id=1929041869&userid=477097094) / 单曲：捆缚 / 2022.3
 * 東京茶 / [丢海](http://music.163.com/song?id=1915572261&userid=477097094) / 专辑：在山的那边 / 2022.2
 * 朱婧汐Akini Jing, Chace / 祝福 Blessing / 单曲：祝福 Blessing / 2022.1
-* VH (Vast & Hazy) / [全员病态就没人算怪胎](http://music.163.com/song?id=1907752577&userid=477097094) / 专辑：文明 / 2022.1
 <!-- * 鬼否 / [超真实生态瓶](http://music.163.com/song?id=1919214172&userid=477097094) / 单曲：超真实生态瓶 / 2022.2 -->
+<!-- * VH (Vast & Hazy) / [全员病态就没人算怪胎](http://music.163.com/song?id=1907752577&userid=477097094) / 专辑：文明 / 2022.1 -->
 
 # 2021 华语音乐推荐
 * 原子邦妮 / [香草天空](https://music.163.com/song?id=1907220844&userid=477097094) / 专辑：如果我有勇气失去你 / 2021.12

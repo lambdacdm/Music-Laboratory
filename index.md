@@ -12,14 +12,14 @@
 * **NO.6** 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11 / 风格：摇滚舞曲
 * **NO.7** 周杰伦 / Mojito / 单曲：Mojito / 2020.6 / 风格：拉丁爵士
 * **NO.8** 巴奈 / [总要](http://music.163.com/song?id=1495838813&userid=477097094) / 专辑：爱，不到 / 2020.11 / 风格：拉丁爵士
-* **NO.9** 周杰伦 潘儿 / 夜的第七章 / 专辑：依然范特西 / 2006.9 / 风格：流行 嘻哈
+* **NO.9** 周杰伦, 潘儿 / 夜的第七章 / 专辑：依然范特西 / 2006.9 / 风格：流行 嘻哈
 * **NO.10** 陶喆 / [黑色柳丁](http://music.163.com/song?id=150552&userid=477097094) / 专辑：黑色柳丁 / 2002.6 / 风格：重金属
 
 # 2022 华语音乐推荐
 * 白皮书乐队 / [乌合之众](http://music.163.com/song?id=1930204689&userid=477097094) / 专辑：20世纪的幻想  / 2022.3
 * 陈珊妮 / [捆缚](http://music.163.com/song?id=1929041869&userid=477097094) / 单曲：捆缚 / 2022.3
 * 東京茶 / [丢海](http://music.163.com/song?id=1915572261&userid=477097094) / 专辑：在山的那边 / 2022.2
-* 朱婧汐Akini Jing / 祝福 Blessing / 单曲：祝福 Blessing / 2022.1
+* 朱婧汐Akini Jing, Chace/ 祝福 Blessing / 单曲：祝福 Blessing / 2022.1
 * VH (Vast & Hazy) / [全员病态就没人算怪胎](http://music.163.com/song?id=1907752577&userid=477097094) / 专辑：文明 / 2022.1
 <!-- * 鬼否 / [超真实生态瓶](http://music.163.com/song?id=1919214172&userid=477097094) / 单曲：超真实生态瓶 / 2022.2 -->
 
@@ -39,7 +39,7 @@
 * 郭采洁 / [NaKuNa](https://music.163.com/song?id=1857303974&userid=477097094) / 专辑：Vol.13-1986数羊 / 2021.7
 * 魏如萱 / [变形金刚](http://music.163.com/song?id=1855414338&userid=477097094) / 专辑：HAVE A NICE DAY / 2021.6
 * 潘高峰 / [霹雳](http://music.163.com/song?id=1855434855&userid=477097094) / 专辑：霹雳 / 2021.6
-* 9m88 DJ MITSU THE BEATS / [Tell Me](http://music.163.com/song?id=1849021246&userid=477097094) / 单曲：Tell Me / 2021.6
+* 9m88, DJ MITSU THE BEATS / [Tell Me](http://music.163.com/song?id=1849021246&userid=477097094) / 单曲：Tell Me / 2021.6
 * 许嵩 / [超市](http://music.163.com/song?id=1842802179&userid=477097094) / 专辑：呼吸之野 / 2021.5
 * 脏手指Oh! Dirty Fingers / [Mazel Tov](http://music.163.com/song?id=1837817428&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4
 * 福禄寿FloruitShow / [超度我](http://music.163.com/song?id=1818820552&userid=477097094) / 专辑：我用什么把你留住 / 2021.2
@@ -68,12 +68,12 @@
 * 许含光 / [LCL](http://music.163.com/song?id=1490932004&userid=477097094) / 专辑：从夜晚开始从夜晚结束 / 2020.10
 * 春面乐队ChuNoodle / 到底到了底到底 / 专辑：到底 / 2020.10
 * 缓缓 / [梦露](http://music.163.com/song?id=1483269514&userid=477097094) / 专辑：水可以去任何地方 / 2020.10
-* YELLOW黄宣 范晓萱 / [独上C楼](https://music.163.com/song?id=1485891498&userid=477097094) / 专辑：浮世击 / 2020.10
+* YELLOW黄宣, 范晓萱 / [独上C楼](https://music.163.com/song?id=1485891498&userid=477097094) / 专辑：浮世击 / 2020.10
 * 朱婧汐Akini Jing / Cure / 专辑：塑胶天堂 / 2020.9
 * 万芳 / [时间梯](http://music.163.com/song?id=1479797867&userid=477097094) / 专辑：给你们Dear All / 2020.9
 * 李荣浩 / [如果我是海](http://music.163.com/song?id=1466675564&userid=477097094) / 专辑：麻雀 / 2020.7
 * 祁紫檀 / [比海更深](http://music.163.com/song?id=1457750081&userid=477097094) / 专辑：爱之颤 / 2020.7
-* 青虫aoi 林柏宏 / 无你的故事 / 专辑：有你的故事 / 2020.6
+* 青虫aoi, 林柏宏 / 无你的故事 / 专辑：有你的故事 / 2020.6
 * 倒车入库 / [4:44](http://music.163.com/song?id=1457545268&userid=477097094) / 专辑：都会型人格疾患四部曲 / 2020.6
 * 周杰伦 / Mojito / 单曲：Mojito / 2020.6
 * 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6
@@ -115,6 +115,7 @@
 * 艾怡良 / [十四号登机门](http://music.163.com/song?id=1334659555&userid=477097094) / 专辑：垂直活着，水平留恋着 / 2018.12
 * 林忆莲 / [沙文](http://music.163.com/song?id=1334667453&userid=477097094) / 专辑：0 / 2018.12
 * 蔡依林 / 怪美的 / 专辑：UGLY BEAUTY / 2018.12
+* 白皮书乐队 / [老鼠](http://music.163.com/song?id=1321451882&userid=477097094) / 专辑：我不高兴 / 2018.11
 * 孙盛希 / [红苹果](http://music.163.com/song?id=1323302841&userid=477097094) / 专辑：希游记 / 2018.10
 * 曾轶可 / [I Need Love](http://music.163.com/song?id=862100069&userid=477097094) / 专辑：Anti ! Yico / 2018.6
 
@@ -167,7 +168,7 @@
 * 汪峰 / 名利场 / 专辑：信仰在空中飘扬 / 2009.7
 * 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11
 * 龚琳娜 / [忐忑](http://music.163.com/song?id=236690&userid=477097094) / 专辑：静夜思 / 2006.12
-* 周杰伦 潘儿 / 夜的第七章 / 专辑：依然范特西 / 2006.9
+* 周杰伦, 潘儿 / 夜的第七章 / 专辑：依然范特西 / 2006.9
 * 张悬 / [Live酒馆300秒](http://music.163.com/song?id=326734&userid=477097094) / 专辑：my life will... / 2006.6
 * 陈珊妮 / [尼可拉斯](http://music.163.com/song?id=209147&userid=477097094) / 专辑：后来 我们都哭了 / 2004.10
 * 陶喆 / [黑色柳丁](http://music.163.com/song?id=150552&userid=477097094) / 专辑：黑色柳丁 / 2002.6
@@ -182,8 +183,8 @@
 * 罗大佑 / [错误](http://music.163.com/song?id=109532&userid=477097094) / 专辑：之乎者也 / 1982.4
 
 # 二次元音乐推荐
-* ilem 洛天依 言和 / [达拉崩吧](http://music.163.com/song?id=521493845&userid=477097094) / 单曲：达拉崩吧 / 2017.6
-* 洛天依 言和 乐正绫 DELA / [七重痼病](http://music.163.com/song?id=447292674&userid=477097094) / 专辑：妄想症Paranoia / 2015.11
+* ilem, 洛天依, 言和 / [达拉崩吧](http://music.163.com/song?id=521493845&userid=477097094) / 单曲：达拉崩吧 / 2017.6
+* 洛天依, 言和, 乐正绫, DELA / [七重痼病](http://music.163.com/song?id=447292674&userid=477097094) / 专辑：妄想症Paranoia / 2015.11
 
 # 游戏配乐推荐（不局限华语地区）
 * MushREB / [Main Menu](http://music.163.com/song?id=1353455267&userid=477097094) / 专辑：Ballex Original Sound Track / 2019.3

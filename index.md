@@ -6,12 +6,12 @@
 # 我个人最喜欢的华语音乐
 * **NO.1** 表情银行 / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚 独立流行
 * **NO.2** 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11 / 风格：前卫摇滚 艺术摇滚
-* **NO.3** 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10 / 风格：融合爵士 前卫摇滚
-* **NO.4** 魏如萱 / [I Will Be Fine](http://music.163.com/song?id=442867303&userid=477097094) / 专辑：末路狂花 / 2016.11 / 风格：放克流行 独立流行
-* **NO.5** 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12 / 风格：另类R&B 梦幻流行 
-* **NO.6** 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11 / 风格：朋克舞曲
-* **NO.7** 周杰伦 / Mojito / 单曲：Mojito / 2020.6 / 风格：拉丁爵士
-* **NO.8** 巴奈 / [总要](http://music.163.com/song?id=1495838813&userid=477097094) / 专辑：爱，不到 / 2020.11 / 风格：拉丁爵士
+* **NO.3** 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11 / 风格：朋克舞曲 车库摇滚
+* **NO.4** 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10 / 风格：融合爵士 前卫摇滚
+* **NO.5** 魏如萱 / [I Will Be Fine](http://music.163.com/song?id=442867303&userid=477097094) / 专辑：末路狂花 / 2016.11 / 风格：放克流行 独立流行
+* **NO.6** 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12 / 风格：另类R&B 梦幻流行 
+* **NO.7** 巴奈 / [总要](http://music.163.com/song?id=1495838813&userid=477097094) / 专辑：爱，不到 / 2020.11 / 风格：拉丁爵士
+* **NO.8** 周杰伦 / Mojito / 单曲：Mojito / 2020.6 / 风格：拉丁爵士
 * **NO.9** 周杰伦, 潘儿 / 夜的第七章 / 专辑：依然范特西 / 2006.9 / 风格：流行 嘻哈
 * **NO.10** 陶喆 / [黑色柳丁](http://music.163.com/song?id=150552&userid=477097094) / 专辑：黑色柳丁 / 2002.6 / 风格：重金属
 
@@ -157,6 +157,7 @@
 * 霍尊 / 卷珠帘 / 专辑：天韵·霍尊 / 2015.5
 * 张惠妹 / [母系社会](http://music.163.com/song?id=31311126&userid=477097094) / 专辑：阿密特2 / 2015.4
 * 蔡依林 / [Play我呸](http://music.163.com/song?id=29572738&userid=477097094) / 专辑：呸 / 2014.11
+* 腰乐队 / [暑夜](http://music.163.com/song?id=28768110&userid=477097094) / 专辑：相见恨晚 / 2014.7
 * 皇后皮箱 / [人间惆怅客](http://music.163.com/song?id=29592146&userid=477097094) / 专辑：超時空歌女的快活 / 2014.7
 * 二手玫瑰 / [仙儿](http://music.163.com/song?id=27501008&userid=477097094) / 专辑：一枝独秀 / 2013.7
 * 王若琳 / [Galaxy Crisis](http://music.163.com/song?id=25918343&userid=477097094) / 专辑：银河的危机: 最奇异的午夜转播 / 2013.3
@@ -187,6 +188,17 @@
 # 二次元音乐推荐
 * ilem, 洛天依, 言和 / [达拉崩吧](http://music.163.com/song?id=521493845&userid=477097094) / 单曲：达拉崩吧 / 2017.6
 * 洛天依, 言和, 乐正绫, DELA / [七重痼病](http://music.163.com/song?id=447292674&userid=477097094) / 专辑：妄想症Paranoia / 2015.11
+
+# 我个人最喜欢的音乐（不局限华语地区）
+* **NO.1** 椎名林檎 / [丸の内サディスティック](http://music.163.com/song?id=642776&userid=477097094) / 专辑：無罪モラトリアム / 1999.2 / 风格：另类摇滚
+* **NO.2** Radiohead / [Paranoid Android](http://music.163.com/song?id=22497471&userid=477097094) / 专辑：OK Computer / 1997.5 / 风格：另类摇滚 艺术摇滚
+* **NO.3** King Crimson / [21st Century Schizoid Man](http://music.163.com/song?id=4143634&userid=477097094) / 专辑：In The Court Of The Crimson King / 1969.10 / 风格：前卫摇滚 艺术摇滚
+* **NO.4** 表情银行 / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚 独立流行
+* **NO.5** 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11 / 风格：前卫摇滚 艺术摇滚
+* **NO.6** Fiona Apple / [Criminal](http://music.163.com/song?id=17823131&userid=477097094) / 专辑：Tidal / 1996.5 / 风格：另类摇滚
+* **NO.7** Yeah Yeah Yeahs / [Date With The Night](http://music.163.com/song?id=20787532&userid=477097094) / 专辑：Fever To Tell / 2003.4 / 风格：车库摇滚 独立摇滚
+* **NO.8** 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11 / 风格：朋克舞曲 车库摇滚
+* **NO.9** Electric Youth / [Modern Fears](http://music.163.com/song?id=1822249117&userid=477097094) / 专辑：Come True / 2021.3 / 风格：合成器浪潮
 
 # 游戏配乐推荐（不局限华语地区）
 * MushREB / [Main Menu](http://music.163.com/song?id=1353455267&userid=477097094) / 专辑：Ballex Original Sound Track / 2019.3

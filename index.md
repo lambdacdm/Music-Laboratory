@@ -1,7 +1,20 @@
+# 音乐实验室
+
 # 我的音乐作品
 * [梦境](https://music.163.com/dj?id=2065012886&userid=477097094) / 2020.1 / 风格：流行 古典
 * [庞加莱回归](https://music.163.com/dj?id=2065237607&userid=477097094) / 2020.2 / 风格：轻音乐 民谣流行 
 * [百变T台秀](http://music.163.com/dj?id=2496534801&userid=477097094) / 2022.1 / 风格：布鲁斯 放克 摇滚
+
+# 我个人最喜欢的音乐（不局限华语地区）
+* **NO.1** 椎名林檎 / [丸の内サディスティック](http://music.163.com/song?id=642776&userid=477097094) / 专辑：無罪モラトリアム / 1999.2 / 风格：另类摇滚
+* **NO.2** Radiohead / [Paranoid Android](http://music.163.com/song?id=22497471&userid=477097094) / 专辑：OK Computer / 1997.5 / 风格：另类摇滚 艺术摇滚
+* **NO.3** King Crimson / [21st Century Schizoid Man](http://music.163.com/song?id=4143634&userid=477097094) / 专辑：In The Court Of The Crimson King / 1969.10 / 风格：前卫摇滚 艺术摇滚
+* **NO.4** 表情银行 / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚 独立流行
+* **NO.5** 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11 / 风格：前卫摇滚 艺术摇滚
+* **NO.6** Fiona Apple / [Criminal](http://music.163.com/song?id=17823131&userid=477097094) / 专辑：Tidal / 1996.5 / 风格：另类摇滚
+* **NO.7** Yeah Yeah Yeahs / [Date With The Night](http://music.163.com/song?id=20787532&userid=477097094) / 专辑：Fever To Tell / 2003.4 / 风格：车库摇滚 独立摇滚
+* **NO.8** 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11 / 风格：朋克舞曲 车库摇滚
+* **NO.9** Electric Youth / [Modern Fears](http://music.163.com/song?id=1822249117&userid=477097094) / 专辑：Come True / 2021.3 / 风格：合成器浪潮
 
 # 我个人最喜欢的华语音乐
 * **NO.1** 表情银行 / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚 独立流行
@@ -185,26 +198,16 @@
 * 窦唯 / [高级动物](http://music.163.com/song?id=77470&userid=477097094) / 专辑：黑梦 / 1994.4
 * 罗大佑 / [错误](http://music.163.com/song?id=109532&userid=477097094) / 专辑：之乎者也 / 1982.4
 
+<!-- *
 # 二次元音乐推荐
 * ilem, 洛天依, 言和 / [达拉崩吧](http://music.163.com/song?id=521493845&userid=477097094) / 单曲：达拉崩吧 / 2017.6
 * 洛天依, 言和, 乐正绫, DELA / [七重痼病](http://music.163.com/song?id=447292674&userid=477097094) / 专辑：妄想症Paranoia / 2015.11
-
-# 我个人最喜欢的音乐（不局限华语地区）
-* **NO.1** 椎名林檎 / [丸の内サディスティック](http://music.163.com/song?id=642776&userid=477097094) / 专辑：無罪モラトリアム / 1999.2 / 风格：另类摇滚
-* **NO.2** Radiohead / [Paranoid Android](http://music.163.com/song?id=22497471&userid=477097094) / 专辑：OK Computer / 1997.5 / 风格：另类摇滚 艺术摇滚
-* **NO.3** King Crimson / [21st Century Schizoid Man](http://music.163.com/song?id=4143634&userid=477097094) / 专辑：In The Court Of The Crimson King / 1969.10 / 风格：前卫摇滚 艺术摇滚
-* **NO.4** 表情银行 / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚 独立流行
-* **NO.5** 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11 / 风格：前卫摇滚 艺术摇滚
-* **NO.6** Fiona Apple / [Criminal](http://music.163.com/song?id=17823131&userid=477097094) / 专辑：Tidal / 1996.5 / 风格：另类摇滚
-* **NO.7** Yeah Yeah Yeahs / [Date With The Night](http://music.163.com/song?id=20787532&userid=477097094) / 专辑：Fever To Tell / 2003.4 / 风格：车库摇滚 独立摇滚
-* **NO.8** 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11 / 风格：朋克舞曲 车库摇滚
-* **NO.9** Electric Youth / [Modern Fears](http://music.163.com/song?id=1822249117&userid=477097094) / 专辑：Come True / 2021.3 / 风格：合成器浪潮
 
 # 游戏配乐推荐（不局限华语地区）
 * MushREB / [Main Menu](http://music.163.com/song?id=1353455267&userid=477097094) / 专辑：Ballex Original Sound Track / 2019.3
 * Laura Shigihara / [Graze the Roof](http://music.163.com/song?id=3019698&userid=477097094) / 专辑：Plants Vs. Zombies (Original Video Game Soundtrack) / 2010.11
 * Frank Klepacki / [Hell March 3](http://music.163.com/song?id=5042952&userid=477097094) / 专辑：Command & Conquer: Red Alert 3 Premier Edition Music Disc / 2008.10
-* 田志仁Christopher Tin / [Baba Yetu](http://music.163.com/song?id=5048953&userid=477097094) / 专辑：Civilization IV Official Soundtrack / 2005.5
+* 田志仁Christopher Tin / [Baba Yetu](http://music.163.com/song?id=5048953&userid=477097094) / 专辑：Civilization IV Official Soundtrack / 2005.5 -->
 
 # 联系我
 李想 Xiang Li

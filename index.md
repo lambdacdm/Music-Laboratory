@@ -138,6 +138,7 @@
 * 白皮书乐队 / [Falling](http://music.163.com/song?id=1323304515&userid=477097094) / 专辑：我不高兴 / 2018.11
 * 孙盛希 / [红苹果](http://music.163.com/song?id=1323302841&userid=477097094) / 专辑：希游记 / 2018.10
 * 曾轶可 / [I Need Love](http://music.163.com/song?id=862100069&userid=477097094) / 专辑：Anti ! Yico / 2018.6
+* 野外合作社 / [诚实假日酒店](http://music.163.com/song?id=565890722&userid=477097094) / 专辑：台风 / 2018.5
 
 外部链接：
 * [第30届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC30%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)

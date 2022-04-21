@@ -6,10 +6,10 @@
 * [百变T台秀](http://music.163.com/dj?id=2496534801&userid=477097094) / 2022.1 / 风格：布鲁斯 放克 摇滚
 
 # 我个人最喜欢的音乐（不局限华语地区）
-* **NO.1** 椎名林檎 / [丸の内サディスティック](http://music.163.com/song?id=642776&userid=477097094) / 专辑：無罪モラトリアム / 1999.2 / 风格：另类摇滚 流行摇滚
-* **NO.2** Radiohead / [Paranoid Android](http://music.163.com/song?id=22497471&userid=477097094) / 专辑：OK Computer / 1997.5 / 风格：另类摇滚 艺术摇滚
-* **NO.3** King Crimson / [21st Century Schizoid Man](http://music.163.com/song?id=4143634&userid=477097094) / 专辑：In The Court Of The Crimson King / 1969.10 / 风格：前卫摇滚 艺术摇滚
-* **NO.4** 表情银行 / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚
+* **NO.1** 表情银行 / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚
+* **NO.2** 椎名林檎 / [丸の内サディスティック](http://music.163.com/song?id=642776&userid=477097094) / 专辑：無罪モラトリアム / 1999.2 / 风格：另类摇滚 流行摇滚
+* **NO.3** Radiohead / [Paranoid Android](http://music.163.com/song?id=22497471&userid=477097094) / 专辑：OK Computer / 1997.5 / 风格：另类摇滚 艺术摇滚
+* **NO.4** King Crimson / [21st Century Schizoid Man](http://music.163.com/song?id=4143634&userid=477097094) / 专辑：In The Court Of The Crimson King / 1969.10 / 风格：前卫摇滚 艺术摇滚
 * **NO.5** 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11 / 风格：前卫摇滚 艺术摇滚
 * **NO.6** Fiona Apple / [Criminal](http://music.163.com/song?id=17823131&userid=477097094) / 专辑：Tidal / 1996.5 / 风格：另类摇滚 钢琴摇滚
 * **NO.7** Yeah Yeah Yeahs / [Date With The Night](http://music.163.com/song?id=20787532&userid=477097094) / 专辑：Fever To Tell / 2003.4 / 风格：车库摇滚复兴 独立摇滚

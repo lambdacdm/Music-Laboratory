@@ -14,8 +14,9 @@
 * **NO.6** Fiona Apple / [Criminal](http://music.163.com/song?id=17823131&userid=477097094) / 专辑：Tidal / 1996.5 / 风格：另类摇滚 钢琴摇滚
 * **NO.7** Yeah Yeah Yeahs / [Date With The Night](http://music.163.com/song?id=20787532&userid=477097094) / 专辑：Fever To Tell / 2003.4 / 风格：车库摇滚复兴 独立摇滚
 * **NO.8** 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11 / 风格：朋克舞曲 车库摇滚复兴
-* **NO.9** Electric Youth / [Modern Fears](http://music.163.com/song?id=1822249117&userid=477097094) / 专辑：Come True / 2021.3 / 风格：合成器浪潮
-* **NO.10** Franz Ferdinand / [This Fire](http://music.163.com/song?id=17897160&userid=477097094) / 专辑：Franz Ferdinand / 2004.2 / 风格：后朋复兴 独立摇滚
+* **NO.9** Franz Ferdinand / [This Fire](http://music.163.com/song?id=17897160&userid=477097094) / 专辑：Franz Ferdinand / 2004.2 / 风格：后朋复兴 独立摇滚
+* **NO.10** Nirvana / [Smells Like Teen Spirit](http://music.163.com/song?id=21303923&userid=477097094) / 专辑：Nevermind / 1991.9 / 风格：垃圾摇滚 另类摇滚
+* **NO.11** Electric Youth / [Modern Fears](http://music.163.com/song?id=1822249117&userid=477097094) / 专辑：Come True / 2021.3 / 风格：合成器浪潮
 
 # 我个人最喜欢的华语音乐
 * **NO.1** 表情银行 / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚

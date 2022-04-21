@@ -30,10 +30,11 @@
 * **NO.10** 王菲 / [光之翼](http://music.163.com/song?id=299508&userid=477097094) / 专辑：王菲 / 2001.10 / 风格：另类摇滚
 
 # 2022 华语音乐推荐
+* 叶颖 / [吹眠](http://music.163.com/song?id=1935605916&userid=477097094) / 单曲：吹眠 / 2022.4
 * 白皮书乐队 / [乌合之众](http://music.163.com/song?id=1930204689&userid=477097094) / 专辑：20世纪的幻想  / 2022.3
 * 陈珊妮 / [捆缚](http://music.163.com/song?id=1929041869&userid=477097094) / 单曲：捆缚 / 2022.3
 * 绝对纯洁(Absolute Purity) / [绝对纯洁](http://music.163.com/song?id=1924224270&userid=477097094) / 专辑：We Fought Over The Moon / 2022.3
-* 朱婧汐Akini Jing, Chace / 祝福 Blessing / 单曲：祝福 Blessing / 2022.1
+<!-- * 朱婧汐Akini Jing, Chace / 祝福 Blessing / 单曲：祝福 Blessing / 2022.1 -->
 <!-- * 東京茶 / [丢海](http://music.163.com/song?id=1915572261&userid=477097094) / 专辑：在山的那边 / 2022.2 -->
 <!-- * 鬼否 / [超真实生态瓶](http://music.163.com/song?id=1919214172&userid=477097094) / 单曲：超真实生态瓶 / 2022.2 -->
 <!-- * VH (Vast & Hazy) / [全员病态就没人算怪胎](http://music.163.com/song?id=1907752577&userid=477097094) / 专辑：文明 / 2022.1 -->
@@ -42,6 +43,7 @@
 * 原子邦妮 / [香草天空](https://music.163.com/song?id=1907220844&userid=477097094) / 专辑：如果我有勇气失去你 / 2021.12
 * 詹雯婷 / [咏爱](http://music.163.com/song?id=1907443033&userid=477097094) / 专辑：Faye詹雯婷 在云彩上跳舞 叽叽喳喳 / 2021.12
 * 李权哲 / 今晚有空吗？ / 专辑：爱情一阵风 / 2021.12
+* 朱婧汐 / 不想当阿龙 / 单曲：不想当阿龙 / 2021.12
 * 海妖Sea-Maiden / [她](http://music.163.com/song?id=1852326661&userid=477097094) / 专辑：Sweet Waves / 2021.12
 * 9m88 / [Eyes](http://music.163.com/song?id=1892438343&userid=477097094) / 专辑：This Temporary Ensemble / 2021.11
 * 艾怡良 / [以灰之名](http://music.163.com/song?id=1890449485&userid=477097094) / 专辑：偏偏我却都记得 / 2021.10

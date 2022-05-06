@@ -124,6 +124,7 @@
 * 音速行星 / [洪流](http://music.163.com/song?id=1376831978&userid=477097094) / 专辑：时间旅行有限公司 / 2019.7
 * 鬼否 / [拓麻歌子](http://music.163.com/song?id=1321382024&userid=477097094) / 专辑：通用计算 / 2019.5
 * 余佩真 / 昏你 / 专辑：真 真 / 2019.4
+* 缓缓 / [Charlie](http://music.163.com/song?id=1352801907&userid=477097094) / 专辑：Charlie / 2019.3
 * 布朗尼 / [Julie (朱莉)](http://music.163.com/song?id=1352818588&userid=477097094) / 专辑：Julie / 2019.3
 
 外部链接：

@@ -33,6 +33,7 @@
 
 # 2022 华语音乐推荐
 * 叶颖 / [吹眠](http://music.163.com/song?id=1935605916&userid=477097094) / 单曲：吹眠 / 2022.4
+* 法兹乐队FAZI / [带上我的眼睛](http://music.163.com/song?id=1929356871&userid=477097094) / 专辑：折叠故事 / 2022.3
 * 白皮书乐队 / [乌合之众](http://music.163.com/song?id=1930204689&userid=477097094) / 专辑：20世纪的幻想  / 2022.3
 * 陈珊妮 / [捆缚](http://music.163.com/song?id=1929041869&userid=477097094) / 单曲：捆缚 / 2022.3
 * 绝对纯洁(Absolute Purity) / [绝对纯洁](http://music.163.com/song?id=1924224270&userid=477097094) / 专辑：We Fought Over The Moon / 2022.3

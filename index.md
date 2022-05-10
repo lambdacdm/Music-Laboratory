@@ -7,8 +7,8 @@
 
 # 我个人最喜欢的音乐（不局限华语地区）
 * **NO.1** 表情银行 / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚
-* **NO.2** 椎名林檎 / [丸の内サディスティック](http://music.163.com/song?id=642776&userid=477097094) / 专辑：無罪モラトリアム / 1999.2 / 风格：另类摇滚 流行摇滚
-* **NO.3** Radiohead / [Paranoid Android](http://music.163.com/song?id=22497471&userid=477097094) / 专辑：OK Computer / 1997.5 / 风格：另类摇滚 艺术摇滚
+* **NO.2** Radiohead / [Paranoid Android](http://music.163.com/song?id=22497471&userid=477097094) / 专辑：OK Computer / 1997.5 / 风格：另类摇滚 艺术摇滚
+* **NO.3** 椎名林檎 / [丸の内サディスティック](http://music.163.com/song?id=642776&userid=477097094) / 专辑：無罪モラトリアム / 1999.2 / 风格：另类摇滚 流行摇滚
 * **NO.4** King Crimson / [21st Century Schizoid Man](http://music.163.com/song?id=4143634&userid=477097094) / 专辑：In The Court Of The Crimson King / 1969.10 / 风格：前卫摇滚 艺术摇滚
 * **NO.5** 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11 / 风格：前卫摇滚 艺术摇滚
 * **NO.6** Fiona Apple / [Criminal](http://music.163.com/song?id=17823131&userid=477097094) / 专辑：Tidal / 1996.5 / 风格：另类摇滚 钢琴摇滚
@@ -32,11 +32,12 @@
 * **NO.11** 郭顶 / [凄美地](http://music.163.com/song?id=436346833&userid=477097094) / 专辑：飞行器的执行周期 / 2016.11 / 风格：另类摇滚
 
 # 2022 华语音乐推荐
+* 陈珊妮 / [罪美](http://music.163.com/song?id=1944661447&userid=477097094) / 单曲：罪美 / 2022.5
 * 叶颖 / [吹眠](http://music.163.com/song?id=1935605916&userid=477097094) / 单曲：吹眠 / 2022.4
 * 法兹乐队FAZI / [带上我的眼睛](http://music.163.com/song?id=1929356871&userid=477097094) / 专辑：折叠故事 / 2022.3
 * 白皮书乐队 / [乌合之众](http://music.163.com/song?id=1930204689&userid=477097094) / 专辑：20世纪的幻想  / 2022.3
-* 陈珊妮 / [捆缚](http://music.163.com/song?id=1929041869&userid=477097094) / 单曲：捆缚 / 2022.3
 * 绝对纯洁(Absolute Purity) / [绝对纯洁](http://music.163.com/song?id=1924224270&userid=477097094) / 专辑：We Fought Over The Moon / 2022.3
+<!-- * 陈珊妮 / [捆缚](http://music.163.com/song?id=1929041869&userid=477097094) / 单曲：捆缚 / 2022.3 -->
 <!-- * 朱婧汐Akini Jing, Chace / 祝福 Blessing / 单曲：祝福 Blessing / 2022.1 -->
 <!-- * 東京茶 / [丢海](http://music.163.com/song?id=1915572261&userid=477097094) / 专辑：在山的那边 / 2022.2 -->
 <!-- * 鬼否 / [超真实生态瓶](http://music.163.com/song?id=1919214172&userid=477097094) / 单曲：超真实生态瓶 / 2022.2 -->

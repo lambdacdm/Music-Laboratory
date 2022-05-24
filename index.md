@@ -51,6 +51,7 @@
 * 海妖Sea-Maiden / [她](http://music.163.com/song?id=1852326661&userid=477097094) / 专辑：Sweet Waves / 2021.12
 * 9m88 / [Eyes](http://music.163.com/song?id=1892438343&userid=477097094) / 专辑：This Temporary Ensemble / 2021.11
 * 艾怡良 / [以灰之名](http://music.163.com/song?id=1890449485&userid=477097094) / 专辑：偏偏我却都记得 / 2021.10
+* Everfor / [空中閣樓](http://music.163.com/song?id=1891990784&userid=477097094) / 专辑：空中阁楼 / 2021.10
 * 曾轶可 / [艳遇](http://music.163.com/song?id=1887047662&userid=477097094) / 专辑：Burning / 2021.10
 * I Mean Us / [24 Years Old of You](http://music.163.com/song?id=1885176333&userid=477097094) / 专辑：Into Innerverse / 2021.10
 * 鱼丁糸 / [我就奇怪](http://music.163.com/song?id=1877739997&userid=477097094) / 专辑：池堂怪谈 / 2021.9
@@ -60,11 +61,11 @@
 * 魏如萱 / [变形金刚](http://music.163.com/song?id=1855414338&userid=477097094) / 专辑：HAVE A NICE DAY / 2021.6
 * 潘高峰 / [霹雳](http://music.163.com/song?id=1855434855&userid=477097094) / 专辑：霹雳 / 2021.6
 * 9m88, DJ MITSU THE BEATS / [Tell Me](http://music.163.com/song?id=1849021246&userid=477097094) / 单曲：Tell Me / 2021.6
-* 许嵩 / [超市](http://music.163.com/song?id=1842802179&userid=477097094) / 专辑：呼吸之野 / 2021.5
 * 脏手指Oh! Dirty Fingers / [Mazel Tov](http://music.163.com/song?id=1837817428&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4
 * 祁紫檀 / [生命从无法被概括](http://music.163.com/song?id=1821481546&userid=477097094) / 单曲：生命从无法被概括 / 2021.3
 * 福禄寿FloruitShow / [超度我](http://music.163.com/song?id=1818820552&userid=477097094) / 专辑：我用什么把你留住 / 2021.2
 * 刘柏辛Lexie / [SHADOW](http://music.163.com/song?id=1821292148&userid=477097094) / 专辑：上线了 GONE GOLD / 2021.1
+<!-- * 许嵩 / [超市](http://music.163.com/song?id=1842802179&userid=477097094) / 专辑：呼吸之野 / 2021.5 -->
 <!-- * 许钧 / [美梦公司](https://music.163.com/song?id=1887031458&userid=477097094) / 专辑：美梦公司 / 2021.10 -->
 <!-- * 李雨 / [蝇](http://music.163.com/song?id=1867935875&userid=477097094) / 专辑：造化 / 2021.8 -->
 

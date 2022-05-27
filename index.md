@@ -154,6 +154,7 @@
 * 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10
 * 潘高峰 / [节奏爱](http://music.163.com/song?id=512296105&userid=477097094) / 专辑：灵魂城市 / 2017.10
 * 黑麒 / [金陵祭壹之大曲](http://music.163.com/song?id=1407818241&userid=477097094) / 专辑：金陵祭 / 2017.9
+* 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9
 
 外部链接：
 * [第29届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC29%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)

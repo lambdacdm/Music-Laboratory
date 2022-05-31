@@ -196,6 +196,7 @@
 
 # 2010以前 华语音乐推荐
 * 汪峰 / 名利场 / 专辑：信仰在空中飘扬 / 2009.7
+* Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1
 * 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11
 * 龚琳娜 / [忐忑](http://music.163.com/song?id=236690&userid=477097094) / 专辑：静夜思 / 2006.12
 * 周杰伦, 潘儿 / 夜的第七章 / 专辑：依然范特西 / 2006.9

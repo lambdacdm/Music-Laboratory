@@ -8,7 +8,7 @@
 * [蓝洞II 幻象 (demo)](http://music.163.com/dj?id=2505828172&userid=477097094) / 2022.6 / 风格：车库摇滚
 
 # 我个人最喜欢的音乐（不局限华语地区）
-* **NO.1** 表情银行 / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚
+* **NO.1** 表情银行 / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚 艺术摇滚
 * **NO.2** Radiohead / [Paranoid Android](http://music.163.com/song?id=22497471&userid=477097094) / 专辑：OK Computer / 1997.5 / 风格：另类摇滚 艺术摇滚
 * **NO.3** 椎名林檎 / [丸の内サディスティック](http://music.163.com/song?id=642776&userid=477097094) / 专辑：無罪モラトリアム / 1999.2 / 风格：另类摇滚 流行摇滚
 * **NO.4** King Crimson / [21st Century Schizoid Man](http://music.163.com/song?id=4143634&userid=477097094) / 专辑：In The Court Of The Crimson King / 1969.10 / 风格：前卫摇滚 艺术摇滚
@@ -21,7 +21,7 @@
 * **NO.11** Electric Youth / [Modern Fears](http://music.163.com/song?id=1822249117&userid=477097094) / 专辑：Come True / 2021.3 / 风格：合成器浪潮
 
 # 我个人最喜欢的华语音乐
-* **NO.1** 表情银行 / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚
+* **NO.1** 表情银行 / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚 艺术摇滚
 * **NO.2** 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11 / 风格：前卫摇滚 艺术摇滚
 * **NO.3** 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11 / 风格：朋克舞曲 车库摇滚复兴
 * **NO.4** 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10 / 风格：融合爵士 前卫摇滚
@@ -196,6 +196,7 @@
 * 张悬 / 玫瑰色的你 / 专辑：神的游戏 / 2012.8
 * G.E.M.邓紫棋 / [潜意式的残酷](http://music.163.com/song?id=233932&userid=477097094) / 专辑：Xposed / 2012.7
 * 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11
+* 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10
 * 周杰伦 / 免费教学录影带 / 专辑：跨时代 / 2010.5
 
 # 2010以前 华语音乐推荐

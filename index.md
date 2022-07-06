@@ -198,7 +198,7 @@
 * 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11
 * 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10
 * 周杰伦 / 免费教学录影带 / 专辑：跨时代 / 2010.5
-* Bei Bei, Shawn Lee / [The Master Room](http://music.163.com/song?id=3970016&userid=477097094) / 专辑：Into the Wind / 2010.1
+* Bei Bei, Shawn Lee / [Hot Thursday](http://music.163.com/song?id=3969985&userid=477097094) / 专辑：Into the Wind / 2010.1
 
 # 2010以前 华语音乐推荐
 * 汪峰 / 名利场 / 专辑：信仰在空中飘扬 / 2009.7

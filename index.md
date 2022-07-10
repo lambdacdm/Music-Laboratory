@@ -36,8 +36,8 @@
 # 2022 华语音乐推荐
 * 9m88, DJ MITSU THE BEATS / Tell Me / 专辑： 9m88 Radio / 2022.8
 * 周杰伦 / Mojito / 专辑：最伟大的作品 / 2022.7
-* 陈珊妮 / [罪美](http://music.163.com/song?id=1948826157&userid=477097094) / 专辑：调教 / 2022.5
 * 叶颖 / [吹眠](http://music.163.com/song?id=1947086457&userid=477097094) / 专辑：活得像自己的名字 / 2022.5
+* 陈珊妮 / [罪美](http://music.163.com/song?id=1948826157&userid=477097094) / 专辑：调教 / 2022.5
 * Deep Water / [Plague Me With Your Love](http://music.163.com/song?id=1930453738&userid=477097094) / 专辑：DEEP WATER / 2022.3 
 * 法兹乐队FAZI / [热死荒梁](http://music.163.com/song?id=1929356873&userid=477097094) / 专辑：折叠故事 / 2022.3
 * 白皮书乐队 / [乌合之众](http://music.163.com/song?id=1930204689&userid=477097094) / 专辑：20世纪的幻想  / 2022.3

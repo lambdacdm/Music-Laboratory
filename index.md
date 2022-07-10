@@ -34,6 +34,7 @@
 * **NO.11** 郭顶 / [凄美地](http://music.163.com/song?id=436346833&userid=477097094) / 专辑：飞行器的执行周期 / 2016.11 / 风格：另类摇滚
 
 # 2022 华语音乐推荐
+* 9m88, DJ MITSU THE BEATS / [Tell Me](http://music.163.com/song?id=1849021246&userid=477097094) / 专辑： 9m88 Radio / 2022.8
 * 周杰伦 / Mojito / 专辑：最伟大的作品 / 2022.7
 * 陈珊妮 / [罪美](http://music.163.com/song?id=1948826157&userid=477097094) / 专辑：调教 / 2022.5
 * 叶颖 / [吹眠](http://music.163.com/song?id=1942433734&userid=477097094) / 专辑：活得像自己的名字 入境之前 / 2022.5
@@ -65,7 +66,6 @@
 * 郭采洁 / [NaKuNa](https://music.163.com/song?id=1857303974&userid=477097094) / 专辑：Vol.13-1986数羊 / 2021.7
 * 魏如萱 / [变形金刚](http://music.163.com/song?id=1855414338&userid=477097094) / 专辑：HAVE A NICE DAY / 2021.6
 * 潘高峰 / [霹雳](http://music.163.com/song?id=1855434855&userid=477097094) / 专辑：霹雳 / 2021.6
-* 9m88, DJ MITSU THE BEATS / [Tell Me](http://music.163.com/song?id=1849021246&userid=477097094) / 单曲：Tell Me / 2021.6
 * 脏手指Oh! Dirty Fingers / [Mazel Tov](http://music.163.com/song?id=1837817428&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4
 * 祁紫檀 / [生命从无法被概括](http://music.163.com/song?id=1821481546&userid=477097094) / 单曲：生命从无法被概括 / 2021.3
 * 福禄寿FloruitShow / [超度我](http://music.163.com/song?id=1818820552&userid=477097094) / 专辑：我用什么把你留住 / 2021.2

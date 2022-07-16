@@ -8,7 +8,7 @@
 * [蓝洞II 幻象 (demo)](http://music.163.com/dj?id=2505828172&userid=477097094) / 2022.6 / 风格：车库摇滚
 
 # 我个人最喜欢的音乐（不局限华语地区）
-* **NO.1** 表情银行 / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚 艺术摇滚
+* **NO.1** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚 艺术摇滚
 * **NO.2** Radiohead / [Paranoid Android](http://music.163.com/song?id=22497471&userid=477097094) / 专辑：OK Computer / 1997.5 / 风格：另类摇滚 艺术摇滚
 * **NO.3** 椎名林檎 / [丸の内サディスティック](http://music.163.com/song?id=642776&userid=477097094) / 专辑：無罪モラトリアム / 1999.2 / 风格：另类摇滚 流行摇滚
 * **NO.4** King Crimson / [21st Century Schizoid Man](http://music.163.com/song?id=4143634&userid=477097094) / 专辑：In The Court Of The Crimson King / 1969.10 / 风格：前卫摇滚 艺术摇滚
@@ -21,7 +21,7 @@
 * **NO.11** Electric Youth / [Modern Fears](http://music.163.com/song?id=1822249117&userid=477097094) / 专辑：Come True / 2021.3 / 风格：合成器浪潮
 
 # 我个人最喜欢的华语音乐
-* **NO.1** 表情银行 / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚 艺术摇滚
+* **NO.1** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚 艺术摇滚
 * **NO.2** 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11 / 风格：前卫摇滚 艺术摇滚
 * **NO.3** 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11 / 风格：朋克舞曲 车库摇滚复兴
 * **NO.4** 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10 / 风格：融合爵士 前卫摇滚
@@ -36,7 +36,7 @@
 # 2022 华语音乐推荐
 * 9m88, DJ MITSU THE BEATS / Tell Me / 专辑： 9m88 Radio / 2022.8
 * 周杰伦 / Mojito / 专辑：最伟大的作品 / 2022.7
-* 表情银行 / [三头狗 (Cerberus)](http://music.163.com/song?id=1958971863&userid=477097094) / 专辑：狗日子 (Dog Days) / 2022.6
+* 表情银行MimikBanka / [三头狗 (Cerberus)](http://music.163.com/song?id=1958971863&userid=477097094) / 专辑：狗日子 (Dog Days) / 2022.6
 * 叶颖 / [吹眠](http://music.163.com/song?id=1947086457&userid=477097094) / 专辑：活得像自己的名字 / 2022.5
 * 陈珊妮 / [罪美](http://music.163.com/song?id=1948826157&userid=477097094) / 专辑：调教 / 2022.5
 * Deep Water / [Plague Me With Your Love](http://music.163.com/song?id=1930453738&userid=477097094) / 专辑：DEEP WATER / 2022.3 
@@ -186,7 +186,7 @@
 * 蔡健雅 / [偷窥秀](http://music.163.com/song?id=36664207&userid=477097094) / 专辑：失语者 / 2015.11
 * 苏打绿 / 他举起右手点名 / 专辑：冬 未了 / 2015.11
 * 许哲珮 / [邮轮上的神秘女子](http://music.163.com/song?id=34770220&userid=477097094) / 专辑：摇摆电力公司 / 2015.9
-* 表情银行 / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7
+* 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7
 * 霍尊 / 卷珠帘 / 专辑：天韵·霍尊 / 2015.5
 * 张惠妹 / [母系社会](http://music.163.com/song?id=31311126&userid=477097094) / 专辑：阿密特2 / 2015.4
 * 蔡依林 / [Play我呸](http://music.163.com/song?id=29572738&userid=477097094) / 专辑：呸 / 2014.11

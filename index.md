@@ -73,6 +73,7 @@
 * 祁紫檀 / [生命从无法被概括](http://music.163.com/song?id=1821481546&userid=477097094) / 单曲：生命从无法被概括 / 2021.3
 * 福禄寿FloruitShow / [超度我](http://music.163.com/song?id=1818820552&userid=477097094) / 专辑：我用什么把你留住 / 2021.2
 * 刘柏辛Lexie / [SHADOW](http://music.163.com/song?id=1821292148&userid=477097094) / 专辑：上线了 GONE GOLD / 2021.1
+* 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1
 <!-- * 詹雯婷 / [咏爱](http://music.163.com/song?id=1907443033&userid=477097094) / 专辑：Faye詹雯婷 在云彩上跳舞 叽叽喳喳 / 2021.12 -->
 <!-- * 许嵩 / [超市](http://music.163.com/song?id=1842802179&userid=477097094) / 专辑：呼吸之野 / 2021.5 -->
 <!-- * 许钧 / [美梦公司](https://music.163.com/song?id=1887031458&userid=477097094) / 专辑：美梦公司 / 2021.10 -->

@@ -5,7 +5,7 @@
 * [庞加莱回归](https://music.163.com/dj?id=2065237607&userid=477097094) / 2020.2 / 风格：轻音乐 民谣流行 
 * [百变T台秀](http://music.163.com/dj?id=2496534801&userid=477097094) / 2022.1 / 风格：另类摇滚
 * [蓝洞I 下潜](http://music.163.com/dj?id=2505823206&userid=477097094) / 2022.6 / 风格：氛围音乐 艺术流行
-* [蓝洞II 幻象 (demo)](http://music.163.com/dj?id=2505828172&userid=477097094) / 2022.6 / 风格：车库摇滚
+* [蓝洞II 幻象 (demo)](http://music.163.com/dj?id=2505828172&userid=477097094) / 2022.6 / 风格：另类摇滚
 
 # 我个人最喜欢的音乐（不局限华语地区）
 * **NO.1** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚 艺术摇滚
@@ -35,7 +35,7 @@
 <!-- * **NO.11** 郭顶 / [凄美地](http://music.163.com/song?id=436346833&userid=477097094) / 专辑：飞行器的执行周期 / 2016.11 / 风格：另类摇滚 -->
 
 # 2022 华语音乐推荐
-* 9m88, DJ MITSU THE BEATS / Tell Me / 专辑： 9m88 Radio / 2022.8
+* 9m88, DJ MITSU THE BEATS / [Tell Me](http://music.163.com/song?id=1961720583&userid=477097094) / 专辑：9m88 Radio / 2022.8
 * 朱婧汐Akini Jing, Chace / 不想当阿龙 Don't Wanna Be Alone / 专辑：永无止境的告别 Endless Farewell / 2022.7
 * 周杰伦 / Mojito / 专辑：最伟大的作品 / 2022.7
 * 表情银行MimikBanka / [三头狗 (Cerberus)](http://music.163.com/song?id=1958971863&userid=477097094) / 专辑：狗日子 (Dog Days) / 2022.6

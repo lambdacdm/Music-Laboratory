@@ -36,6 +36,7 @@
 
 # 2022 华语音乐推荐
 * 9m88, DJ MITSU THE BEATS / [Tell Me](http://music.163.com/song?id=1961720583&userid=477097094) / 专辑：9m88 Radio / 2022.8
+* 宫阁 / [人间会一如平常](http://music.163.com/song?id=1499175682&userid=477097094) / 专辑：幻日年代 / 2022.8
 * 朱婧汐Akini Jing, Chace / 不想当阿龙 Don't Wanna Be Alone / 专辑：永无止境的告别 Endless Farewell / 2022.7
 * 周杰伦 / Mojito / 专辑：最伟大的作品 / 2022.7
 * 表情银行MimikBanka / [三头狗 (Cerberus)](http://music.163.com/song?id=1958971863&userid=477097094) / 专辑：狗日子 (Dog Days) / 2022.6

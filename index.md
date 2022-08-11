@@ -44,6 +44,7 @@
 * 卧轨的火车(Railway Suicide Train) / [真爱挽歌 (True Love Story)](http://music.163.com/song?id=1954980768&userid=477097094) / 专辑：一些次要的时刻 / 2022.6
 * 叶颖 / [吹眠](http://music.163.com/song?id=1947086457&userid=477097094) / 专辑：活得像自己的名字 / 2022.5
 * 陈珊妮 / [罪美](http://music.163.com/song?id=1948826157&userid=477097094) / 专辑：调教 / 2022.5
+* 大象体操, 九天民俗技艺团 / [众神的派对(feat. 九天民俗技艺团)](http://music.163.com/song?id=1946177368&userid=477097094) / 专辑：梦境 / 2022.5
 * Deep Water / [Plague Me With Your Love](http://music.163.com/song?id=1930453738&userid=477097094) / 专辑：DEEP WATER / 2022.3 
 * 法兹乐队FAZI / [热死荒梁](http://music.163.com/song?id=1929356873&userid=477097094) / 专辑：折叠故事 / 2022.3
 * 白皮书乐队 / [乌合之众](http://music.163.com/song?id=1930204689&userid=477097094) / 专辑：20世纪的幻想  / 2022.3

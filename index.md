@@ -36,7 +36,6 @@
 
 # 2022 华语音乐推荐
 * 9m88, DJ MITSU THE BEATS / [Tell Me](http://music.163.com/song?id=1961720583&userid=477097094) / 专辑：9m88 Radio / 2022.8
-* 宫阁 / [人间会一如平常](http://music.163.com/song?id=1499175682&userid=477097094) / 专辑：幻日年代 / 2022.8
 * 朱婧汐Akini Jing, Chace / 不想当阿龙 Don't Wanna Be Alone / 专辑：永无止境的告别 Endless Farewell / 2022.7
 * 周杰伦 / Mojito / 专辑：最伟大的作品 / 2022.7
 * 表情银行MimikBanka / [三头狗 (Cerberus)](http://music.163.com/song?id=1958971863&userid=477097094) / 专辑：狗日子 (Dog Days) / 2022.6
@@ -50,9 +49,7 @@
 * 白皮书乐队 / [乌合之众](http://music.163.com/song?id=1930204689&userid=477097094) / 专辑：20世纪的幻想  / 2022.3
 * 绝对纯洁(Absolute Purity) / [绝对纯洁](http://music.163.com/song?id=1924224270&userid=477097094) / 专辑：We Fought Over The Moon / 2022.3
 * 東京茶 / [丢海](http://music.163.com/song?id=1915572261&userid=477097094) / 专辑：在山的那边 / 2022.2
-<!-- * 陈珊妮 / [捆缚](http://music.163.com/song?id=1929041869&userid=477097094) / 单曲：捆缚 / 2022.3 -->
-<!-- * 朱婧汐Akini Jing, Chace / 祝福 Blessing / 单曲：祝福 Blessing / 2022.1 -->
-<!-- * 東京茶 / [丢海](http://music.163.com/song?id=1915572261&userid=477097094) / 专辑：在山的那边 / 2022.2 -->
+<!-- * 宫阁 / [人间会一如平常](http://music.163.com/song?id=1499175682&userid=477097094) / 专辑：幻日年代 / 2022.8 -->
 <!-- * 鬼否 / [超真实生态瓶](http://music.163.com/song?id=1919214172&userid=477097094) / 单曲：超真实生态瓶 / 2022.2 -->
 <!-- * VH (Vast & Hazy) / [全员病态就没人算怪胎](http://music.163.com/song?id=1907752577&userid=477097094) / 专辑：文明 / 2022.1 -->
 
@@ -198,6 +195,7 @@
 * 蔡依林 / [Play我呸](http://music.163.com/song?id=29572738&userid=477097094) / 专辑：呸 / 2014.11
 * 腰乐队 / [暑夜](http://music.163.com/song?id=28768110&userid=477097094) / 专辑：相见恨晚 / 2014.7
 * 皇后皮箱 / [人间惆怅客](http://music.163.com/song?id=29592146&userid=477097094) / 专辑：超時空歌女的快活 / 2014.7
+* 野外合作社 / [Mind the Gap](http://music.163.com/song?id=29740159&userid=477097094) / 专辑：野外合作社 / 2013.9
 * 二手玫瑰 / [仙儿](http://music.163.com/song?id=27501008&userid=477097094) / 专辑：一枝独秀 / 2013.7
 * 王若琳 / [Galaxy Crisis](http://music.163.com/song?id=25918343&userid=477097094) / 专辑：银河的危机: 最奇异的午夜转播 / 2013.3
 * 周杰伦 / 比较大的大提琴 / 专辑：十二新作 / 2012.12

@@ -70,6 +70,7 @@
 * 魏如萱 / [变形金刚](http://music.163.com/song?id=1855414338&userid=477097094) / 专辑：HAVE A NICE DAY / 2021.6
 * 潘高峰 / [霹雳](http://music.163.com/song?id=1855434855&userid=477097094) / 专辑：霹雳 / 2021.6
 * 脏手指Oh! Dirty Fingers / [Mazel Tov](http://music.163.com/song?id=1837817428&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4
+* 疯医 / [定国湖](http://music.163.com/song?id=1829726307&userid=477097094) / 专辑：愿我们在黑暗的另一边相见 / 2021.3
 * 祁紫檀 / [生命从无法被概括](http://music.163.com/song?id=1821481546&userid=477097094) / 单曲：生命从无法被概括 / 2021.3
 * 福禄寿FloruitShow / [超度我](http://music.163.com/song?id=1818820552&userid=477097094) / 专辑：我用什么把你留住 / 2021.2
 * 刘柏辛Lexie / [SHADOW](http://music.163.com/song?id=1821292148&userid=477097094) / 专辑：上线了 GONE GOLD / 2021.1
@@ -90,6 +91,7 @@
 * [耳帝 2021华语地区年度100首最佳歌曲](https://www.bilibili.com/video/BV1y44y1774p)
 
 # 2020 华语音乐推荐
+* 歪歪歪 / [一个人跳舞](http://music.163.com/song?id=1806567743&userid=477097094) / 专辑：不正 / 2020.12
 * 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12
 * 九连真人 / [莫欺少年穷](http://music.163.com/song?id=1493931568&userid=477097094) / 专辑：阿民 / 2020.12
 * 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12

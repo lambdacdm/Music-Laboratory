@@ -35,6 +35,7 @@
 <!-- * **NO.11** 郭顶 / [凄美地](http://music.163.com/song?id=436346833&userid=477097094) / 专辑：飞行器的执行周期 / 2016.11 / 风格：另类摇滚 -->
 
 # 2022 华语音乐推荐
+* G.E.M.邓紫棋 / [受难曲](http://music.163.com/song?id=1970559946&userid=477097094) / 专辑：启示录 / 2022.8
 * 9m88, DJ MITSU THE BEATS / [Tell Me](http://music.163.com/song?id=1961720583&userid=477097094) / 专辑：9m88 Radio / 2022.8
 * 朱婧汐Akini Jing, Chace / 不想当阿龙 Don't Wanna Be Alone / 专辑：永无止境的告别 Endless Farewell / 2022.7
 * 周杰伦 / Mojito / 专辑：最伟大的作品 / 2022.7

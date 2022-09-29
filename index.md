@@ -16,7 +16,7 @@
 * **NO.6** 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6 / 风格：前卫摇滚
 * **NO.7** 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9 / 风格：后朋克
 * **NO.8** 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10 / 风格：融合爵士 前卫摇滚
-* **NO.9** Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1 / 风格：车库摇滚
+* **NO.9** Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1 / 风格：后朋克 迷幻摇滚
 * **NO.10** Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9 / 风格：情绪摇滚
 
 <!-- * **NO.10** 陶喆 / [黑色柳丁](http://music.163.com/song?id=150552&userid=477097094) / 专辑：黑色柳丁 / 2002.6 / 风格：重金属  -->
@@ -229,10 +229,9 @@
 * 周杰伦 / 印第安老斑鸠 / 专辑：Jay / 2000.11
 * 范晓萱 / 我要我们在一起 / 专辑：我要我们在一起 / 1999.11
 * 王菲 / [感情生活](http://music.163.com/song?id=299901&userid=477097094) / 专辑：唱游 / 1998.10
-* 庾澄庆 / [炫](http://music.163.com/song?id=177362&userid=477097094) / 专辑：靠近 / 1995.6
+* 庾澄庆 / [让自己High](http://music.163.com/song?id=177358&userid=477097094) / 专辑：靠近 / 1995.6
 * 刘索拉 / 伯牙探奇 / 专辑：蓝调在东方 / 1994.5
 * 窦唯 / [高级动物](http://music.163.com/song?id=77470&userid=477097094) / 专辑：黑梦 / 1994.4
-* 罗大佑 / [错误](http://music.163.com/song?id=109532&userid=477097094) / 专辑：之乎者也 / 1982.4
 
 <!-- *
 # 二次元音乐推荐

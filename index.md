@@ -14,11 +14,13 @@
 * **NO.4** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚
 * **NO.5** 惘闻 / [敢问路在何方](http://music.163.com/song?id=1481636180&userid=477097094) / 专辑：十万个为什么 / 2020.9 / 风格：后摇滚
 * **NO.6** 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6 / 风格：前卫摇滚
-* **NO.7** 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9 / 风格：后朋克
-* **NO.8** 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10 / 风格：融合爵士 前卫摇滚
-* **NO.9** Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1 / 风格：后朋克 迷幻摇滚
-* **NO.10** 野外合作社 / [诚实假日酒店](http://music.163.com/song?id=565890722&userid=477097094) / 专辑：台风 / 2018.5 / 风格：前卫摇滚
-* **NO.11** Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9 / 风格：情绪摇滚
+* **NO.7** 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10 / 风格：融合爵士 前卫摇滚
+* **NO.8** 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9 / 风格：后朋克
+* **NO.9** 假假條 / [黃鐘·太呂](http://music.163.com/song?id=1499797323&userid=477097094) / 专辑：法利勝神經 / 2020.11 / 风格：垃圾摇滚
+* **NO.10** Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1 / 风格：后朋克 迷幻摇滚
+* **NO.11** 野外合作社 / [诚实假日酒店](http://music.163.com/song?id=565890722&userid=477097094) / 专辑：台风 / 2018.5 / 风格：前卫摇滚
+* **NO.12** Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9 / 风格：情绪摇滚
+* **NO.13** 歪歪歪 / [一个人跳舞](http://music.163.com/song?id=1806567743&userid=477097094) / 专辑：不正 / 2020.12 / 风格：布鲁斯
 
 # 我个人最喜欢的华语主流音乐
 * **NO.1** 魏如萱 / [I Will Be Fine](http://music.163.com/song?id=442867303&userid=477097094) / 专辑：末路狂花 / 2016.11 / 风格：放克流行 独立流行
@@ -31,8 +33,9 @@
 * **NO.8** 孙盛希 / [红苹果](http://music.163.com/song?id=1323302841&userid=477097094) / 专辑：希游记 / 2018.10 / 风格：放克 另类摇滚
 * **NO.9** 艾怡良 / [夜晚出生的小孩](http://music.163.com/song?id=1334667449&userid=477097094) / 专辑：垂直活着，水平留恋着 / 2018.12 / 风格：流行
 * **NO.10** 张悬 / 玫瑰色的你 / 专辑：神的游戏 / 2012.8 / 风格：都市民谣 钢琴摇滚
-* **NO.11** 朱婧汐Akini Jing / Cure / 专辑：塑胶天堂 / 2020.9 / 风格：合成器流行
-* **NO.12** 方大同 / [很不低调](http://music.163.com/song?id=431853958&userid=477097094) / 专辑：JTW西游记 / 2016.9 / 风格：迪斯科
+* **NO.11** YELLOW黄宣 / [ROSE WAYNE](http://music.163.com/song?id=1485891496&userid=477097094) / 专辑：浮世击 / 2020.10 / 风格：融合爵士
+* **NO.12** 朱婧汐Akini Jing / Cure / 专辑：塑胶天堂 / 2020.9 / 风格：合成器流行
+* **NO.13** 方大同 / [很不低调](http://music.163.com/song?id=431853958&userid=477097094) / 专辑：JTW西游记 / 2016.9 / 风格：迪斯科
 <!-- * **NO.12** 郭顶 / [凄美地](http://music.163.com/song?id=436346833&userid=477097094) / 专辑：飞行器的执行周期 / 2016.11 / 风格：另类摇滚 -->
 <!-- * **NO.13** 王菲 / [光之翼](http://music.163.com/song?id=299508&userid=477097094) / 专辑：王菲 / 2001.10 / 风格：另类摇滚 -->
 
@@ -108,7 +111,7 @@
 * 许含光 / [LCL](http://music.163.com/song?id=1490932004&userid=477097094) / 专辑：从夜晚开始从夜晚结束 / 2020.10
 * 春面乐队ChuNoodle / 到底到了底到底 / 专辑：到底 / 2020.10
 * 缓缓 / [梦露](http://music.163.com/song?id=1483269514&userid=477097094) / 专辑：水可以去任何地方 / 2020.10
-* YELLOW黄宣, 范晓萱 / [独上C楼](https://music.163.com/song?id=1485891498&userid=477097094) / 专辑：浮世击 / 2020.10
+* YELLOW黄宣 / [ROSE WAYNE](http://music.163.com/song?id=1485891496&userid=477097094) / 专辑：浮世击 / 2020.10
 * 朱婧汐Akini Jing / Cure / 专辑：塑胶天堂 / 2020.9
 * 惘闻 / [敢问路在何方](http://music.163.com/song?id=1481636180&userid=477097094) / 专辑：十万个为什么 / 2020.9
 * 万芳 / [时间梯](http://music.163.com/song?id=1479797867&userid=477097094) / 专辑：给你们Dear All / 2020.9

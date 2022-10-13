@@ -41,6 +41,7 @@
 
 # 2022 华语音乐推荐
 * 吴青峰 / (......小小牧羊人) (feat. 微光古乐集) / 专辑：马拉美的星期二 / 2022.9
+* 肖骏, 窦靖童 / [Somberton](http://music.163.com/song?id=1983688959&userid=477097094) / 专辑：Atypical Airship / 2022.9
 * G.E.M.邓紫棋 / [受难曲](http://music.163.com/song?id=1970559946&userid=477097094) / 专辑：启示录 / 2022.9
 * 声音碎片 / [野火](https://music.163.com/song?id=1952018809&userid=477097094) / 专辑：有限身 无穷念 / 2022.8
 * 9m88, DJ MITSU THE BEATS / [Tell Me](http://music.163.com/song?id=1961720583&userid=477097094) / 专辑：9m88 Radio / 2022.8

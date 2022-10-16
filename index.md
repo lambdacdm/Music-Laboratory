@@ -7,6 +7,8 @@
 * [蓝洞I 下潜](http://music.163.com/dj?id=2505823206&userid=477097094) / 2022.6 / 风格：不好说这是什么风格
 * [蓝洞II 幻象 (demo)](http://music.163.com/dj?id=2505828172&userid=477097094) / 2022.6 / 风格：另类摇滚
 
+下述发行时间以豆瓣音乐为准。歌曲的风格界定参考rate your music.
+
 # 我个人最喜欢的华语独立音乐
 * **NO.1** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：独立摇滚 艺术摇滚
 * **NO.2** 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11 / 风格：前卫摇滚 艺术摇滚
@@ -227,6 +229,7 @@
 * 汪峰 / 名利场 / 专辑：信仰在空中飘扬 / 2009.7
 * Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1
 * 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11
+* 李剑鸿 / 三生石 / 单曲：三生石 / 2007.11
 * 龚琳娜 / [忐忑](http://music.163.com/song?id=236690&userid=477097094) / 专辑：静夜思 / 2006.12
 * 周杰伦, 潘儿 / 夜的第七章 / 专辑：依然范特西 / 2006.9
 * 张悬 / [Live酒馆300秒](http://music.163.com/song?id=326734&userid=477097094) / 专辑：my life will... / 2006.6

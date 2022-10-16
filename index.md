@@ -40,9 +40,9 @@
 * **NO.15** 方大同, Zion.T, Crush / [味道](http://music.163.com/song?id=431855965&userid=477097094) / 专辑：JTW西游记 / 2016.9 / 风格：节奏布鲁斯
 
 # 2022 华语音乐推荐
-* 吴青峰 / (......小小牧羊人) (feat. 微光古乐集) / 专辑：马拉美的星期二 / 2022.9
 * 肖骏, 窦靖童 / [Somberton](http://music.163.com/song?id=1983688959&userid=477097094) / 专辑：Atypical Airship / 2022.9
 * G.E.M.邓紫棋 / [受难曲](http://music.163.com/song?id=1970559946&userid=477097094) / 专辑：启示录 / 2022.9
+* 缓缓 / [拥挤的城市还开着灯](http://music.163.com/song?id=1968773303&userid=477097094) / 专辑：蓝色的房间橘色的人 / 2022.8
 * 声音碎片 / [野火](https://music.163.com/song?id=1952018809&userid=477097094) / 专辑：有限身 无穷念 / 2022.8
 * 9m88, DJ MITSU THE BEATS / [Tell Me](http://music.163.com/song?id=1961720583&userid=477097094) / 专辑：9m88 Radio / 2022.8
 * 朱婧汐Akini Jing, Chace / 不想当阿龙 Don't Wanna Be Alone / 专辑：永无止境的告别 Endless Farewell / 2022.7
@@ -58,6 +58,7 @@
 * 白皮书乐队 / [乌合之众](http://music.163.com/song?id=1930204689&userid=477097094) / 专辑：20世纪的幻想  / 2022.3
 * 绝对纯洁(Absolute Purity) / [绝对纯洁](http://music.163.com/song?id=1924224270&userid=477097094) / 专辑：We Fought Over The Moon / 2022.3
 * 東京茶 / [丢海](http://music.163.com/song?id=1915572261&userid=477097094) / 专辑：在山的那边 / 2022.2
+<!-- * 吴青峰 / (......小小牧羊人) (feat. 微光古乐集) / 专辑：马拉美的星期二 / 2022.9 -->
 <!-- * 宫阁 / [人间会一如平常](http://music.163.com/song?id=1499175682&userid=477097094) / 专辑：幻日年代 / 2022.8 -->
 <!-- * 鬼否 / [超真实生态瓶](http://music.163.com/song?id=1919214172&userid=477097094) / 单曲：超真实生态瓶 / 2022.2 -->
 <!-- * VH (Vast & Hazy) / [全员病态就没人算怪胎](http://music.163.com/song?id=1907752577&userid=477097094) / 专辑：文明 / 2022.1 -->

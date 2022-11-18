@@ -59,6 +59,7 @@
 * **NO.15** 方大同, Zion.T, Crush / [味道](http://music.163.com/song?id=431855965&userid=477097094) / 专辑：JTW西游记 / 2016.9 / 风格：节奏布鲁斯
 
 # 2022 华语音乐推荐
+* Sleeping Dogs / [Mongolian Beat](http://music.163.com/song?id=1985847772&userid=477097094) / 专辑：Blunt Razor / 2022.10
 * Codie / [Mobius](http://music.163.com/song?id=1983259657&userid=477097094) / 专辑：相对性静止 / 2022.9
 * 肖骏, 窦靖童 / [Somberton](http://music.163.com/song?id=1983688959&userid=477097094) / 专辑：Atypical Airship / 2022.9
 * G.E.M.邓紫棋 / [受难曲](http://music.163.com/song?id=1970559946&userid=477097094) / 专辑：启示录 / 2022.9

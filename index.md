@@ -101,7 +101,7 @@
 * 郭采洁 / [NaKuNa](https://music.163.com/song?id=1857303974&userid=477097094) / 专辑：Vol.13-1986数羊 / 2021.7
 * 魏如萱 / [变形金刚](http://music.163.com/song?id=1855414338&userid=477097094) / 专辑：HAVE A NICE DAY / 2021.6
 * 潘高峰 / [霹雳](http://music.163.com/song?id=1855434855&userid=477097094) / 专辑：霹雳 / 2021.6
-* 脏手指Oh! Dirty Fingers / [Mazel Tov](http://music.163.com/song?id=1837817428&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4
+* 脏手指Oh! Dirty Fingers / [比咏博](http://music.163.com/song?id=1837818274&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4
 * 疯医 / [定国湖](http://music.163.com/song?id=1829726307&userid=477097094) / 专辑：愿我们在黑暗的另一边相见 / 2021.3
 * 祁紫檀 / [生命从无法被概括](http://music.163.com/song?id=1821481546&userid=477097094) / 单曲：生命从无法被概括 / 2021.3
 * 福禄寿FloruitShow / [超度我](http://music.163.com/song?id=1818820552&userid=477097094) / 专辑：我用什么把你留住 / 2021.2
@@ -201,6 +201,7 @@
 * 潘高峰 / [节奏爱](http://music.163.com/song?id=512296105&userid=477097094) / 专辑：灵魂城市 / 2017.10
 * 黑麒 / [金陵祭壹之大曲](http://music.163.com/song?id=1407818241&userid=477097094) / 专辑：金陵祭 / 2017.9
 * 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9
+* 缺省 / [Moon Plate](http://music.163.com/song?id=466144632&userid=477097094) / 专辑：California Nebula / 2017.5
 
 外部链接：
 * [第29届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC29%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)

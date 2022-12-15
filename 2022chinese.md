@@ -78,6 +78,8 @@
 * 推荐曲目：《(......催眠大师)》《(......小小牧羊人)》
 
 # 2022 华语独立音乐 列表
+* 黄浩庭, DJ MR GIN / [魔浪薩克斯 (feat. DJ MR GIN)](http://music.163.com/song?id=1995441095&userid=477097094) / 专辑：万寿菊
+* 生祥乐队 / [议场猴话研究](http://music.163.com/song?id=1990760478&userid=477097094) / 专辑：江湖卡夫卡 / 2022.10
 * Sleeping Dogs / [Mongolian Beat](http://music.163.com/song?id=1985847772&userid=477097094) / 专辑：Blunt Razor / 2022.10
 * Codie / [Mobius](http://music.163.com/song?id=1983259657&userid=477097094) / 专辑：相对性静止 / 2022.9
 * 肖骏, 窦靖童 / [Somberton](http://music.163.com/song?id=1983688959&userid=477097094) / 专辑：Atypical Airship / 2022.9
@@ -93,6 +95,7 @@
 * 白皮书乐队 / [乌合之众](http://music.163.com/song?id=1930204689&userid=477097094) / 专辑：20世纪的幻想  / 2022.3
 * 绝对纯洁(Absolute Purity) / [绝对纯洁](http://music.163.com/song?id=1924224270&userid=477097094) / 专辑：We Fought Over The Moon / 2022.3
 * 東京茶 / [丢海](http://music.163.com/song?id=1915572261&userid=477097094) / 专辑：在山的那边 / 2022.2
+* 喜辰晨 / [催眠师 Hypnotist](http://music.163.com/song?id=1915558268&userid=477097094) / 专辑：欲言又止 Lost for Words / 2022.1
 <!-- * G.E.M.邓紫棋 / [受难曲](http://music.163.com/song?id=1970559946&userid=477097094) / 专辑：启示录 / 2022.9 -->
 <!-- * 9m88, DJ MITSU THE BEATS / [Tell Me](http://music.163.com/song?id=1961720583&userid=477097094) / 专辑：9m88 Radio / 2022.8 -->
 <!-- * 朱婧汐Akini Jing, Chace / 不想当阿龙 Don't Wanna Be Alone / 专辑：永无止境的告别 Endless Farewell / 2022.7 -->

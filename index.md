@@ -59,7 +59,7 @@
 * **NO.15** 方大同, Zion.T, Crush / [味道](http://music.163.com/song?id=431855965&userid=477097094) / 专辑：JTW西游记 / 2016.9 / 风格：节奏布鲁斯
 
 # 2022 华语音乐推荐
-见 [2022 华语音乐](https://lambdacdm.github.io/Music-Laboratory/2022chinese.html/)
+见 [2022 华语音乐推荐](https://lambdacdm.github.io/Music-Laboratory/2022chinese.html)
 
 # 2021 华语音乐推荐
 * 原子邦妮 / [香草天空](https://music.163.com/song?id=1907220844&userid=477097094) / 专辑：如果我有勇气失去你 / 2021.12

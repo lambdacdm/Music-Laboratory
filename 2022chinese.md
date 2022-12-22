@@ -129,7 +129,7 @@
 * 生祥乐队 / [议场猴话研究](http://music.163.com/song?id=1990760478&userid=477097094) / 专辑：江湖卡夫卡 / 2022.10
 ## 放克/迪斯科 funk/disco
 * 宫阁 / [人间会一如平常](http://music.163.com/song?id=1499175682&userid=477097094) / 专辑：幻日年代 / 2022.8
-## 电子 electroni
+## 电子 electronic
 * GUAN / [Another Howl Factory](http://music.163.com/song?id=1932558318&userid=477097094) / 专辑：The Immortal Tide / 2022.3
 
 <!-- * 声音碎片 / [野火](https://music.163.com/song?id=1952018809&userid=477097094) / 专辑：有限身 无穷念 / 2022.8 -->

@@ -99,24 +99,42 @@
 * 豆瓣：9.1 / rym：3.48
 
 # 2022 华语独立音乐 列表
-* 黄浩庭, DJ MR GIN / [魔浪薩克斯 (feat. DJ MR GIN)](http://music.163.com/song?id=1995441095&userid=477097094) / 专辑：万寿菊 / 2022.11
-* 生祥乐队 / [议场猴话研究](http://music.163.com/song?id=1990760478&userid=477097094) / 专辑：江湖卡夫卡 / 2022.10
-* Sleeping Dogs / [Mongolian Beat](http://music.163.com/song?id=1985847772&userid=477097094) / 专辑：Blunt Razor / 2022.10
-* Codie / [Mobius](http://music.163.com/song?id=1983259657&userid=477097094) / 专辑：相对性静止 / 2022.9
-* 肖骏, 窦靖童 / [Somberton](http://music.163.com/song?id=1983688959&userid=477097094) / 专辑：Atypical Airship / 2022.9
+## 流行 pop
+* LÜCY / [isahini](http://music.163.com/song?id=1954146692&userid=477097094) / 专辑：LÜCY / 2022.6
 * 缓缓 / [拥挤的城市还开着灯](http://music.163.com/song?id=1968773303&userid=477097094) / 专辑：蓝色的房间橘色的人 / 2022.8
-* 声音碎片 / [野火](https://music.163.com/song?id=1952018809&userid=477097094) / 专辑：有限身 无穷念 / 2022.8
-* 表情银行MimikBanka / [三头狗 (Cerberus)](http://music.163.com/song?id=1958971863&userid=477097094) / 专辑：狗日子 (Dog Days) / 2022.6
-* Bremen Entertainment Inc. / [游牧世界](http://music.163.com/song?id=1958439854&userid=477097094) / 专辑：Taured / 2022.6
-* LÜCY / [Trick or Trip?](http://music.163.com/song?id=1954144216&userid=477097094) / 专辑：LÜCY / 2022.6
-* 卧轨的火车(Railway Suicide Train) / [真爱挽歌 (True Love Story)](http://music.163.com/song?id=1954980768&userid=477097094) / 专辑：一些次要的时刻 / 2022.6
-* 大象体操, 九天民俗技艺团 / [众神的派对(feat. 九天民俗技艺团)](http://music.163.com/song?id=1946177368&userid=477097094) / 专辑：梦境 / 2022.5
-* Deep Water / [Plague Me With Your Love](http://music.163.com/song?id=1930453738&userid=477097094) / 专辑：DEEP WATER / 2022.3 
-* 法兹乐队FAZI / [热死荒梁](http://music.163.com/song?id=1929356873&userid=477097094) / 专辑：折叠故事 / 2022.3
-* 白皮书乐队 / [乌合之众](http://music.163.com/song?id=1930204689&userid=477097094) / 专辑：20世纪的幻想  / 2022.3
-* 绝对纯洁(Absolute Purity) / [绝对纯洁](http://music.163.com/song?id=1924224270&userid=477097094) / 专辑：We Fought Over The Moon / 2022.3
-* 東京茶 / [丢海](http://music.163.com/song?id=1915572261&userid=477097094) / 专辑：在山的那边 / 2022.2
+## 梦幻流行/盯鞋摇滚 dream pop/shoegaze
+* Codie / [Mobius](http://music.163.com/song?id=1983259657&userid=477097094) / 专辑：相对性静止 / 2022.9
+* Deep Water / [Plague Me With Your Love](http://music.163.com/song?id=1930453738&userid=477097094) / 专辑：DEEP WATER / 2022.3
+## 爵士 jazz 
 * 喜辰晨 / [催眠师 Hypnotist](http://music.163.com/song?id=1915558268&userid=477097094) / 专辑：欲言又止 Lost for Words / 2022.1
+* 肖骏, 窦靖童 / [Somberton](http://music.163.com/song?id=1983688959&userid=477097094) / 专辑：Atypical Airship / 2022.9
+* Sleeping Dogs / [Mongolian Beat](http://music.163.com/song?id=1985847772&userid=477097094) / 专辑：Blunt Razor / 2022.10
+## “蒙古风”摇滚 mongolian rock
+* Bremen Entertainment Inc. / [游牧世界](http://music.163.com/song?id=1958439854&userid=477097094) / 专辑：Taured / 2022.6
+* HAYA乐团 / [野兽](http://music.163.com/song?id=1969875896&userid=477097094) / 专辑：野兽 / 2022.8
+## 另类摇滚 alternative rock
+* 表情银行MimikBanka / [三头狗 (Cerberus)](http://music.163.com/song?id=1958971863&userid=477097094) / 专辑：狗日子 (Dog Days) / 2022.6
+* 卧轨的火车(Railway Suicide Train) / [回路II (Circle Route II)](http://music.163.com/song?id=1954974535&userid=477097094) / 专辑：一些次要的时刻 / 2022.6
+* JADE, YELLOW黄宣 / [Last Animals](http://music.163.com/song?id=1478421917&userid=477097094) / 专辑：Snow White / 2022.2
+## 数学摇滚 math rock
+* 大象体操, 九天民俗技艺团 / [众神的派对(feat. 九天民俗技艺团)](http://music.163.com/song?id=1946177368&userid=477097094) / 专辑：梦境 / 2022.5
+## 后摇 post rock
+* 惘闻 / [奥林匹克广场](http://music.163.com/song?id=1988041650&userid=477097094) / 专辑：辛丑 | 壬寅 / 2022.10
+## 金属 metal
+* 東京茶 / [丢海](http://music.163.com/song?id=1915572261&userid=477097094) / 专辑：在山的那边 / 2022.2
+## 后朋 post punk
+* 绝对纯洁(Absolute Purity) / [绝对纯洁](http://music.163.com/song?id=1924224270&userid=477097094) / 专辑：We Fought Over The Moon / 2022.3
+* 法兹乐队FAZI / [热死荒梁](http://music.163.com/song?id=1929356873&userid=477097094) / 专辑：折叠故事 / 2022.3
+## 民谣 folk
+* 生祥乐队 / [议场猴话研究](http://music.163.com/song?id=1990760478&userid=477097094) / 专辑：江湖卡夫卡 / 2022.10
+## 放克/迪斯科 funk/disco
+* 宫阁 / [人间会一如平常](http://music.163.com/song?id=1499175682&userid=477097094) / 专辑：幻日年代 / 2022.8
+## 电子 electroni
+* GUAN / [Another Howl Factory](http://music.163.com/song?id=1932558318&userid=477097094) / 专辑：The Immortal Tide / 2022.3
+
+<!-- * 声音碎片 / [野火](https://music.163.com/song?id=1952018809&userid=477097094) / 专辑：有限身 无穷念 / 2022.8 -->
+<!-- * 黄浩庭, DJ MR GIN / [魔浪薩克斯 (feat. DJ MR GIN)](http://music.163.com/song?id=1995441095&userid=477097094) / 专辑：万寿菊 / 2022.11 -->
+<!-- * 白皮书乐队 / [乌合之众](http://music.163.com/song?id=1930204689&userid=477097094) / 专辑：20世纪的幻想  / 2022.3 -->
 <!-- * G.E.M.邓紫棋 / [受难曲](http://music.163.com/song?id=1970559946&userid=477097094) / 专辑：启示录 / 2022.9 -->
 <!-- * 9m88, DJ MITSU THE BEATS / [Tell Me](http://music.163.com/song?id=1961720583&userid=477097094) / 专辑：9m88 Radio / 2022.8 -->
 <!-- * 朱婧汐Akini Jing, Chace / 不想当阿龙 Don't Wanna Be Alone / 专辑：永无止境的告别 Endless Farewell / 2022.7 -->

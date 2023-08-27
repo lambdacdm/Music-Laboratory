@@ -64,7 +64,7 @@
 见 [2022 华语音乐推荐](https://lambdacdm.github.io/Music-Laboratory/2022chinese.html)
 
 # 2021 华语音乐推荐
-## 独立音乐
+### 独立音乐
 * 原子邦妮 / [香草天空](https://music.163.com/song?id=1907220844&userid=477097094) / 专辑：如果我有勇气失去你 / 2021.12
 * 无实物艺术团, 余孟霏FEI / [Lilith](http://music.163.com/song?id=1909660123&userid=477097094) / 专辑：夜间模式 / 2021.12
 * 海妖Sea-Maiden / [她](http://music.163.com/song?id=1852326661&userid=477097094) / 专辑：Sweet Waves / 2021.12
@@ -76,7 +76,7 @@
 * 八仙饭店 / [吞吐 (Puff)](https://music.163.com/song?id=1811283484&userid=477097094) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1
 * 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1
 
-## 主流音乐
+### 主流音乐
 * 李权哲 / 今晚有空吗？ / 专辑：爱情一阵风 / 2021.12
 * 9m88 / [Eyes](http://music.163.com/song?id=1892438343&userid=477097094) / 专辑：This Temporary Ensemble / 2021.11
 * 艾怡良 / [以灰之名](http://music.163.com/song?id=1890449485&userid=477097094) / 专辑：偏偏我却都记得 / 2021.10

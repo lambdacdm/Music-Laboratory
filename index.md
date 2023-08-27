@@ -6,26 +6,27 @@
 ## 专辑 费米悖论
 
 
-**第一部分 降临**
+### 第一部分 降临
 * intro 罗塞塔石碑 / 尚未创作
 * [降临I 后梦境现实](https://music.163.com/dj?id=2065012886&userid=477097094) / 2020.1
 * [降临II 百变T台秀](http://music.163.com/dj?id=2496534801&userid=477097094) / 2022.1
 * 降临III 墙壁的眼睛 / 尚未创作
 
-**第二部分 蓝洞**
+### 第二部分 蓝洞
 * [蓝洞I 云浆散落 风尘落下](http://music.163.com/dj?id=2505823206&userid=477097094) / 2022.6
 * [蓝洞II 玻璃晴朗 桔子辉煌 (demo)](http://music.163.com/dj?id=2505828172&userid=477097094) / 2022.10
 * 蓝洞III 戴上帽子 穿上泳装 / 尚未创作
 
-**第三部分 来生**
+### 第三部分 来生
 * 来生I 困在时间里 / 尚未创作
 * 来生II 黑洞的边界 / 尚未创作
 * [来生III 庞加莱回归](https://music.163.com/dj?id=2065237607&userid=477097094) / 2020.2
 * [outro 霓虹中再见](http://music.163.com/dj?id=2071162243&userid=477097094) / 2020.12
 
+# 我个人最喜欢的华语音乐
 下述发行时间以豆瓣音乐为准。歌曲的风格界定参考rate your music. **下述排名完全按照主观喜好排名。**
 
-# 我个人最喜欢的华语独立音乐
+### 独立音乐
 * **NO.1** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：另类摇滚 艺术摇滚
 * **NO.2** 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12 / 风格：前卫摇滚 艺术摇滚
 * **NO.3** 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11 / 风格：朋克舞曲 车库摇滚复兴
@@ -43,7 +44,7 @@
 * **NO.15** 野外合作社 / [诚实假日酒店](http://music.163.com/song?id=565890722&userid=477097094) / 专辑：台风 / 2018.5 / 风格：前卫摇滚
 <!-- * **NO.15** Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9 / 风格：情绪摇滚 -->
 
-# 我个人最喜欢的华语主流音乐
+### 主流音乐
 * **NO.1** 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12 / 风格：梦幻流行 另类节奏布鲁斯
 * **NO.2** 魏如萱 / [I Will Be Fine](http://music.163.com/song?id=442867303&userid=477097094) / 专辑：末路狂花 / 2016.11 / 风格：放克流行
 * **NO.3** 巴奈 / [总要](http://music.163.com/song?id=1495838813&userid=477097094) / 专辑：爱，不到 / 2020.11 / 风格：拉丁爵士
@@ -106,29 +107,32 @@
 * [耳帝 2021华语地区年度100首最佳歌曲](https://www.bilibili.com/video/BV1y44y1774p)
 
 # 2020 华语音乐推荐
+### 独立音乐
 * 歪歪歪 / [一个人跳舞](http://music.163.com/song?id=1806567743&userid=477097094) / 专辑：不正 / 2020.12
-* 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12
 * 九连真人 / [莫欺少年穷](http://music.163.com/song?id=1493931568&userid=477097094) / 专辑：阿民 / 2020.12
 * 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12
-* 陈娴静 何欣穗 / 相反 / 专辑：《返校》影集原声带 / 2020.12
-* 曾轶可 / [雌雄同体](http://music.163.com/song?id=1804552454&userid=477097094) / 专辑：情绪禁区 / 2020.12
-* 谭维维 / [钱夫人](http://music.163.com/song?id=1501952242&userid=477097094) / 专辑：3811 / 2020.12
-* 柯泯薰 / 抛 / 专辑：画话 / 2020.12
 * 假假條 / [黃鐘·太呂](http://music.163.com/song?id=1499797323&userid=477097094) / 专辑：法利勝神經 / 2020.11
-* 巴奈 / [总要](http://music.163.com/song?id=1495838813&userid=477097094) / 专辑：爱，不到 / 2020.11
-* 许含光 / [LCL](http://music.163.com/song?id=1490932004&userid=477097094) / 专辑：从夜晚开始从夜晚结束 / 2020.10
 * 春面乐队ChuNoodle / 到底到了底到底 / 专辑：到底 / 2020.10
 * 缓缓 / [梦露](http://music.163.com/song?id=1483269514&userid=477097094) / 专辑：水可以去任何地方 / 2020.10
-* YELLOW黄宣 / [ROSE WAYNE](http://music.163.com/song?id=1485891496&userid=477097094) / 专辑：浮世击 / 2020.10
-* 朱婧汐Akini Jing / Cure / 专辑：塑胶天堂 / 2020.9
 * 惘闻 / [敢问路在何方](http://music.163.com/song?id=1481636180&userid=477097094) / 专辑：十万个为什么 / 2020.9
-* 万芳 / [时间梯](http://music.163.com/song?id=1479797867&userid=477097094) / 专辑：给你们Dear All / 2020.9
-* 李荣浩 / [如果我是海](http://music.163.com/song?id=1466675564&userid=477097094) / 专辑：麻雀 / 2020.7
 * 祁紫檀 / [比海更深](http://music.163.com/song?id=1457750081&userid=477097094) / 专辑：爱之颤 / 2020.7
 * 青虫aoi, 林柏宏 / 无你的故事 / 专辑：有你的故事 / 2020.6
 * 倒车入库 / [4:44](http://music.163.com/song?id=1457545268&userid=477097094) / 专辑：都会型人格疾患四部曲 / 2020.6
 * 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6
 * 荷尔蒙少年 / [中华商场1971 feat.修齐](http://music.163.com/song?id=1432517121&userid=477097094) / 专辑：黑色台北 / 2020.4
+
+### 主流音乐
+* 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12
+* 陈娴静 何欣穗 / 相反 / 专辑：《返校》影集原声带 / 2020.12
+* 曾轶可 / [雌雄同体](http://music.163.com/song?id=1804552454&userid=477097094) / 专辑：情绪禁区 / 2020.12
+* 谭维维 / [钱夫人](http://music.163.com/song?id=1501952242&userid=477097094) / 专辑：3811 / 2020.12
+* 柯泯薰 / 抛 / 专辑：画话 / 2020.12
+* 巴奈 / [总要](http://music.163.com/song?id=1495838813&userid=477097094) / 专辑：爱，不到 / 2020.11
+* 许含光 / [LCL](http://music.163.com/song?id=1490932004&userid=477097094) / 专辑：从夜晚开始从夜晚结束 / 2020.10
+* YELLOW黄宣 / [ROSE WAYNE](http://music.163.com/song?id=1485891496&userid=477097094) / 专辑：浮世击 / 2020.10
+* 朱婧汐Akini Jing / Cure / 专辑：塑胶天堂 / 2020.9
+* 万芳 / [时间梯](http://music.163.com/song?id=1479797867&userid=477097094) / 专辑：给你们Dear All / 2020.9
+* 李荣浩 / [如果我是海](http://music.163.com/song?id=1466675564&userid=477097094) / 专辑：麻雀 / 2020.7
 
 外部链接：
 * [第32届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC32%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
@@ -137,27 +141,30 @@
 * [耳帝 2020华语年度100首最佳歌曲](https://www.bilibili.com/video/BV1Gi4y1w7pa)
 
 # 2019 华语音乐推荐
+### 独立音乐
 * 阿爆 / [Thank You 感谢](http://music.163.com/song?id=1423143127&userid=477097094) / 专辑：kinakaian 母亲的舌头 / 2019.12
+* 宫阁 / [哥特电影](http://music.163.com/song?id=1399802153&userid=477097094) / 专辑：即将上映 / 2019.12
+* Howie Lee / [明日不可待](http://music.163.com/song?id=1391676366&userid=477097094) / 专辑：天地不仁 / 2019.10
+* ETA乐队 / [Feel The Beat](http://music.163.com/song?id=1395827621&userid=477097094) / 专辑：η! ETA / 2019.10
+* 昨夜派对(L.N Party) / [All about Anna](http://music.163.com/song?id=1367358886&userid=477097094) / 专辑：短篇与玫瑰的八毫米 / 2019.9
+* 音速行星 / [洪流](http://music.163.com/song?id=1376831978&userid=477097094) / 专辑：时间旅行有限公司 / 2019.7
+* 鬼否 / [拓麻歌子](http://music.163.com/song?id=1321382024&userid=477097094) / 专辑：通用计算 / 2019.5
+* 缓缓 / [Charlie](http://music.163.com/song?id=1352801907&userid=477097094) / 专辑：Charlie / 2019.3
+* 布朗尼 / [Julie (朱莉)](http://music.163.com/song?id=1352818588&userid=477097094) / 专辑：Julie / 2019.3
+  
+### 主流音乐
 * G.E.M.邓紫棋 / [摩天动物园](http://music.163.com/song?id=1409382131&userid=477097094) / 专辑：摩天动物园 / 2019.12
 * 告五人 / [带我去找夜生活](http://music.163.com/song?id=1410647903&userid=477097094) / 单曲：带我去找夜生活 / 2019.12
 * 丁世光 / [月食](http://music.163.com/song?id=1411793115&userid=477097094) / 专辑：实况电影 / 2019.12
-* 宫阁 / [哥特电影](http://music.163.com/song?id=1399802153&userid=477097094) / 专辑：即将上映 / 2019.12
 * 刘柏辛Lexie / [Manta](http://music.163.com/song?id=1411536847&userid=477097094) / 专辑：无限意识 Meta Ego / 2019.12
 * 许哲珮 / [失物之城](http://music.163.com/song?id=1407965265&userid=477097094) / 专辑：失物之城 / 2019.12
 * 魏如萱 / [恐慌症](http://music.163.com/song?id=1404530798&userid=477097094) / 专辑：藏着并不等于遗忘 / 2019.11
 * 持修 / [根本不是我对手](http://music.163.com/song?id=1403757056&userid=477097094) / 专辑：房间里的大象 / 2019.11
-* Howie Lee / [明日不可待](http://music.163.com/song?id=1391676366&userid=477097094) / 专辑：天地不仁 / 2019.10
-* ETA乐队 / [Feel The Beat](http://music.163.com/song?id=1395827621&userid=477097094) / 专辑：η! ETA / 2019.10
 * 陈珊妮 / [你要去哪里](http://music.163.com/song?id=1386200220&userid=477097094) / 专辑：Juvenile A / 2019.9
 * 吴青峰 / 巴别塔庆典 / 专辑：太空人 / 2019.9
-* 昨夜派对(L.N Party) / [All about Anna](http://music.163.com/song?id=1367358886&userid=477097094) / 专辑：短篇与玫瑰的八毫米 / 2019.9
 * 陈婧霏 / [积极向下](http://music.163.com/song?id=1387183465&userid=477097094) / 单曲：积极向下 / 2019.8
 * 卢凯彤 / [圆谎](http://music.163.com/song?id=1386008140&userid=477097094) / 专辑：Come What May / 2019.8
-* 音速行星 / [洪流](http://music.163.com/song?id=1376831978&userid=477097094) / 专辑：时间旅行有限公司 / 2019.7
-* 鬼否 / [拓麻歌子](http://music.163.com/song?id=1321382024&userid=477097094) / 专辑：通用计算 / 2019.5
 * 余佩真 / 昏你 / 专辑：真 真 / 2019.4
-* 缓缓 / [Charlie](http://music.163.com/song?id=1352801907&userid=477097094) / 专辑：Charlie / 2019.3
-* 布朗尼 / [Julie (朱莉)](http://music.163.com/song?id=1352818588&userid=477097094) / 专辑：Julie / 2019.3
 
 外部链接：
 * [第31届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC31%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)

@@ -23,7 +23,7 @@
 * [来生III 庞加莱回归](https://music.163.com/dj?id=2065237607&userid=477097094) / 2020.2
 * [outro 霓虹中再见](http://music.163.com/dj?id=2071162243&userid=477097094) / 2020.12
 
-下述发行时间以豆瓣音乐为准。歌曲的风格界定参考rate your music.
+下述发行时间以豆瓣音乐为准。歌曲的风格界定参考rate your music. **下述排名完全按照主观喜好排名。**
 
 # 我个人最喜欢的华语独立音乐
 * **NO.1** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：另类摇滚 艺术摇滚
@@ -31,16 +31,17 @@
 * **NO.3** 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11 / 风格：朋克舞曲 车库摇滚复兴
 * **NO.4** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚
 * **NO.5** 缓缓 / [Charlie](http://music.163.com/song?id=1352801907&userid=477097094) / 专辑：Charlie / 2019.3 / 风格：盯鞋摇滚
-* **NO.6** 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4 / 风格：斯卡朋克
-* **NO.7** Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1 / 风格：后朋克 迷幻摇滚
-* **NO.8** 惘闻 / [敢问路在何方](http://music.163.com/song?id=1481636180&userid=477097094) / 专辑：十万个为什么 / 2020.9 / 风格：后摇滚
-* **NO.9** 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6 / 风格：前卫摇滚
-* **NO.10** 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10 / 风格：融合爵士 前卫摇滚
+* **NO.6** 八仙饭店 / [吞吐 (Puff)](https://music.163.com/song?id=1811283484&userid=477097094) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1 / 风格：梦幻流行 迷幻摇滚
+* **NO.7** 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4 / 风格：斯卡朋克
+* **NO.8** Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1 / 风格：后朋克 迷幻摇滚
+* **NO.9** 歪歪歪 / [一个人跳舞](http://music.163.com/song?id=1806567743&userid=477097094) / 专辑：不正 / 2020.12 / 风格：布鲁斯
+* **NO.10** 惘闻 / [敢问路在何方](http://music.163.com/song?id=1481636180&userid=477097094) / 专辑：十万个为什么 / 2020.9 / 风格：后摇滚
 * **NO.11** 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9 / 风格：后朋克
-* **NO.12** 假假條 / [黃鐘·太呂](http://music.163.com/song?id=1499797323&userid=477097094) / 专辑：法利勝神經 / 2020.11 / 风格：垃圾摇滚
-* **NO.13** 野外合作社 / [诚实假日酒店](http://music.163.com/song?id=565890722&userid=477097094) / 专辑：台风 / 2018.5 / 风格：前卫摇滚
-* **NO.14** 歪歪歪 / [一个人跳舞](http://music.163.com/song?id=1806567743&userid=477097094) / 专辑：不正 / 2020.12 / 风格：布鲁斯
-* **NO.15** Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9 / 风格：情绪摇滚
+* **NO.12** 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6 / 风格：前卫摇滚
+* **NO.13** 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10 / 风格：融合爵士 前卫摇滚
+* **NO.14** 假假條 / [黃鐘·太呂](http://music.163.com/song?id=1499797323&userid=477097094) / 专辑：法利勝神經 / 2020.11 / 风格：垃圾摇滚
+* **NO.15** 野外合作社 / [诚实假日酒店](http://music.163.com/song?id=565890722&userid=477097094) / 专辑：台风 / 2018.5 / 风格：前卫摇滚
+<!-- * **NO.15** Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9 / 风格：情绪摇滚 -->
 
 # 我个人最喜欢的华语主流音乐
 * **NO.1** 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12 / 风格：梦幻流行 另类节奏布鲁斯
@@ -63,26 +64,31 @@
 见 [2022 华语音乐推荐](https://lambdacdm.github.io/Music-Laboratory/2022chinese.html)
 
 # 2021 华语音乐推荐
+## 独立音乐
 * 原子邦妮 / [香草天空](https://music.163.com/song?id=1907220844&userid=477097094) / 专辑：如果我有勇气失去你 / 2021.12
-* 李权哲 / 今晚有空吗？ / 专辑：爱情一阵风 / 2021.12
 * 无实物艺术团, 余孟霏FEI / [Lilith](http://music.163.com/song?id=1909660123&userid=477097094) / 专辑：夜间模式 / 2021.12
 * 海妖Sea-Maiden / [她](http://music.163.com/song?id=1852326661&userid=477097094) / 专辑：Sweet Waves / 2021.12
-* 9m88 / [Eyes](http://music.163.com/song?id=1892438343&userid=477097094) / 专辑：This Temporary Ensemble / 2021.11
-* 艾怡良 / [以灰之名](http://music.163.com/song?id=1890449485&userid=477097094) / 专辑：偏偏我却都记得 / 2021.10
-* Everfor / [空中閣樓](http://music.163.com/song?id=1891990784&userid=477097094) / 专辑：空中阁楼 / 2021.10
-* 曾轶可 / [艳遇](http://music.163.com/song?id=1887047662&userid=477097094) / 专辑：Burning / 2021.10
 * I Mean Us / [24 Years Old of You](http://music.163.com/song?id=1885176333&userid=477097094) / 专辑：Into Innerverse / 2021.10
-* 鱼丁糸 / [我就奇怪](http://music.163.com/song?id=1877739997&userid=477097094) / 专辑：池堂怪谈 / 2021.9
-* 陈粒 / 悠长假期 / 专辑：悠长假期 / 2021.8
 * 裸儿 / [我想躺在地板上](http://music.163.com/song?id=1867580210&userid=477097094) / 专辑：果果 / 2021.8
-* 郭采洁 / [NaKuNa](https://music.163.com/song?id=1857303974&userid=477097094) / 专辑：Vol.13-1986数羊 / 2021.7
-* 魏如萱 / [变形金刚](http://music.163.com/song?id=1855414338&userid=477097094) / 专辑：HAVE A NICE DAY / 2021.6
-* 潘高峰 / [霹雳](http://music.163.com/song?id=1855434855&userid=477097094) / 专辑：霹雳 / 2021.6
 * 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4
 * 祁紫檀 / [生命从无法被概括](http://music.163.com/song?id=1821481546&userid=477097094) / 单曲：生命从无法被概括 / 2021.3
 * 福禄寿FloruitShow / [超度我](http://music.163.com/song?id=1818820552&userid=477097094) / 专辑：我用什么把你留住 / 2021.2
-* 刘柏辛Lexie / [SHADOW](http://music.163.com/song?id=1821292148&userid=477097094) / 专辑：上线了 GONE GOLD / 2021.1
+* 八仙饭店 / [吞吐 (Puff)](https://music.163.com/song?id=1811283484&userid=477097094) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1
 * 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1
+
+## 主流音乐
+* 李权哲 / 今晚有空吗？ / 专辑：爱情一阵风 / 2021.12
+* 9m88 / [Eyes](http://music.163.com/song?id=1892438343&userid=477097094) / 专辑：This Temporary Ensemble / 2021.11
+* 艾怡良 / [以灰之名](http://music.163.com/song?id=1890449485&userid=477097094) / 专辑：偏偏我却都记得 / 2021.10
+* 曾轶可 / [艳遇](http://music.163.com/song?id=1887047662&userid=477097094) / 专辑：Burning / 2021.10
+* 鱼丁糸 / [我就奇怪](http://music.163.com/song?id=1877739997&userid=477097094) / 专辑：池堂怪谈 / 2021.9
+* 陈粒 / 悠长假期 / 专辑：悠长假期 / 2021.8
+* 郭采洁 / [NaKuNa](https://music.163.com/song?id=1857303974&userid=477097094) / 专辑：Vol.13-1986数羊 / 2021.7
+* 魏如萱 / [变形金刚](http://music.163.com/song?id=1855414338&userid=477097094) / 专辑：HAVE A NICE DAY / 2021.6
+* 潘高峰 / [霹雳](http://music.163.com/song?id=1855434855&userid=477097094) / 专辑：霹雳 / 2021.6
+* 刘柏辛Lexie / [SHADOW](http://music.163.com/song?id=1821292148&userid=477097094) / 专辑：上线了 GONE GOLD / 2021.1
+
+<!-- * Everfor / [空中閣樓](http://music.163.com/song?id=1891990784&userid=477097094) / 专辑：空中阁楼 / 2021.10 -->
 <!-- * 疯医 / [定国湖](http://music.163.com/song?id=1829726307&userid=477097094) / 专辑：愿我们在黑暗的另一边相见 / 2021.3 -->
 <!-- * 詹雯婷 / [咏爱](http://music.163.com/song?id=1907443033&userid=477097094) / 专辑：Faye詹雯婷 在云彩上跳舞 叽叽喳喳 / 2021.12 -->
 <!-- * 许嵩 / [超市](http://music.163.com/song?id=1842802179&userid=477097094) / 专辑：呼吸之野 / 2021.5 -->

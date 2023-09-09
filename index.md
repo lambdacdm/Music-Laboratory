@@ -62,7 +62,10 @@
 * **NO.15** 方大同, Zion.T, Crush / [味道](http://music.163.com/song?id=431855965&userid=477097094) / 专辑：JTW西游记 / 2016.9 / 风格：节奏布鲁斯
 
 # 2022 华语音乐推荐
-见 [2022 华语音乐推荐](https://lambdacdm.github.io/Music-Laboratory/2022chinese.html)
+见 [2022 华语音乐推荐](https://lambdacdm.github.io/Music-Laboratory/2022chinese.html) 
+
+外部链接：
+* [第34届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC34%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
 
 # 2021 华语音乐推荐
 ### 独立音乐
@@ -222,6 +225,9 @@
 * 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7
 * 霍尊 / 卷珠帘 / 专辑：天韵·霍尊 / 2015.5
 * 张惠妹 / [母系社会](http://music.163.com/song?id=31311126&userid=477097094) / 专辑：阿密特2 / 2015.4
+
+外部链接：
+* [第27届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC27%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
 
 # 2010-2014 华语音乐推荐
 * 蔡依林 / [Play我呸](http://music.163.com/song?id=29572738&userid=477097094) / 专辑：呸 / 2014.11

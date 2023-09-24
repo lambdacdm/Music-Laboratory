@@ -24,15 +24,20 @@
 * [outro 霓虹中再见](http://music.163.com/dj?id=2071162243&userid=477097094) / 2020.12
 
 # 我个人最喜欢的华语音乐
-下述发行时间以豆瓣音乐为准。歌曲的风格界定参考rate your music. **下述排名完全按照主观喜好排名。**
+
+我的兴趣集中于shoegaze（盯鞋摇滚），dream pop（梦幻流行），alternative rock（另类摇滚）。
+
+**下述排名完全按照主观喜好排名。**
+
+下述发行时间以豆瓣音乐为准。歌曲的风格界定参考rate your music. 
 
 ### 独立音乐
 * **NO.1** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：另类摇滚 艺术摇滚
-* **NO.2** 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12 / 风格：前卫摇滚 艺术摇滚
+* **NO.2** 八仙饭店 / [吞吐 (Puff)](https://music.163.com/song?id=1811283484&userid=477097094) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1 / 风格：梦幻流行 迷幻摇滚
 * **NO.3** 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11 / 风格：朋克舞曲 车库摇滚复兴
-* **NO.4** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚
-* **NO.5** 缓缓 / [Charlie](http://music.163.com/song?id=1352801907&userid=477097094) / 专辑：Charlie / 2019.3 / 风格：盯鞋摇滚
-* **NO.6** 八仙饭店 / [吞吐 (Puff)](https://music.163.com/song?id=1811283484&userid=477097094) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1 / 风格：梦幻流行 迷幻摇滚
+* **NO.4** 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12 / 风格：前卫摇滚 艺术摇滚
+* **NO.5** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚
+* **NO.6** 缓缓 / [Charlie](http://music.163.com/song?id=1352801907&userid=477097094) / 专辑：Charlie / 2019.3 / 风格：盯鞋摇滚
 * **NO.7** 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4 / 风格：斯卡朋克
 * **NO.8** Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1 / 风格：后朋克 迷幻摇滚
 * **NO.9** 歪歪歪 / [一个人跳舞](http://music.163.com/song?id=1806567743&userid=477097094) / 专辑：不正 / 2020.12 / 风格：布鲁斯

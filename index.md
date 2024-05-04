@@ -40,7 +40,7 @@
 * **NO.6** 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4 / 风格：斯卡朋克
 * **NO.7** Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1 / 风格：后朋克 迷幻摇滚
 * **NO.8** 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9 / 风格：后朋克
-* **NO.9** 缓缓 / [Charlie](http://music.163.com/song?id=1352801907&userid=477097094) / 专辑：Charlie / 2019.3 / 风格：盯鞋摇滚
+* **NO.9** 缓缓Huan Huan / [Charlie](http://music.163.com/song?id=1352801907&userid=477097094) / 专辑：Charlie / 2019.3 / 风格：盯鞋摇滚
 * **NO.10** 歪歪歪 / [一个人跳舞](http://music.163.com/song?id=1806567743&userid=477097094) / 专辑：不正 / 2020.12 / 风格：布鲁斯
 * **NO.11** 惘闻 / [敢问路在何方](http://music.163.com/song?id=1481636180&userid=477097094) / 专辑：十万个为什么 / 2020.9 / 风格：后摇滚
 * **NO.12** 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6 / 风格：前卫摇滚
@@ -69,6 +69,25 @@
 * **NO.12** 艾怡良 / [夜晚出生的小孩](http://music.163.com/song?id=1334667449&userid=477097094) / 专辑：垂直活着，水平留恋着 / 2018.12 / 风格：流行
 * **NO.14** 王菲 / [光之翼](http://music.163.com/song?id=299508&userid=477097094) / 专辑：王菲 / 2001.10 / 风格：另类摇滚 
 * **NO.15** 方大同, Zion.T, Crush / [味道](http://music.163.com/song?id=431855965&userid=477097094) / 专辑：JTW西游记 / 2016.9 / 风格：节奏布鲁斯 -->
+
+# 2023 华语音乐推荐
+### 独立音乐
+* 鬼否 / RE:人是 / 专辑：本体Ontology
+* 某某某 / 着迷 / 专辑：Church Park
+* Otay:onii / 重叠 / 专辑：夢之駭客
+* 李林妲, 肖骏 / Back to you / 单曲：Back to you
+* 表情银行Mimik Banka / 狙击手与陨石 / 专辑：嘿！岛
+* 遗忘俱乐部 / I'm Sorry / 专辑：FORGOTTEN CLUB
+* 缺省 / 余烬 / 专辑：共同的土地
+* 我是機車少女 / Hard to Say / 专辑：I'mdifficult
+* 缓缓Huan Huan / Mrs.Archi / 专辑：浏海被风吹得整个飞起来
+* DOUDOU / 最终观测 / 单曲：最终观测
+
+### 主流音乐
+* 刘柏辛Lexie / delulu / 单曲：delulu
+* 窦靖童 / 烟花 / 专辑：春游
+* 曾轶可 / Summer Tango 夏日探戈 / 单曲：Summer Tango 夏日探戈
+* 裘德, 窦靖童 / 练声曲 / 专辑：裘德
 
 # 2022 华语音乐推荐
 见 [2022 华语音乐推荐](https://lambdacdm.github.io/Music-Laboratory/2022chinese.html) 
@@ -125,7 +144,7 @@
 * 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12
 * 假假條 / [黃鐘·太呂](http://music.163.com/song?id=1499797323&userid=477097094) / 专辑：法利勝神經 / 2020.11
 * 春面乐队ChuNoodle / 到底到了底到底 / 专辑：到底 / 2020.10
-* 缓缓 / [梦露](http://music.163.com/song?id=1483269514&userid=477097094) / 专辑：水可以去任何地方 / 2020.10
+* 缓缓Huan Huan / [梦露](http://music.163.com/song?id=1483269514&userid=477097094) / 专辑：水可以去任何地方 / 2020.10
 * 惘闻 / [敢问路在何方](http://music.163.com/song?id=1481636180&userid=477097094) / 专辑：十万个为什么 / 2020.9
 * 祁紫檀 / [比海更深](http://music.163.com/song?id=1457750081&userid=477097094) / 专辑：爱之颤 / 2020.7
 * 青虫aoi, 林柏宏 / 无你的故事 / 专辑：有你的故事 / 2020.6
@@ -161,7 +180,7 @@
 * 昨夜派对(L.N Party) / [All about Anna](http://music.163.com/song?id=1367358886&userid=477097094) / 专辑：短篇与玫瑰的八毫米 / 2019.9
 * 音速行星 / [洪流](http://music.163.com/song?id=1376831978&userid=477097094) / 专辑：时间旅行有限公司 / 2019.7
 * 鬼否 / [拓麻歌子](http://music.163.com/song?id=1321382024&userid=477097094) / 专辑：通用计算 / 2019.5
-* 缓缓 / [Charlie](http://music.163.com/song?id=1352801907&userid=477097094) / 专辑：Charlie / 2019.3
+* 缓缓Huan Huan / [Charlie](http://music.163.com/song?id=1352801907&userid=477097094) / 专辑：Charlie / 2019.3
 * 布朗尼 / [Julie (朱莉)](http://music.163.com/song?id=1352818588&userid=477097094) / 专辑：Julie / 2019.3
   
 ### 主流音乐

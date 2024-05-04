@@ -106,17 +106,18 @@
 * 惘闻 / [奥林匹克广场](http://music.163.com/song?id=1988041650&userid=477097094) / 专辑：辛丑 壬寅 / 2022.10
 * 東京茶 / [丢海](http://music.163.com/song?id=1915572261&userid=477097094) / 专辑：在山的那边 / 2022.2
 * 绝对纯洁(Absolute Purity) / [绝对纯洁](http://music.163.com/song?id=1924224270&userid=477097094) / 专辑：We Fought Over The Moon / 2022.3
+* 宫阁 / [人间会一如平常](http://music.163.com/song?id=1499175682&userid=477097094) / 专辑：幻日年代 / 2022.8
 
 ### 主流音乐
-* 林昱君 / 今天不想 / 专辑：今天不想 / 2022.12
-* 朱婧汐Akini Jing, Chace / 不想当阿龙 Don't Wanna Be Alone / 专辑：永无止境的告别 Endless Farewell / 2022.7
-* 王若琳 / Tina's Hausu / 单曲：Tina's Hausu / 2022.10
-* 刘柏辛Lexie / 干嘛 / 专辑：幸福星 / 2022.12
-* 叶颖 / 吹眠 / 专辑：活得像自己的名字 / 2022.5
+* 林昱君 / [今天不想](https://music.163.com/#/song?id=2004646177) / 专辑：今天不想 / 2022.12
+* 朱婧汐Akini Jing, Chace / [不想当阿龙 Don't Wanna Be Alone](https://music.163.com/#/song?id=1966783214)) / 专辑：永无止境的告别 Endless Farewell / 2022.7
+* 王若琳 / [Tina's Hausu](https://music.163.com/#/song?id=1990179632) / 单曲：Tina's Hausu / 2022.10
+* 刘柏辛Lexie / [干嘛](https://music.163.com/#/song?id=2000414968) / 专辑：幸福星 / 2022.12
+* 叶颖 / [吹眠](https://music.163.com/#/song?id=1947086457) / 专辑：活得像自己的名字 / 2022.5
 * 周杰伦 / Mojito / 专辑：最伟大的作品 / 2022.7
-* 陈珊妮 / 罪美 / 专辑：调教 / 2022.5
-* 9m88 / Tell Me / 专辑：9m88 Radio / 2022.8
-* 吴青峰 / (......催眠大师) / 专辑：马拉美的星期二 / 2022.9
+* 陈珊妮 / [罪美](https://music.163.com/#/song?id=1948826157) / 专辑：调教 / 2022.5
+* 9m88 / [Tell Me](https://music.163.com/#/song?id=1961720583) / 专辑：9m88 Radio / 2022.8
+* 吴青峰 / [(......催眠大师)](https://music.163.com/#/song?id=1989142301) / 专辑：马拉美的星期二 / 2022.9
 
 更多歌曲推荐及乐评详见 
 * [2022 华语音乐推荐](https://lambdacdm.github.io/Music-Laboratory/2022chinese.html) 

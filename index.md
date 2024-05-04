@@ -89,8 +89,15 @@
 * 曾轶可 / Summer Tango 夏日探戈 / 单曲：Summer Tango 夏日探戈
 * 裘德, 窦靖童 / 练声曲 / 专辑：裘德
 
+同时移步b站视频
+* [2023 华语音乐 年终盘点 你不能错过的11首歌曲](https://www.bilibili.com/video/BV1Zc411x7nQ/)
+
 # 2022 华语音乐推荐
 见 [2022 华语音乐推荐](https://lambdacdm.github.io/Music-Laboratory/2022chinese.html) 
+
+同时移步b站视频
+* [2022 华语乐坛 独立音乐 按曲风分类的20首年终盘点](https://www.bilibili.com/video/BV1L24y1Q77v/)
+* [【2022 华语乐坛】 你不该错过的10首歌曲：主流流行盘点](https://www.bilibili.com/video/BV1dM41167xJ/)
 
 外部链接：
 * [第34届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC34%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)

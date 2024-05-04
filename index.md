@@ -72,22 +72,22 @@
 
 # 2023 华语音乐推荐
 ### 独立音乐
-* 鬼否 / RE:人是 / 专辑：本体Ontology
-* 某某某 / 着迷 / 专辑：Church Park
-* Otay:onii / 重叠 / 专辑：夢之駭客
-* 李林妲, 肖骏 / Back to you / 单曲：Back to you
-* 表情银行Mimik Banka / 狙击手与陨石 / 专辑：嘿！岛
-* 遗忘俱乐部 / I'm Sorry / 专辑：FORGOTTEN CLUB
-* 缺省 / 余烬 / 专辑：共同的土地
-* 我是機車少女 / Hard to Say / 专辑：I'mdifficult
-* 缓缓Huan Huan / Mrs.Archi / 专辑：浏海被风吹得整个飞起来
-* DOUDOU / 最终观测 / 单曲：最终观测
+* 鬼否 / [RE：人是](https://music.163.com/#/song?id=2094135544) / 专辑：本体Ontology
+* 某某某 / [着迷](https://music.163.com/#/song?id=2108952177) / 专辑：Church Park
+* Otay:onii / [重叠](https://music.163.com/#/song?id=2024385028) / 专辑：夢之駭客
+* 李林妲, 肖骏 / [Back to you](https://music.163.com/#/song?id=2052326903) / 单曲：Back to you
+* 表情银行Mimik Banka / [狙击手与陨石](https://music.163.com/#/song?id=2080173889) / 专辑：嘿！岛
+* 遗忘俱乐部 / [I'm Sorry](https://music.163.com/#/song?id=2053969602) / 专辑：Forgotten Club
+* 缺省 / [余烬](https://music.163.com/#/song?id=2082538428) / 专辑：共同的土地
+* 我是機車少女 / [Hard to Say](https://music.163.com/#/song?id=2092310478) / 专辑：I'mdifficult
+* 缓缓Huan Huan / [Mrs.Archi](https://music.163.com/#/song?id=2087079064) / 专辑：浏海被风吹得整个飞起来
+* DOUDOU / [最终观测](https://music.163.com/#/song?id=2093895545) / 单曲：最终观测
 
 ### 主流音乐
-* 刘柏辛Lexie / delulu / 单曲：delulu
-* 窦靖童 / 烟花 / 专辑：春游
-* 曾轶可 / Summer Tango 夏日探戈 / 单曲：Summer Tango 夏日探戈
-* 裘德, 窦靖童 / 练声曲 / 专辑：裘德
+* 刘柏辛Lexie / [delulu](https://music.163.com/#/song?id=2096065238) / 单曲：delulu
+* 窦靖童 / [烟花](https://music.163.com/#/song?id=2042008910) / 专辑：春游
+* 曾轶可 / [Summer Tango 夏日探戈](https://music.163.com/#/song?id=2058740951) / 单曲：Summer Tango 夏日探戈
+* 裘德, 窦靖童 / [练声曲](https://music.163.com/#/song?id=2110379115) / 专辑：裘德
 
 同时移步b站视频
 * [2023 华语音乐 年终盘点 你不能错过的11首歌曲](https://www.bilibili.com/video/BV1Zc411x7nQ/)

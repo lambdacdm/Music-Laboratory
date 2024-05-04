@@ -7,7 +7,7 @@
 
 ### 流行 pop
 * LÜCY / [isahini](http://music.163.com/song?id=1954146692&userid=477097094) / 专辑：LÜCY / 2022.6
-* 缓缓 / [拥挤的城市还开着灯](http://music.163.com/song?id=1968773303&userid=477097094) / 专辑：蓝色的房间橘色的人 / 2022.8
+* 缓缓Huan Huan / [拥挤的城市还开着灯](http://music.163.com/song?id=1968773303&userid=477097094) / 专辑：蓝色的房间橘色的人 / 2022.8
 
 ### 梦幻流行/盯鞋摇滚 dream pop/shoegaze
 * Codie / [Mobius](http://music.163.com/song?id=1983259657&userid=477097094) / 专辑：相对性静止 / 2022.9

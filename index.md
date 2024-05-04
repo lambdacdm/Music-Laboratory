@@ -33,16 +33,16 @@
 
 ### 独立音乐
 * **NO.1** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：另类摇滚 艺术摇滚
-* **NO.2** 八仙饭店 / [吞吐 (Puff)](https://music.163.com/song?id=1811283484&userid=477097094) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1 / 风格：梦幻流行 迷幻摇滚
-* **NO.3** 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11 / 风格：朋克舞曲 车库摇滚复兴
-* **NO.4** 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12 / 风格：前卫摇滚 艺术摇滚
+* **NO.2** 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12 / 风格：前卫摇滚 艺术摇滚
+* **NO.3** 八仙饭店 / [吞吐 (Puff)](https://music.163.com/song?id=1811283484&userid=477097094) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1 / 风格：梦幻流行 迷幻摇滚
+* **NO.4** 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11 / 风格：朋克舞曲 车库摇滚复兴
 * **NO.5** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚
-* **NO.6** 缓缓 / [Charlie](http://music.163.com/song?id=1352801907&userid=477097094) / 专辑：Charlie / 2019.3 / 风格：盯鞋摇滚
-* **NO.7** 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4 / 风格：斯卡朋克
-* **NO.8** Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1 / 风格：后朋克 迷幻摇滚
-* **NO.9** 歪歪歪 / [一个人跳舞](http://music.163.com/song?id=1806567743&userid=477097094) / 专辑：不正 / 2020.12 / 风格：布鲁斯
-* **NO.10** 惘闻 / [敢问路在何方](http://music.163.com/song?id=1481636180&userid=477097094) / 专辑：十万个为什么 / 2020.9 / 风格：后摇滚
-* **NO.11** 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9 / 风格：后朋克
+* **NO.6** 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4 / 风格：斯卡朋克
+* **NO.7** Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1 / 风格：后朋克 迷幻摇滚
+* **NO.8** 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9 / 风格：后朋克
+* **NO.9** 缓缓 / [Charlie](http://music.163.com/song?id=1352801907&userid=477097094) / 专辑：Charlie / 2019.3 / 风格：盯鞋摇滚
+* **NO.10** 歪歪歪 / [一个人跳舞](http://music.163.com/song?id=1806567743&userid=477097094) / 专辑：不正 / 2020.12 / 风格：布鲁斯
+* **NO.11** 惘闻 / [敢问路在何方](http://music.163.com/song?id=1481636180&userid=477097094) / 专辑：十万个为什么 / 2020.9 / 风格：后摇滚
 * **NO.12** 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6 / 风格：前卫摇滚
 * **NO.13** 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10 / 风格：融合爵士 前卫摇滚
 * **NO.14** 假假條 / [黃鐘·太呂](http://music.163.com/song?id=1499797323&userid=477097094) / 专辑：法利勝神經 / 2020.11 / 风格：垃圾摇滚
@@ -50,21 +50,25 @@
 <!-- * **NO.15** Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9 / 风格：情绪摇滚 -->
 
 ### 主流音乐
-* **NO.1** 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12 / 风格：梦幻流行 另类节奏布鲁斯
+* **NO.1** 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12 / 风格：梦幻流行
 * **NO.2** 魏如萱 / [I Will Be Fine](http://music.163.com/song?id=442867303&userid=477097094) / 专辑：末路狂花 / 2016.11 / 风格：放克流行
 * **NO.3** 巴奈 / [总要](http://music.163.com/song?id=1495838813&userid=477097094) / 专辑：爱，不到 / 2020.11 / 风格：拉丁爵士
 * **NO.4** 苏打绿 / 痛快的哀艳 / 专辑：冬 未了 / 2015.11 / 风格：交响摇滚
-* **NO.5** 朱婧汐Akini Jing / Cure / 专辑：塑胶天堂 / 2020.9 / 风格：合成器浪潮
-* **NO.6** 周杰伦, 潘儿 / 夜的第七章 / 专辑：依然范特西 / 2006.9 / 风格：嘻哈 流行
-* **NO.7** 陶喆 / [黑色柳丁](http://music.163.com/song?id=150552&userid=477097094) / 专辑：黑色柳丁 / 2002.6 / 风格：重金属
-* **NO.8** 曾轶可 / [Need A Friend](http://music.163.com/song?id=862100067&userid=477097094) / 专辑：Anti ! Yico / 2018.6 / 风格：流行
-* **NO.9** 孙盛希 / [红苹果](http://music.163.com/song?id=1323302841&userid=477097094) / 专辑：希游记 / 2018.10 / 风格：放克 另类摇滚
-* **NO.10** YELLOW黄宣 / [ROSE WAYNE](http://music.163.com/song?id=1485891496&userid=477097094) / 专辑：浮世击 / 2020.10 / 风格：融合爵士
-* **NO.11** 张悬 / 玫瑰色的你 / 专辑：神的游戏 / 2012.8 / 风格：都市民谣 钢琴摇滚
+* **NO.5** 霍尊 / 卷珠帘 / 专辑：中国好歌曲 第一季 / 2014.1 / 风格：中国风
+* **NO.6** 朱婧汐Akini Jing / Cure / 专辑：塑胶天堂 / 2020.9 / 风格：合成器浪潮
+* **NO.7** 周杰伦 / 印第安老斑鸠 / 专辑：Jay / 2000.11 / 风格：爵士流行
+* **NO.8** 陶喆 / [黑色柳丁](http://music.163.com/song?id=150552&userid=477097094) / 专辑：黑色柳丁 / 2002.6 / 风格：重金属
+* **NO.9** 曾轶可 / [Need A Friend](http://music.163.com/song?id=862100067&userid=477097094) / 专辑：Anti ! Yico / 2018.6 / 风格：流行
+* **NO.10** 窦靖童 / [My Days](https://music.163.com/#/song?id=410628900) / 专辑：Stone Café / 2016.4 / 风格：流行
+* **NO.11** 陈珊妮 / [红眼睛](http://music.163.com/song?id=209301&userid=477097094) / 专辑：完美的呻吟 / 2000.12 / 风格：流行
+* **NO.12** 郭顶 / [凄美地](http://music.163.com/song?id=436346833&userid=477097094) / 专辑：飞行器的执行周期 / 2016.11 / 风格：另类摇滚 
+* **NO.13** 孙盛希 / [红苹果](http://music.163.com/song?id=1323302841&userid=477097094) / 专辑：希游记 / 2018.10 / 风格：放克 另类摇滚
+* **NO.14** 刘柏辛Lexie / [有吗炒面](https://music.163.com/#/song?id=1813795008) / 专辑：上线了 GONE GOLD / 2021.1 / 风格：合成器流行 电子舞曲
+* **NO.15** 张悬 / 玫瑰色的你 / 专辑：神的游戏 / 2012.8 / 风格：都市民谣 钢琴摇滚
+<!-- * **NO.16** YELLOW黄宣 / [ROSE WAYNE](http://music.163.com/song?id=1485891496&userid=477097094) / 专辑：浮世击 / 2020.10 / 风格：融合爵士
 * **NO.12** 艾怡良 / [夜晚出生的小孩](http://music.163.com/song?id=1334667449&userid=477097094) / 专辑：垂直活着，水平留恋着 / 2018.12 / 风格：流行
-* **NO.13** 郭顶 / [凄美地](http://music.163.com/song?id=436346833&userid=477097094) / 专辑：飞行器的执行周期 / 2016.11 / 风格：另类摇滚 
 * **NO.14** 王菲 / [光之翼](http://music.163.com/song?id=299508&userid=477097094) / 专辑：王菲 / 2001.10 / 风格：另类摇滚 
-* **NO.15** 方大同, Zion.T, Crush / [味道](http://music.163.com/song?id=431855965&userid=477097094) / 专辑：JTW西游记 / 2016.9 / 风格：节奏布鲁斯
+* **NO.15** 方大同, Zion.T, Crush / [味道](http://music.163.com/song?id=431855965&userid=477097094) / 专辑：JTW西游记 / 2016.9 / 风格：节奏布鲁斯 -->
 
 # 2022 华语音乐推荐
 见 [2022 华语音乐推荐](https://lambdacdm.github.io/Music-Laboratory/2022chinese.html) 
@@ -95,7 +99,7 @@
 * 郭采洁 / [NaKuNa](https://music.163.com/song?id=1857303974&userid=477097094) / 专辑：Vol.13-1986数羊 / 2021.7
 * 魏如萱 / [变形金刚](http://music.163.com/song?id=1855414338&userid=477097094) / 专辑：HAVE A NICE DAY / 2021.6
 * 潘高峰 / [霹雳](http://music.163.com/song?id=1855434855&userid=477097094) / 专辑：霹雳 / 2021.6
-* 刘柏辛Lexie / [SHADOW](http://music.163.com/song?id=1821292148&userid=477097094) / 专辑：上线了 GONE GOLD / 2021.1
+* 刘柏辛Lexie / [有吗炒面](https://music.163.com/#/song?id=1813795008) / 专辑：上线了 GONE GOLD / 2021.1
 
 <!-- * Everfor / [空中閣樓](http://music.163.com/song?id=1891990784&userid=477097094) / 专辑：空中阁楼 / 2021.10 -->
 <!-- * 疯医 / [定国湖](http://music.163.com/song?id=1829726307&userid=477097094) / 专辑：愿我们在黑暗的另一边相见 / 2021.3 -->
@@ -215,6 +219,7 @@
 * 表情银行MimikBanka / [阿明](http://music.163.com/song?id=413831860&userid=477097094) / 专辑：乒乓 / 2016.5
 * 假假條 / [盲山](http://music.163.com/song?id=421885313&userid=477097094) / 专辑：時代在召喚 / 2016.5
 * 杭盖乐队 / [轮回](http://music.163.com/song?id=31654650&userid=477097094) / 专辑：花斑马 / 2016.5
+* 窦靖童 / [My Days](https://music.163.com/#/song?id=410628900) / 专辑：Stone Café / 2016.4
 * 后海大鲨鱼 / [偷月亮的人](http://music.163.com/song?id=406072143&userid=477097094) / 专辑：心要野 / 2016.3
 * 草东没有派对 / 山海 / 专辑：丑奴儿 / 2016.2
 
@@ -228,7 +233,6 @@
 * Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9
 * 许哲珮 / [邮轮上的神秘女子](http://music.163.com/song?id=34770220&userid=477097094) / 专辑：摇摆电力公司 / 2015.9
 * 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7
-* 霍尊 / 卷珠帘 / 专辑：天韵·霍尊 / 2015.5
 * 张惠妹 / [母系社会](http://music.163.com/song?id=31311126&userid=477097094) / 专辑：阿密特2 / 2015.4
 
 外部链接：
@@ -238,6 +242,7 @@
 * 蔡依林 / [Play我呸](http://music.163.com/song?id=29572738&userid=477097094) / 专辑：呸 / 2014.11
 * 腰乐队 / [暑夜](http://music.163.com/song?id=28768110&userid=477097094) / 专辑：相见恨晚 / 2014.7
 * 皇后皮箱 / [人间惆怅客](http://music.163.com/song?id=29592146&userid=477097094) / 专辑：超時空歌女的快活 / 2014.7
+* 霍尊 / 卷珠帘 / 专辑：中国好歌曲 第一季 / 2014.1
 * 野外合作社 / [Mind the Gap](http://music.163.com/song?id=29740159&userid=477097094) / 专辑：野外合作社 / 2013.9
 * 二手玫瑰 / [仙儿](http://music.163.com/song?id=27501008&userid=477097094) / 专辑：一枝独秀 / 2013.7
 * 王若琳 / [Galaxy Crisis](http://music.163.com/song?id=25918343&userid=477097094) / 专辑：银河的危机: 最奇异的午夜转播 / 2013.3

@@ -93,7 +93,33 @@
 * [2023 华语音乐 年终盘点 你不能错过的11首歌曲](https://www.bilibili.com/video/BV1Zc411x7nQ/)
 
 # 2022 华语音乐推荐
-见 [2022 华语音乐推荐](https://lambdacdm.github.io/Music-Laboratory/2022chinese.html) 
+### 独立音乐
+* LÜCY / [isahini](http://music.163.com/song?id=1954146692&userid=477097094) / 专辑：LÜCY / 2022.6
+* Codie / [Mobius](http://music.163.com/song?id=1983259657&userid=477097094) / 专辑：相对性静止 / 2022.9
+* Deep Water / [Plague Me With Your Love](http://music.163.com/song?id=1930453738&userid=477097094) / 专辑：DEEP WATER / 2022.3
+* 喜辰晨 / [催眠师 Hypnotist](http://music.163.com/song?id=1915558268&userid=477097094) / 专辑：欲言又止 Lost for Words / 2022.1
+* 肖骏, 窦靖童 / [Somberton](http://music.163.com/song?id=1983688959&userid=477097094) / 专辑：Atypical Airship / 2022.9
+* Bremen Entertainment Inc. / [游牧世界](http://music.163.com/song?id=1958439854&userid=477097094) / 专辑：Taured / 2022.6
+* 表情银行MimikBanka / [三头狗 (Cerberus)](http://music.163.com/song?id=1958971863&userid=477097094) / 专辑：狗日子 (Dog Days) / 2022.6
+* 卧轨的火车(Railway Suicide Train) / [回路II (Circle Route II)](http://music.163.com/song?id=1954974535&userid=477097094) / 专辑：一些次要的时刻 / 2022.6
+* 大象体操, 九天民俗技艺团 / [众神的派对(feat. 九天民俗技艺团)](http://music.163.com/song?id=1946177368&userid=477097094) / 专辑：梦境 / 2022.5
+* 惘闻 / [奥林匹克广场](http://music.163.com/song?id=1988041650&userid=477097094) / 专辑：辛丑 壬寅 / 2022.10
+* 東京茶 / [丢海](http://music.163.com/song?id=1915572261&userid=477097094) / 专辑：在山的那边 / 2022.2
+* 绝对纯洁(Absolute Purity) / [绝对纯洁](http://music.163.com/song?id=1924224270&userid=477097094) / 专辑：We Fought Over The Moon / 2022.3
+
+### 主流音乐
+* 林昱君 / 今天不想 / 专辑：今天不想 / 2022.12
+* 朱婧汐Akini Jing, Chace / 不想当阿龙 Don't Wanna Be Alone / 专辑：永无止境的告别 Endless Farewell / 2022.7
+* 王若琳 / Tina's Hausu / 单曲：Tina's Hausu / 2022.10
+* 刘柏辛Lexie / 干嘛 / 专辑：幸福星 / 2022.12
+* 叶颖 / 吹眠 / 专辑：活得像自己的名字 / 2022.5
+* 周杰伦 / Mojito / 专辑：最伟大的作品 / 2022.7
+* 陈珊妮 / 罪美 / 专辑：调教 / 2022.5
+* 9m88 / Tell Me / 专辑：9m88 Radio / 2022.8
+* 吴青峰 / (......催眠大师) / 专辑：马拉美的星期二 / 2022.9
+
+更多歌曲推荐及乐评详见 
+* [2022 华语音乐推荐](https://lambdacdm.github.io/Music-Laboratory/2022chinese.html) 
 
 同时移步b站视频
 * [2022 华语乐坛 独立音乐 按曲风分类的20首年终盘点](https://www.bilibili.com/video/BV1L24y1Q77v/)

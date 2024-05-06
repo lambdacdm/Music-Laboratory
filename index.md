@@ -47,7 +47,8 @@
 * **NO.13** 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10 / 风格：融合爵士 前卫摇滚
 * **NO.14** 假假條 / [黃鐘·太呂](http://music.163.com/song?id=1499797323&userid=477097094) / 专辑：法利勝神經 / 2020.11 / 风格：垃圾摇滚
 * **NO.15** 野外合作社 / [诚实假日酒店](http://music.163.com/song?id=565890722&userid=477097094) / 专辑：台风 / 2018.5 / 风格：前卫摇滚
-<!-- * **NO.15** Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9 / 风格：情绪摇滚 -->
+
+<!-- **NO.15** Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9 / 风格：情绪摇滚 -->
 
 ### 主流音乐
 * **NO.1** 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12 / 风格：梦幻流行
@@ -65,7 +66,8 @@
 * **NO.13** 孙盛希 / [红苹果](http://music.163.com/song?id=1323302841&userid=477097094) / 专辑：希游记 / 2018.10 / 风格：放克 另类摇滚
 * **NO.14** 刘柏辛Lexie / [有吗炒面](https://music.163.com/#/song?id=1813795008) / 专辑：上线了 GONE GOLD / 2021.1 / 风格：合成器流行 电子舞曲
 * **NO.15** 张悬 / 玫瑰色的你 / 专辑：神的游戏 / 2012.8 / 风格：都市民谣 钢琴摇滚
-<!-- * **NO.16** YELLOW黄宣 / [ROSE WAYNE](http://music.163.com/song?id=1485891496&userid=477097094) / 专辑：浮世击 / 2020.10 / 风格：融合爵士
+  
+<!-- **NO.16** YELLOW黄宣 / [ROSE WAYNE](http://music.163.com/song?id=1485891496&userid=477097094) / 专辑：浮世击 / 2020.10 / 风格：融合爵士
 * **NO.12** 艾怡良 / [夜晚出生的小孩](http://music.163.com/song?id=1334667449&userid=477097094) / 专辑：垂直活着，水平留恋着 / 2018.12 / 风格：流行
 * **NO.14** 王菲 / [光之翼](http://music.163.com/song?id=299508&userid=477097094) / 专辑：王菲 / 2001.10 / 风格：另类摇滚 
 * **NO.15** 方大同, Zion.T, Crush / [味道](http://music.163.com/song?id=431855965&userid=477097094) / 专辑：JTW西游记 / 2016.9 / 风格：节奏布鲁斯 -->

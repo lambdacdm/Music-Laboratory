@@ -56,18 +56,19 @@
 * **NO.3** 巴奈 / [总要](http://music.163.com/song?id=1495838813&userid=477097094) / 专辑：爱，不到 / 2020.11 / 风格：拉丁爵士
 * **NO.4** 苏打绿 / 痛快的哀艳 / 专辑：冬 未了 / 2015.11 / 风格：交响摇滚
 * **NO.5** 霍尊 / 卷珠帘 / 专辑：中国好歌曲 第一季 / 2014.1 / 风格：中国风
-* **NO.6** 朱婧汐Akini Jing / Cure / 专辑：塑胶天堂 / 2020.9 / 风格：合成器浪潮
-* **NO.7** 周杰伦 / 印第安老斑鸠 / 专辑：Jay / 2000.11 / 风格：爵士流行
-* **NO.8** 陶喆 / [黑色柳丁](http://music.163.com/song?id=150552&userid=477097094) / 专辑：黑色柳丁 / 2002.6 / 风格：重金属
-* **NO.9** 曾轶可 / [Need A Friend](http://music.163.com/song?id=862100067&userid=477097094) / 专辑：Anti ! Yico / 2018.6 / 风格：流行
-* **NO.10** 窦靖童 / [My Days](https://music.163.com/#/song?id=410628900) / 专辑：Stone Café / 2016.4 / 风格：流行
-* **NO.11** 陈珊妮 / [红眼睛](http://music.163.com/song?id=209301&userid=477097094) / 专辑：完美的呻吟 / 2000.12 / 风格：流行
-* **NO.12** 郭顶 / [凄美地](http://music.163.com/song?id=436346833&userid=477097094) / 专辑：飞行器的执行周期 / 2016.11 / 风格：另类摇滚 
-* **NO.13** 孙盛希 / [红苹果](http://music.163.com/song?id=1323302841&userid=477097094) / 专辑：希游记 / 2018.10 / 风格：放克 另类摇滚
-* **NO.14** 刘柏辛Lexie / [有吗炒面](https://music.163.com/#/song?id=1813795008) / 专辑：上线了 GONE GOLD / 2021.1 / 风格：合成器流行 电子舞曲
-* **NO.15** 张悬 / 玫瑰色的你 / 专辑：神的游戏 / 2012.8 / 风格：都市民谣 钢琴摇滚
+* **NO.6** 王若琳 / [Hotel La Rut](https://music.163.com/#/song?id=2149456048) / 专辑：Hotel La Rut / 2024.5 / 风格：前卫流行 艺术流行
+* **NO.7** 朱婧汐Akini Jing / Cure / 专辑：塑胶天堂 / 2020.9 / 风格：合成器浪潮
+* **NO.8** 周杰伦 / 印第安老斑鸠 / 专辑：Jay / 2000.11 / 风格：爵士流行
+* **NO.9** 陶喆 / [黑色柳丁](http://music.163.com/song?id=150552&userid=477097094) / 专辑：黑色柳丁 / 2002.6 / 风格：重金属
+* **NO.10** 曾轶可 / [Need A Friend](http://music.163.com/song?id=862100067&userid=477097094) / 专辑：Anti ! Yico / 2018.6 / 风格：流行
+* **NO.11** 窦靖童 / [My Days](https://music.163.com/#/song?id=410628900) / 专辑：Stone Café / 2016.4 / 风格：流行
+* **NO.12** 陈珊妮 / [红眼睛](http://music.163.com/song?id=209301&userid=477097094) / 专辑：完美的呻吟 / 2000.12 / 风格：流行
+* **NO.13** 郭顶 / [凄美地](http://music.163.com/song?id=436346833&userid=477097094) / 专辑：飞行器的执行周期 / 2016.11 / 风格：另类摇滚 
+* **NO.14** 孙盛希 / [红苹果](http://music.163.com/song?id=1323302841&userid=477097094) / 专辑：希游记 / 2018.10 / 风格：放克 另类摇滚
+* **NO.15** 刘柏辛Lexie / [有吗炒面](https://music.163.com/#/song?id=1813795008) / 专辑：上线了 GONE GOLD / 2021.1 / 风格：合成器流行 电子舞曲
   
-<!-- **NO.16** YELLOW黄宣 / [ROSE WAYNE](http://music.163.com/song?id=1485891496&userid=477097094) / 专辑：浮世击 / 2020.10 / 风格：融合爵士
+<!-- **NO.15** 张悬 / 玫瑰色的你 / 专辑：神的游戏 / 2012.8 / 风格：都市民谣 钢琴摇滚
+**NO.16** YELLOW黄宣 / [ROSE WAYNE](http://music.163.com/song?id=1485891496&userid=477097094) / 专辑：浮世击 / 2020.10 / 风格：融合爵士
 * **NO.12** 艾怡良 / [夜晚出生的小孩](http://music.163.com/song?id=1334667449&userid=477097094) / 专辑：垂直活着，水平留恋着 / 2018.12 / 风格：流行
 * **NO.14** 王菲 / [光之翼](http://music.163.com/song?id=299508&userid=477097094) / 专辑：王菲 / 2001.10 / 风格：另类摇滚 
 * **NO.15** 方大同, Zion.T, Crush / [味道](http://music.163.com/song?id=431855965&userid=477097094) / 专辑：JTW西游记 / 2016.9 / 风格：节奏布鲁斯 -->
@@ -79,11 +80,11 @@
 * Otay:onii / [重叠](https://music.163.com/#/song?id=2024385028) / 专辑：夢之駭客
 * 李林妲, 肖骏 / [Back to you](https://music.163.com/#/song?id=2052326903) / 单曲：Back to you
 * 表情银行Mimik Banka / [狙击手与陨石](https://music.163.com/#/song?id=2080173889) / 专辑：嘿！岛
-* 遗忘俱乐部 / [I'm Sorry](https://music.163.com/#/song?id=2053969602) / 专辑：Forgotten Club
 * 缺省 / [余烬](https://music.163.com/#/song?id=2082538428) / 专辑：共同的土地
 * 我是機車少女 / [Hard to Say](https://music.163.com/#/song?id=2092310478) / 专辑：I'mdifficult
 * 缓缓Huan Huan / [Mrs.Archi](https://music.163.com/#/song?id=2087079064) / 专辑：浏海被风吹得整个飞起来
 * DOUDOU / [最终观测](https://music.163.com/#/song?id=2093895545) / 单曲：最终观测
+<!-- * 遗忘俱乐部 / [I'm Sorry](https://music.163.com/#/song?id=2053969602) / 专辑：Forgotten Club -->
 
 ### 主流音乐
 * 刘柏辛Lexie / [delulu](https://music.163.com/#/song?id=2096065238) / 单曲：delulu
@@ -113,13 +114,13 @@
 ### 主流音乐
 * 林昱君 / [今天不想](https://music.163.com/#/song?id=2004646177) / 专辑：今天不想 / 2022.12
 * 朱婧汐Akini Jing, Chace / [不想当阿龙 Don't Wanna Be Alone](https://music.163.com/#/song?id=1966783214)) / 专辑：永无止境的告别 Endless Farewell / 2022.7
-* 王若琳 / [Tina's Hausu](https://music.163.com/#/song?id=1990179632) / 单曲：Tina's Hausu / 2022.10
 * 刘柏辛Lexie / [干嘛](https://music.163.com/#/song?id=2000414968) / 专辑：幸福星 / 2022.12
 * 叶颖 / [吹眠](https://music.163.com/#/song?id=1947086457) / 专辑：活得像自己的名字 / 2022.5
 * 周杰伦 / Mojito / 专辑：最伟大的作品 / 2022.7
 * 陈珊妮 / [罪美](https://music.163.com/#/song?id=1948826157) / 专辑：调教 / 2022.5
 * 9m88 / [Tell Me](https://music.163.com/#/song?id=1961720583) / 专辑：9m88 Radio / 2022.8
 * 吴青峰 / [(......催眠大师)](https://music.163.com/#/song?id=1989142301) / 专辑：马拉美的星期二 / 2022.9
+<!-- * 王若琳 / [Tina's Hausu](https://music.163.com/#/song?id=1990179632) / 单曲：Tina's Hausu / 2022.10 -->
 
 更多歌曲推荐及乐评详见 
 * [2022 华语音乐推荐](https://lambdacdm.github.io/Music-Laboratory/2022chinese.html) 

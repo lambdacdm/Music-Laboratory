@@ -95,6 +95,9 @@
 同时移步b站视频
 * [2023 华语音乐 年终盘点 你不能错过的11首歌曲](https://www.bilibili.com/video/BV1Zc411x7nQ/)
 
+外部链接：
+* [第35届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC35%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
+
 # 2022 华语音乐推荐
 ### 独立音乐
 * LÜCY / [isahini](http://music.163.com/song?id=1954146692&userid=477097094) / 专辑：LÜCY / 2022.6

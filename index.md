@@ -249,6 +249,7 @@
 * 林忆莲 / [沙文](http://music.163.com/song?id=1334667453&userid=477097094) / 专辑：0 / 2018.12
 * 蔡依林 / 怪美的 / 专辑：UGLY BEAUTY / 2018.12
 * 孙盛希 / [红苹果](http://music.163.com/song?id=1323302841&userid=477097094) / 专辑：希游记 / 2018.10
+* 王若琳 / [莎宾娜，不要再结婚了！](https://music.163.com/#/song?id=1298780924) / 专辑：摩登悲剧 / 2018.8
 * 惘闻 / [大连，勿语](http://music.163.com/song?id=862100903&userid=477097094) / 专辑：看不见的城市 / 2018.7
 * 曾轶可 / [Need A Friend](http://music.163.com/song?id=862100067&userid=477097094) / 专辑：Anti ! Yico / 2018.6
 * 野外合作社 / [诚实假日酒店](http://music.163.com/song?id=565890722&userid=477097094) / 专辑：台风 / 2018.5

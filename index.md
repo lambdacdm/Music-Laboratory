@@ -38,7 +38,7 @@
 * **NO.6** 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4 / 风格：斯卡朋克
 * **NO.7** Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1 / 风格：后朋克 迷幻摇滚
 * **NO.8** 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9 / 风格：后朋克
-* **NO.9** 缓缓Huan Huan / [Charlie](http://music.163.com/song?id=1352801907&userid=477097094) / 专辑：Charlie / 2019.3 / 风格：盯鞋摇滚
+* **NO.9** Baby Formula / [苏菲的世界](https://music.163.com/#/song?id=28029278) / 专辑：Baby Formula / 2013.10 / 风格：盯鞋摇滚
 * **NO.10** 歪歪歪 / [一个人跳舞](http://music.163.com/song?id=1806567743&userid=477097094) / 专辑：不正 / 2020.12 / 风格：布鲁斯
 * **NO.11** 惘闻 / [敢问路在何方](http://music.163.com/song?id=1481636180&userid=477097094) / 专辑：十万个为什么 / 2020.9 / 风格：后摇滚
 * **NO.12** 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6 / 风格：前卫摇滚
@@ -303,6 +303,7 @@
 * 腰乐队 / [暑夜](http://music.163.com/song?id=28768110&userid=477097094) / 专辑：相见恨晚 / 2014.7
 * 皇后皮箱 / [人间惆怅客](http://music.163.com/song?id=29592146&userid=477097094) / 专辑：超時空歌女的快活 / 2014.7
 * 霍尊 / 卷珠帘 / 专辑：中国好歌曲 第一季 / 2014.1
+* Baby Formula / [苏菲的世界](https://music.163.com/#/song?id=28029278) / 专辑：Baby Formula / 2013.10
 * 野外合作社 / [Mind the Gap](http://music.163.com/song?id=29740159&userid=477097094) / 专辑：野外合作社 / 2013.9
 * 二手玫瑰 / [仙儿](http://music.163.com/song?id=27501008&userid=477097094) / 专辑：一枝独秀 / 2013.7
 * 王若琳 / [Galaxy Crisis](http://music.163.com/song?id=25918343&userid=477097094) / 专辑：银河的危机: 最奇异的午夜转播 / 2013.3

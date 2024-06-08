@@ -318,6 +318,7 @@
 * 王若琳 / [Only Child](https://music.163.com/#/song?id=25699043) / 专辑：The Adventures of Bernie the Schoolboy / 2011.10
 * 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11
 * 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10
+* Joyside / [Gagaga](https://music.163.com/#/song?id=360703) / 专辑：Joyside同名专辑 / 2010.9
 * 周杰伦 / 免费教学录影带 / 专辑：跨时代 / 2010.5
 * Bei Bei, Shawn Lee / [East](http://music.163.com/song?id=3969989&userid=477097094) / 专辑：Into the Wind / 2010.1
 

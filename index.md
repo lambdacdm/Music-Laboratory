@@ -305,6 +305,7 @@
 * 霍尊 / 卷珠帘 / 专辑：中国好歌曲 第一季 / 2014.1
 * Baby Formula / [苏菲的世界](https://music.163.com/#/song?id=28029278) / 专辑：Baby Formula / 2013.10
 * 野外合作社 / [Mind the Gap](http://music.163.com/song?id=29740159&userid=477097094) / 专辑：野外合作社 / 2013.9
+* P.K.14 / [冰的世纪](https://music.163.com/#/song?id=27681714) / 专辑：1984 / 2013.8
 * 二手玫瑰 / [仙儿](http://music.163.com/song?id=27501008&userid=477097094) / 专辑：一枝独秀 / 2013.7
 * 王若琳 / [Galaxy Crisis](http://music.163.com/song?id=25918343&userid=477097094) / 专辑：银河的危机: 最奇异的午夜转播 / 2013.3
 * 周杰伦 / 比较大的大提琴 / 专辑：十二新作 / 2012.12

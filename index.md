@@ -347,7 +347,7 @@
 
 # 外部歌单
 * 雪岭洞箫声Snowii / [2010年代华语主流流行乐专辑20张推荐](https://zhuanlan.zhihu.com/p/150214926) / 网易云歌单
-* 温带复调 / [一〇年代华语地区最佳专辑名单](https://zhuanlan.zhihu.com/p/100530802)) / [网易云歌单](https://music.163.com/#/playlist?id=3182816815)
+* 温带复调 / [一〇年代华语地区最佳专辑名单](https://zhuanlan.zhihu.com/p/100530802) / [网易云歌单](https://music.163.com/#/playlist?id=3182816815)
 * UPEE乐评 / [华语最佳五百张发行](https://zhuanlan.zhihu.com/p/633726027) / [网易云歌单](https://music.163.com/#/playlist?id=8449635710)
 
 # 《中国好歌曲》节目中好歌推荐

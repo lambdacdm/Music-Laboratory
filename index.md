@@ -350,10 +350,15 @@
 * UPEE乐评 / [华语最佳五百张发行](https://zhuanlan.zhihu.com/p/633726027) / [网易云歌单](https://music.163.com/#/playlist?id=8449635710) / 专辑数：500
 * 共轭曲谱 / [中国最伟大的一百张专辑](https://www.zhihu.com/question/579797477/answer/2854167309) / 专辑数：100
   
-### 特定年代
+### 2010年代
 * 温带复调 / [一〇年代华语地区最佳专辑名单](https://zhuanlan.zhihu.com/p/100530802) / [网易云歌单](https://music.163.com/#/playlist?id=3182816815) / 专辑数：50
 * 雪岭洞箫声Snowii / [2010年代华语主流流行乐专辑20张推荐](https://zhuanlan.zhihu.com/p/150214926) / 专辑数：20
+
+### 2000年代
 * 郭佳 / [华语通俗专辑00年代200佳](https://zhuanlan.zhihu.com/p/643096587) / 专辑数：200
+
+### 1990年代
+* 郭佳 / [90年代华语乐坛300佳专辑](https://zhuanlan.zhihu.com/p/667147307) / 专辑数：300
 
 # 《中国好歌曲》节目中好歌推荐
 * **NO.1** 霍尊 / 卷珠帘 / 第一季 / 风格：中国风

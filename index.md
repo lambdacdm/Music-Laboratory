@@ -37,9 +37,9 @@
 * **NO.5** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚
 * **NO.6** 八仙饭店 / [青少年哪吒 (Neon God)](https://music.163.com/#/song?id=1811506614) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1 / 风格：垃圾摇滚 迷幻摇滚
 * **NO.7** Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1 / 风格：后朋克 迷幻摇滚
-* **NO.8** 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9 / 风格：后朋克
-* **NO.9** 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4 / 风格：斯卡朋克
-* **NO.10** Baby Formula / [苏菲的世界](https://music.163.com/#/song?id=28029278) / 专辑：Baby Formula / 2013.10 / 风格：盯鞋摇滚
+* **NO.8** Baby Formula / [苏菲的世界](https://music.163.com/#/song?id=28029278) / 专辑：Baby Formula / 2013.10 / 风格：盯鞋摇滚
+* **NO.9** 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9 / 风格：后朋克
+* **NO.10** 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4 / 风格：斯卡朋克
 * **NO.11** 歪歪歪 / [一个人跳舞](http://music.163.com/song?id=1806567743&userid=477097094) / 专辑：不正 / 2020.12 / 风格：布鲁斯
 * **NO.12** 惘闻 / [敢问路在何方](http://music.163.com/song?id=1481636180&userid=477097094) / 专辑：十万个为什么 / 2020.9 / 风格：后摇滚
 * **NO.13** 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6 / 风格：前卫摇滚
@@ -51,8 +51,8 @@
 * **NO.1** 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12 / 风格：梦幻流行
 * **NO.2** 王若琳 / [Hotel La Rut](https://music.163.com/#/song?id=2149456048) / 专辑：Hotel La Rut / 2024.5 / 风格：前卫流行 艺术流行
 * **NO.3** 巴奈 / [总要](http://music.163.com/song?id=1495838813&userid=477097094) / 专辑：爱，不到 / 2020.11 / 风格：拉丁爵士
-* **NO.4** 魏如萱 / [I Will Be Fine](http://music.163.com/song?id=442867303&userid=477097094) / 专辑：末路狂花 / 2016.11 / 风格：放克流行
-* **NO.5** 苏打绿 / 痛快的哀艳 / 专辑：冬 未了 / 2015.11 / 风格：交响摇滚
+* **NO.4** 苏打绿 / 痛快的哀艳 / 专辑：冬 未了 / 2015.11 / 风格：交响摇滚
+* **NO.5** 魏如萱 / [I Will Be Fine](http://music.163.com/song?id=442867303&userid=477097094) / 专辑：末路狂花 / 2016.11 / 风格：放克流行
 * **NO.6** 霍尊 / 卷珠帘 / 专辑：中国好歌曲 第一季 / 2014.1 / 风格：中国风
 * **NO.7** 朱婧汐Akini Jing / Cure / 专辑：塑胶天堂 / 2020.9 / 风格：合成器浪潮
 * **NO.8** 周杰伦 / 印第安老斑鸠 / 专辑：Jay / 2000.11 / 风格：爵士流行

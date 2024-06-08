@@ -288,6 +288,7 @@
 
 # 2015 华语音乐推荐
 * 谭维维 / 给你一点颜色 / 专辑：中国之星 第3期 / 2015.12
+* Howie Lee, Zhang Yang / [尚](https://music.163.com/#/song?id=39227134) / 专辑：木屮山出 / 2015.12
 * 蔡健雅 / [偷窥秀](http://music.163.com/song?id=36664207&userid=477097094) / 专辑：失语者 / 2015.11
 * 苏打绿 / 痛快的哀艳 / 专辑：冬 未了 / 2015.11
 * Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9

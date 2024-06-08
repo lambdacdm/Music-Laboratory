@@ -345,6 +345,11 @@
 * 唐朝乐队 / [梦回唐朝](http://music.163.com/song?id=381920&userid=477097094) / 专辑：唐朝 同名专辑 / 1992.12
 * 齐豫 / [欢颜](http://music.163.com/song?id=285021&userid=477097094) / 专辑：橄榄树 / 1979.7
 
+# 外部歌单
+* 雪岭洞箫声Snowii / 2010年代华语主流流行乐专辑20张推荐 / 歌单 / [名单](https://zhuanlan.zhihu.com/p/150214926)
+* 温带复调 / 一〇年代华语地区最佳专辑名单 / [歌单](https://music.163.com/#/playlist?id=3182816815) / [名单](https://zhuanlan.zhihu.com/p/100530802)
+* UPEE乐评 / 华语最佳五百张发行 / [歌单](https://music.163.com/#/playlist?id=8449635710) / [名单](https://zhuanlan.zhihu.com/p/633726027)
+
 # 《中国好歌曲》节目中好歌推荐
 * **NO.1** 霍尊 / 卷珠帘 / 第一季 / 风格：中国风
 * **NO.2** 苏紫旭 / 融·解 / 第二季 / 风格：融合爵士 前卫摇滚

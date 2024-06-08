@@ -349,6 +349,7 @@
 ### of All Time
 * UPEE乐评 / [华语最佳五百张发行](https://zhuanlan.zhihu.com/p/633726027) / [网易云歌单](https://music.163.com/#/playlist?id=8449635710) / 专辑数：500
 * 共轭曲谱 / [中国最伟大的一百张专辑](https://www.zhihu.com/question/579797477/answer/2854167309) / 专辑数：100
+* RYM / [rate your music中国地区最佳专辑榜](https://rateyourmusic.com/charts/top/album/all-time/loc:china,taiwan,hong%2dkong/)
   
 ### 2010年代
 * 温带复调 / [一〇年代华语地区最佳专辑名单](https://zhuanlan.zhihu.com/p/100530802) / [网易云歌单](https://music.163.com/#/playlist?id=3182816815) / 专辑数：50

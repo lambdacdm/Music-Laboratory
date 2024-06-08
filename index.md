@@ -32,20 +32,19 @@
 ### 独立音乐
 * **NO.1** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：另类摇滚 艺术摇滚
 * **NO.2** 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12 / 风格：前卫摇滚 艺术摇滚
-* **NO.3** 八仙饭店 / [吞吐 (Puff)](https://music.163.com/song?id=1811283484&userid=477097094) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1 / 风格：梦幻流行 迷幻摇滚
-* **NO.4** 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11 / 风格：朋克舞曲 车库摇滚复兴
+* **NO.3** 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10 / 风格：朋克
+* **NO.4** 假假條 / [湘靈鼓瑟](https://music.163.com/#/song?id=411754531) / 专辑：時代在召喚 / 2016.5 / 风格：垃圾摇滚
 * **NO.5** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚
-* **NO.6** 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4 / 风格：斯卡朋克
+* **NO.6** 八仙饭店 / [青少年哪吒 (Neon God)](https://music.163.com/#/song?id=1811506614) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1 / 风格：垃圾摇滚 迷幻摇滚
 * **NO.7** Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1 / 风格：后朋克 迷幻摇滚
 * **NO.8** 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9 / 风格：后朋克
-* **NO.9** Baby Formula / [苏菲的世界](https://music.163.com/#/song?id=28029278) / 专辑：Baby Formula / 2013.10 / 风格：盯鞋摇滚
-* **NO.10** 歪歪歪 / [一个人跳舞](http://music.163.com/song?id=1806567743&userid=477097094) / 专辑：不正 / 2020.12 / 风格：布鲁斯
-* **NO.11** 惘闻 / [敢问路在何方](http://music.163.com/song?id=1481636180&userid=477097094) / 专辑：十万个为什么 / 2020.9 / 风格：后摇滚
-* **NO.12** 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6 / 风格：前卫摇滚
-* **NO.13** 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10 / 风格：融合爵士 前卫摇滚
-* **NO.14** 假假條 / [黃鐘·太呂](http://music.163.com/song?id=1499797323&userid=477097094) / 专辑：法利勝神經 / 2020.11 / 风格：垃圾摇滚
+* **NO.9** 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4 / 风格：斯卡朋克
+* **NO.10** Baby Formula / [苏菲的世界](https://music.163.com/#/song?id=28029278) / 专辑：Baby Formula / 2013.10 / 风格：盯鞋摇滚
+* **NO.11** 歪歪歪 / [一个人跳舞](http://music.163.com/song?id=1806567743&userid=477097094) / 专辑：不正 / 2020.12 / 风格：布鲁斯
+* **NO.12** 惘闻 / [敢问路在何方](http://music.163.com/song?id=1481636180&userid=477097094) / 专辑：十万个为什么 / 2020.9 / 风格：后摇滚
+* **NO.13** 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6 / 风格：前卫摇滚
+* **NO.14** 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10 / 风格：融合爵士 前卫摇滚
 * **NO.15** 野外合作社 / [诚实假日酒店](http://music.163.com/song?id=565890722&userid=477097094) / 专辑：台风 / 2018.5 / 风格：前卫摇滚
-
 <!-- **NO.15** Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9 / 风格：情绪摇滚 -->
 
 ### 主流音乐
@@ -145,7 +144,7 @@
 * 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4
 * 祁紫檀 / [生命从无法被概括](http://music.163.com/song?id=1821481546&userid=477097094) / 单曲：生命从无法被概括 / 2021.3
 * 福禄寿FloruitShow / [超度我](http://music.163.com/song?id=1818820552&userid=477097094) / 专辑：我用什么把你留住 / 2021.2
-* 八仙饭店 / [吞吐 (Puff)](https://music.163.com/song?id=1811283484&userid=477097094) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1
+* 八仙饭店 / [青少年哪吒 (Neon God)](https://music.163.com/#/song?id=1811506614) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1
 * 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1
 
 ### 主流音乐
@@ -278,7 +277,7 @@
 * 周杰伦 / 床边故事 / 专辑：周杰伦的床边故事 / 2016.6
 * 艾怡良 / [逃生计划](http://music.163.com/song?id=414979306&userid=477097094) / 专辑：说 艾怡良 / 2016.5
 * 表情银行MimikBanka / [阿明](http://music.163.com/song?id=413831860&userid=477097094) / 专辑：乒乓 / 2016.5
-* 假假條 / [盲山](http://music.163.com/song?id=421885313&userid=477097094) / 专辑：時代在召喚 / 2016.5
+* 假假條 / [湘靈鼓瑟](https://music.163.com/#/song?id=411754531) / 专辑：時代在召喚 / 2016.5
 * 杭盖乐队 / [轮回](http://music.163.com/song?id=31654650&userid=477097094) / 专辑：花斑马 / 2016.5
 * 窦靖童 / [My Days](https://music.163.com/#/song?id=410628900) / 专辑：Stone Café / 2016.4
 * 后海大鲨鱼 / [偷月亮的人](http://music.163.com/song?id=406072143&userid=477097094) / 专辑：心要野 / 2016.3

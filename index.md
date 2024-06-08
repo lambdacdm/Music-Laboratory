@@ -312,6 +312,7 @@
 * 张悬 / 玫瑰色的你 / 专辑：神的游戏 / 2012.8
 * G.E.M.邓紫棋 / [潜意式的残酷](http://music.163.com/song?id=233932&userid=477097094) / 专辑：Xposed / 2012.7
 * 魏如萱 / [脱光光](http://music.163.com/song?id=297703&userid=477097094) / 专辑：不允许哭泣的场合 / 2011.11
+* 王若琳 / [Only Child](https://music.163.com/#/song?id=25699043) / 专辑：The Adventures of Bernie the Schoolboy / 2011.10
 * 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11
 * 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10
 * 周杰伦 / 免费教学录影带 / 专辑：跨时代 / 2010.5

@@ -81,8 +81,9 @@
 * 我是機車少女 / [Hard to Say](https://music.163.com/#/song?id=2092310478) / 专辑：I'mdifficult
 * 缓缓Huan Huan / [Mrs.Archi](https://music.163.com/#/song?id=2087079064) / 专辑：浏海被风吹得整个飞起来
 * DOUDOU / [最终观测](https://music.163.com/#/song?id=2093895545) / 单曲：最终观测
-* 潘PAN, Grimes / [人為機器 (Humans Become Machines)](https://music.163.com/#/song?id=2097154896) / 专辑：Humans Become Machines
-<!-- * 遗忘俱乐部 / [I'm Sorry](https://music.163.com/#/song?id=2053969602) / 专辑：Forgotten Club -->
+* 陈丽妃 / [向前走](https://music.163.com/#/album?id=173273658) / 专辑：女己
+<!-- * 潘PAN, Grimes / [人為機器 (Humans Become Machines)](https://music.163.com/#/song?id=2097154896) / 专辑：Humans Become Machines
+ * 遗忘俱乐部 / [I'm Sorry](https://music.163.com/#/song?id=2053969602) / 专辑：Forgotten Club -->
 
 ### 主流音乐
 * 刘柏辛Lexie / [delulu](https://music.163.com/#/song?id=2096065238) / 单曲：delulu

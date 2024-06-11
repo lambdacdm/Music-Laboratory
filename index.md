@@ -23,7 +23,12 @@
 
 # 我个人最喜欢的华语音乐
 
-我的兴趣集中于shoegaze（盯鞋摇滚），dream pop（梦幻流行），alternative rock（另类摇滚）。
+我的兴趣集中于
+* shoegaze（盯鞋摇滚）
+* dream pop（梦幻流行）
+* alternative rock（另类摇滚）
+* neo-psychedelic（新迷幻）
+* slacker rock（
 
 **下述排名完全按照主观喜好排名。**
 
@@ -401,4 +406,5 @@
 lxqd2021@outlook.com
 
 * 我的网易云音乐播客 [声学实验室](http://music.163.com/radio/?id=794396440&userid=477097094)
-* 我的[github主页](https://github.com/lambdacdm)
+* 我的rate your music主页 [lxqd2021](https://rateyourmusic.com/~lxqd2021)
+* 我的github主页 [lambdacdm](https://github.com/lambdacdm)

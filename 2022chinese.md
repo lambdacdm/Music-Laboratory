@@ -40,7 +40,8 @@
 * 绝对纯洁(Absolute Purity) / [绝对纯洁](http://music.163.com/song?id=1924224270&userid=477097094) / 专辑：We Fought Over The Moon / 2022.3
 * 法兹乐队FAZI / [热死荒梁](http://music.163.com/song?id=1929356873&userid=477097094) / 专辑：折叠故事 / 2022.3
 
-### 民谣 folk
+### 民谣与民俗 folk
+* 同根生 / [抢孤 Chiang Ku](https://music.163.com/#/song?id=1966887963) / 专辑：边缘转生术 Holy Gazai / 2022.8
 * 生祥乐队 / [议场猴话研究](http://music.163.com/song?id=1990760478&userid=477097094) / 专辑：江湖卡夫卡 / 2022.10
 
 ### 放克/迪斯科 funk/disco

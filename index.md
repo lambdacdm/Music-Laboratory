@@ -23,19 +23,18 @@
 
 # 我个人最喜欢的华语音乐
 
-我的兴趣集中于梦幻或同时带有失真的音乐。具体而言，
-* shoegaze（盯鞋摇滚）
-* dream pop（梦幻流行）
-* alternative rock（另类摇滚）
-* neo-psychedelic（新迷幻）
-* slacker rock（低保真摇滚）
+我的兴趣集中于如下性质的音乐：
+* 【梦幻/迷幻】：dream pop（梦幻流行）, neo-psychedelic（新迷幻）
+* 【失真/低保真】：shoegaze（盯鞋摇滚）, slacker rock（低保真摇滚）
+* 【独立气质】：alternative rock（另类摇滚）
+* 【旋律性】：chamber pop（室内流行）
 
 **下述排名完全按照主观喜好排名。**
 
 下述发行时间以豆瓣音乐为准。歌曲的风格界定参考rate your music. 
 
 ### 独立音乐
-* **NO.1** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：另类摇滚 艺术摇滚
+* **NO.1** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：另类摇滚 室内流行
 * **NO.2** 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12 / 风格：前卫摇滚 艺术摇滚
 * **NO.3** 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10 / 风格：朋克舞曲
 * **NO.4** 假假條 / [湘靈鼓瑟](https://music.163.com/#/song?id=411754531) / 专辑：時代在召喚 / 2016.5 / 风格：垃圾摇滚
@@ -298,6 +297,7 @@
 * 表情银行MimikBanka / [阿明](http://music.163.com/song?id=413831860&userid=477097094) / 专辑：乒乓 / 2016.5
 * 假假條 / [湘靈鼓瑟](https://music.163.com/#/song?id=411754531) / 专辑：時代在召喚 / 2016.5
 * 杭盖乐队 / [轮回](http://music.163.com/song?id=31654650&userid=477097094) / 专辑：花斑马 / 2016.5
+* yourboyfriendsucks! / [波兰首都是上海](https://music.163.com/#/song?id=419596181) / 专辑：第一集 / 2016.5
 * 后海大鲨鱼 / [偷月亮的人](http://music.163.com/song?id=406072143&userid=477097094) / 专辑：心要野 / 2016.3
 * 草东没有派对 / 山海 / 专辑：丑奴儿 / 2016.2
 

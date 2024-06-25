@@ -53,8 +53,8 @@
 <!-- **NO.15** Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9 / 风格：情绪摇滚 -->
 
 ### 主流音乐
-* **NO.1** 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12 / 风格：梦幻流行
-* **NO.2** 王若琳 / [Hotel La Rut](https://music.163.com/#/song?id=2149456048) / 专辑：Hotel La Rut / 2024.5 / 风格：前卫流行 艺术流行
+* **NO.1** 王若琳 / [Hotel La Rut](https://music.163.com/#/song?id=2149456048) / 专辑：Hotel La Rut / 2024.5 / 风格：前卫流行 艺术流行
+* **NO.2** 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12 / 风格：梦幻流行
 * **NO.3** 巴奈 / [总要](http://music.163.com/song?id=1495838813&userid=477097094) / 专辑：爱，不到 / 2020.11 / 风格：拉丁爵士
 * **NO.4** 苏打绿 / 痛快的哀艳 / 专辑：冬 未了 / 2015.11 / 风格：交响摇滚
 * **NO.5** 霍尊 / 卷珠帘 / 专辑：中国好歌曲 第一季 / 2014.1 / 风格：中国风
@@ -74,6 +74,14 @@
 * **NO.12** 艾怡良 / [夜晚出生的小孩](http://music.163.com/song?id=1334667449&userid=477097094) / 专辑：垂直活着，水平留恋着 / 2018.12 / 风格：流行
 * **NO.14** 王菲 / [光之翼](http://music.163.com/song?id=299508&userid=477097094) / 专辑：王菲 / 2001.10 / 风格：另类摇滚 
 * **NO.15** 方大同, Zion.T, Crush / [味道](http://music.163.com/song?id=431855965&userid=477097094) / 专辑：JTW西游记 / 2016.9 / 风格：节奏布鲁斯 -->
+
+# 2024 华语音乐推荐
+### 独立音乐
+* 张醒婵 / [滤镜](https://music.163.com/#/song?id=2155443614) / 专辑：No，no！/ 2024.5
+
+### 主流音乐
+* 王若琳 / [Hotel La Rut](https://music.163.com/#/song?id=2149456048) / 专辑：Hotel La Rut / 2024.5
+* 朱婧汐Akini Jing / [Black Widow 黑寡妇](https://music.163.com/#/song?id=2116098047) / 专辑：VILLAIN 反派角色 / 2024.1
 
 # 2023 华语音乐推荐
 ### 独立音乐
@@ -279,6 +287,7 @@
 # 2016 华语音乐推荐
 * 魏如萱 / [I Will Be Fine](http://music.163.com/song?id=442867303&userid=477097094) / 专辑：末路狂花 / 2016.11
 * 郭顶 / [凄美地](http://music.163.com/song?id=436346833&userid=477097094) / 专辑：飞行器的执行周期 / 2016.11
+* 王若琳 / [Isn't It Exciting?](https://music.163.com/#/song?id=437608911) / 专辑：House of Bullies / 2016.11
 * 阿肆 / [不破](http://music.163.com/song?id=437289013&userid=477097094) / 专辑：我愚蠢的理想主义 / 2016.10
 * 方大同, Zion.T, Crush / [味道](http://music.163.com/song?id=431855965&userid=477097094) / 专辑：JTW西游记 / 2016.9
 * 周杰伦 / 床边故事 / 专辑：周杰伦的床边故事 / 2016.6
@@ -301,6 +310,7 @@
 * Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9
 * 许哲珮 / [邮轮上的神秘女子](http://music.163.com/song?id=34770220&userid=477097094) / 专辑：摇摆电力公司 / 2015.9
 * 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7
+* 王若琳 / [When I Nod](https://music.163.com/#/song?id=32451562) / 专辑：BOB MUSIC / 2015.6
 * 声音玩具 / [抚琴小夜曲](https://music.163.com/#/song?id=1469825714) / 专辑：爱是昂贵的 / 2015.4
 * 海朋森 / [他打定主意做一个游客](https://music.163.com/#/song?id=31546911) / 专辑：我不要别的历史 / 2015.4
 * 张惠妹 / [母系社会](http://music.163.com/song?id=31311126&userid=477097094) / 专辑：阿密特2 / 2015.4
@@ -323,7 +333,6 @@
 * 张悬 / 玫瑰色的你 / 专辑：神的游戏 / 2012.8
 * G.E.M.邓紫棋 / [潜意式的残酷](http://music.163.com/song?id=233932&userid=477097094) / 专辑：Xposed / 2012.7
 * 魏如萱 / [脱光光](http://music.163.com/song?id=297703&userid=477097094) / 专辑：不允许哭泣的场合 / 2011.11
-* 王若琳 / [Only Child](https://music.163.com/#/song?id=25699043) / 专辑：The Adventures of Bernie the Schoolboy / 2011.10
 * 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11
 * 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10
 * Joyside / [Gagaga](https://music.163.com/#/song?id=360703) / 专辑：Joyside同名专辑 / 2010.9
@@ -371,11 +380,11 @@
 * 雪岭洞箫声Snowii / [2010年代华语主流流行乐专辑20张推荐](https://zhuanlan.zhihu.com/p/150214926) / 专辑数：20
 
 ### 2000年代
-* 郭佳 / [华语通俗专辑00年代200佳](https://zhuanlan.zhihu.com/p/643096587) / 专辑数：200
+* 郭佳 / [个人最爱华语/中国流行专辑2000-2009](https://www.anontraveler.com/rank/version/644bcb3e4e4edac7470ec6f7) / 专辑数：276
 
 ### 20世纪
 * 陶晓清, 马世芳等 / [台湾流行音乐200最佳专辑](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82200%E6%9C%80%E4%BD%B3%E5%B0%88%E8%BC%AF) / [歌单1](https://music.163.com/#/playlist?id=4969119197) / [歌单2](https://music.163.com/#/playlist?id=2211461807) / 专辑数：200
-* 郭佳 / [90年代华语乐坛300佳专辑](https://zhuanlan.zhihu.com/p/667147307) / 专辑数：300
+* 郭佳 / [个人最爱华语/中国流行专辑 1990 - 1999](https://www.anontraveler.com/rank/version/64f00100115b0a0eb20109ec) / 专辑数：311
 
 # 《中国好歌曲》节目中好歌推荐
 * **NO.1** 霍尊 / 卷珠帘 / 第一季 / 风格：中国风

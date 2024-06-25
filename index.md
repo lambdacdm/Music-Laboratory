@@ -37,7 +37,7 @@
 ### 独立音乐
 * **NO.1** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：另类摇滚 艺术摇滚
 * **NO.2** 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12 / 风格：前卫摇滚 艺术摇滚
-* **NO.3** 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10 / 风格：朋克
+* **NO.3** 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10 / 风格：朋克舞曲
 * **NO.4** 假假條 / [湘靈鼓瑟](https://music.163.com/#/song?id=411754531) / 专辑：時代在召喚 / 2016.5 / 风格：垃圾摇滚
 * **NO.5** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚
 * **NO.6** 八仙饭店 / [青少年哪吒 (Neon God)](https://music.163.com/#/song?id=1811506614) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1 / 风格：垃圾摇滚 迷幻摇滚
@@ -126,7 +126,9 @@
 * 惘闻 / [奥林匹克广场](http://music.163.com/song?id=1988041650&userid=477097094) / 专辑：辛丑 壬寅 / 2022.10
 * 東京茶 / [丢海](http://music.163.com/song?id=1915572261&userid=477097094) / 专辑：在山的那边 / 2022.2
 * 绝对纯洁(Absolute Purity) / [绝对纯洁](http://music.163.com/song?id=1924224270&userid=477097094) / 专辑：We Fought Over The Moon / 2022.3
-* 宫阁 / [人间会一如平常](http://music.163.com/song?id=1499175682&userid=477097094) / 专辑：幻日年代 / 2022.8
+* 同根生 / [抢孤 Chiang Ku](https://music.163.com/#/song?id=1966887963) / 专辑：边缘转生术 Holy Gazai / 2022.8
+
+<!-- * 宫阁 / [人间会一如平常](http://music.163.com/song?id=1499175682&userid=477097094) / 专辑：幻日年代 / 2022.8 -->
 
 ### 主流音乐
 * 林昱君 / [今天不想](https://music.163.com/#/song?id=2004646177) / 专辑：今天不想 / 2022.12
@@ -259,32 +261,47 @@
 * [耳帝 2019年最值得听的100首华语歌曲](https://www.bilibili.com/video/BV1SJ411Y7Hg)
 
 # 2018 华语音乐推荐
+### 独立音乐
+* 惘闻 / [大连，勿语](http://music.163.com/song?id=862100903&userid=477097094) / 专辑：看不见的城市 / 2018.7
+* 野外合作社 / [诚实假日酒店](http://music.163.com/song?id=565890722&userid=477097094) / 专辑：台风 / 2018.5
+
+<!-- * 白皮书乐队 / [Falling](http://music.163.com/song?id=1323304515&userid=477097094) / 专辑：我不高兴 / 2018.11 -->
+
+### 主流音乐
 * 艾怡良 / [夜晚出生的小孩](http://music.163.com/song?id=1334667449&userid=477097094) / 专辑：垂直活着，水平留恋着 / 2018.12
 * 林忆莲 / [沙文](http://music.163.com/song?id=1334667453&userid=477097094) / 专辑：0 / 2018.12
 * 蔡依林 / 怪美的 / 专辑：UGLY BEAUTY / 2018.12
 * 孙盛希 / [红苹果](http://music.163.com/song?id=1323302841&userid=477097094) / 专辑：希游记 / 2018.10
 * 王若琳 / [莎宾娜，不要再结婚了！](https://music.163.com/#/song?id=1298780924) / 专辑：摩登悲剧 / 2018.8
-* 惘闻 / [大连，勿语](http://music.163.com/song?id=862100903&userid=477097094) / 专辑：看不见的城市 / 2018.7
 * 曾轶可 / [Need A Friend](http://music.163.com/song?id=862100067&userid=477097094) / 专辑：Anti ! Yico / 2018.6
-* 野外合作社 / [诚实假日酒店](http://music.163.com/song?id=565890722&userid=477097094) / 专辑：台风 / 2018.5
-<!-- * 白皮书乐队 / [Falling](http://music.163.com/song?id=1323304515&userid=477097094) / 专辑：我不高兴 / 2018.11 -->
 
 外部链接：
 * [第30届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC30%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
 
 # 2017 华语音乐推荐
-* 徐佳莹 / [病人](http://music.163.com/song?id=526099071&userid=477097094) / 专辑：心里学 / 2017.12
-* 孙燕姿 / [跳舞的梵谷](http://music.163.com/song?id=514055051&userid=477097094) / 专辑：孙燕姿 No.13 作品：跳舞的梵谷 / 2017.11
+### 独立音乐
 * 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10
 * 潘高峰 / [节奏爱](http://music.163.com/song?id=512296105&userid=477097094) / 专辑：灵魂城市 / 2017.10
 * 黑麒 / [金陵祭壹之大曲](http://music.163.com/song?id=1407818241&userid=477097094) / 专辑：金陵祭 / 2017.9
 * 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9
 * 缺省 / [Moon Plate](http://music.163.com/song?id=466144632&userid=477097094) / 专辑：California Nebula / 2017.5
 
+### 主流音乐
+* 徐佳莹 / [病人](http://music.163.com/song?id=526099071&userid=477097094) / 专辑：心里学 / 2017.12
+* 孙燕姿 / [跳舞的梵谷](http://music.163.com/song?id=514055051&userid=477097094) / 专辑：孙燕姿 No.13 作品：跳舞的梵谷 / 2017.11
+
 外部链接：
 * [第29届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC29%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
 
 # 2016 华语音乐推荐
+### 独立音乐
+* 表情银行MimikBanka / [阿明](http://music.163.com/song?id=413831860&userid=477097094) / 专辑：乒乓 / 2016.5
+* 假假條 / [湘靈鼓瑟](https://music.163.com/#/song?id=411754531) / 专辑：時代在召喚 / 2016.5
+* 杭盖乐队 / [轮回](http://music.163.com/song?id=31654650&userid=477097094) / 专辑：花斑马 / 2016.5
+* 后海大鲨鱼 / [偷月亮的人](http://music.163.com/song?id=406072143&userid=477097094) / 专辑：心要野 / 2016.3
+* 草东没有派对 / 山海 / 专辑：丑奴儿 / 2016.2
+
+### 主流音乐
 * 魏如萱 / [I Will Be Fine](http://music.163.com/song?id=442867303&userid=477097094) / 专辑：末路狂花 / 2016.11
 * 郭顶 / [凄美地](http://music.163.com/song?id=436346833&userid=477097094) / 专辑：飞行器的执行周期 / 2016.11
 * 王若琳 / [Isn't It Exciting?](https://music.163.com/#/song?id=437608911) / 专辑：House of Bullies / 2016.11
@@ -292,81 +309,85 @@
 * 方大同, Zion.T, Crush / [味道](http://music.163.com/song?id=431855965&userid=477097094) / 专辑：JTW西游记 / 2016.9
 * 周杰伦 / 床边故事 / 专辑：周杰伦的床边故事 / 2016.6
 * 艾怡良 / [逃生计划](http://music.163.com/song?id=414979306&userid=477097094) / 专辑：说 艾怡良 / 2016.5
-* 表情银行MimikBanka / [阿明](http://music.163.com/song?id=413831860&userid=477097094) / 专辑：乒乓 / 2016.5
-* 假假條 / [湘靈鼓瑟](https://music.163.com/#/song?id=411754531) / 专辑：時代在召喚 / 2016.5
-* 杭盖乐队 / [轮回](http://music.163.com/song?id=31654650&userid=477097094) / 专辑：花斑马 / 2016.5
 * 窦靖童 / [My Days](https://music.163.com/#/song?id=410628900) / 专辑：Stone Café / 2016.4
-* 后海大鲨鱼 / [偷月亮的人](http://music.163.com/song?id=406072143&userid=477097094) / 专辑：心要野 / 2016.3
-* 草东没有派对 / 山海 / 专辑：丑奴儿 / 2016.2
 
 外部链接：
 * [第28届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC28%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
 
 # 2015 华语音乐推荐
-* 谭维维 / 给你一点颜色 / 专辑：中国之星 第3期 / 2015.12
+### 独立音乐
 * Howie Lee, Zhang Yang / [尚](https://music.163.com/#/song?id=39227134) / 专辑：木屮山出 / 2015.12
-* 蔡健雅 / [偷窥秀](http://music.163.com/song?id=36664207&userid=477097094) / 专辑：失语者 / 2015.11
-* 苏打绿 / 痛快的哀艳 / 专辑：冬 未了 / 2015.11
 * Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9
-* 许哲珮 / [邮轮上的神秘女子](http://music.163.com/song?id=34770220&userid=477097094) / 专辑：摇摆电力公司 / 2015.9
 * 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7
-* 王若琳 / [When I Nod](https://music.163.com/#/song?id=32451562) / 专辑：BOB MUSIC / 2015.6
 * 声音玩具 / [抚琴小夜曲](https://music.163.com/#/song?id=1469825714) / 专辑：爱是昂贵的 / 2015.4
 * 海朋森 / [他打定主意做一个游客](https://music.163.com/#/song?id=31546911) / 专辑：我不要别的历史 / 2015.4
+
+### 主流音乐
+* 谭维维 / 给你一点颜色 / 专辑：中国之星 第3期 / 2015.12
+* 蔡健雅 / [偷窥秀](http://music.163.com/song?id=36664207&userid=477097094) / 专辑：失语者 / 2015.11
+* 苏打绿 / 痛快的哀艳 / 专辑：冬 未了 / 2015.11
+* 许哲珮 / [邮轮上的神秘女子](http://music.163.com/song?id=34770220&userid=477097094) / 专辑：摇摆电力公司 / 2015.9
+* 王若琳 / [When I Nod](https://music.163.com/#/song?id=32451562) / 专辑：BOB MUSIC / 2015.6
 * 张惠妹 / [母系社会](http://music.163.com/song?id=31311126&userid=477097094) / 专辑：阿密特2 / 2015.4
 
 外部链接：
 * [第27届金曲奖（维基百科）](https://zh.wikipedia.org/wiki/%E7%AC%AC27%E5%B1%86%E9%87%91%E6%9B%B2%E7%8D%8E)
 
 # 2010-2014 华语音乐推荐
-* 蔡依林 / [Play我呸](http://music.163.com/song?id=29572738&userid=477097094) / 专辑：呸 / 2014.11
+### 独立音乐
 * 腰乐队 / [暑夜](http://music.163.com/song?id=28768110&userid=477097094) / 专辑：相见恨晚 / 2014.7
 * 皇后皮箱 / [人间惆怅客](http://music.163.com/song?id=29592146&userid=477097094) / 专辑：超時空歌女的快活 / 2014.7
-* 霍尊 / 卷珠帘 / 专辑：中国好歌曲 第一季 / 2014.1
 * Baby Formula / [苏菲的世界](https://music.163.com/#/song?id=28029278) / 专辑：Baby Formula / 2013.10
 * 野外合作社 / [Mind the Gap](http://music.163.com/song?id=29740159&userid=477097094) / 专辑：野外合作社 / 2013.9
 * P.K.14 / [冰的世纪](https://music.163.com/#/song?id=27681714) / 专辑：1984 / 2013.8
 * 二手玫瑰 / [仙儿](http://music.163.com/song?id=27501008&userid=477097094) / 专辑：一枝独秀 / 2013.7
+* 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11
+* 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10
+* Joyside / [Gagaga](https://music.163.com/#/song?id=360703) / 专辑：Joyside同名专辑 / 2010.9
+* Bei Bei, Shawn Lee / [East](http://music.163.com/song?id=3969989&userid=477097094) / 专辑：Into the Wind / 2010.1
+
+### 主流音乐
+* 蔡依林 / [Play我呸](http://music.163.com/song?id=29572738&userid=477097094) / 专辑：呸 / 2014.11
+* 霍尊 / 卷珠帘 / 专辑：中国好歌曲 第一季 / 2014.1
 * 王若琳 / [Galaxy Crisis](http://music.163.com/song?id=25918343&userid=477097094) / 专辑：银河的危机: 最奇异的午夜转播 / 2013.3
 * 周杰伦 / 比较大的大提琴 / 专辑：十二新作 / 2012.12
 * 林忆莲 / [爱笑了](http://music.163.com/song?id=255568&userid=477097094) / 专辑：盖亚 / 2012.9
 * 张悬 / 玫瑰色的你 / 专辑：神的游戏 / 2012.8
 * G.E.M.邓紫棋 / [潜意式的残酷](http://music.163.com/song?id=233932&userid=477097094) / 专辑：Xposed / 2012.7
 * 魏如萱 / [脱光光](http://music.163.com/song?id=297703&userid=477097094) / 专辑：不允许哭泣的场合 / 2011.11
-* 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11
-* 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10
-* Joyside / [Gagaga](https://music.163.com/#/song?id=360703) / 专辑：Joyside同名专辑 / 2010.9
 * 周杰伦 / 免费教学录影带 / 专辑：跨时代 / 2010.5
-* Bei Bei, Shawn Lee / [East](http://music.163.com/song?id=3969989&userid=477097094) / 专辑：Into the Wind / 2010.1
 
 # 2010以前 华语音乐推荐
-* 汪峰 / 名利场 / 专辑：信仰在空中飘扬 / 2009.7
+### 独立音乐
 * Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1
 * 超级市场 / [TRIP](http://music.163.com/song?id=348014&userid=477097094) / 专辑：音乐会 / 2008.9
 * 后海大鲨鱼 / [No!No!No!](http://music.163.com/song?id=357137&userid=477097094) / 专辑：Queen Sea Big Shark / 2007.11
 * 李剑鸿 / 三生石 / 单曲：三生石 / 2007.11
+* 与非门乐队 / [乐园](http://music.163.com/song?id=390536&userid=477097094) / 专辑：10乐园 / 2003.12
+* 花儿乐队 / [幸福的旁边](http://music.163.com/song?id=357428&userid=477097094) / 专辑：幸福的旁边 / 1999.1
+* 刘索拉 / 伯牙探奇 / 专辑：蓝调在东方 / 1994.5
+* 窦唯 / [高级动物](http://music.163.com/song?id=77470&userid=477097094) / 专辑：黑梦 / 1994.4
+* 唐朝乐队 / [梦回唐朝](http://music.163.com/song?id=381920&userid=477097094) / 专辑：唐朝 同名专辑 / 1992.12
+
+### 主流音乐
+* 汪峰 / 名利场 / 专辑：信仰在空中飘扬 / 2009.7
 * 龚琳娜 / [忐忑](http://music.163.com/song?id=236690&userid=477097094) / 专辑：静夜思 / 2006.12
 * 周杰伦, 潘儿 / 夜的第七章 / 专辑：依然范特西 / 2006.9
 * 张悬 / [Live酒馆300秒](http://music.163.com/song?id=326734&userid=477097094) / 专辑：my life will... / 2006.6
 * 陈绮贞 / [旅行的意义](https://music.163.com/#/song?id=209228) / 专辑：华丽的冒险 / 2005.9
 * 陈珊妮 / [尼可拉斯](http://music.163.com/song?id=209147&userid=477097094) / 专辑：后来 我们都哭了 / 2004.10
-* 与非门乐队 / [乐园](http://music.163.com/song?id=390536&userid=477097094) / 专辑：10乐园 / 2003.12
 * 陶喆 / [黑色柳丁](http://music.163.com/song?id=150552&userid=477097094) / 专辑：黑色柳丁 / 2002.6
 * 王菲 / [光之翼](http://music.163.com/song?id=299508&userid=477097094) / 专辑：王菲 / 2001.10
 * 周杰伦 / 双截棍 / 专辑：范特西 / 2001.9
 * 陈珊妮 / [红眼睛](http://music.163.com/song?id=209301&userid=477097094) / 专辑：完美的呻吟 / 2000.12
 * 周杰伦 / 印第安老斑鸠 / 专辑：Jay / 2000.11
 * 范晓萱 / 我要我们在一起 / 专辑：我要我们在一起 / 1999.11
-* 花儿乐队 / [幸福的旁边](http://music.163.com/song?id=357428&userid=477097094) / 专辑：幸福的旁边 / 1999.1
 * 王菲 / [感情生活](http://music.163.com/song?id=299901&userid=477097094) / 专辑：唱游 / 1998.10
 * 范晓萱 / [蓝旗袍](http://music.163.com/song?id=230404&userid=477097094) / 专辑：Darling / 1998.5
 * 张雨生 / 河 / 专辑：口是心非 / 1997.10
 * 王菲 / [哪儿](https://music.163.com/#/song?id=300156) / 专辑：浮躁 / 1996.6
 * 庾澄庆 / [让自己High](http://music.163.com/song?id=177358&userid=477097094) / 专辑：靠近 / 1995.6
 * 张雨生, 文英 / [永公街的街长](https://music.163.com/#/song?id=187869) / 专辑：卡拉OK.台北.我 / 1994.8
-* 刘索拉 / 伯牙探奇 / 专辑：蓝调在东方 / 1994.5
-* 窦唯 / [高级动物](http://music.163.com/song?id=77470&userid=477097094) / 专辑：黑梦 / 1994.4
-* 唐朝乐队 / [梦回唐朝](http://music.163.com/song?id=381920&userid=477097094) / 专辑：唐朝 同名专辑 / 1992.12
 * 齐豫 / [欢颜](http://music.163.com/song?id=285021&userid=477097094) / 专辑：橄榄树 / 1979.7
 
 # 外部歌单

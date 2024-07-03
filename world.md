@@ -28,32 +28,23 @@
 
 ## 摇滚大类 (Rock, Punk, Metal)
 
-### 盯鞋摇滚 Shoegaze
-* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:shoegaze/)
+### 盯鞋摇滚 Shoegaze [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:shoegaze/)
 
-### 另类摇滚 Alternative Rock
-* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:alternative%2drock/)
+### 另类摇滚 Alternative Rock [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:alternative%2drock/)
 
-### 前卫摇滚 Progressive Rock
-* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:progressive%2drock/)
+### 前卫摇滚 Progressive Rock [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:progressive%2drock/)
 
-### 室内流行 Chamber Pop
-* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:chamber%2dpop/)
+### 室内流行 Chamber Pop [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:chamber%2dpop/)
 
-### 垃圾摇滚 Grunge
-* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:grunge/)
+### 垃圾摇滚 Grunge [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:grunge/)
 
-### 朋克舞曲 Dance Punk
-* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:dance%2dpunk/)
+### 朋克舞曲 Dance Punk [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:dance%2dpunk/)
 
-### 车库摇滚 Garage Rock
-* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:garage%2drock/)
+### 车库摇滚 Garage Rock [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:garage%2drock/)
 
-### 数学摇滚 Math Rock
-* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:math%2drock/)
+### 数学摇滚 Math Rock [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:math%2drock/)
 
-### 迷幻摇滚 Psychedelic Rock
-* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:psychedelic%2drock/)
+### 迷幻摇滚 Psychedelic Rock [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:psychedelic%2drock/)
 
 # 乐评网站
 

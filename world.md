@@ -31,8 +31,9 @@
 * 梦幻流行 Dream Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/dream-pop/)
 * 另类摇滚 Alternative Rock [[RYM]](https://rateyourmusic.com/genre/alternative-rock/)
 * 前卫摇滚 Progressive Rock [[RYM]](https://rateyourmusic.com/genre/progressive-rock/)
-* 垃圾摇滚 Grunge [[RYM]](https://rateyourmusic.com/genre/grunge/)
+* 融合爵士 Jazz Fusion （属于爵士∩摇滚）  [[RYM]](https://rateyourmusic.com/genre/jazz-fusion/)
 * 室内流行 Chamber Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/chamber-pop/)
+* 垃圾摇滚 Grunge [[RYM]](https://rateyourmusic.com/genre/grunge/)
 * 后朋克 Post-Punk [[RYM]](https://rateyourmusic.com/genre/post-punk/)
 * 朋克舞曲 Dance-Punk [[RYM]](https://rateyourmusic.com/genre/dance-punk/)
 * 车库摇滚 Garage Rock [[RYM]](https://rateyourmusic.com/genre/garage-rock/)
@@ -54,6 +55,7 @@
 * 爵士流行 Jazz Pop （属于流行∩爵士）[[RYM]](https://rateyourmusic.com/genre/jazz-pop/)
 * 独立流行 Indie Pop [[RYM]](https://rateyourmusic.com/genre/indie-pop/)
 * 城市流行 City Pop [[RYM]](https://rateyourmusic.com/genre/city-pop/)
+* 旋律说唱 Pop Rap （属于嘻哈∩流行） [[RYM]](https://rateyourmusic.com/genre/pop-rap/)
 
 ### 电子大类 (Electronic)
 * 合成器浪潮 Synthwave [[RYM]](https://rateyourmusic.com/genre/synthwave/)
@@ -64,10 +66,12 @@
 * 新浪潮 New Wave （属于摇滚∩电子） [[RYM]](https://rateyourmusic.com/genre/new-wave/)
 * 浩室 House [[RYM]](https://rateyourmusic.com/genre/house/)
 * 电子陷阱音乐 Trap (EDM) [[RYM]](https://rateyourmusic.com/genre/trap-edm/)
+* 氛围音乐 Ambient （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/ambient/)
+* 新世纪音乐 New Age （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/new-age/)
 
 ### 爵士大类 (Jazz)
 * 拉丁爵士 Latin Jazz [[RYM]](https://rateyourmusic.com/genre/latin-jazz/)
-* 融合爵士 Jazz Fusion [[RYM]](https://rateyourmusic.com/genre/jazz-fusion/)
+* 融合爵士 Jazz Fusion （属于爵士∩摇滚）  [[RYM]](https://rateyourmusic.com/genre/jazz-fusion/)
 * 摇摆乐 Swing [[RYM]](https://rateyourmusic.com/genre/swing/)
 * 酸爵士 Acid Jazz [[RYM]](https://rateyourmusic.com/genre/acid-jazz/)
 * 爵士流行 Jazz Pop （属于流行∩爵士）[[RYM]](https://rateyourmusic.com/genre/jazz-pop/)
@@ -80,6 +84,22 @@
 * 布鲁斯摇滚 Blues Rock （属于摇滚∩布鲁斯） [[RYM]](https://rateyourmusic.com/genre/blues-rock/)
 * 当代乡村 Contemporary Country [[RYM]](https://rateyourmusic.com/genre/contemporary-country/)
 
+### 节奏布鲁斯大类（R&B, Soul, Funk, Reggae)
+* 当代节奏布鲁斯 Contemporary R&B [[RYM]](https://rateyourmusic.com/genre/contemporary-randb/)
+* 另类节奏布鲁斯 Alternative R&B [[RYM]](https://rateyourmusic.com/genre/alternative-randb/)
+* 灵魂乐 Soul [[RYM]](https://rateyourmusic.com/genre/soul/)
+* 放克 Funk [[RYM]](https://rateyourmusic.com/genre/funk/)
+* 雷鬼 Reggae [[RYM]](https://rateyourmusic.com/genre/reggae/)
+* 迪斯科 Disco （属于电子∩R&B大类） [[RYM]](https://rateyourmusic.com/genre/disco/)
+
+### 嘻哈大类 (Hip hop)
+* 旋律说唱 Pop Rap （属于嘻哈∩流行） [[RYM]](https://rateyourmusic.com/genre/pop-rap/)
+* 爵士说唱 Jazz Rap （属于嘻哈∩爵士）[[RYM]](https://rateyourmusic.com/genre/jazz-rap/)
+* 陷阱音乐 Trap [[RYM]](https://rateyourmusic.com/genre/trap/)
+
+### 轻音乐大类 (Easy listening)
+* 氛围音乐 Ambient （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/ambient/)
+* 新世纪音乐 New Age （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/new-age/)
 
 # 乐评网站
 

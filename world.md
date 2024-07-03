@@ -45,6 +45,13 @@
 * 英伦摇滚 Britpop （属于流行∩摇滚） [[RYM]](https://rateyourmusic.com/genre/britpop/)
 * 城市流行 City Pop [[RYM]](https://rateyourmusic.com/genre/city-pop/)
 
+### 电子大类 (Electronic)
+* 合成器浪潮 Synthwave [[RYM]](https://rateyourmusic.com/genre/synthwave/)
+* 合成器流行 Synthpop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/synthpop/)
+* 迪斯科 Disco （属于电子∩R&B大类） [[RYM]](https://rateyourmusic.com/genre/disco/)
+* 浩室 House [[RYM]](https://rateyourmusic.com/genre/house/)
+* 电子陷阱 Trap (EDM) [[RYM]](https://rateyourmusic.com/genre/trap-edm/)
+
 # 乐评网站
 
 ### 大众评分类

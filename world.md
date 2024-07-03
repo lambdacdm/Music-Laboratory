@@ -44,6 +44,11 @@
 * 英伦摇滚 Britpop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/britpop/)
 * 民谣摇滚 Folk Rock （属于摇滚∩民谣） [[RYM]](https://rateyourmusic.com/genre/folk-rock/)
 * 布鲁斯摇滚 Blues Rock （属于摇滚∩布鲁斯） [[RYM]](https://rateyourmusic.com/genre/blues-rock/)
+* 重金属 Heavy Metal [[RYM]](https://rateyourmusic.com/genre/heavy-metal/)
+* 新金属 Nu Metal [[RYM]](https://rateyourmusic.com/genre/nu-metal/)
+* 黑金属 Black Metal [[RYM]](https://rateyourmusic.com/genre/black-metal/)
+* 死亡金属 Death Metal [[RYM]](https://rateyourmusic.com/genre/death-metal/)
+* 金属核 Metalcore [[RYM]](https://rateyourmusic.com/genre/metalcore/)
 
 ### 流行大类 (Pop)
 * 梦幻流行 Dream Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/dream-pop/)

@@ -34,6 +34,27 @@
 ### 另类摇滚 Alternative Rock
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:alternative%2drock/)
 
+### 前卫摇滚 Progressive Rock
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:progressive%2drock/)
+
+### 室内流行 Chamber Pop
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:chamber%2dpop/)
+
+### 垃圾摇滚 Grunge
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:grunge/)
+
+### 朋克舞曲 Dance Punk
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:dance%2dpunk/)
+
+### 车库摇滚 Garage Rock
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:garage%2drock/)
+
+### 数学摇滚 Math Rock
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:math%2drock/)
+
+### 迷幻摇滚 Psychedelic Rock
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:psychedelic%2drock/)
+
 # 乐评网站
 
 ### 大众评分类

@@ -26,34 +26,24 @@
 
 # 按风格
 
-## 摇滚大类 (Rock, Punk, Metal)
+### 摇滚大类 (Rock, Punk, Metal)
+* 盯鞋摇滚 Shoegaze [[RYM]](https://rateyourmusic.com/genre/shoegaze/)
+* 另类摇滚 Alternative Rock [[RYM]](https://rateyourmusic.com/genre/alternative-rock/)
+* 前卫摇滚 Progressive Rock [[RYM]](https://rateyourmusic.com/genre/progressive-rock/)
+* 垃圾摇滚 Grunge [[RYM]](https://rateyourmusic.com/genre/grunge/)
+* 后朋克 Post-Punk [[RYM]](https://rateyourmusic.com/genre/post-punk/)
+* 朋克舞曲 Dance-Punk [[RYM]](https://rateyourmusic.com/genre/dance-punk/)
+* 车库摇滚 Garage Rock [[RYM]](https://rateyourmusic.com/genre/garage-rock/)
+* 数学摇滚 Math Rock [[RYM]](https://rateyourmusic.com/genre/math-rock/)
+* 迷幻摇滚 Psychedelic Rock [[RYM]](https://rateyourmusic.com/genre/psychedelic-rock/)
+* 后摇滚 Post-Rock [[RYM]](https://rateyourmusic.com/genre/post-rock/)
+* 布鲁斯摇滚 Blues Rock [[RYM]](https://rateyourmusic.com/genre/blues-rock/)
 
-### 盯鞋摇滚 Shoegaze [[RYM]](https://rateyourmusic.com/genre/shoegaze/)
-
-### 另类摇滚 Alternative Rock [[RYM]](https://rateyourmusic.com/genre/alternative-rock/)
-
-### 前卫摇滚 Progressive Rock [[RYM]](https://rateyourmusic.com/genre/progressive-rock/)
-
-### 室内流行 Chamber Pop [[RYM]](https://rateyourmusic.com/genre/chamber-pop/)
-
-### 垃圾摇滚 Grunge [[RYM]](https://rateyourmusic.com/genre/grunge/)
-
-### 后朋克 Post-Punk [[RYM]](https://rateyourmusic.com/genre/post-punk/)
-
-### 朋克舞曲 Dance-Punk [[RYM]](https://rateyourmusic.com/genre/dance-punk/)
-
-### 车库摇滚 Garage Rock [[RYM]](https://rateyourmusic.com/genre/garage-rock/)
-
-### 数学摇滚 Math Rock [[RYM]](https://rateyourmusic.com/genre/math-rock/)
-
-### 迷幻摇滚 Psychedelic Rock [[RYM]](https://rateyourmusic.com/genre/psychedelic-rock/)
-
-### 后摇滚 Post-Rock [[RYM]](https://rateyourmusic.com/genre/post-rock/)
-
-### 英伦摇滚 Britpop [[RYM]](https://rateyourmusic.com/genre/britpop/)
-
-### 布鲁斯摇滚 Blues Rock [[RYM]](https://rateyourmusic.com/genre/blues-rock/)
-
+### 流行大类 (Pop)
+* 梦幻流行 Dream Pop （属于流行∩摇滚） [[RYM]](https://rateyourmusic.com/genre/dream-pop/)
+* 室内流行 Chamber Pop （属于流行∩摇滚） [[RYM]](https://rateyourmusic.com/genre/chamber-pop/)
+* 英伦摇滚 Britpop （属于流行∩摇滚） [[RYM]](https://rateyourmusic.com/genre/britpop/)
+* 城市流行 City Pop [[RYM]](https://rateyourmusic.com/genre/city-pop/)
 
 # 乐评网站
 

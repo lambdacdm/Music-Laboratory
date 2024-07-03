@@ -1,13 +1,3 @@
-# 世界范围的流行音乐
-
-华语音乐推荐歌单另见[这里](https://lambdacdm.github.io/Music-Laboratory/)
-
-我的兴趣集中于如下性质的音乐：
-* 【梦幻/迷幻】：dream pop（梦幻流行）, neo-psychedelic（新迷幻）
-* 【失真/低保真】：shoegaze（盯鞋摇滚）, slacker rock（低保真摇滚）
-* 【独立气质】：alternative rock（另类摇滚）
-* 【旋律性】：chamber pop（室内流行）
-
 # 我正在听的歌
 以下陈列着我不同时期的Spotify歌单。
 
@@ -17,6 +7,16 @@
 * [往事如歌N](https://open.spotify.com/playlist/6HQz7ZDRt7CDl1a3HyYV8R?si=5f3462bd0e9d4864) 16 July 2017 - 3 Oct 2022
 * [往事如歌E](https://open.spotify.com/playlist/1k5YNvapQ5NnpKltlMEAWw?si=521c4fa5cd0d47dc) 19 Sep 2021 - 19 Jun 2022
 * [往事如歌Q](https://open.spotify.com/playlist/07IPyNH1Hpwvg6zooYIcQ1?si=5a72d8a84d734638) 6 Jun 2014 - 11 Sep 2021
+
+# 世界范围的流行音乐
+
+华语音乐推荐歌单另见[这里](https://lambdacdm.github.io/Music-Laboratory/)
+
+我的兴趣集中于如下性质的音乐：
+* 【梦幻/迷幻】：dream pop（梦幻流行）, neo-psychedelic（新迷幻）
+* 【失真/低保真】：shoegaze（盯鞋摇滚）, slacker rock（低保真摇滚）
+* 【独立气质】：alternative rock（另类摇滚）
+* 【旋律性】：chamber pop（室内流行）
 
 # 按年份
 

@@ -1,6 +1,12 @@
 # 世界范围的流行音乐
 
-华语音乐榜单另见[https://lambdacdm.github.io/Music-Laboratory/](https://lambdacdm.github.io/Music-Laboratory/)
+华语音乐推荐歌单另见[这里](https://lambdacdm.github.io/Music-Laboratory/)
+
+我的兴趣集中于如下性质的音乐：
+* 【梦幻/迷幻】：dream pop（梦幻流行）, neo-psychedelic（新迷幻）
+* 【失真/低保真】：shoegaze（盯鞋摇滚）, slacker rock（低保真摇滚）
+* 【独立气质】：alternative rock（另类摇滚）
+* 【旋律性】：chamber pop（室内流行）
 
 # 乐评网站
 

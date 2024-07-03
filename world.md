@@ -10,15 +10,29 @@
 
 # 按年份
 
+### of All Time
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/all/filtered?view=detailed&sort=desc)
+* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
+
 ### 2024
 * [我的Spotify2024歌单](https://open.spotify.com/playlist/5hiJ6QO3ZvUTF4cQdbE1Xs?si=5973edf5e98947c4)
-* Top Albums (and EPs): [RYM](https://rateyourmusic.com/charts/top/album,ep/2024/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2024&distribution=&sort=desc&view=detailed)
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2024/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2024&distribution=&sort=desc&view=detailed)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2024/)
 
 ### 2023
 * [我的Spotify2023歌单](https://open.spotify.com/playlist/75WMVS80fadbk5qjQ7LitG?si=92576a4d1dcb4c44)
-* Top Albums (and EPs): [RYM](https://rateyourmusic.com/charts/top/album,ep/2023/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2023/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2023&distribution=&sort=desc&view=detailed)
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2023/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2023/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2023&distribution=&sort=desc&view=detailed)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2023/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2023/)
+
+# 按风格
+
+## 摇滚大类 (Rock, Punk, Metal)
+
+### 盯鞋摇滚 Shoegaze
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:shoegaze/)
+
+### 另类摇滚 Alternative Rock
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/g:alternative%2drock/)
 
 # 乐评网站
 

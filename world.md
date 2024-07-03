@@ -42,6 +42,7 @@
 * 低保真摇滚 Slacker Rock [[RYM]](https://rateyourmusic.com/genre/slacker-rock/)
 * 迷幻摇滚 Psychedelic Rock [[RYM]](https://rateyourmusic.com/genre/psychedelic-rock/)
 * 情绪摇滚 Emo [[RYM]](https://rateyourmusic.com/genre/emo/)
+* 硬摇滚 Hard Rock [[RYM]](https://rateyourmusic.com/genre/hard-rock/)
 * 新浪潮 New Wave （属于摇滚∩电子） [[RYM]](https://rateyourmusic.com/genre/new-wave/)
 * 英伦摇滚 Britpop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/britpop/)
 * 民谣摇滚 Folk Rock （属于摇滚∩民谣） [[RYM]](https://rateyourmusic.com/genre/folk-rock/)

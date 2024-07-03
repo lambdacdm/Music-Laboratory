@@ -25,17 +25,17 @@
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
 
 ### 2024
-* [我的Spotify2024推荐歌单](https://open.spotify.com/playlist/5hiJ6QO3ZvUTF4cQdbE1Xs?si=5973edf5e98947c4)
+* [我的2024推荐 Spotify歌单](https://open.spotify.com/playlist/5hiJ6QO3ZvUTF4cQdbE1Xs?si=5973edf5e98947c4)
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2024/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2024&distribution=&sort=desc&view=detailed)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2024/)
 
 ### 2023
-* [我的Spotify2023推荐歌单](https://open.spotify.com/playlist/75WMVS80fadbk5qjQ7LitG?si=92576a4d1dcb4c44)
+* [我的2023推荐 Spotify歌单](https://open.spotify.com/playlist/75WMVS80fadbk5qjQ7LitG?si=92576a4d1dcb4c44)
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2023/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2023/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2023&distribution=&sort=desc&view=detailed)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2023/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2023/)
 
 ### 2022
-* [我的Spotify2022推荐歌单](https://open.spotify.com/playlist/70lufBZYlIQ4nbWFi4K3kE?si=dc75229fcc9a4de5)
+* [我的2022推荐 Spotify歌单](https://open.spotify.com/playlist/70lufBZYlIQ4nbWFi4K3kE?si=dc75229fcc9a4de5)
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2022/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2022/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2022&distribution=&sort=desc&view=detailed)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2022/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2022/)
 

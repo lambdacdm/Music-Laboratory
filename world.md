@@ -35,7 +35,7 @@
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2023/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2023/)
 
 ### 2022
-* [我的Spotify2022推荐歌单](https://open.spotify.com/playlist/70lufBZYlIQ4nbWFi4K3kE?si=dc75229fcc9a4de5）
+* [我的Spotify2022推荐歌单](https://open.spotify.com/playlist/70lufBZYlIQ4nbWFi4K3kE?si=dc75229fcc9a4de5)
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2022/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2022/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2022&distribution=&sort=desc&view=detailed)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2022/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2022/)
 

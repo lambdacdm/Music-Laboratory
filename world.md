@@ -26,7 +26,7 @@
 
 # 按风格
 
-### 摇滚大类 (Rock, Punk, Metal)
+### 摇滚与朋克大类 (Rock, Punk)
 * 盯鞋摇滚 Shoegaze [[RYM]](https://rateyourmusic.com/genre/shoegaze/)
 * 梦幻流行 Dream Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/dream-pop/)
 * 另类摇滚 Alternative Rock [[RYM]](https://rateyourmusic.com/genre/alternative-rock/)
@@ -44,11 +44,6 @@
 * 英伦摇滚 Britpop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/britpop/)
 * 民谣摇滚 Folk Rock （属于摇滚∩民谣） [[RYM]](https://rateyourmusic.com/genre/folk-rock/)
 * 布鲁斯摇滚 Blues Rock （属于摇滚∩布鲁斯） [[RYM]](https://rateyourmusic.com/genre/blues-rock/)
-* 重金属 Heavy Metal [[RYM]](https://rateyourmusic.com/genre/heavy-metal/)
-* 新金属 Nu Metal [[RYM]](https://rateyourmusic.com/genre/nu-metal/)
-* 黑金属 Black Metal [[RYM]](https://rateyourmusic.com/genre/black-metal/)
-* 死亡金属 Death Metal [[RYM]](https://rateyourmusic.com/genre/death-metal/)
-* 金属核 Metalcore [[RYM]](https://rateyourmusic.com/genre/metalcore/)
 
 ### 流行大类 (Pop)
 * 梦幻流行 Dream Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/dream-pop/)
@@ -97,6 +92,13 @@
 * 雷鬼 Reggae [[RYM]](https://rateyourmusic.com/genre/reggae/)
 * 迪斯科 Disco （属于电子∩R&B大类） [[RYM]](https://rateyourmusic.com/genre/disco/)
 
+### 金属大类 (Metal)
+* 重金属 Heavy Metal [[RYM]](https://rateyourmusic.com/genre/heavy-metal/)
+* 新金属 Nu Metal [[RYM]](https://rateyourmusic.com/genre/nu-metal/)
+* 黑金属 Black Metal [[RYM]](https://rateyourmusic.com/genre/black-metal/)
+* 死亡金属 Death Metal [[RYM]](https://rateyourmusic.com/genre/death-metal/)
+* 金属核 Metalcore [[RYM]](https://rateyourmusic.com/genre/metalcore/)
+  
 ### 嘻哈大类 (Hip hop)
 * 旋律说唱 Pop Rap （属于嘻哈∩流行） [[RYM]](https://rateyourmusic.com/genre/pop-rap/)
 * 爵士说唱 Jazz Rap （属于嘻哈∩爵士）[[RYM]](https://rateyourmusic.com/genre/jazz-rap/)

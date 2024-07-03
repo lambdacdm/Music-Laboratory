@@ -64,7 +64,7 @@
 * 布鲁斯摇滚 Blues Rock （属于摇滚∩布鲁斯） [[RYM]](https://rateyourmusic.com/genre/blues-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/626ZIxIXgTOjqkjX7Unbtz?si=3c5ace3365414883)
 
 ### 流行大类 (Pop)
-* 梦幻流行 Dream Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/dream-pop/)
+* 梦幻流行 Dream Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/dream-pop/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/0jBbtuJAmSHk4OhZiOvCXx?si=358af75c37934de2)
 * 室内流行 Chamber Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/chamber-pop/)
 * 英伦摇滚 Britpop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/britpop/)
 * 合成器流行 Synthpop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/synthpop/) / [[Spotify歌单]](https://open.spotify.com/playlist/4dG2x81U4GfyAX6P5ChvL0?si=6d57f0a8c83449e0)
@@ -72,7 +72,7 @@
 * 流行舞曲 Dance-Pop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/dance-pop/)
 * 爵士流行 Jazz Pop （属于流行∩爵士）[[RYM]](https://rateyourmusic.com/genre/jazz-pop/)
 * 独立流行 Indie Pop [[RYM]](https://rateyourmusic.com/genre/indie-pop/)
-* 城市流行 City Pop [[RYM]](https://rateyourmusic.com/genre/city-pop/)
+* 城市流行 City Pop [[RYM]](https://rateyourmusic.com/genre/city-pop/) / [[Spotify歌单]](https://open.spotify.com/playlist/6UiU3pSmmBoBSJXwTxCgPY?si=69178092b4924c92)
 * 旋律说唱 Pop Rap （属于嘻哈∩流行） [[RYM]](https://rateyourmusic.com/genre/pop-rap/) / [[Spotify歌单]](https://open.spotify.com/playlist/5x3V4XhBCNuFE3m2XIyemn?si=dc422d27944d4997)
 
 ### 电子大类 (Electronic)

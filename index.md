@@ -23,11 +23,7 @@
 
 # 我个人最喜欢的华语音乐
 
-我的兴趣集中于如下性质的音乐：
-* 【梦幻/迷幻】：dream pop（梦幻流行）, neo-psychedelic（新迷幻）
-* 【失真/低保真】：shoegaze（盯鞋摇滚）, slacker rock（低保真摇滚）
-* 【独立气质】：alternative rock（另类摇滚）
-* 【旋律性】：chamber pop（室内流行）
+世界范围内的流行音乐推荐歌单另见[这里](https://lambdacdm.github.io/Music-Laboratory/world)
 
 **下述排名完全按照主观喜好排名。**
 

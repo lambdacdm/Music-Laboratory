@@ -1,1 +1,17 @@
-# 世界上的流行音乐
+# 世界范围的流行音乐
+
+华语音乐榜单另见[https://lambdacdm.github.io/Music-Laboratory/](https://lambdacdm.github.io/Music-Laboratory/)
+
+# 乐评网站
+
+### 大众评分类
+* [Rate Your Music (RYM)](https://rateyourmusic.com/)
+* [Album of The Year (AOTY)](https://www.albumoftheyear.org/)
+
+### 专业乐评类
+* [Pitchfork](https://pitchfork.com/)
+* [New Musical Express (NME)](https://www.nme.com/)
+* [Rolling Stone](https://www.rollingstone.com/)
+
+### 专业乐评汇总
+* [Metacritic](https://www.metacritic.com/music)

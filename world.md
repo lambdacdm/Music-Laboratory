@@ -39,8 +39,10 @@
 * 车库摇滚 Garage Rock [[RYM]](https://rateyourmusic.com/genre/garage-rock/)
 * 数学摇滚 Math Rock [[RYM]](https://rateyourmusic.com/genre/math-rock/)
 * 后摇滚 Post-Rock [[RYM]](https://rateyourmusic.com/genre/post-rock/)
-* 新浪潮 New Wave （属于摇滚∩电子） [[RYM]](https://rateyourmusic.com/genre/new-wave/)
+* 低保真摇滚 Slacker Rock [[RYM]](https://rateyourmusic.com/genre/slacker-rock/)
 * 迷幻摇滚 Psychedelic Rock [[RYM]](https://rateyourmusic.com/genre/psychedelic-rock/)
+* 情绪摇滚 Emo [[RYM]](https://rateyourmusic.com/genre/emo/)
+* 新浪潮 New Wave （属于摇滚∩电子） [[RYM]](https://rateyourmusic.com/genre/new-wave/)
 * 英伦摇滚 Britpop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/britpop/)
 * 民谣摇滚 Folk Rock （属于摇滚∩民谣） [[RYM]](https://rateyourmusic.com/genre/folk-rock/)
 * 布鲁斯摇滚 Blues Rock （属于摇滚∩布鲁斯） [[RYM]](https://rateyourmusic.com/genre/blues-rock/)
@@ -107,6 +109,9 @@
 ### 轻音乐大类 (Easy listening)
 * 氛围音乐 Ambient （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/ambient/)
 * 新世纪音乐 New Age （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/new-age/)
+
+### 先锋实验大类 (Avant-garde, Experimental)
+* 噪音音乐 Noise [[RYM]](https://rateyourmusic.com/genre/noise/)
 
 # 乐评网站
 

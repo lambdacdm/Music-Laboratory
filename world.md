@@ -8,6 +8,16 @@
 * 【独立气质】：alternative rock（另类摇滚）
 * 【旋律性】：chamber pop（室内流行）
 
+# 我正在听的歌
+以下陈列着我不同时期的Spotify歌单。
+
+* [往事如歌D](https://open.spotify.com/playlist/6PoEN68oFKEpqZcAgg9ggA?si=e495f01cc2da4742) 22 Sep 2023 - Now
+* [往事如歌S](https://open.spotify.com/playlist/4PAxpABrtr7ZeTH4l0DbmY?si=3237d5ff80bc43af) 5 Aug 2023 - 16 Sep 2023
+* [往事如歌C](https://open.spotify.com/playlist/3azceHF446Fm2m2xpO5CUV?si=65553880953a4b69) 4 Oct 2022 - 3 July 2023
+* [往事如歌N](https://open.spotify.com/playlist/6HQz7ZDRt7CDl1a3HyYV8R?si=5f3462bd0e9d4864) 16 July 2017 - 3 Oct 2022
+* [往事如歌E](https://open.spotify.com/playlist/1k5YNvapQ5NnpKltlMEAWw?si=521c4fa5cd0d47dc) 19 Sep 2021 - 19 Jun 2022
+* [往事如歌Q](https://open.spotify.com/playlist/07IPyNH1Hpwvg6zooYIcQ1?si=5a72d8a84d734638) 6 Jun 2014 - 11 Sep 2021
+
 # 按年份
 
 ### of All Time
@@ -113,6 +123,7 @@
 
 ### 先锋实验大类 (Avant-garde, Experimental)
 * 噪音音乐 Noise [[RYM]](https://rateyourmusic.com/genre/noise/)
+
 
 # 乐评网站
 

@@ -84,7 +84,7 @@
 * 布鲁斯摇滚 Blues Rock （属于摇滚∩布鲁斯） [[RYM]](https://rateyourmusic.com/genre/blues-rock/)
 * 当代乡村 Contemporary Country [[RYM]](https://rateyourmusic.com/genre/contemporary-country/)
 
-### 节奏布鲁斯大类（R&B, Soul, Funk, Reggae)
+### 节奏布鲁斯大类（R&B, Soul, Funk, Reggae, Disco)
 * 当代节奏布鲁斯 Contemporary R&B [[RYM]](https://rateyourmusic.com/genre/contemporary-randb/)
 * 另类节奏布鲁斯 Alternative R&B [[RYM]](https://rateyourmusic.com/genre/alternative-randb/)
 * 灵魂乐 Soul [[RYM]](https://rateyourmusic.com/genre/soul/)

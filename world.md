@@ -23,6 +23,8 @@
 * **NO.1** my bloody valentine / [when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU?si=3e9264a1df4f474f) / 专辑：loveless / 4 Nov 1991 / 风格：盯鞋摇滚
 * **NO.2** Radiohead / [Paranoid Android](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq?si=3b3b897e34b240d5) / 专辑：OK Computer / 28 May 1997 / 风格：另类摇滚
 * **NO.3** Grimes / [Oblivion](https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK?si=5a726ed162c64fec) / 专辑：Visions / 12 Mar 2012 / 风格：合成器流行
+* **NO.4** Black Country, New Road / [Chaos Space Marine](https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR?si=RkOLR3LYTXmu8iplVcKHrw) / 专辑：Ants From Up There / 4 Feb 2022 / 风格：室内流行
+* **NO.5** Yeah Yeah Yeahs / [Date With The Night](https://open.spotify.com/track/21M6YAySMPv9qQwtqIL42A?si=fHGmS2rbQ4SgsqvQ-7wfuA) / 专辑：Fever To Tell / 29 Apr 2003 / 风格：车库摇滚复兴
   
 # 按年份
 

@@ -47,6 +47,11 @@
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2022/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2022/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2022&distribution=&sort=desc&view=detailed)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2022/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2022/)
 
+### 2021
+* [我的2021推荐 Spotify歌单](https://open.spotify.com/playlist/6F0dW1ZFb0vd2DryUAi3v0?si=8IGbnnYQSoe51wa4XCDy8Q&pi=u-suzYT7tMTOev)
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2021/) / Pitchfork / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2021&distribution=&sort=desc&view=detailed)
+* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2021/) / Pitchfork
+
 # 按风格
 
 ### 摇滚与朋克大类 (Rock, Punk)

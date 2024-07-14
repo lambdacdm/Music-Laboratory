@@ -38,6 +38,13 @@
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2024/)
 
 ### 2023
+* Bully, Soccer Mommy / [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA?si=ife6w_OEROSIlDVWSMGxXQ) / 专辑：Lucky For You
+* Tanukichan / [Escape](https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI?si=AHp08NnoRBaB3jxtFcDAKw) / 专辑：GIZMO
+* TEKE::TEKE / [Doppelganger](https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8?si=Jyp6gu0QRUCcH_6oJ9777w) / 专辑：Hagata
+* French 79, Oliva Merilahti, Prudence / [You Always Say](https://open.spotify.com/track/0DlLtJqO4hVBcqhu9jtBIv?si=0jhSyZk5RvGIHeu4dWIdOQ) / 专辑：TEENAGERS
+* Kat Duma / [Ana](https://open.spotify.com/track/6pl1zEA50Rfy5ubY9cvIQ0?si=N9Zkt_UUTqex8Bubsiz5WA) / 专辑：Real Life
+
+更多见：
 * [我的2023推荐 Spotify歌单](https://open.spotify.com/playlist/75WMVS80fadbk5qjQ7LitG?si=92576a4d1dcb4c44)
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2023/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2023/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2023&distribution=&sort=desc&view=detailed)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2023/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2023/)

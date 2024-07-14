@@ -48,6 +48,11 @@
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2022/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2022/)
 
 ### 2021
+* Bachelor, Jay Som, Palehound / [Stay in the Car](https://open.spotify.com/track/3zs0PDSk0CZJYNpYwzpw7P?si=bvHAkKHkQgCpccBcLHlGPg) / 专辑：Doomin' Sun
+* Clairo / [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU?si=AbvULb2cQkqqJOzo8qfnbQ) / 专辑：Sling
+* PACKS / [Silvertongue](https://open.spotify.com/track/0UjEhWUIpTVCOrI1sY5Yma?si=5LOXp5XJS4SheJkx4m1N6g) / 专辑：Take the Cake
+* Billie Eilish / [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8?si=L-sSKfPzS1CuPmBkwq1E0Q) / 专辑：Happier Than Ever
+
 * [我的2021推荐 Spotify歌单](https://open.spotify.com/playlist/6F0dW1ZFb0vd2DryUAi3v0?si=8IGbnnYQSoe51wa4XCDy8Q&pi=u-suzYT7tMTOev)
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2021/) / Pitchfork / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2021&distribution=&sort=desc&view=detailed)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2021/) / Pitchfork

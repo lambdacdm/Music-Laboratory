@@ -59,6 +59,14 @@
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2023/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2023/)
 
 ### 2022
+* Black Country, New Road / [Chaos Space Marine](https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR?si=RkOLR3LYTXmu8iplVcKHrw) / 专辑：Ants From Up There
+* Big Thief / [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz?si=0a1da50e89704874) / 专辑：Dragon New Warm Mountain I Believe IN You
+* Alvvays / [Tile By Tile](spotify:track:4PZkJYffxBtM3hlvQqAgZ4) / 专辑：Blue Rev
+* Beach House / [Once Twice Melody](https://open.spotify.com/track/4UexrxBMEyacoNwOvmx6XQ?si=266284a01fae4071) / 专辑：Once Twice Melody
+* Hatchie / [The Key](https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV?si=70fc2745c0c448ca) / 专辑：Giving The World Away
+* King Gizzard & The Lizard Wizard / [The Dripping Tap](https://open.spotify.com/track/3RJxtF4WDoxofuATWOI89r?si=bcde7e78815c4cc8) / 单曲：The Dripping Tap
+
+更多见：
 * [我的2022推荐 Spotify歌单](https://open.spotify.com/playlist/70lufBZYlIQ4nbWFi4K3kE?si=dc75229fcc9a4de5)
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2022/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2022/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2022&distribution=&sort=desc&view=detailed)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2022/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2022/)

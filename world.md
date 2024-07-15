@@ -60,7 +60,7 @@
 
 ### 2022
 * Black Country, New Road / [Chaos Space Marine](https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR?si=RkOLR3LYTXmu8iplVcKHrw) / 专辑：Ants From Up There
-* Big Thief / [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz?si=0a1da50e89704874) / 专辑：Dragon New Warm Mountain I Believe IN You
+* Big Thief / [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz?si=0a1da50e89704874) / 专辑：Dragon New Warm Mountain I Believe In You
 * Alvvays / [Tile By Tile](spotify:track:4PZkJYffxBtM3hlvQqAgZ4) / 专辑：Blue Rev
 * Beach House / [Once Twice Melody](https://open.spotify.com/track/4UexrxBMEyacoNwOvmx6XQ?si=266284a01fae4071) / 专辑：Once Twice Melody
 * Hatchie / [The Key](https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV?si=70fc2745c0c448ca) / 专辑：Giving The World Away

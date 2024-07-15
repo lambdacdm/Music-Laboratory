@@ -38,8 +38,8 @@
 * Retrograde88 / [Whistling Winds](https://open.spotify.com/track/42L8TVbYtpGmsB7dLi16aZ?si=0b522ad72acb4a7f) / 专辑：Retrograde88
 * La Luz / [Dandelions](https://open.spotify.com/track/6gLJx8B0QhJtXuvUW9Ea00?si=81815305b75642c2) / 专辑：News of the Universe
 * Bodies Of Water, Brian Walsh / [Footprints](https://open.spotify.com/track/6OEt0wEeipVznEQTtkb8Up?si=6f6dcb6463e44467) / 专辑：The Journey Is Our Home
-* The Shacks / [Wings](https://open.spotify.com/track/3oocKi0pUR5QryLKrGIxHn?si=96ce249f9d16437c) / 专辑：Big Crown Vaults Vol.2
-
+* 路傍の石 / [revival](https://open.spotify.com/track/0HQCnuIRODvGelieRCeXhz?si=561a0192c7744073) / 专辑：mikgazer 2024
+  
 更多见：
 * [我的2024推荐 Spotify歌单](https://open.spotify.com/playlist/5hiJ6QO3ZvUTF4cQdbE1Xs?si=5973edf5e98947c4)
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2024/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2024&distribution=&sort=desc&view=detailed)

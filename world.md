@@ -33,6 +33,14 @@
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
 
 ### 2024
+* 王若琳 / [There She Smiles (In a Memory)](https://open.spotify.com/track/3skGpSq2YA6RiLET89u9Hx?si=af8a650377b04c87) / 专辑：Hotel La Rut
+* Crumb / [AMAMA](https://open.spotify.com/track/2v0M1pCugLIImmFGZNkydS?si=58ed380a04064a46) / 专辑：AMAMA
+* Retrograde88 / [Whistling Winds](https://open.spotify.com/track/42L8TVbYtpGmsB7dLi16aZ?si=0b522ad72acb4a7f) / 专辑：Retrograde88
+* La Luz / [Dandelions](https://open.spotify.com/track/6gLJx8B0QhJtXuvUW9Ea00?si=81815305b75642c2) / 专辑：News of the Universe
+* Bodies Of Water, Brian Walsh / [Footprints](https://open.spotify.com/track/6OEt0wEeipVznEQTtkb8Up?si=6f6dcb6463e44467) / 专辑：The Journey Is Our Home
+* The Shacks / [Wings](https://open.spotify.com/track/3oocKi0pUR5QryLKrGIxHn?si=96ce249f9d16437c) / 专辑：Big Crown Vaults Vol.2
+
+更多见：
 * [我的2024推荐 Spotify歌单](https://open.spotify.com/playlist/5hiJ6QO3ZvUTF4cQdbE1Xs?si=5973edf5e98947c4)
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2024/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2024&distribution=&sort=desc&view=detailed)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2024/)
@@ -43,6 +51,7 @@
 * TEKE::TEKE / [Doppelganger](https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8?si=Jyp6gu0QRUCcH_6oJ9777w) / 专辑：Hagata
 * French 79, Oliva Merilahti, Prudence / [You Always Say](https://open.spotify.com/track/0DlLtJqO4hVBcqhu9jtBIv?si=0jhSyZk5RvGIHeu4dWIdOQ) / 专辑：TEENAGERS
 * Kat Duma / [Ana](https://open.spotify.com/track/6pl1zEA50Rfy5ubY9cvIQ0?si=N9Zkt_UUTqex8Bubsiz5WA) / 专辑：Real Life
+* Otay:onii / [重叠](https://open.spotify.com/track/5qkh8YcxEEwWv0aUBNRSvz?si=3a7b57dde5db4888) / 专辑：夢之駭客
 
 更多见：
 * [我的2023推荐 Spotify歌单](https://open.spotify.com/playlist/75WMVS80fadbk5qjQ7LitG?si=92576a4d1dcb4c44)
@@ -60,11 +69,12 @@
 * Clairo / [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU?si=AbvULb2cQkqqJOzo8qfnbQ) / 专辑：Sling
 * PACKS / [Silvertongue](https://open.spotify.com/track/0UjEhWUIpTVCOrI1sY5Yma?si=5LOXp5XJS4SheJkx4m1N6g) / 专辑：Take the Cake
 * Billie Eilish / [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8?si=L-sSKfPzS1CuPmBkwq1E0Q) / 专辑：Happier Than Ever
+* Meaningful Stone / [COBALT](https://open.spotify.com/track/27ji9P5NbrjDkkMIRHMnpI?si=dcc60febaea84c5e) / 专辑：COBALT
 
 更多见：
 * [我的2021推荐 Spotify歌单](https://open.spotify.com/playlist/6F0dW1ZFb0vd2DryUAi3v0?si=8IGbnnYQSoe51wa4XCDy8Q&pi=u-suzYT7tMTOev)
-* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2021/) / Pitchfork / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2021&distribution=&sort=desc&view=detailed)
-* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2021/) / Pitchfork
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2021/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2021/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2021&distribution=&sort=desc&view=detailed)
+* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2021/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2021/)
 
 # 按风格
 

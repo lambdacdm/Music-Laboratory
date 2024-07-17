@@ -84,7 +84,7 @@
 * Clairo / [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU?si=AbvULb2cQkqqJOzo8qfnbQ) / 专辑：Sling
 * PACKS / [Silvertongue](https://open.spotify.com/track/0UjEhWUIpTVCOrI1sY5Yma?si=5LOXp5XJS4SheJkx4m1N6g) / 专辑：Take the Cake
 * Billie Eilish / [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8?si=L-sSKfPzS1CuPmBkwq1E0Q) / 专辑：Happier Than Ever
-* Meaningful Stone / [COBALT](https://open.spotify.com/track/27ji9P5NbrjDkkMIRHMnpI?si=dcc60febaea84c5e) / 专辑：COBALT
+* 김뜻돌 / [COBALT](https://open.spotify.com/track/27ji9P5NbrjDkkMIRHMnpI?si=dcc60febaea84c5e) / 专辑：COBALT
 
 更多见：
 * [我的2021推荐 Spotify歌单](https://open.spotify.com/playlist/6F0dW1ZFb0vd2DryUAi3v0?si=8IGbnnYQSoe51wa4XCDy8Q&pi=u-suzYT7tMTOev)

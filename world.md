@@ -31,7 +31,7 @@
 * **NO.7** Yeah Yeah Yeahs / [Date With The Night](https://open.spotify.com/track/21M6YAySMPv9qQwtqIL42A?si=fHGmS2rbQ4SgsqvQ-7wfuA) / 专辑：Fever To Tell / 29 Apr 2003 / 风格：车库摇滚复兴
 * **NO.8** M.I.A. / [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a?si=bf060f67e13a4ba3) / 专辑：Kala / 21 Aug 2007 / 风格：实验嘻哈
 * **NO.9** Fiona Apple / [Criminal](https://open.spotify.com/track/6PNvv1dmDbOWrAYwEcuKBX?si=9b1466f3c2214313) / 专辑：Tidal / 23 Jul 1996 / 风格：钢琴摇滚
-* **NO.10** 椎名林檎 / [宗教](https://open.spotify.com/track/7peqk2lb1z7YekvnSMryJL?si=f99b2ce0ba7a4efc) / 专辑：加爾基 精液 栗ノ花 / 23 Feb 2003 / 风格：艺术摇滚 前卫流行
+* **NO.10** 椎名林檎 / [宗教](https://open.spotify.com/track/7peqk2lb1z7YekvnSMryJL?si=f99b2ce0ba7a4efc) / 专辑：加爾基 精液 栗ノ花 / 23 Feb 2003 / 风格：艺术摇滚 噪音流行
   
 # 按年份
 

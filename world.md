@@ -47,6 +47,10 @@
 * Crumb / [AMAMA](https://open.spotify.com/track/2v0M1pCugLIImmFGZNkydS?si=58ed380a04064a46) / 专辑：AMAMA
 * Retrograde88 / [Whistling Winds](https://open.spotify.com/track/42L8TVbYtpGmsB7dLi16aZ?si=0b522ad72acb4a7f) / 专辑：Retrograde88
 * 路傍の石 / [revival](https://open.spotify.com/track/0HQCnuIRODvGelieRCeXhz?si=561a0192c7744073) / 专辑：mikgazer 2024
+* Charli xcx / [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex?si=a68532b5326545b6) / 专辑：BRAT
+* La Femme / [Sur la planche](https://open.spotify.com/track/5FZj4WuWk0wtQq3hE8lFaJ?si=112b77a490284d34) / 专辑：La Femme ressort
+* Billie Eilish / [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h?si=4c73ff760a944d8a) / 专辑：HIT ME HARD AND SOFT
+* COBRAH, VTSS, MCR-T / [TITS, LIPS, HIPS, KISS (10/10 Remix)](https://open.spotify.com/track/3KkesrPkSGFZYXUHtk1Zfn?si=6130154205ac4c9f) / 单曲：TITS, LIPS, HIPS, KISS (10/10 Remix)
   
 更多见：
 * [我的2024推荐 Spotify歌单](https://open.spotify.com/playlist/5hiJ6QO3ZvUTF4cQdbE1Xs?si=5973edf5e98947c4)
@@ -60,9 +64,9 @@
 * French 79, Oliva Merilahti, Prudence / [You Always Say](https://open.spotify.com/track/0DlLtJqO4hVBcqhu9jtBIv?si=0jhSyZk5RvGIHeu4dWIdOQ) / 专辑：TEENAGERS
 * Kat Duma / [Ana](https://open.spotify.com/track/6pl1zEA50Rfy5ubY9cvIQ0?si=N9Zkt_UUTqex8Bubsiz5WA) / 专辑：Real Life
 * Otay:onii / [重叠](https://open.spotify.com/track/5qkh8YcxEEwWv0aUBNRSvz?si=3a7b57dde5db4888) / 专辑：夢之駭客
-* BeccyA / [Played by you](https://open.spotify.com/track/5nNs66zG8W21NHqTDX6wAI?si=af2d8d01ed4846fd) / 专辑：Played by you
+* BeccyA / [Played by you](https://open.spotify.com/track/5nNs66zG8W21NHqTDX6wAI?si=af2d8d01ed4846fd) / 单曲：Played by you
 * Polo & Pan, Les Poppys, Issac et Nora / [Charanga](https://open.spotify.com/track/2O7H0le49CMTlErhHhV8qt?si=491b7b6055fb43f3) / 专辑：Carrossel Do Tempo
-* Ruby / [Princess](https://open.spotify.com/track/20innxw92J6i23EUWikbZz?si=7167d6d4b8c74e74) / 专辑：Princess
+* Ruby / [Princess](https://open.spotify.com/track/20innxw92J6i23EUWikbZz?si=7167d6d4b8c74e74) / 单曲：Princess
 * Big Blood / [1000 Times](https://open.spotify.com/track/0MptIBgkeSG7fwpI8IRM8S?si=482446b308354174) / 专辑：First Aid Kit
 
 更多见：
@@ -77,7 +81,7 @@
 * Beach House / [Once Twice Melody](https://open.spotify.com/track/4UexrxBMEyacoNwOvmx6XQ?si=266284a01fae4071) / 专辑：Once Twice Melody
 * Hatchie / [The Key](https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV?si=70fc2745c0c448ca) / 专辑：Giving The World Away
 * King Gizzard & The Lizard Wizard / [The Dripping Tap](https://open.spotify.com/track/3RJxtF4WDoxofuATWOI89r?si=bcde7e78815c4cc8) / 单曲：The Dripping Tap
-* 김뜻돌 / [Kiddo](https://open.spotify.com/track/6wmQbPvNjW3fT2bSF8qbcs?si=70827e0aa29f494a) / 专辑：Kiddo
+* 김뜻돌 / [Kiddo](https://open.spotify.com/track/6wmQbPvNjW3fT2bSF8qbcs?si=70827e0aa29f494a) / 单曲：Kiddo
 * Claver / [Freighter](https://open.spotify.com/track/1O5iLaml9rErV9yx4ssIwb?si=793d1fb799f84b9c) / 专辑：Freighter
 * 東京酒吐座 / [Moondive](https://open.spotify.com/track/0tRvtDFfsSd05zaJXHrdap?si=dc68785fd19146e3) / 专辑：月世界遊泳 (Moonworld Playground)
 * Natalia Lafourcade / [De todas las flores](https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU?si=834b868027484347) / 专辑：De Todas las Flores

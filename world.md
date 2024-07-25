@@ -201,6 +201,7 @@
 ### 大众评分类
 * [Rate Your Music (RYM)](https://rateyourmusic.com/)
 * [Album of The Year (AOTY)](https://www.albumoftheyear.org/)
+* [Best Ever Albums (BEA)](https://www.besteveralbums.com/index.php)
 
 ### 专业乐评类
 * [Pitchfork](https://pitchfork.com/)

@@ -14,15 +14,16 @@
 
 我的兴趣集中于如下性质的音乐：
 * 【梦幻/迷幻】：dream pop（梦幻流行）, neo-psychedelic（新迷幻）
-* 【失真/低保真】：shoegaze（盯鞋摇滚）, slacker rock（低保真摇滚）
+* 【噪音/失真】：shoegaze（盯鞋摇滚）, noise pop（噪音流行）, slacker rock（低保真摇滚）
+* 【合成器】：synthwave（合成器浪潮）, synthpop（合成器流行）
 * 【独立气质】：alternative rock（另类摇滚）
-* 【旋律性】：chamber pop（室内流行）
+* 【旋律性】：chamber pop（室内流行）, art pop（艺术流行）
 
 # 我最喜欢的流行音乐
 
 ***GOAT in my mind forever***
 
-* **NO.1** my bloody valentine / [when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU?si=3e9264a1df4f474f) / 专辑：loveless / 4 Nov 1991 / 风格：盯鞋摇滚
+* **NO.1** my bloody valentine / [when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU?si=3e9264a1df4f474f) / 专辑：loveless / 4 Nov 1991 / 风格：盯鞋摇滚 噪音流行
 * **NO.2** Radiohead / [Paranoid Android](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq?si=3b3b897e34b240d5) / 专辑：OK Computer / 28 May 1997 / 风格：另类摇滚
 * **NO.3** Grimes / [Oblivion](https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK?si=5a726ed162c64fec) / 专辑：Visions / 12 Mar 2012 / 风格：合成器流行
 * **NO.4** Black Country, New Road / [Chaos Space Marine](https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR?si=RkOLR3LYTXmu8iplVcKHrw) / 专辑：Ants From Up There / 4 Feb 2022 / 风格：室内流行 艺术摇滚
@@ -135,6 +136,7 @@
 * 迪斯科 Disco （属于电子∩R&B大类） [[RYM]](https://rateyourmusic.com/genre/disco/) / [[Spotify歌单]](https://open.spotify.com/playlist/0BaTBgYOhYOF2RaZCahCKg?si=106ae4e3eb264e80)
 * 新浪潮 New Wave （属于摇滚∩电子） [[RYM]](https://rateyourmusic.com/genre/new-wave/) / [[Spotify歌单]](https://open.spotify.com/playlist/5yBKu9pXOh5d9VCRbn3Inj?si=4cda014f82774506)
 * 浩室 House [[RYM]](https://rateyourmusic.com/genre/house/)
+* 智能舞曲 IDM [[RYM]](https://rateyourmusic.com/genre/idm/)
 * 电子陷阱音乐 Trap (EDM) [[RYM]](https://rateyourmusic.com/genre/trap-edm/)
 * 氛围音乐 Ambient （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/ambient/)
 * 新世纪音乐 New Age （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/new-age/) / [[Spotify歌单]](https://open.spotify.com/playlist/0PDhmvNy00u3bpWkaPzkYY?si=d8e56020ea67441d)

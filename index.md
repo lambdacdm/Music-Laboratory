@@ -1,8 +1,8 @@
+本页面聚焦于华语音乐。世界范围内的流行音乐推荐歌单另见[这里](https://lambdacdm.github.io/Music-Laboratory/world)。
+
 # 我的音乐作品
 
-
 ## 专辑 费米悖论
-
 
 ### 第一部分 降临
 * intro 罗塞塔石碑 / 尚未创作
@@ -22,8 +22,6 @@
 * [outro 霓虹中再见](http://music.163.com/dj?id=2071162243&userid=477097094) / 2020.12
 
 # 我个人最喜欢的华语音乐
-
-世界范围内的流行音乐推荐歌单另见[这里](https://lambdacdm.github.io/Music-Laboratory/world)
 
 **下述排名完全按照主观喜好排名。**
 

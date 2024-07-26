@@ -27,7 +27,7 @@
 
 下述发行时间以豆瓣音乐为准。歌曲的风格界定参考rate your music. 
 
-* **NO.1 (主流 NO.1)** 王若琳 / [Hotel La Rut](https://music.163.com/#/song?id=2149456048) / 专辑：Hotel La Rut / 2024.5 / 风格：前卫流行 艺术流行
+* **NO.1 (主流 NO.1)** 王若琳 / [There She Smiles (In a Memory)](https://music.163.com/#/song?id=2149457789) / 专辑：Hotel La Rut / 2024.5 / 风格：艺术流行
 * **NO.2 (独立 NO.1)** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：另类摇滚 室内流行
 * **NO.3 (独立 NO.2)** 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12 / 风格：前卫摇滚 艺术摇滚
 * **NO.4 (独立 NO.3)** 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10 / 风格：朋克舞曲
@@ -76,7 +76,7 @@
 * Ὁπλίτης / [Παραδειγματιζομένη μουσική](https://music.163.com/#/song?id=2117200293) / 专辑：Παραμαινομένη / 2024.1
 
 ### 主流音乐
-* 王若琳 / [Hotel La Rut](https://music.163.com/#/song?id=2149456048) / 专辑：Hotel La Rut / 2024.5
+* 王若琳 / [There She Smiles (In a Memory)](https://music.163.com/#/song?id=2149457789) / 专辑：Hotel La Rut / 2024.5
 * 朱婧汐Akini Jing / [Black Widow 黑寡妇](https://music.163.com/#/song?id=2116098047) / 专辑：VILLAIN 反派角色 / 2024.1
 
 # 2023 华语音乐推荐

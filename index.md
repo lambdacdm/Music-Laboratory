@@ -27,40 +27,41 @@
 
 下述发行时间以豆瓣音乐为准。歌曲的风格界定参考rate your music. 
 
+* **NO.1 (主流 NO.1)** 王若琳 / [Hotel La Rut](https://music.163.com/#/song?id=2149456048) / 专辑：Hotel La Rut / 2024.5 / 风格：前卫流行 艺术流行
+* **NO.2 (独立 NO.1)** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：另类摇滚 室内流行
+* **NO.3 (独立 NO.2)** 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12 / 风格：前卫摇滚 艺术摇滚
+* **NO.4 (独立 NO.3)** 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10 / 风格：朋克舞曲
+* **NO.5 (主流 NO.2)** 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12 / 风格：梦幻流行
+* **NO.6 (独立 NO.4)** 假假條 / [湘靈鼓瑟](https://music.163.com/#/song?id=411754531) / 专辑：時代在召喚 / 2016.5 / 风格：垃圾摇滚
+* **NO.7 (独立 NO.5)** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚
+* **NO.8 (独立 NO.6)** 八仙饭店 / [青少年哪吒 (Neon God)](https://music.163.com/#/song?id=1811506614) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1 / 风格：垃圾摇滚 迷幻摇滚
+* **NO.9 (独立 NO.7)** Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1 / 风格：后朋克 迷幻摇滚
+* **NO.10 (主流 NO.3)** 巴奈 / [总要](http://music.163.com/song?id=1495838813&userid=477097094) / 专辑：爱，不到 / 2020.11 / 风格：拉丁爵士
+
 ### 独立音乐
-* **NO.1** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：另类摇滚 室内流行
-* **NO.2** 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12 / 风格：前卫摇滚 艺术摇滚
-* **NO.3** 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10 / 风格：朋克舞曲
-* **NO.4** 假假條 / [湘靈鼓瑟](https://music.163.com/#/song?id=411754531) / 专辑：時代在召喚 / 2016.5 / 风格：垃圾摇滚
-* **NO.5** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚
-* **NO.6** 八仙饭店 / [青少年哪吒 (Neon God)](https://music.163.com/#/song?id=1811506614) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1 / 风格：垃圾摇滚 迷幻摇滚
-* **NO.7** Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1 / 风格：后朋克 迷幻摇滚
-* **NO.8** Baby Formula / [苏菲的世界](https://music.163.com/#/song?id=28029278) / 专辑：Baby Formula / 2013.10 / 风格：盯鞋摇滚
-* **NO.9** 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9 / 风格：后朋克
-* **NO.10** 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4 / 风格：斯卡朋克
-* **NO.11** 歪歪歪 / [一个人跳舞](http://music.163.com/song?id=1806567743&userid=477097094) / 专辑：不正 / 2020.12 / 风格：布鲁斯
-* **NO.12** 惘闻 / [敢问路在何方](http://music.163.com/song?id=1481636180&userid=477097094) / 专辑：十万个为什么 / 2020.9 / 风格：后摇滚
-* **NO.13** 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6 / 风格：前卫摇滚
-* **NO.14** 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10 / 风格：融合爵士 前卫摇滚
-* **NO.15** 野外合作社 / [诚实假日酒店](http://music.163.com/song?id=565890722&userid=477097094) / 专辑：台风 / 2018.5 / 风格：前卫摇滚
+* **独立 NO.8** Baby Formula / [苏菲的世界](https://music.163.com/#/song?id=28029278) / 专辑：Baby Formula / 2013.10 / 风格：盯鞋摇滚
+* **独立 NO.9** 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9 / 风格：后朋克
+* **独立 NO.10** 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4 / 风格：斯卡朋克
+* **独立 NO.11** 歪歪歪 / [一个人跳舞](http://music.163.com/song?id=1806567743&userid=477097094) / 专辑：不正 / 2020.12 / 风格：布鲁斯
+* **独立 NO.12** 惘闻 / [敢问路在何方](http://music.163.com/song?id=1481636180&userid=477097094) / 专辑：十万个为什么 / 2020.9 / 风格：后摇滚
+* **独立 NO.13** 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6 / 风格：前卫摇滚
+* **独立 NO.14** 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10 / 风格：融合爵士 前卫摇滚
+* **独立 NO.15** 野外合作社 / [诚实假日酒店](http://music.163.com/song?id=565890722&userid=477097094) / 专辑：台风 / 2018.5 / 风格：前卫摇滚
 <!-- **NO.15** Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9 / 风格：情绪摇滚 -->
 
 ### 主流音乐
-* **NO.1** 王若琳 / [Hotel La Rut](https://music.163.com/#/song?id=2149456048) / 专辑：Hotel La Rut / 2024.5 / 风格：前卫流行 艺术流行
-* **NO.2** 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12 / 风格：梦幻流行
-* **NO.3** 巴奈 / [总要](http://music.163.com/song?id=1495838813&userid=477097094) / 专辑：爱，不到 / 2020.11 / 风格：拉丁爵士
-* **NO.4** 苏打绿 / 痛快的哀艳 / 专辑：冬 未了 / 2015.11 / 风格：交响摇滚
-* **NO.5** 霍尊 / 卷珠帘 / 专辑：中国好歌曲 第一季 / 2014.1 / 风格：中国风
-* **NO.6** 魏如萱 / [I Will Be Fine](http://music.163.com/song?id=442867303&userid=477097094) / 专辑：末路狂花 / 2016.11 / 风格：放克流行
-* **NO.7** 朱婧汐Akini Jing / Cure / 专辑：塑胶天堂 / 2020.9 / 风格：合成器浪潮
-* **NO.8** 周杰伦 / 印第安老斑鸠 / 专辑：Jay / 2000.11 / 风格：爵士流行
-* **NO.9** 陶喆 / [黑色柳丁](http://music.163.com/song?id=150552&userid=477097094) / 专辑：黑色柳丁 / 2002.6 / 风格：重金属
-* **NO.10** 曾轶可 / [Need A Friend](http://music.163.com/song?id=862100067&userid=477097094) / 专辑：Anti ! Yico / 2018.6 / 风格：流行
-* **NO.11** 陈珊妮 / [红眼睛](http://music.163.com/song?id=209301&userid=477097094) / 专辑：完美的呻吟 / 2000.12 / 风格：流行
-* **NO.12** 张悬 / 玫瑰色的你 / 专辑：神的游戏 / 2012.8 / 风格：都市民谣 钢琴摇滚
-* **NO.13** 刘柏辛Lexie / [有吗炒面](https://music.163.com/#/song?id=1813795008) / 专辑：上线了 GONE GOLD / 2021.1 / 风格：合成器流行 电子舞曲
-* **NO.14** 窦靖童 / [My Days](https://music.163.com/#/song?id=410628900) / 专辑：Stone Café / 2016.4 / 风格：流行
-* **NO.15** 郭顶 / [凄美地](http://music.163.com/song?id=436346833&userid=477097094) / 专辑：飞行器的执行周期 / 2016.11 / 风格：另类摇滚
+* **主流 NO.4** 苏打绿 / 痛快的哀艳 / 专辑：冬 未了 / 2015.11 / 风格：交响摇滚
+* **主流 NO.5** 霍尊 / 卷珠帘 / 专辑：中国好歌曲 第一季 / 2014.1 / 风格：中国风
+* **主流 NO.6** 魏如萱 / [I Will Be Fine](http://music.163.com/song?id=442867303&userid=477097094) / 专辑：末路狂花 / 2016.11 / 风格：放克流行
+* **主流 NO.7** 朱婧汐Akini Jing / Cure / 专辑：塑胶天堂 / 2020.9 / 风格：合成器浪潮
+* **主流 NO.8** 周杰伦 / 印第安老斑鸠 / 专辑：Jay / 2000.11 / 风格：爵士流行
+* **主流 NO.9** 陶喆 / [黑色柳丁](http://music.163.com/song?id=150552&userid=477097094) / 专辑：黑色柳丁 / 2002.6 / 风格：重金属
+* **主流 NO.10** 曾轶可 / [Need A Friend](http://music.163.com/song?id=862100067&userid=477097094) / 专辑：Anti ! Yico / 2018.6 / 风格：流行
+* **主流 NO.11** 陈珊妮 / [红眼睛](http://music.163.com/song?id=209301&userid=477097094) / 专辑：完美的呻吟 / 2000.12 / 风格：流行
+* **主流 NO.12** 张悬 / 玫瑰色的你 / 专辑：神的游戏 / 2012.8 / 风格：都市民谣 钢琴摇滚
+* **主流 NO.13** 刘柏辛Lexie / [有吗炒面](https://music.163.com/#/song?id=1813795008) / 专辑：上线了 GONE GOLD / 2021.1 / 风格：合成器流行 电子舞曲
+* **主流 NO.14** 窦靖童 / [My Days](https://music.163.com/#/song?id=410628900) / 专辑：Stone Café / 2016.4 / 风格：流行
+* **主流 NO.15** 郭顶 / [凄美地](http://music.163.com/song?id=436346833&userid=477097094) / 专辑：飞行器的执行周期 / 2016.11 / 风格：另类摇滚
   
 <!-- **NO.14** 孙盛希 / [红苹果](http://music.163.com/song?id=1323302841&userid=477097094) / 专辑：希游记 / 2018.10 / 风格：放克 另类摇滚
 * **NO.16** YELLOW黄宣 / [ROSE WAYNE](http://music.163.com/song?id=1485891496&userid=477097094) / 专辑：浮世击 / 2020.10 / 风格：融合爵士

@@ -23,8 +23,8 @@
 
 （以下按个人喜好程度排序，**纯主观**）
 
-* **NO.1** my bloody valentine / [when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU?si=3e9264a1df4f474f) / 专辑：loveless / 4 Nov 1991 / 风格：盯鞋摇滚
-* **NO.2** Radiohead / [Paranoid Android](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq?si=3b3b897e34b240d5) / 专辑：OK Computer / 28 May 1997 / 风格：另类摇滚
+* **NO.1** my bloody valentine / [when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU?si=3e9264a1df4f474f) / 专辑：loveless / 4 Nov 1991 / 风格：盯鞋摇滚 噪音流行
+* **NO.2** Radiohead / [Paranoid Android](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq?si=3b3b897e34b240d5) / 专辑：OK Computer / 28 May 1997 / 风格：另类摇滚 艺术摇滚
 * **NO.3** Grimes / [Oblivion](https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK?si=5a726ed162c64fec) / 专辑：Visions / 12 Mar 2012 / 风格：合成器流行
 * **NO.4** Black Country, New Road / [Chaos Space Marine](https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR?si=RkOLR3LYTXmu8iplVcKHrw) / 专辑：Ants From Up There / 4 Feb 2022 / 风格：室内流行 艺术摇滚
 * **NO.5** Bachelor, Jay Som, Palehound / [Stay in the Car](https://open.spotify.com/track/3zs0PDSk0CZJYNpYwzpw7P?si=bvHAkKHkQgCpccBcLHlGPg) / 专辑：Doomin' Sun / 28 May 2021 / 风格：slacker rock 噪音流行
@@ -118,13 +118,14 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 迷幻摇滚 Psychedelic Rock [[RYM]](https://rateyourmusic.com/genre/psychedelic-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/3OYHKZXNd2bUDsppioJZfH?si=a4fe7eb71e2c44b9)
   * 新迷幻 Neo-Psychedelia [[RYM]](https://rateyourmusic.com/genre/neo-psychedelia/)
 * 前卫摇滚 Progressive Rock [[RYM]](https://rateyourmusic.com/genre/progressive-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/0z2XD1jYjMC2X39hE0mAjW?si=92d07f5f2f234a03)
-* 后朋克 Post-Punk [[RYM]](https://rateyourmusic.com/genre/post-punk/)
-  * 朋克舞曲 Dance-Punk [[RYM]](https://rateyourmusic.com/genre/dance-punk/) / [[Spotify歌单]](https://open.spotify.com/playlist/6bgXyEmfUz15P4cZkV1dno?si=0817d3f2aff14617)
+* 艺术摇滚 Art Rock [[RYM]](https://rateyourmusic.com/genre/art-rock/)
 * 车库摇滚 Garage Rock [[RYM]](https://rateyourmusic.com/genre/garage-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/7FKRU3XE9laEFpBepwe0pY?si=b858c3da92aa473c)
   * 车库摇滚复兴 Garage Rock Revival [[RYM]](https://rateyourmusic.com/genre/garage-rock-revival/)
-* 后摇滚 Post-Rock [[RYM]](https://rateyourmusic.com/genre/post-rock/)
 * 情绪摇滚 Emo [[RYM]](https://rateyourmusic.com/genre/emo/)
 * 硬摇滚 Hard Rock [[RYM]](https://rateyourmusic.com/genre/hard-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/67dHSVPMOo2BT0dvDNe4nB?si=dd6724b4140f47f5)
+* 哥特摇滚 Gothic Rock [[RYM]](https://rateyourmusic.com/genre/gothic-rock/)
+* 华丽摇滚 Glam Rock [[RYM]](https://rateyourmusic.com/genre/glam-rock/)
+* 极客摇滚 Geek Rock [[RYM]](https://rateyourmusic.com/genre/geek-rock/)
 
 ### 另类摇滚
 * 另类摇滚 Alternative Rock [[RYM]](https://rateyourmusic.com/genre/alternative-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/08WGUmJsJxJr27aMKO1eAS?si=a3ef414319144f13)
@@ -135,6 +136,11 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
   * 垃圾摇滚 Grunge [[RYM]](https://rateyourmusic.com/genre/grunge/)
   * 数学摇滚 Math Rock [[RYM]](https://rateyourmusic.com/genre/math-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/0XtdxTlDxUXJtkdCXFHKHf?si=97472bec097b4250)
   * 英伦摇滚 Britpop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/britpop/)
+ 
+### Post-
+* 后朋克 Post-Punk [[RYM]](https://rateyourmusic.com/genre/post-punk/)
+  * 朋克舞曲 Dance-Punk [[RYM]](https://rateyourmusic.com/genre/dance-punk/) / [[Spotify歌单]](https://open.spotify.com/playlist/6bgXyEmfUz15P4cZkV1dno?si=0817d3f2aff14617)
+* 后摇滚 Post-Rock [[RYM]](https://rateyourmusic.com/genre/post-rock/)
 
 ### 融合类
 * 融合爵士 Jazz Fusion （属于爵士∩摇滚）  [[RYM]](https://rateyourmusic.com/genre/jazz-fusion/) / [[Spotify歌单]](https://open.spotify.com/playlist/4Nn1CBdbykZgY21vfm7dfs?si=b10b818c84604dfc)
@@ -148,6 +154,10 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 
 ### 主要门类
 * 独立流行 Indie Pop [[RYM]](https://rateyourmusic.com/genre/indie-pop/)
+  * 童稚流行 Twee Pop [[RYM]](https://rateyourmusic.com/genre/twee-pop/)
+* 艺术流行 Art Pop [[RYM]](https://rateyourmusic.com/genre/art-pop/)
+* 前卫流行 Progressive Pop [[RYM]](https://rateyourmusic.com/genre/progressive-pop/)
+* 巴洛克流行 Baroque Pop [[RYM]](https://rateyourmusic.com/genre/baroque-pop/)
 * 城市流行 City Pop [[RYM]](https://rateyourmusic.com/genre/city-pop/) / [[Spotify歌单]](https://open.spotify.com/playlist/6UiU3pSmmBoBSJXwTxCgPY?si=69178092b4924c92)
 
 ### 与摇滚融合
@@ -217,6 +227,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 ## 根源音乐大类（Folk, Blues, Country)
 * 当代民谣 Contemporary Folk [[RYM]](https://rateyourmusic.com/genre/contemporary-folk/) / [[Spotify歌单]](https://open.spotify.com/playlist/6YddB6ttCctYlwSM48XbF8?si=545c30de21984338)
 * 独立民谣 Indie Folk [[RYM]](https://rateyourmusic.com/genre/indie-folk/)
+* 创作歌手 Singer-Songwriter [[RYM]](https://rateyourmusic.com/genre/singer-songwriter/)
 * 民谣摇滚 Folk Rock （属于摇滚∩民谣） [[RYM]](https://rateyourmusic.com/genre/folk-rock/)
 * 布鲁斯摇滚 Blues Rock （属于摇滚∩布鲁斯） [[RYM]](https://rateyourmusic.com/genre/blues-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/626ZIxIXgTOjqkjX7Unbtz?si=3c5ace3365414883)
 * 当代乡村 Contemporary Country [[RYM]](https://rateyourmusic.com/genre/contemporary-country/) / [[Spotify歌单]](https://open.spotify.com/playlist/4eGzjQvAGfsN3psQ8HGohs?si=3cb4f4968d65483e)

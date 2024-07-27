@@ -45,12 +45,12 @@
 * La Luz / [Good Luck With Your Secret](https://open.spotify.com/track/7hrvQ4efhWpcpWM4XA7zbN?si=f47abb2c0e7840ca) / 专辑：News of the Universe
 * Bodies Of Water, Brian Walsh / [Footprints](https://open.spotify.com/track/6OEt0wEeipVznEQTtkb8Up?si=6f6dcb6463e44467) / 专辑：The Journey Is Our Home
 * Crumb / [AMAMA](https://open.spotify.com/track/2v0M1pCugLIImmFGZNkydS?si=58ed380a04064a46) / 专辑：AMAMA
-* Retrograde88 / [Whistling Winds](https://open.spotify.com/track/42L8TVbYtpGmsB7dLi16aZ?si=0b522ad72acb4a7f) / 专辑：Retrograde88
 * 路傍の石 / [revival](https://open.spotify.com/track/0HQCnuIRODvGelieRCeXhz?si=561a0192c7744073) / 专辑：mikgazer 2024
 * Charli xcx / [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex?si=a68532b5326545b6) / 专辑：BRAT
+* Retrograde88 / [Whistling Winds](https://open.spotify.com/track/42L8TVbYtpGmsB7dLi16aZ?si=0b522ad72acb4a7f) / 专辑：Retrograde88
 * La Femme / [Sur la planche](https://open.spotify.com/track/5FZj4WuWk0wtQq3hE8lFaJ?si=112b77a490284d34) / 专辑：La Femme ressort
 * Billie Eilish / [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h?si=4c73ff760a944d8a) / 专辑：HIT ME HARD AND SOFT
-* COBRAH, VTSS, MCR-T / [TITS, LIPS, HIPS, KISS (10/10 Remix)](https://open.spotify.com/track/3KkesrPkSGFZYXUHtk1Zfn?si=6130154205ac4c9f) / 单曲：TITS, LIPS, HIPS, KISS (10/10 Remix)
+* Magdalena Bay / [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp?si=453a265dfb764ceb) / 专辑：Image
   
 更多见：
 * [我的2024推荐 Spotify歌单](https://open.spotify.com/playlist/5hiJ6QO3ZvUTF4cQdbE1Xs?si=5973edf5e98947c4)

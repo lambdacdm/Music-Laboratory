@@ -145,6 +145,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 ### 融合类
 * 融合爵士 Jazz Fusion （属于爵士∩摇滚）  [[RYM]](https://rateyourmusic.com/genre/jazz-fusion/) / [[Spotify歌单]](https://open.spotify.com/playlist/4Nn1CBdbykZgY21vfm7dfs?si=b10b818c84604dfc)
 * 室内流行 Chamber Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/chamber-pop/)
+* 流行摇滚 Pop Rock （属于流行∩摇滚） [[RYM]](https://rateyourmusic.com/genre/pop-rock/)
 * 新浪潮 New Wave （属于摇滚∩电子） [[RYM]](https://rateyourmusic.com/genre/new-wave/) / [[Spotify歌单]](https://open.spotify.com/playlist/5yBKu9pXOh5d9VCRbn3Inj?si=4cda014f82774506)
   * 暗潮 Darkwave （属于摇滚∩电子） [[RYM]](https://rateyourmusic.com/genre/darkwave/)
 * 民谣摇滚 Folk Rock （属于摇滚∩民谣） [[RYM]](https://rateyourmusic.com/genre/folk-rock/)
@@ -166,6 +167,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
   * 噪音流行 Noise Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/noise-pop/)
   * 英伦摇滚 Britpop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/britpop/)
 * 室内流行 Chamber Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/chamber-pop/)
+* 流行摇滚 Pop Rock （属于流行∩摇滚） [[RYM]](https://rateyourmusic.com/genre/pop-rock/)
 
 ### 与电子融合
 * 电子流行 Electropop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/electropop/)

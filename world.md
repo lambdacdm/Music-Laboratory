@@ -109,6 +109,7 @@
 # 按风格
 
 维基百科：[List of music genres and styles](https://en.wikipedia.org/wiki/List_of_music_genres_and_styles)
+RYM：[Music Genres](https://rateyourmusic.com/genres/)
 
 ## 摇滚与朋克大类 (Rock, Punk)
 

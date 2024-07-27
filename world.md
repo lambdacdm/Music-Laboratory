@@ -140,6 +140,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 融合爵士 Jazz Fusion （属于爵士∩摇滚）  [[RYM]](https://rateyourmusic.com/genre/jazz-fusion/) / [[Spotify歌单]](https://open.spotify.com/playlist/4Nn1CBdbykZgY21vfm7dfs?si=b10b818c84604dfc)
 * 室内流行 Chamber Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/chamber-pop/)
 * 新浪潮 New Wave （属于摇滚∩电子） [[RYM]](https://rateyourmusic.com/genre/new-wave/) / [[Spotify歌单]](https://open.spotify.com/playlist/5yBKu9pXOh5d9VCRbn3Inj?si=4cda014f82774506)
+  * 暗潮 Darkwave （属于摇滚∩电子） [[RYM]](https://rateyourmusic.com/genre/darkwave/)
 * 民谣摇滚 Folk Rock （属于摇滚∩民谣） [[RYM]](https://rateyourmusic.com/genre/folk-rock/)
 * 布鲁斯摇滚 Blues Rock （属于摇滚∩布鲁斯） [[RYM]](https://rateyourmusic.com/genre/blues-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/626ZIxIXgTOjqkjX7Unbtz?si=3c5ace3365414883)
 
@@ -160,7 +161,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 电子流行 Electropop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/electropop/)
   * 合成器流行 Synthpop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/synthpop/) / [[Spotify歌单]](https://open.spotify.com/playlist/4dG2x81U4GfyAX6P5ChvL0?si=6d57f0a8c83449e0)
   * 流行舞曲 Dance-Pop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/dance-pop/)
-  * 超流行音乐 Hyperpopp （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/hyperpop/)
+  * 超流行音乐 Hyperpop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/hyperpop/)
 * 独立电子类
   * 故障流行 Glitch Pop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/glitch-pop/)
 
@@ -176,7 +177,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 电子流行 Electropop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/electropop/)
   * 合成器流行 Synthpop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/synthpop/) / [[Spotify歌单]](https://open.spotify.com/playlist/4dG2x81U4GfyAX6P5ChvL0?si=6d57f0a8c83449e0)
   * 流行舞曲 Dance-Pop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/dance-pop/)
-  * 超流行音乐 Hyperpopp （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/hyperpop/)
+  * 超流行音乐 Hyperpop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/hyperpop/)
  
 ### 电子舞曲（EDM）
 * 迪斯科 Disco （属于电子∩R&B大类） [[RYM]](https://rateyourmusic.com/genre/disco/) / [[Spotify歌单]](https://open.spotify.com/playlist/0BaTBgYOhYOF2RaZCahCKg?si=106ae4e3eb264e80)
@@ -195,10 +196,9 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 独立电子 Indietronica [[RYM]](https://rateyourmusic.com/genre/indietronica/)
   * 故障流行 Glitch Pop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/glitch-pop/)
  
-### 与摇滚融合
+### 融合类
 * 新浪潮 New Wave （属于摇滚∩电子） [[RYM]](https://rateyourmusic.com/genre/new-wave/) / [[Spotify歌单]](https://open.spotify.com/playlist/5yBKu9pXOh5d9VCRbn3Inj?si=4cda014f82774506)
-
-### 与轻音乐融合
+  * 暗潮 Darkwave （属于摇滚∩电子） [[RYM]](https://rateyourmusic.com/genre/darkwave/)
 * 氛围音乐 Ambient （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/ambient/)
 * 新世纪音乐 New Age （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/new-age/) / [[Spotify歌单]](https://open.spotify.com/playlist/0PDhmvNy00u3bpWkaPzkYY?si=d8e56020ea67441d)
 
@@ -206,7 +206,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 
 ### 主要门类
 * 拉丁爵士 Latin Jazz [[RYM]](https://rateyourmusic.com/genre/latin-jazz/) / [[Spotify歌单]](https://open.spotify.com/playlist/23ZzEDMUXojfRCCujdEEmT?si=ab6f7f1ecda64256)
-* 摇摆乐 Swing [[RYM]](https://rateyourmusic.com/genre/swing/) / / [[Spotify歌单]](https://open.spotify.com/playlist/0gLSd8Hrz9h47fu0lM5UCD?si=2b10858e24104023)
+* 摇摆乐 Swing [[RYM]](https://rateyourmusic.com/genre/swing/) / [[Spotify歌单]](https://open.spotify.com/playlist/0gLSd8Hrz9h47fu0lM5UCD?si=2b10858e24104023)
 * 酸爵士 Acid Jazz [[RYM]](https://rateyourmusic.com/genre/acid-jazz/)
 
 ### 融合类

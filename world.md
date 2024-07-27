@@ -36,11 +36,11 @@
   
 # 按年份
 
-### of All Time
+## of All Time
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/all/filtered?view=detailed&sort=desc)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
 
-### 2024
+## 2024
 * 王若琳 / [There She Smiles (In a Memory)](https://open.spotify.com/track/3skGpSq2YA6RiLET89u9Hx?si=af8a650377b04c87) / 专辑：Hotel La Rut
 * La Luz / [Good Luck With Your Secret](https://open.spotify.com/track/7hrvQ4efhWpcpWM4XA7zbN?si=f47abb2c0e7840ca) / 专辑：News of the Universe
 * Bodies Of Water, Brian Walsh / [Footprints](https://open.spotify.com/track/6OEt0wEeipVznEQTtkb8Up?si=6f6dcb6463e44467) / 专辑：The Journey Is Our Home
@@ -57,7 +57,7 @@
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2024/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2024&distribution=&sort=desc&view=detailed)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2024/)
 
-### 2023
+## 2023
 * Bully, Soccer Mommy / [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA?si=ife6w_OEROSIlDVWSMGxXQ) / 专辑：Lucky For You
 * Tanukichan / [Escape](https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI?si=AHp08NnoRBaB3jxtFcDAKw) / 专辑：GIZMO
 * TEKE::TEKE / [Doppelganger](https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8?si=Jyp6gu0QRUCcH_6oJ9777w) / 专辑：Hagata
@@ -74,7 +74,7 @@
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2023/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2023/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2023&distribution=&sort=desc&view=detailed)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2023/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2023/)
 
-### 2022
+## 2022
 * Black Country, New Road / [Chaos Space Marine](https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR?si=RkOLR3LYTXmu8iplVcKHrw) / 专辑：Ants From Up There
 * Big Thief / [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz?si=0a1da50e89704874) / 专辑：Dragon New Warm Mountain I Believe In You
 * Alvvays / [Tile By Tile](spotify:track:4PZkJYffxBtM3hlvQqAgZ4) / 专辑：Blue Rev
@@ -91,7 +91,7 @@
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2022/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2022/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2022&distribution=&sort=desc&view=detailed)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2022/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2022/)
 
-### 2021
+## 2021
 * Bachelor, Jay Som, Palehound / [Stay in the Car](https://open.spotify.com/track/3zs0PDSk0CZJYNpYwzpw7P?si=bvHAkKHkQgCpccBcLHlGPg) / 专辑：Doomin' Sun
 * La Femme / [Le sang de mon prochain](https://open.spotify.com/track/2UKt76lfD2SGturLfzRq1j?si=irA-pxNXRrGbCMJgD1QZJw&context=spotify%3Aalbum%3A1u2Q5MFWptOdPpldjC0xO9) / 专辑：Paradigmes
 * Clairo / [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU?si=AbvULb2cQkqqJOzo8qfnbQ) / 专辑：Sling
@@ -106,7 +106,7 @@
 
 # 按风格
 
-### 摇滚与朋克大类 (Rock, Punk)
+## 摇滚与朋克大类 (Rock, Punk)
 * 盯鞋摇滚 Shoegaze [[RYM]](https://rateyourmusic.com/genre/shoegaze/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/7FmQTfn55pAjjOLSWHk9lj?si=f5c946059f5347df)
 * 梦幻流行 Dream Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/dream-pop/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/0jBbtuJAmSHk4OhZiOvCXx?si=358af75c37934de2)
 * 另类摇滚 Alternative Rock [[RYM]](https://rateyourmusic.com/genre/alternative-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/08WGUmJsJxJr27aMKO1eAS?si=a3ef414319144f13)
@@ -128,7 +128,7 @@
 * 民谣摇滚 Folk Rock （属于摇滚∩民谣） [[RYM]](https://rateyourmusic.com/genre/folk-rock/)
 * 布鲁斯摇滚 Blues Rock （属于摇滚∩布鲁斯） [[RYM]](https://rateyourmusic.com/genre/blues-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/626ZIxIXgTOjqkjX7Unbtz?si=3c5ace3365414883)
 
-### 流行大类 (Pop)
+## 流行大类 (Pop)
 * 梦幻流行 Dream Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/dream-pop/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/0jBbtuJAmSHk4OhZiOvCXx?si=358af75c37934de2)
 * 室内流行 Chamber Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/chamber-pop/)
 * 英伦摇滚 Britpop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/britpop/)
@@ -140,7 +140,7 @@
 * 城市流行 City Pop [[RYM]](https://rateyourmusic.com/genre/city-pop/) / [[Spotify歌单]](https://open.spotify.com/playlist/6UiU3pSmmBoBSJXwTxCgPY?si=69178092b4924c92)
 * 旋律说唱 Pop Rap （属于嘻哈∩流行） [[RYM]](https://rateyourmusic.com/genre/pop-rap/) / [[Spotify歌单]](https://open.spotify.com/playlist/5x3V4XhBCNuFE3m2XIyemn?si=dc422d27944d4997)
 
-### 电子大类 (Electronic)
+## 电子大类 (Electronic)
 * 合成器浪潮 Synthwave [[RYM]](https://rateyourmusic.com/genre/synthwave/) / [[Spotify歌单]](https://open.spotify.com/playlist/2o7rxyqSKLbdHFZJdD76zP?si=22ee4a0003734259)
 * 合成器流行 Synthpop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/synthpop/) / [[Spotify歌单]](https://open.spotify.com/playlist/4dG2x81U4GfyAX6P5ChvL0?si=6d57f0a8c83449e0)
 * 电子流行 Electropop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/electropop/)
@@ -153,7 +153,7 @@
 * 氛围音乐 Ambient （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/ambient/)
 * 新世纪音乐 New Age （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/new-age/) / [[Spotify歌单]](https://open.spotify.com/playlist/0PDhmvNy00u3bpWkaPzkYY?si=d8e56020ea67441d)
 
-### 爵士大类 (Jazz)
+## 爵士大类 (Jazz)
 * 拉丁爵士 Latin Jazz [[RYM]](https://rateyourmusic.com/genre/latin-jazz/) / [[Spotify歌单]](https://open.spotify.com/playlist/23ZzEDMUXojfRCCujdEEmT?si=ab6f7f1ecda64256)
 * 融合爵士 Jazz Fusion （属于爵士∩摇滚）  [[RYM]](https://rateyourmusic.com/genre/jazz-fusion/) / [[Spotify歌单]](https://open.spotify.com/playlist/4Nn1CBdbykZgY21vfm7dfs?si=b10b818c84604dfc)
 * 摇摆乐 Swing [[RYM]](https://rateyourmusic.com/genre/swing/) / / [[Spotify歌单]](https://open.spotify.com/playlist/0gLSd8Hrz9h47fu0lM5UCD?si=2b10858e24104023)
@@ -161,14 +161,14 @@
 * 爵士流行 Jazz Pop （属于流行∩爵士）[[RYM]](https://rateyourmusic.com/genre/jazz-pop/)
 * 爵士说唱 Jazz Rap （属于嘻哈∩爵士）[[RYM]](https://rateyourmusic.com/genre/jazz-rap/)
 
-### 根源音乐大类（Folk, Blues, Country)
+## 根源音乐大类（Folk, Blues, Country)
 * 当代民谣 Contemporary Folk [[RYM]](https://rateyourmusic.com/genre/contemporary-folk/) / [[Spotify歌单]](https://open.spotify.com/playlist/6YddB6ttCctYlwSM48XbF8?si=545c30de21984338)
 * 独立民谣 Indie Folk [[RYM]](https://rateyourmusic.com/genre/indie-folk/)
 * 民谣摇滚 Folk Rock （属于摇滚∩民谣） [[RYM]](https://rateyourmusic.com/genre/folk-rock/)
 * 布鲁斯摇滚 Blues Rock （属于摇滚∩布鲁斯） [[RYM]](https://rateyourmusic.com/genre/blues-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/626ZIxIXgTOjqkjX7Unbtz?si=3c5ace3365414883)
 * 当代乡村 Contemporary Country [[RYM]](https://rateyourmusic.com/genre/contemporary-country/) / [[Spotify歌单]](https://open.spotify.com/playlist/4eGzjQvAGfsN3psQ8HGohs?si=3cb4f4968d65483e)
 
-### 节奏布鲁斯大类（R&B, Soul, Funk, Reggae, Disco)
+## 节奏布鲁斯大类（R&B, Soul, Funk, Reggae, Disco)
 * 当代节奏布鲁斯 Contemporary R&B [[RYM]](https://rateyourmusic.com/genre/contemporary-randb/) / [[Spotify歌单]](https://open.spotify.com/playlist/2CCgTcri9CF6NjFxx9g0jN?si=9641fa2aa3b34acc)
 * 另类节奏布鲁斯 Alternative R&B [[RYM]](https://rateyourmusic.com/genre/alternative-randb/)
 * 灵魂乐 Soul [[RYM]](https://rateyourmusic.com/genre/soul/) / [[Spotify歌单]](https://open.spotify.com/playlist/6MTZrnGE0rjCI9JiIX5zML?si=4ee9229ba0964c40)
@@ -176,37 +176,75 @@
 * 雷鬼 Reggae [[RYM]](https://rateyourmusic.com/genre/reggae/)
 * 迪斯科 Disco （属于电子∩R&B大类） [[RYM]](https://rateyourmusic.com/genre/disco/) / [[Spotify歌单]](https://open.spotify.com/playlist/0BaTBgYOhYOF2RaZCahCKg?si=106ae4e3eb264e80)
 
-### 金属大类 (Metal)
+## 金属大类 (Metal)
 * 重金属 Heavy Metal [[RYM]](https://rateyourmusic.com/genre/heavy-metal/) / [[Spotify歌单]](https://open.spotify.com/playlist/7aO7tFh6Km0MGWFdnwIHpf?si=0123642856b04807)
 * 新金属 Nu Metal [[RYM]](https://rateyourmusic.com/genre/nu-metal/)
 * 黑金属 Black Metal [[RYM]](https://rateyourmusic.com/genre/black-metal/)
 * 死亡金属 Death Metal [[RYM]](https://rateyourmusic.com/genre/death-metal/)
 * 金属核 Metalcore [[RYM]](https://rateyourmusic.com/genre/metalcore/)
   
-### 嘻哈大类 (Hip hop)
+## 嘻哈大类 (Hip hop)
 * 旋律说唱 Pop Rap （属于嘻哈∩流行） [[RYM]](https://rateyourmusic.com/genre/pop-rap/) / [[Spotify歌单]](https://open.spotify.com/playlist/5x3V4XhBCNuFE3m2XIyemn?si=dc422d27944d4997)
 * 爵士说唱 Jazz Rap （属于嘻哈∩爵士）[[RYM]](https://rateyourmusic.com/genre/jazz-rap/)
 * 陷阱音乐 Trap [[RYM]](https://rateyourmusic.com/genre/trap/)
 
-### 轻音乐大类 (Easy listening)
+## 轻音乐大类 (Easy listening)
 * 氛围音乐 Ambient （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/ambient/)
 * 新世纪音乐 New Age （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/new-age/) / [[Spotify歌单]](https://open.spotify.com/playlist/0PDhmvNy00u3bpWkaPzkYY?si=d8e56020ea67441d)
 
-### 先锋实验大类 (Avant-garde, Experimental)
+## 先锋实验大类 (Avant-garde, Experimental)
 * 噪音音乐 Noise [[RYM]](https://rateyourmusic.com/genre/noise/)
 
 
 # 乐评网站
 
-### 大众评分类
+## 大众评分类
 * [Rate Your Music (RYM)](https://rateyourmusic.com/)
 * [Album of The Year (AOTY)](https://www.albumoftheyear.org/)
 * [Best Ever Albums (BEA)](https://www.besteveralbums.com/index.php)
 
-### 专业乐评类
+## 专业乐评类
 * [Pitchfork](https://pitchfork.com/)
 * [New Musical Express (NME)](https://www.nme.com/)
 * [Rolling Stone](https://www.rollingstone.com/)
 
-### 专业乐评汇总
+## 专业乐评汇总
 * [Metacritic](https://www.metacritic.com/music)
+
+# 听歌渠道（Spotify歌单）
+
+## 新歌
+
+### 平台推荐
+
+* [Spotify 新歌雷达](https://open.spotify.com/playlist/37i9dQZEVXbusQUlo8x9yF?si=c55620f3768741a8)
+* [Spotify 每周新发现](https://open.spotify.com/playlist/37i9dQZEVXcUJMKPu9JAis?si=2e5958bf29464dc6)
+
+### 乐评推荐
+* [Pitchfork's Best New Music](https://open.spotify.com/playlist/7q503YgioHAbo1iOIa67M8?si=4001177df8e14831)
+* [Pitchfork Selects](https://open.spotify.com/playlist/7f9o34JAe8ZSRq4GX7f0Ol?si=7cba313d7f95481b)
+
+### 风格歌单
+例如：
+* [Neo-Psychedelic Mix](https://open.spotify.com/playlist/37i9dQZF1EIfsakW1XgaQ0?si=6b529e09bd684f4e)
+* [Neo-Psychedelic Rock](https://open.spotify.com/playlist/37i9dQZF1DX7k3T9O9bscd?si=7709590f37034dc3)
+
+## 经典歌曲
+
+### 乐评推荐
+* [RYM top 2000 singles](https://open.spotify.com/playlist/7eePphyZNlKfqbdkZATy0u?si=078aab8394dc4051)
+* [Rate Your Music Top Albums](https://open.spotify.com/playlist/5sfmWpyxPj4cSupa7suClo?si=5ae2127c2ba54061)
+* [Pitchfork: The 200 Best Songs of the 2010s](https://open.spotify.com/playlist/2ua9P1PJZ8vNU1ZOZq6tqe?si=2c330b97edcf4ca4)
+* [Pitchfork: The 200 Best Albums of the 2010s](https://open.spotify.com/playlist/0NdonfZ87AajuaMPaOwXp9?si=96e5381737c64c19)
+* [Pitchfork: The 500 Best Songs of the 2000s](https://open.spotify.com/playlist/1YHCI9W14fhev4Mlba4JOc?si=9c9a811b0878464d)
+* [Pitchfork: The 250 Best Songs of the 1990s](https://open.spotify.com/playlist/3Wz6gSlxvSLqby6D38tgYA?si=8e5e7068cd5d4d1d)
+* [Pitchfork: The 150 Best Albums of the 1990s](https://open.spotify.com/playlist/7G6Ly5URbGyJNWeEkxdhYs?si=c5003f3a8ac24c76)
+
+### 风格歌单
+见上面”按风格“部分。
+
+# 联系我
+
+* 我的网易云音乐播客 [声学实验室](http://music.163.com/radio/?id=794396440&userid=477097094)
+* 我的rate your music主页 [lxqd2021](https://rateyourmusic.com/~lxqd2021)
+* 我的github主页 [lambdacdm](https://github.com/lambdacdm)

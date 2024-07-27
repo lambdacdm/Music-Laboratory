@@ -27,7 +27,7 @@
 * **NO.2** Radiohead / [Paranoid Android](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq?si=3b3b897e34b240d5) / 专辑：OK Computer / 28 May 1997 / 风格：另类摇滚
 * **NO.3** Grimes / [Oblivion](https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK?si=5a726ed162c64fec) / 专辑：Visions / 12 Mar 2012 / 风格：合成器流行
 * **NO.4** Black Country, New Road / [Chaos Space Marine](https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR?si=RkOLR3LYTXmu8iplVcKHrw) / 专辑：Ants From Up There / 4 Feb 2022 / 风格：室内流行 艺术摇滚
-* **NO.5** Bachelor, Jay Som, Palehound / [Stay in the Car](https://open.spotify.com/track/3zs0PDSk0CZJYNpYwzpw7P?si=bvHAkKHkQgCpccBcLHlGPg) / 专辑：Doomin' Sun / 28 May 2021 / 风格：低保真摇滚 噪音流行
+* **NO.5** Bachelor, Jay Som, Palehound / [Stay in the Car](https://open.spotify.com/track/3zs0PDSk0CZJYNpYwzpw7P?si=bvHAkKHkQgCpccBcLHlGPg) / 专辑：Doomin' Sun / 28 May 2021 / 风格：slacker rock 噪音流行
 * **NO.6** 王若琳 / [There She Smiles (In a Memory)](https://open.spotify.com/track/3skGpSq2YA6RiLET89u9Hx?si=af8a650377b04c87) / 专辑：Hotel La Rut / 7 May 2024 / 风格：艺术流行
 * **NO.7** Sweet Trip / [Chocolate Matter](https://open.spotify.com/track/6AMEHNhqK1qwCEJX9UBjEQ?si=a32675bf871b4a1c) / 专辑：Velocity: Design: Comfort. / 10 Jun 2003 / 风格：盯鞋摇滚 智能舞曲
 * **NO.8** Yeah Yeah Yeahs / [Date With The Night](https://open.spotify.com/track/21M6YAySMPv9qQwtqIL42A?si=fHGmS2rbQ4SgsqvQ-7wfuA) / 专辑：Fever To Tell / 29 Apr 2003 / 风格：车库摇滚复兴
@@ -109,6 +109,7 @@
 # 按风格
 
 维基百科：[List of music genres and styles](https://en.wikipedia.org/wiki/List_of_music_genres_and_styles)
+
 RYM：[Music Genres](https://rateyourmusic.com/genres/)
 
 ## 摇滚与朋克大类 (Rock, Punk)
@@ -120,6 +121,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 后朋克 Post-Punk [[RYM]](https://rateyourmusic.com/genre/post-punk/)
   * 朋克舞曲 Dance-Punk [[RYM]](https://rateyourmusic.com/genre/dance-punk/) / [[Spotify歌单]](https://open.spotify.com/playlist/6bgXyEmfUz15P4cZkV1dno?si=0817d3f2aff14617)
 * 车库摇滚 Garage Rock [[RYM]](https://rateyourmusic.com/genre/garage-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/7FKRU3XE9laEFpBepwe0pY?si=b858c3da92aa473c)
+  * 车库摇滚复兴 Garage Rock Revival [[RYM]](https://rateyourmusic.com/genre/garage-rock-revival/)
 * 后摇滚 Post-Rock [[RYM]](https://rateyourmusic.com/genre/post-rock/)
 * 情绪摇滚 Emo [[RYM]](https://rateyourmusic.com/genre/emo/)
 * 硬摇滚 Hard Rock [[RYM]](https://rateyourmusic.com/genre/hard-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/67dHSVPMOo2BT0dvDNe4nB?si=dd6724b4140f47f5)

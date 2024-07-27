@@ -48,9 +48,9 @@
 * 路傍の石 / [revival](https://open.spotify.com/track/0HQCnuIRODvGelieRCeXhz?si=561a0192c7744073) / 专辑：mikgazer 2024
 * Charli xcx / [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex?si=a68532b5326545b6) / 专辑：BRAT
 * Retrograde88 / [Whistling Winds](https://open.spotify.com/track/42L8TVbYtpGmsB7dLi16aZ?si=0b522ad72acb4a7f) / 专辑：Retrograde88
+* Magdalena Bay / [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp?si=453a265dfb764ceb) / 专辑：Image
 * La Femme / [Sur la planche](https://open.spotify.com/track/5FZj4WuWk0wtQq3hE8lFaJ?si=112b77a490284d34) / 专辑：La Femme ressort
 * Billie Eilish / [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h?si=4c73ff760a944d8a) / 专辑：HIT ME HARD AND SOFT
-* Magdalena Bay / [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp?si=453a265dfb764ceb) / 专辑：Image
   
 更多见：
 * [我的2024推荐 Spotify歌单](https://open.spotify.com/playlist/5hiJ6QO3ZvUTF4cQdbE1Xs?si=5973edf5e98947c4)

@@ -258,6 +258,8 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 ## 嘻哈大类 (Hip hop)
 * 旋律说唱 Pop Rap （属于嘻哈∩流行） [[RYM]](https://rateyourmusic.com/genre/pop-rap/) / [[Spotify歌单]](https://open.spotify.com/playlist/5x3V4XhBCNuFE3m2XIyemn?si=dc422d27944d4997)
 * 爵士说唱 Jazz Rap （属于嘻哈∩爵士）[[RYM]](https://rateyourmusic.com/genre/jazz-rap/)
+* 实验嘻哈 Experimental Hip Hop [[RYM]](https://rateyourmusic.com/genre/experimental-hip-hop/)
+* 硬核嘻哈 Hardcore Hip Hop [[RYM]](https://rateyourmusic.com/genre/hardcore-hip-hop/)
 * 陷阱音乐 Trap [[RYM]](https://rateyourmusic.com/genre/trap/)
 
 ## 轻音乐大类 (Easy listening)

@@ -10,7 +10,7 @@
 * [往事如歌E](https://open.spotify.com/playlist/1k5YNvapQ5NnpKltlMEAWw?si=521c4fa5cd0d47dc) 19 Sep 2021 - 19 Jun 2022
 * [往事如歌Q](https://open.spotify.com/playlist/07IPyNH1Hpwvg6zooYIcQ1?si=5a72d8a84d734638) 6 Jun 2014 - 11 Sep 2021
 
-# 世界范围的流行音乐
+# 我最喜欢的流行音乐
 
 我的兴趣集中于如下性质的音乐：
 * 【梦幻/迷幻】：dream pop（梦幻流行）, neo-psychedelic（新迷幻）
@@ -19,9 +19,9 @@
 * 【独立气质】：alternative rock（另类摇滚）
 * 【旋律性】：chamber pop（室内流行）, art pop（艺术流行）
 
-# 我最喜欢的流行音乐
+**GOAT in my mind forever:**
 
-***GOAT in my mind forever***
+（以下按个人喜好程度排序，**纯主观**）
 
 * **NO.1** my bloody valentine / [when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU?si=3e9264a1df4f474f) / 专辑：loveless / 4 Nov 1991 / 风格：盯鞋摇滚
 * **NO.2** Radiohead / [Paranoid Android](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq?si=3b3b897e34b240d5) / 专辑：OK Computer / 28 May 1997 / 风格：另类摇滚
@@ -33,22 +33,24 @@
 * **NO.8** Yeah Yeah Yeahs / [Date With The Night](https://open.spotify.com/track/21M6YAySMPv9qQwtqIL42A?si=fHGmS2rbQ4SgsqvQ-7wfuA) / 专辑：Fever To Tell / 29 Apr 2003 / 风格：车库摇滚复兴
 * **NO.9** M.I.A. / [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a?si=bf060f67e13a4ba3) / 专辑：Kala / 21 Aug 2007 / 风格：实验嘻哈
 * **NO.10** 椎名林檎 / [宗教](https://open.spotify.com/track/7peqk2lb1z7YekvnSMryJL?si=f99b2ce0ba7a4efc) / 专辑：加爾基 精液 栗ノ花 / 23 Feb 2003 / 风格：艺术摇滚 噪音流行
+
+更多见：
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/all/filtered?view=detailed&sort=desc)
+* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
   
 # 按年份
 
-## of All Time
-* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/all/filtered?view=detailed&sort=desc)
-* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
+（以下按个人喜好程度排序，**纯主观**）
 
 ## 2024
 * 王若琳 / [There She Smiles (In a Memory)](https://open.spotify.com/track/3skGpSq2YA6RiLET89u9Hx?si=af8a650377b04c87) / 专辑：Hotel La Rut
 * La Luz / [Good Luck With Your Secret](https://open.spotify.com/track/7hrvQ4efhWpcpWM4XA7zbN?si=f47abb2c0e7840ca) / 专辑：News of the Universe
+* Magdalena Bay / [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp?si=453a265dfb764ceb) / 专辑：Image
 * Bodies Of Water, Brian Walsh / [Footprints](https://open.spotify.com/track/6OEt0wEeipVznEQTtkb8Up?si=6f6dcb6463e44467) / 专辑：The Journey Is Our Home
 * Crumb / [AMAMA](https://open.spotify.com/track/2v0M1pCugLIImmFGZNkydS?si=58ed380a04064a46) / 专辑：AMAMA
 * 路傍の石 / [revival](https://open.spotify.com/track/0HQCnuIRODvGelieRCeXhz?si=561a0192c7744073) / 专辑：mikgazer 2024
 * Charli xcx / [360](https://open.spotify.com/track/4w2GLmK2wnioVnb5CPQeex?si=a68532b5326545b6) / 专辑：BRAT
 * Retrograde88 / [Whistling Winds](https://open.spotify.com/track/42L8TVbYtpGmsB7dLi16aZ?si=0b522ad72acb4a7f) / 专辑：Retrograde88
-* Magdalena Bay / [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp?si=453a265dfb764ceb) / 专辑：Image
 * La Femme / [Sur la planche](https://open.spotify.com/track/5FZj4WuWk0wtQq3hE8lFaJ?si=112b77a490284d34) / 专辑：La Femme ressort
 * Billie Eilish / [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h?si=4c73ff760a944d8a) / 专辑：HIT ME HARD AND SOFT
   
@@ -135,6 +137,7 @@
 * 合成器流行 Synthpop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/synthpop/) / [[Spotify歌单]](https://open.spotify.com/playlist/4dG2x81U4GfyAX6P5ChvL0?si=6d57f0a8c83449e0)
 * 电子流行 Electropop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/electropop/)
 * 流行舞曲 Dance-Pop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/dance-pop/)
+* 故障流行 Glitch Pop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/glitch-pop/)
 * 爵士流行 Jazz Pop （属于流行∩爵士）[[RYM]](https://rateyourmusic.com/genre/jazz-pop/)
 * 独立流行 Indie Pop [[RYM]](https://rateyourmusic.com/genre/indie-pop/)
 * 城市流行 City Pop [[RYM]](https://rateyourmusic.com/genre/city-pop/) / [[Spotify歌单]](https://open.spotify.com/playlist/6UiU3pSmmBoBSJXwTxCgPY?si=69178092b4924c92)
@@ -149,6 +152,8 @@
 * 新浪潮 New Wave （属于摇滚∩电子） [[RYM]](https://rateyourmusic.com/genre/new-wave/) / [[Spotify歌单]](https://open.spotify.com/playlist/5yBKu9pXOh5d9VCRbn3Inj?si=4cda014f82774506)
 * 浩室 House [[RYM]](https://rateyourmusic.com/genre/house/)
 * 智能舞曲 IDM [[RYM]](https://rateyourmusic.com/genre/idm/)
+* 故障流行 Glitch Pop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/glitch-pop/)
+* 独立电子 Indietronica [[RYM]](https://rateyourmusic.com/genre/indietronica/)
 * 电子陷阱音乐 Trap (EDM) [[RYM]](https://rateyourmusic.com/genre/trap-edm/)
 * 氛围音乐 Ambient （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/ambient/)
 * 新世纪音乐 New Age （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/new-age/) / [[Spotify歌单]](https://open.spotify.com/playlist/0PDhmvNy00u3bpWkaPzkYY?si=d8e56020ea67441d)

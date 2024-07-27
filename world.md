@@ -122,7 +122,7 @@
 * 后摇滚 Post-Rock [[RYM]](https://rateyourmusic.com/genre/post-rock/)
 * 情绪摇滚 Emo [[RYM]](https://rateyourmusic.com/genre/emo/)
 * 硬摇滚 Hard Rock [[RYM]](https://rateyourmusic.com/genre/hard-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/67dHSVPMOo2BT0dvDNe4nB?si=dd6724b4140f47f5)
-  
+
 ### 另类摇滚
 * 另类摇滚 Alternative Rock [[RYM]](https://rateyourmusic.com/genre/alternative-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/08WGUmJsJxJr27aMKO1eAS?si=a3ef414319144f13)
   * 盯鞋摇滚 Shoegaze [[RYM]](https://rateyourmusic.com/genre/shoegaze/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/7FmQTfn55pAjjOLSWHk9lj?si=f5c946059f5347df)
@@ -147,43 +147,67 @@
 * 城市流行 City Pop [[RYM]](https://rateyourmusic.com/genre/city-pop/) / [[Spotify歌单]](https://open.spotify.com/playlist/6UiU3pSmmBoBSJXwTxCgPY?si=69178092b4924c92)
 
 ### 与摇滚融合
-* 梦幻流行 Dream Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/dream-pop/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/0jBbtuJAmSHk4OhZiOvCXx?si=358af75c37934de2)
-* 噪音流行 Noise Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/noise-pop/)
+* 另类摇滚类
+  * 梦幻流行 Dream Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/dream-pop/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/0jBbtuJAmSHk4OhZiOvCXx?si=358af75c37934de2)
+  * 噪音流行 Noise Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/noise-pop/)
+  * 英伦摇滚 Britpop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/britpop/)
 * 室内流行 Chamber Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/chamber-pop/)
-* 英伦摇滚 Britpop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/britpop/)
 
 ### 与电子融合
-* 合成器流行 Synthpop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/synthpop/) / [[Spotify歌单]](https://open.spotify.com/playlist/4dG2x81U4GfyAX6P5ChvL0?si=6d57f0a8c83449e0)
 * 电子流行 Electropop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/electropop/)
+  * 合成器流行 Synthpop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/synthpop/) / [[Spotify歌单]](https://open.spotify.com/playlist/4dG2x81U4GfyAX6P5ChvL0?si=6d57f0a8c83449e0)
+  * 流行舞曲 Dance-Pop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/dance-pop/)
   * 超流行音乐 Hyperpopp （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/hyperpop/)
-* 流行舞曲 Dance-Pop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/dance-pop/)
-* 故障流行 Glitch Pop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/glitch-pop/)
+* 独立电子类
+  * 故障流行 Glitch Pop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/glitch-pop/)
 
-### 与其他融合
+### 与爵士融合
 * 爵士流行 Jazz Pop （属于流行∩爵士）[[RYM]](https://rateyourmusic.com/genre/jazz-pop/)
+
+### 与嘻哈融合
 * 旋律说唱 Pop Rap （属于嘻哈∩流行） [[RYM]](https://rateyourmusic.com/genre/pop-rap/) / [[Spotify歌单]](https://open.spotify.com/playlist/5x3V4XhBCNuFE3m2XIyemn?si=dc422d27944d4997)
 
 ## 电子大类 (Electronic)
-* 合成器浪潮 Synthwave [[RYM]](https://rateyourmusic.com/genre/synthwave/) / [[Spotify歌单]](https://open.spotify.com/playlist/2o7rxyqSKLbdHFZJdD76zP?si=22ee4a0003734259)
-* 合成器流行 Synthpop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/synthpop/) / [[Spotify歌单]](https://open.spotify.com/playlist/4dG2x81U4GfyAX6P5ChvL0?si=6d57f0a8c83449e0)
+
+### 电子流行
 * 电子流行 Electropop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/electropop/)
+  * 合成器流行 Synthpop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/synthpop/) / [[Spotify歌单]](https://open.spotify.com/playlist/4dG2x81U4GfyAX6P5ChvL0?si=6d57f0a8c83449e0)
+  * 流行舞曲 Dance-Pop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/dance-pop/)
   * 超流行音乐 Hyperpopp （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/hyperpop/)
-* 流行舞曲 Dance-Pop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/dance-pop/)
+ 
+### 电子舞曲（EDM）
 * 迪斯科 Disco （属于电子∩R&B大类） [[RYM]](https://rateyourmusic.com/genre/disco/) / [[Spotify歌单]](https://open.spotify.com/playlist/0BaTBgYOhYOF2RaZCahCKg?si=106ae4e3eb264e80)
-* 新浪潮 New Wave （属于摇滚∩电子） [[RYM]](https://rateyourmusic.com/genre/new-wave/) / [[Spotify歌单]](https://open.spotify.com/playlist/5yBKu9pXOh5d9VCRbn3Inj?si=4cda014f82774506)
 * 浩室 House [[RYM]](https://rateyourmusic.com/genre/house/)
+* 科技舞曲 Techno [[RYM]](https://rateyourmusic.com/genre/techno/)
+* 出神音乐 Trance [[RYM]](https://rateyourmusic.com/genre/trance/)
+* 贝斯音乐类
+  * 英国贝斯 UK Bass [[RYM]](https://rateyourmusic.com/genre/uk-bass/)
+  * 未来贝斯 Future Bass [[RYM]](https://rateyourmusic.com/genre/future-bass/)
+  * 电子陷阱音乐 Trap (EDM) [[RYM]](https://rateyourmusic.com/genre/trap-edm/)
+  * 回响贝斯 Dubstep [[RYM]](https://rateyourmusic.com/genre/dubstep/)
+
+### 其他主要门类
+* 合成器浪潮 Synthwave [[RYM]](https://rateyourmusic.com/genre/synthwave/) / [[Spotify歌单]](https://open.spotify.com/playlist/2o7rxyqSKLbdHFZJdD76zP?si=22ee4a0003734259)
 * 智能舞曲 IDM [[RYM]](https://rateyourmusic.com/genre/idm/)
-* 故障流行 Glitch Pop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/glitch-pop/)
 * 独立电子 Indietronica [[RYM]](https://rateyourmusic.com/genre/indietronica/)
-* 电子陷阱音乐 Trap (EDM) [[RYM]](https://rateyourmusic.com/genre/trap-edm/)
+  * 故障流行 Glitch Pop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/glitch-pop/)
+ 
+### 与摇滚融合
+* 新浪潮 New Wave （属于摇滚∩电子） [[RYM]](https://rateyourmusic.com/genre/new-wave/) / [[Spotify歌单]](https://open.spotify.com/playlist/5yBKu9pXOh5d9VCRbn3Inj?si=4cda014f82774506)
+
+### 与轻音乐融合
 * 氛围音乐 Ambient （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/ambient/)
 * 新世纪音乐 New Age （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/new-age/) / [[Spotify歌单]](https://open.spotify.com/playlist/0PDhmvNy00u3bpWkaPzkYY?si=d8e56020ea67441d)
 
 ## 爵士大类 (Jazz)
+
+### 主要门类
 * 拉丁爵士 Latin Jazz [[RYM]](https://rateyourmusic.com/genre/latin-jazz/) / [[Spotify歌单]](https://open.spotify.com/playlist/23ZzEDMUXojfRCCujdEEmT?si=ab6f7f1ecda64256)
-* 融合爵士 Jazz Fusion （属于爵士∩摇滚）  [[RYM]](https://rateyourmusic.com/genre/jazz-fusion/) / [[Spotify歌单]](https://open.spotify.com/playlist/4Nn1CBdbykZgY21vfm7dfs?si=b10b818c84604dfc)
 * 摇摆乐 Swing [[RYM]](https://rateyourmusic.com/genre/swing/) / / [[Spotify歌单]](https://open.spotify.com/playlist/0gLSd8Hrz9h47fu0lM5UCD?si=2b10858e24104023)
 * 酸爵士 Acid Jazz [[RYM]](https://rateyourmusic.com/genre/acid-jazz/)
+
+### 融合类
+* 融合爵士 Jazz Fusion （属于爵士∩摇滚）  [[RYM]](https://rateyourmusic.com/genre/jazz-fusion/) / [[Spotify歌单]](https://open.spotify.com/playlist/4Nn1CBdbykZgY21vfm7dfs?si=b10b818c84604dfc)
 * 爵士流行 Jazz Pop （属于流行∩爵士）[[RYM]](https://rateyourmusic.com/genre/jazz-pop/)
 * 爵士说唱 Jazz Rap （属于嘻哈∩爵士）[[RYM]](https://rateyourmusic.com/genre/jazz-rap/)
 
@@ -205,8 +229,10 @@
 ## 金属大类 (Metal)
 * 重金属 Heavy Metal [[RYM]](https://rateyourmusic.com/genre/heavy-metal/) / [[Spotify歌单]](https://open.spotify.com/playlist/7aO7tFh6Km0MGWFdnwIHpf?si=0123642856b04807)
 * 新金属 Nu Metal [[RYM]](https://rateyourmusic.com/genre/nu-metal/)
+* 前卫金属 Progressive Metal [[RYM]](https://rateyourmusic.com/genre/progressive-metal/)
 * 黑金属 Black Metal [[RYM]](https://rateyourmusic.com/genre/black-metal/)
 * 死亡金属 Death Metal [[RYM]](https://rateyourmusic.com/genre/death-metal/)
+* 厄运金属 Doom Metal [[RYM]](https://rateyourmusic.com/genre/doom-metal/)
 * 金属核 Metalcore [[RYM]](https://rateyourmusic.com/genre/metalcore/)
   
 ## 嘻哈大类 (Hip hop)
@@ -220,7 +246,7 @@
 
 ## 先锋实验大类 (Avant-garde, Experimental)
 * 噪音音乐 Noise [[RYM]](https://rateyourmusic.com/genre/noise/)
-
+* 工业音乐 Industrial [[RYM]](https://rateyourmusic.com/genre/industrial/)
 
 # 乐评网站
 

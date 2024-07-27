@@ -218,8 +218,12 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 
 ### 主要门类
 * 拉丁爵士 Latin Jazz [[RYM]](https://rateyourmusic.com/genre/latin-jazz/) / [[Spotify歌单]](https://open.spotify.com/playlist/23ZzEDMUXojfRCCujdEEmT?si=ab6f7f1ecda64256)
-* 摇摆乐 Swing [[RYM]](https://rateyourmusic.com/genre/swing/) / [[Spotify歌单]](https://open.spotify.com/playlist/0gLSd8Hrz9h47fu0lM5UCD?si=2b10858e24104023)
+  * 波萨诺瓦 Bossa nova [[RYM]](https://rateyourmusic.com/genre/bossa-nova/)
 * 酸爵士 Acid Jazz [[RYM]](https://rateyourmusic.com/genre/acid-jazz/)
+* 摇摆乐 Swing [[RYM]](https://rateyourmusic.com/genre/swing/) / [[Spotify歌单]](https://open.spotify.com/playlist/0gLSd8Hrz9h47fu0lM5UCD?si=2b10858e24104023)
+* 大乐队 Big Band [[RYM]](https://rateyourmusic.com/genre/big-band/)
+* 波普爵士乐 Bebop [[RYM]](https://rateyourmusic.com/genre/bebop/)
+* Boogie Woogie [[RYM]](https://rateyourmusic.com/genre/boogie-woogie/)
 
 ### 融合类
 * 融合爵士 Jazz Fusion （属于爵士∩摇滚）  [[RYM]](https://rateyourmusic.com/genre/jazz-fusion/) / [[Spotify歌单]](https://open.spotify.com/playlist/4Nn1CBdbykZgY21vfm7dfs?si=b10b818c84604dfc)

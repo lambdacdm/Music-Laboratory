@@ -127,7 +127,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 华丽摇滚 Glam Rock [[RYM]](https://rateyourmusic.com/genre/glam-rock/)
 * 极客摇滚 Geek Rock [[RYM]](https://rateyourmusic.com/genre/geek-rock/)
 
-### 另类摇滚
+### 另类
 * 另类摇滚 Alternative Rock [[RYM]](https://rateyourmusic.com/genre/alternative-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/08WGUmJsJxJr27aMKO1eAS?si=a3ef414319144f13)
   * 盯鞋摇滚 Shoegaze [[RYM]](https://rateyourmusic.com/genre/shoegaze/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/7FmQTfn55pAjjOLSWHk9lj?si=f5c946059f5347df)
   * 梦幻流行 Dream Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/dream-pop/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/0jBbtuJAmSHk4OhZiOvCXx?si=358af75c37934de2)
@@ -257,11 +257,18 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 金属核 Metalcore [[RYM]](https://rateyourmusic.com/genre/metalcore/)
   
 ## 嘻哈大类 (Hip hop)
+
+### 主要门类
 * 旋律说唱 Pop Rap （属于嘻哈∩流行） [[RYM]](https://rateyourmusic.com/genre/pop-rap/) / [[Spotify歌单]](https://open.spotify.com/playlist/5x3V4XhBCNuFE3m2XIyemn?si=dc422d27944d4997)
 * 爵士说唱 Jazz Rap （属于嘻哈∩爵士）[[RYM]](https://rateyourmusic.com/genre/jazz-rap/)
 * 实验嘻哈 Experimental Hip Hop [[RYM]](https://rateyourmusic.com/genre/experimental-hip-hop/)
 * 硬核嘻哈 Hardcore Hip Hop [[RYM]](https://rateyourmusic.com/genre/hardcore-hip-hop/)
 * 陷阱音乐 Trap [[RYM]](https://rateyourmusic.com/genre/trap/)
+* Boom Bap [[RYM]](https://rateyourmusic.com/genre/boom-bap/)
+
+### 地域类
+* 西海岸嘻哈 West Coast Hip Hop [[RYM]](https://rateyourmusic.com/genre/west-coast-hip-hop/)
+* 东海岸嘻哈 East Coast Hip Hop [[RYM]](https://rateyourmusic.com/genre/east-coast-hip-hop/)
 
 ## 轻音乐大类 (Easy listening)
 * 氛围音乐 Ambient （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/ambient/)

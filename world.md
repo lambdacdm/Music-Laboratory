@@ -95,6 +95,7 @@
 
 ## 2021
 * Bachelor, Jay Som, Palehound / [Stay in the Car](https://open.spotify.com/track/3zs0PDSk0CZJYNpYwzpw7P?si=bvHAkKHkQgCpccBcLHlGPg) / 专辑：Doomin' Sun
+* Otay:onii / [Blackheart Breakables](https://open.spotify.com/track/69TjZ9FbNRojWJVpAbnFz4?si=0a4620c77d4f4265) / 专辑：冥冥
 * La Femme / [Le sang de mon prochain](https://open.spotify.com/track/2UKt76lfD2SGturLfzRq1j?si=irA-pxNXRrGbCMJgD1QZJw&context=spotify%3Aalbum%3A1u2Q5MFWptOdPpldjC0xO9) / 专辑：Paradigmes
 * Clairo / [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU?si=AbvULb2cQkqqJOzo8qfnbQ) / 专辑：Sling
 * PACKS / [Silvertongue](https://open.spotify.com/track/0UjEhWUIpTVCOrI1sY5Yma?si=5LOXp5XJS4SheJkx4m1N6g) / 专辑：Take the Cake

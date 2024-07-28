@@ -131,7 +131,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 另类摇滚 Alternative Rock [[RYM]](https://rateyourmusic.com/genre/alternative-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/08WGUmJsJxJr27aMKO1eAS?si=a3ef414319144f13)
   * 盯鞋摇滚 Shoegaze [[RYM]](https://rateyourmusic.com/genre/shoegaze/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/7FmQTfn55pAjjOLSWHk9lj?si=f5c946059f5347df)
   * 梦幻流行 Dream Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/dream-pop/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/0jBbtuJAmSHk4OhZiOvCXx?si=358af75c37934de2)
-  * 噪音流行 Noise Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/noise-pop/)
+  * 噪音流行 Noise Pop （属于摇滚∩流行∩实验） [[RYM]](https://rateyourmusic.com/genre/noise-pop/)
   * Slacker Rock [[RYM]](https://rateyourmusic.com/genre/slacker-rock/)
   * 垃圾摇滚 Grunge [[RYM]](https://rateyourmusic.com/genre/grunge/)
   * 数学摇滚 Math Rock [[RYM]](https://rateyourmusic.com/genre/math-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/0XtdxTlDxUXJtkdCXFHKHf?si=97472bec097b4250)
@@ -150,6 +150,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
   * 暗潮 Darkwave （属于摇滚∩电子） [[RYM]](https://rateyourmusic.com/genre/darkwave/)
 * 民谣摇滚 Folk Rock （属于摇滚∩民谣） [[RYM]](https://rateyourmusic.com/genre/folk-rock/)
 * 布鲁斯摇滚 Blues Rock （属于摇滚∩布鲁斯） [[RYM]](https://rateyourmusic.com/genre/blues-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/626ZIxIXgTOjqkjX7Unbtz?si=3c5ace3365414883)
+* 工业摇滚 Industrial Rock （属于摇滚∩实验） [[RYM]](https://rateyourmusic.com/genre/industrial-rock/)
 
 ## 流行大类 (Pop)
 
@@ -164,7 +165,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 ### 与摇滚融合
 * 另类摇滚类
   * 梦幻流行 Dream Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/dream-pop/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/0jBbtuJAmSHk4OhZiOvCXx?si=358af75c37934de2)
-  * 噪音流行 Noise Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/noise-pop/)
+  * 噪音流行 Noise Pop （属于摇滚∩流行∩实验） [[RYM]](https://rateyourmusic.com/genre/noise-pop/)
   * 英伦摇滚 Britpop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/britpop/)
 * 室内流行 Chamber Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/chamber-pop/)
 * 流行摇滚 Pop Rock （属于流行∩摇滚） [[RYM]](https://rateyourmusic.com/genre/pop-rock/)
@@ -213,6 +214,8 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
   * 暗潮 Darkwave （属于摇滚∩电子） [[RYM]](https://rateyourmusic.com/genre/darkwave/)
 * 氛围音乐 Ambient （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/ambient/)
 * 新世纪音乐 New Age （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/new-age/) / [[Spotify歌单]](https://open.spotify.com/playlist/0PDhmvNy00u3bpWkaPzkYY?si=d8e56020ea67441d)
+* 后工业 Post-Industrial （属于电子∩实验） [[RYM]](https://rateyourmusic.com/genre/post-industrial/)
+  * 电子人体音乐 EBM （属于电子∩实验） [[RYM]](https://rateyourmusic.com/genre/ebm/)
 
 ## 爵士大类 (Jazz)
 
@@ -229,6 +232,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 融合爵士 Jazz Fusion （属于爵士∩摇滚）  [[RYM]](https://rateyourmusic.com/genre/jazz-fusion/) / [[Spotify歌单]](https://open.spotify.com/playlist/4Nn1CBdbykZgY21vfm7dfs?si=b10b818c84604dfc)
 * 爵士流行 Jazz Pop （属于流行∩爵士）[[RYM]](https://rateyourmusic.com/genre/jazz-pop/)
 * 爵士说唱 Jazz Rap （属于嘻哈∩爵士）[[RYM]](https://rateyourmusic.com/genre/jazz-rap/)
+* 先锋爵士 Avant-Garde Jazz （属于爵士∩先锋） [[RYM]](https://rateyourmusic.com/genre/avant-garde-jazz/)
 
 ## 根源音乐大类（Folk, Blues, Country)
 * 当代民谣 Contemporary Folk [[RYM]](https://rateyourmusic.com/genre/contemporary-folk/) / [[Spotify歌单]](https://open.spotify.com/playlist/6YddB6ttCctYlwSM48XbF8?si=545c30de21984338)
@@ -275,8 +279,17 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 新世纪音乐 New Age （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/new-age/) / [[Spotify歌单]](https://open.spotify.com/playlist/0PDhmvNy00u3bpWkaPzkYY?si=d8e56020ea67441d)
 
 ## 先锋实验大类 (Avant-garde, Experimental)
-* 噪音音乐 Noise [[RYM]](https://rateyourmusic.com/genre/noise/)
-* 工业音乐 Industrial [[RYM]](https://rateyourmusic.com/genre/industrial/)
+
+### 先锋类
+* 先锋爵士 Avant-Garde Jazz （属于爵士∩先锋） [[RYM]](https://rateyourmusic.com/genre/avant-garde-jazz/)
+
+### 噪音类
+* 噪音流行 Noise Pop （属于摇滚∩流行∩实验） [[RYM]](https://rateyourmusic.com/genre/noise-pop/)
+
+### 工业类
+* 工业摇滚 Industrial Rock （属于摇滚∩实验） [[RYM]](https://rateyourmusic.com/genre/industrial-rock/)
+* 后工业 Post-Industrial （属于电子∩实验） [[RYM]](https://rateyourmusic.com/genre/post-industrial/)
+  * 电子人体音乐 EBM （属于电子∩实验） [[RYM]](https://rateyourmusic.com/genre/ebm/)
 
 # 乐评网站
 

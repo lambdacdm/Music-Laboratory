@@ -28,15 +28,15 @@
 下述发行时间以豆瓣音乐为准。歌曲的风格界定参考rate your music. 
 
 * **NO.1 (主流 NO.1)** 王若琳 / [There She Smiles (In a Memory)](https://music.163.com/#/song?id=2149457789) / 专辑：Hotel La Rut / 2024.5 / 风格：艺术流行
-* **NO.2 (独立 NO.1)** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：另类摇滚 室内流行
-* **NO.3 (独立 NO.2)** 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12 / 风格：前卫摇滚 艺术摇滚
-* **NO.4 (独立 NO.3)** 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10 / 风格：朋克舞曲
-* **NO.5 (主流 NO.2)** 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12 / 风格：梦幻流行
-* **NO.6 (独立 NO.4)** 假假條 / [湘靈鼓瑟](https://music.163.com/#/song?id=411754531) / 专辑：時代在召喚 / 2016.5 / 风格：垃圾摇滚
-* **NO.7 (独立 NO.5)** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚
-* **NO.8 (独立 NO.6)** 八仙饭店 / [青少年哪吒 (Neon God)](https://music.163.com/#/song?id=1811506614) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1 / 风格：垃圾摇滚 迷幻摇滚
-* **NO.9 (独立 NO.7)** Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1 / 风格：后朋克 迷幻摇滚
-* **NO.10 (独立 NO.8)** Otay:onii / [重叠](https://music.163.com/#/song?id=2024385028) / 专辑：夢之駭客 / 2023.2 / 风格：新古典暗潮 后工业
+* **NO.2 (独立 NO.1)** Otay:onii / [Loading](https://music.163.com/#/song?id=1433232435) / 专辑：NAG / 2018.5 / 风格：后工业 暗潮
+* **NO.3 (独立 NO.2)** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：另类摇滚 室内流行
+* **NO.4 (独立 NO.3)** 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12 / 风格：前卫摇滚 艺术摇滚
+* **NO.5 (独立 NO.4)** 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10 / 风格：朋克舞曲
+* **NO.6 (主流 NO.2)** 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12 / 风格：梦幻流行
+* **NO.7 (独立 NO.5)** 假假條 / [湘靈鼓瑟](https://music.163.com/#/song?id=411754531) / 专辑：時代在召喚 / 2016.5 / 风格：垃圾摇滚
+* **NO.8 (独立 NO.6)** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚
+* **NO.9 (独立 NO.7)** 八仙饭店 / [青少年哪吒 (Neon God)](https://music.163.com/#/song?id=1811506614) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1 / 风格：垃圾摇滚 迷幻摇滚
+* **NO.10 (独立 NO.8)** Ourself Beside Me / [Sunday Girl](http://music.163.com/song?id=370141&userid=477097094) / 专辑：Ourself Beside Me / 2009.1 / 风格：后朋克 迷幻摇滚
 
 ### 独立音乐
 * **独立 NO.9** Baby Formula / [苏菲的世界](https://music.163.com/#/song?id=28029278) / 专辑：Baby Formula / 2013.10 / 风格：盯鞋摇滚
@@ -158,6 +158,7 @@
 * 裸儿 / [我想躺在地板上](http://music.163.com/song?id=1867580210&userid=477097094) / 专辑：果果 / 2021.8
 * 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4
 * 祁紫檀 / [生命从无法被概括](http://music.163.com/song?id=1821481546&userid=477097094) / 单曲：生命从无法被概括 / 2021.3
+* Otay:onii / [Blackheart Breakables](https://music.163.com/#/song?id=1836809946) / 专辑：冥冥 / 2021.2
 * 福禄寿FloruitShow / [超度我](http://music.163.com/song?id=1818820552&userid=477097094) / 专辑：我用什么把你留住 / 2021.2
 * 八仙饭店 / [青少年哪吒 (Neon God)](https://music.163.com/#/song?id=1811506614) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1
 * 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1
@@ -262,6 +263,7 @@
 ### 独立音乐
 * 惘闻 / [大连，勿语](http://music.163.com/song?id=862100903&userid=477097094) / 专辑：看不见的城市 / 2018.7
 * 野外合作社 / [诚实假日酒店](http://music.163.com/song?id=565890722&userid=477097094) / 专辑：台风 / 2018.5
+* Otay:onii / [Loading](https://music.163.com/#/song?id=1433232435) / 专辑：NAG / 2018.5
 
 <!-- * 白皮书乐队 / [Falling](http://music.163.com/song?id=1323304515&userid=477097094) / 专辑：我不高兴 / 2018.11 -->
 

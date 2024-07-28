@@ -286,13 +286,13 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 ### 先锋类
 * 先锋爵士 Avant-Garde Jazz （属于爵士∩先锋） [[RYM]](https://rateyourmusic.com/genre/avant-garde-jazz/)
 
-### 噪音类
-* 噪音流行 Noise Pop （属于摇滚∩流行∩实验） [[RYM]](https://rateyourmusic.com/genre/noise-pop/)
-
-### 工业类
-* 工业摇滚 Industrial Rock （属于摇滚∩实验） [[RYM]](https://rateyourmusic.com/genre/industrial-rock/)
-* 后工业 Post-Industrial （属于电子∩实验） [[RYM]](https://rateyourmusic.com/genre/post-industrial/)
-  * 电子人体音乐 EBM （属于电子∩实验） [[RYM]](https://rateyourmusic.com/genre/ebm/)
+### 实验类
+* 噪音音乐 Noise [[RYM]](https://rateyourmusic.com/genre/noise/)
+  * 噪音流行 Noise Pop （属于摇滚∩流行∩实验） [[RYM]](https://rateyourmusic.com/genre/noise-pop/)
+* 工业音乐 Industrial [[RYM]](https://rateyourmusic.com/genre/industrial/)
+  * 工业摇滚 Industrial Rock （属于摇滚∩实验） [[RYM]](https://rateyourmusic.com/genre/industrial-rock/)
+  * 后工业 Post-Industrial （属于电子∩实验） [[RYM]](https://rateyourmusic.com/genre/post-industrial/)
+    * 电子人体音乐 EBM （属于电子∩实验） [[RYM]](https://rateyourmusic.com/genre/ebm/)
 
 # 乐评网站
 

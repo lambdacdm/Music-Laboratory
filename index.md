@@ -435,7 +435,7 @@
 
 * 我的网易云音乐播客 [声学实验室](http://music.163.com/radio/?id=794396440&userid=477097094)
 * 我的Spotify主页 [lxqd2021](https://open.spotify.com/user/aodbn5sk0d56tefinucj47aqd?si=42f7a0be73a44f54)
-* 我的Spotify[听歌数据](https://stats.fm/aodbn5sk0d56tefinucj47aqd)
+* 我的Spotify[听歌数据统计](https://stats.fm/aodbn5sk0d56tefinucj47aqd)
 * 我的rate your music主页 [lxqd2021](https://rateyourmusic.com/~lxqd2021)
 * 我的b站主页 [寨森CDM](https://space.bilibili.com/407184818?spm_id_from=333.1007.0.0)
 * 我的github主页 [lambdacdm](https://github.com/lambdacdm)

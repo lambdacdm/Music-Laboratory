@@ -1,6 +1,9 @@
 **本页面聚焦于世界范围内的流行音乐。华语音乐推荐歌单另见[这里](https://lambdacdm.github.io/Music-Laboratory/)。**
 
 # 我正在听的歌
+
+**[点此](https://stats.fm/aodbn5sk0d56tefinucj47aqd)查看我的Spotify听歌数据。**
+
 以下陈列着我不同时期的Spotify歌单。
 
 * [往事如歌D](https://open.spotify.com/playlist/6PoEN68oFKEpqZcAgg9ggA?si=e495f01cc2da4742) 22 Sep 2023 - Now
@@ -346,6 +349,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 
 * 我的网易云音乐播客 [声学实验室](http://music.163.com/radio/?id=794396440&userid=477097094)
 * 我的Spotify主页 [lxqd2021](https://open.spotify.com/user/aodbn5sk0d56tefinucj47aqd?si=42f7a0be73a44f54)
+* 我的Spotify[听歌数据](https://stats.fm/aodbn5sk0d56tefinucj47aqd)
 * 我的rate your music主页 [lxqd2021](https://rateyourmusic.com/~lxqd2021)
 * 我的b站主页 [寨森CDM](https://space.bilibili.com/407184818?spm_id_from=333.1007.0.0)
 * 我的github主页 [lambdacdm](https://github.com/lambdacdm)

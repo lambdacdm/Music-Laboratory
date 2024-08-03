@@ -47,8 +47,8 @@
 
 ## 2024
 * 王若琳 / [There She Smiles (In a Memory)](https://open.spotify.com/track/3skGpSq2YA6RiLET89u9Hx?si=af8a650377b04c87) / 专辑：Hotel La Rut
+* Magdalena Bay / [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp?si=453a265dfb764ceb) / 专辑：Imaginal Disk
 * La Luz / [Good Luck With Your Secret](https://open.spotify.com/track/7hrvQ4efhWpcpWM4XA7zbN?si=f47abb2c0e7840ca) / 专辑：News of the Universe
-* Magdalena Bay / [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp?si=453a265dfb764ceb) / 专辑：Image
 * Bodies Of Water, Brian Walsh / [Footprints](https://open.spotify.com/track/6OEt0wEeipVznEQTtkb8Up?si=6f6dcb6463e44467) / 专辑：The Journey Is Our Home
 * Crumb / [AMAMA](https://open.spotify.com/track/2v0M1pCugLIImmFGZNkydS?si=58ed380a04064a46) / 专辑：AMAMA
 * 路傍の石 / [revival](https://open.spotify.com/track/0HQCnuIRODvGelieRCeXhz?si=561a0192c7744073) / 专辑：mikgazer 2024

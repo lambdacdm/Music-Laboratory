@@ -40,7 +40,7 @@
 * **NO.7** Bully, Soccer Mommy / [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA?si=ife6w_OEROSIlDVWSMGxXQ) / 专辑：Lucky For You / 2 Jun 2023 / 风格：slacker rock 另类摇滚
 * **NO.8** Big Thief / [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz?si=0a1da50e89704874) / 专辑：Dragon New Warm Mountain I Believe In You / 11 Feb 2022 / 风格：独立民谣 民谣摇滚
 * **NO.9** La Femme / [Le sang de mon prochain](https://open.spotify.com/track/2UKt76lfD2SGturLfzRq1j?si=irA-pxNXRrGbCMJgD1QZJw&context=spotify%3Aalbum%3A1u2Q5MFWptOdPpldjC0xO9) / 专辑：Paradigmes / 2 Apr 2021 / 风格：合成器流行 新迷幻
-* **NO.10** 김뜻돌 / [기도](https://open.spotify.com/track/6wmQbPvNjW3fT2bSF8qbcs?si=70827e0aa29f494a) / 单曲：Kiddo / 29 Oct 2022 / 风格：盯鞋摇滚 另类摇滚
+* **NO.10** 김뜻돌 / [기도](https://open.spotify.com/track/6wmQbPvNjW3fT2bSF8qbcs?si=70827e0aa29f494a) / 单曲：기도 / 29 Oct 2022 / 风格：盯鞋摇滚 另类摇滚
 
 ## 2024
 * 王若琳 / [There She Smiles (In a Memory)](https://open.spotify.com/track/3skGpSq2YA6RiLET89u9Hx?si=af8a650377b04c87) / 专辑：Hotel La Rut

@@ -22,21 +22,6 @@
 * 【独立气质】：alternative rock（另类摇滚）
 * 【旋律性】：chamber pop（室内流行）, art pop（艺术流行）
 
-**GOAT in my mind forever:**
-
-（以下按个人喜好程度排序，**纯主观**）
-
-* **NO.1** my bloody valentine / [when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU?si=3e9264a1df4f474f) / 专辑：loveless / 4 Nov 1991 / 风格：盯鞋摇滚 噪音流行
-* **NO.2** Radiohead / [Paranoid Android](https://open.spotify.com/track/6LgJvl0Xdtc73RJ1mmpotq?si=3b3b897e34b240d5) / 专辑：OK Computer / 28 May 1997 / 风格：另类摇滚 艺术摇滚
-* **NO.3** Grimes / [Oblivion](https://open.spotify.com/track/4BY4V1T0RJK1HmD2Q0ClyK?si=5a726ed162c64fec) / 专辑：Visions / 12 Mar 2012 / 风格：合成器流行
-* **NO.4** Black Country, New Road / [Chaos Space Marine](https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR?si=RkOLR3LYTXmu8iplVcKHrw) / 专辑：Ants From Up There / 4 Feb 2022 / 风格：室内流行 艺术摇滚
-* **NO.5** Bachelor, Jay Som, Palehound / [Stay in the Car](https://open.spotify.com/track/3zs0PDSk0CZJYNpYwzpw7P?si=bvHAkKHkQgCpccBcLHlGPg) / 专辑：Doomin' Sun / 28 May 2021 / 风格：slacker rock 噪音流行
-* **NO.6** 王若琳 / [There She Smiles (In a Memory)](https://open.spotify.com/track/3skGpSq2YA6RiLET89u9Hx?si=af8a650377b04c87) / 专辑：Hotel La Rut / 7 May 2024 / 风格：艺术流行
-* **NO.7** Sweet Trip / [Chocolate Matter](https://open.spotify.com/track/6AMEHNhqK1qwCEJX9UBjEQ?si=a32675bf871b4a1c) / 专辑：Velocity: Design: Comfort. / 10 Jun 2003 / 风格：盯鞋摇滚 智能舞曲
-* **NO.8** Yeah Yeah Yeahs / [Date With The Night](https://open.spotify.com/track/21M6YAySMPv9qQwtqIL42A?si=fHGmS2rbQ4SgsqvQ-7wfuA) / 专辑：Fever To Tell / 29 Apr 2003 / 风格：车库摇滚复兴
-* **NO.9** M.I.A. / [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a?si=bf060f67e13a4ba3) / 专辑：Kala / 21 Aug 2007 / 风格：实验嘻哈
-* **NO.10** 椎名林檎 / [宗教](https://open.spotify.com/track/7peqk2lb1z7YekvnSMryJL?si=f99b2ce0ba7a4efc) / 专辑：加爾基 精液 栗ノ花 / 23 Feb 2003 / 风格：艺术摇滚 噪音流行
-
 更多见：
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/all/filtered?view=detailed&sort=desc)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
@@ -44,6 +29,18 @@
 # 按年份
 
 （以下按个人喜好程度排序，**纯主观**）
+
+## 2020年代总榜
+* **NO.1** 王若琳 / [There She Smiles (In a Memory)](https://open.spotify.com/track/3skGpSq2YA6RiLET89u9Hx?si=af8a650377b04c87) / 专辑：Hotel La Rut / 7 May 2024 / 风格：艺术流行 极客摇滚
+* **NO.2** Magdalena Bay / [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp?si=862fbb978b824e06) / 专辑：Imaginal Disk / 23 Aug 2024 / 风格：合成器流行 新迷幻
+* **NO.3** Black Country, New Road / [Chaos Space Marine](https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR?si=RkOLR3LYTXmu8iplVcKHrw) / 专辑：Ants From Up There / 4 Feb 2022 / 风格：室内流行 艺术摇滚
+* **NO.4** Bachelor, Jay Som, Palehound / [Stay in the Car](https://open.spotify.com/track/3zs0PDSk0CZJYNpYwzpw7P?si=bvHAkKHkQgCpccBcLHlGPg) / 专辑：Doomin' Sun / 28 May 2021 / 风格：slacker rock 噪音流行
+* **NO.5** Beach House / [Once Twice Melody](https://open.spotify.com/track/4UexrxBMEyacoNwOvmx6XQ?si=266284a01fae4071) / 专辑：Once Twice Melody / 18 Feb 2022 / 风格：梦幻流行 新迷幻
+* **NO.6** Tanukichan / [Escape](https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI?si=AHp08NnoRBaB3jxtFcDAKw) / 专辑：GIZMO / 3 Mar 2023 / 风格：盯鞋摇滚 梦幻流行
+* **NO.7** Bully, Soccer Mommy / [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA?si=ife6w_OEROSIlDVWSMGxXQ) / 专辑：Lucky For You / 2 Jun 2023 / 风格：slacker rock 另类摇滚
+* **NO.8** Big Thief / [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz?si=0a1da50e89704874) / 专辑：Dragon New Warm Mountain I Believe In You / 11 Feb 2022 / 风格：独立民谣 民谣摇滚
+* **NO.9** La Femme / [Le sang de mon prochain](https://open.spotify.com/track/2UKt76lfD2SGturLfzRq1j?si=irA-pxNXRrGbCMJgD1QZJw&context=spotify%3Aalbum%3A1u2Q5MFWptOdPpldjC0xO9) / 专辑：Paradigmes / 2 Apr 2021 / 风格：合成器流行 新迷幻
+* **NO.10** 김뜻돌 / [기도](https://open.spotify.com/track/6wmQbPvNjW3fT2bSF8qbcs?si=70827e0aa29f494a) / 单曲：Kiddo / 29 Oct 2022 / 风格：盯鞋摇滚 另类摇滚
 
 ## 2024
 * 王若琳 / [There She Smiles (In a Memory)](https://open.spotify.com/track/3skGpSq2YA6RiLET89u9Hx?si=af8a650377b04c87) / 专辑：Hotel La Rut
@@ -64,8 +61,8 @@
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2024/)
 
 ## 2023
-* Bully, Soccer Mommy / [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA?si=ife6w_OEROSIlDVWSMGxXQ) / 专辑：Lucky For You
 * Tanukichan / [Escape](https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI?si=AHp08NnoRBaB3jxtFcDAKw) / 专辑：GIZMO
+* Bully, Soccer Mommy / [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA?si=ife6w_OEROSIlDVWSMGxXQ) / 专辑：Lucky For You
 * TEKE::TEKE / [Doppelganger](https://open.spotify.com/track/7hWdNwrLMi89VNngqPxsm8?si=Jyp6gu0QRUCcH_6oJ9777w) / 专辑：Hagata
 * French 79, Oliva Merilahti, Prudence / [You Always Say](https://open.spotify.com/track/0DlLtJqO4hVBcqhu9jtBIv?si=0jhSyZk5RvGIHeu4dWIdOQ) / 专辑：TEENAGERS
 * Kat Duma / [Ana](https://open.spotify.com/track/6pl1zEA50Rfy5ubY9cvIQ0?si=N9Zkt_UUTqex8Bubsiz5WA) / 专辑：Real Life
@@ -82,12 +79,12 @@
 
 ## 2022
 * Black Country, New Road / [Chaos Space Marine](https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR?si=RkOLR3LYTXmu8iplVcKHrw) / 专辑：Ants From Up There
-* Big Thief / [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz?si=0a1da50e89704874) / 专辑：Dragon New Warm Mountain I Believe In You
-* Alvvays / [Tile By Tile](spotify:track:4PZkJYffxBtM3hlvQqAgZ4) / 专辑：Blue Rev
 * Beach House / [Once Twice Melody](https://open.spotify.com/track/4UexrxBMEyacoNwOvmx6XQ?si=266284a01fae4071) / 专辑：Once Twice Melody
+* Big Thief / [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz?si=0a1da50e89704874) / 专辑：Dragon New Warm Mountain I Believe In You
+* 김뜻돌 / [기도](https://open.spotify.com/track/6wmQbPvNjW3fT2bSF8qbcs?si=70827e0aa29f494a) / 单曲：기도
+* Alvvays / [Tile By Tile](spotify:track:4PZkJYffxBtM3hlvQqAgZ4) / 专辑：Blue Rev
 * Hatchie / [The Key](https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV?si=70fc2745c0c448ca) / 专辑：Giving The World Away
 * King Gizzard & The Lizard Wizard / [The Dripping Tap](https://open.spotify.com/track/3RJxtF4WDoxofuATWOI89r?si=bcde7e78815c4cc8) / 单曲：The Dripping Tap
-* 김뜻돌 / [Kiddo](https://open.spotify.com/track/6wmQbPvNjW3fT2bSF8qbcs?si=70827e0aa29f494a) / 单曲：Kiddo
 * Claver / [Freighter](https://open.spotify.com/track/1O5iLaml9rErV9yx4ssIwb?si=793d1fb799f84b9c) / 专辑：Freighter
 * 東京酒吐座 / [Moondive](https://open.spotify.com/track/0tRvtDFfsSd05zaJXHrdap?si=dc68785fd19146e3) / 专辑：月世界遊泳 (Moonworld Playground)
 * Natalia Lafourcade / [De todas las flores](https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU?si=834b868027484347) / 专辑：De Todas las Flores
@@ -99,8 +96,8 @@
 
 ## 2021
 * Bachelor, Jay Som, Palehound / [Stay in the Car](https://open.spotify.com/track/3zs0PDSk0CZJYNpYwzpw7P?si=bvHAkKHkQgCpccBcLHlGPg) / 专辑：Doomin' Sun
-* Otay:onii / [Blackheart Breakables](https://open.spotify.com/track/69TjZ9FbNRojWJVpAbnFz4?si=0a4620c77d4f4265) / 专辑：冥冥
 * La Femme / [Le sang de mon prochain](https://open.spotify.com/track/2UKt76lfD2SGturLfzRq1j?si=irA-pxNXRrGbCMJgD1QZJw&context=spotify%3Aalbum%3A1u2Q5MFWptOdPpldjC0xO9) / 专辑：Paradigmes
+* Otay:onii / [Blackheart Breakables](https://open.spotify.com/track/69TjZ9FbNRojWJVpAbnFz4?si=0a4620c77d4f4265) / 专辑：冥冥
 * Clairo / [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU?si=AbvULb2cQkqqJOzo8qfnbQ) / 专辑：Sling
 * PACKS / [Silvertongue](https://open.spotify.com/track/0UjEhWUIpTVCOrI1sY5Yma?si=5LOXp5XJS4SheJkx4m1N6g) / 专辑：Take the Cake
 * Billie Eilish / [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8?si=L-sSKfPzS1CuPmBkwq1E0Q) / 专辑：Happier Than Ever

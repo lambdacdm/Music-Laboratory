@@ -32,7 +32,7 @@
 
 ## 2020年代总榜
 * **NO.1** 王若琳 / [There She Smiles (In a Memory)](https://open.spotify.com/track/3skGpSq2YA6RiLET89u9Hx?si=af8a650377b04c87) / 专辑：Hotel La Rut / 7 May 2024 / 风格：艺术流行 极客摇滚
-* **NO.2** Magdalena Bay / [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp?si=862fbb978b824e06) / 专辑：Imaginal Disk / 23 Aug 2024 / 风格：合成器流行 新迷幻
+* **NO.2** Magdalena Bay / [Cry for Me](https://open.spotify.com/track/4rVs9KjC3YVA7v54kVSHUV?si=52de4d8082ed4404) / 专辑：Imaginal Disk / 23 Aug 2024 / 风格：合成器流行 新迷幻
 * **NO.3** Black Country, New Road / [Chaos Space Marine](https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR?si=RkOLR3LYTXmu8iplVcKHrw) / 专辑：Ants From Up There / 4 Feb 2022 / 风格：室内流行 艺术摇滚
 * **NO.4** Bachelor, Jay Som, Palehound / [Stay in the Car](https://open.spotify.com/track/3zs0PDSk0CZJYNpYwzpw7P?si=bvHAkKHkQgCpccBcLHlGPg) / 专辑：Doomin' Sun / 28 May 2021 / 风格：slacker rock 噪音流行
 * **NO.5** Beach House / [Once Twice Melody](https://open.spotify.com/track/4UexrxBMEyacoNwOvmx6XQ?si=266284a01fae4071) / 专辑：Once Twice Melody / 18 Feb 2022 / 风格：梦幻流行 新迷幻
@@ -44,7 +44,7 @@
 
 ## 2024
 * 王若琳 / [There She Smiles (In a Memory)](https://open.spotify.com/track/3skGpSq2YA6RiLET89u9Hx?si=af8a650377b04c87) / 专辑：Hotel La Rut
-* Magdalena Bay / [Image](https://open.spotify.com/track/5LIUI808j8M8bXQd0kRxnp?si=862fbb978b824e06) / 专辑：Imaginal Disk
+* Magdalena Bay / [Cry for Me](https://open.spotify.com/track/4rVs9KjC3YVA7v54kVSHUV?si=52de4d8082ed4404) / 专辑：Imaginal Disk
 * La Luz / [Good Luck With Your Secret](https://open.spotify.com/track/7hrvQ4efhWpcpWM4XA7zbN?si=f47abb2c0e7840ca) / 专辑：News of the Universe
 * Kamasi Washington / [Prologue](https://open.spotify.com/track/3fkUXEFOWK2X4HXSv59BFN?si=95f99b56737f4775) / 专辑：Fearless Movement
 * Bodies Of Water, Brian Walsh / [Footprints](https://open.spotify.com/track/6OEt0wEeipVznEQTtkb8Up?si=6f6dcb6463e44467) / 专辑：The Journey Is Our Home

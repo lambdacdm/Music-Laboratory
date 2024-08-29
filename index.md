@@ -61,7 +61,7 @@
 * 【旋律性】：chamber pop（室内流行）, art pop（艺术流行）
 
 更多见：
-* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/all/filtered?view=detailed&sort=desc)
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/) / [AOTY](https://www.albumoftheyear.org/ratings/user-highest-rated/all/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/all/filtered?view=detailed&sort=desc)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
 
 # 我使用的耳机

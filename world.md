@@ -1,4 +1,4 @@
-**本页面聚焦于世界范围内的流行音乐。华语音乐推荐歌单另见[这里](https://lambdacdm.github.io/Music-Laboratory/)。**
+**本页面聚焦于世界范围内的流行音乐。华语音乐推荐歌单另见[这里](https://lambdacdm.github.io/Music-Laboratory/chinese)。**
 
 # 我正在听的歌
 

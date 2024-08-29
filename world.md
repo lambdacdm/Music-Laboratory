@@ -1,19 +1,6 @@
 **本页面聚焦于世界范围内的流行音乐。华语音乐推荐歌单另见[这里](https://lambdacdm.github.io/Music-Laboratory/chinese)。**
 
 **点击[这里](https://lambdacdm.github.io/Music-Laboratory/)返回主页。**
-
-# 我最喜欢的流行音乐
-
-我的兴趣集中于如下性质的音乐：
-* 【梦幻/迷幻】：dream pop（梦幻流行）, neo-psychedelic（新迷幻）
-* 【噪音/失真】：shoegaze（盯鞋摇滚）, noise pop（噪音流行）, slacker rock
-* 【合成器】：synthwave（合成器浪潮）, synthpop（合成器流行）
-* 【独立气质】：alternative rock（另类摇滚）
-* 【旋律性】：chamber pop（室内流行）, art pop（艺术流行）
-
-更多见：
-* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/all/filtered?view=detailed&sort=desc)
-* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
   
 # 按年份
 

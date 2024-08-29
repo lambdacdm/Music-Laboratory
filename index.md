@@ -53,7 +53,7 @@
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/all/filtered?view=detailed&sort=desc)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
 
-# 我是用的播放平台
+# 我使用的播放平台
 
 听歌主要使用[Spotify](https://open.spotify.com/)。
 

@@ -69,6 +69,7 @@
 * [AKG K240 Studio](https://www.amazon.co.uk/gp/product/B0001ARCFA/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) 30 Aug 2024 - now
 * [Sony MDRZX310](https://www.amazon.co.uk/dp/B00I3LUYNG?ref=ppx_yo2ov_dt_b_fed_asin_title) 1 Feb 2022 - now
 
+其他推荐的头戴式耳机见[这里](https://lambdacdm.github.io/Music-Laboratory/headphone)。
 
 # 联系我
 

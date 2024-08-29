@@ -1,4 +1,4 @@
-# 音乐推荐
+# 我的音乐推荐
 
 * **华语音乐推荐歌单请见[这里](https://lambdacdm.github.io/Music-Laboratory/chinese)。**
 * **世界范围内的流行音乐推荐歌单请见[这里](https://lambdacdm.github.io/Music-Laboratory/world)。**
@@ -37,6 +37,19 @@
 * [往事如歌N](https://open.spotify.com/playlist/6HQz7ZDRt7CDl1a3HyYV8R?si=5f3462bd0e9d4864) 16 July 2017 - 3 Oct 2022
 * [往事如歌E](https://open.spotify.com/playlist/1k5YNvapQ5NnpKltlMEAWw?si=521c4fa5cd0d47dc) 19 Sep 2021 - 19 Jun 2022
 * [往事如歌Q](https://open.spotify.com/playlist/07IPyNH1Hpwvg6zooYIcQ1?si=5a72d8a84d734638) 6 Jun 2014 - 11 Sep 2021
+
+# 我喜欢的音乐风格
+
+我的兴趣集中于如下性质的音乐：
+* 【梦幻/迷幻】：dream pop（梦幻流行）, neo-psychedelic（新迷幻）
+* 【噪音/失真】：shoegaze（盯鞋摇滚）, noise pop（噪音流行）, slacker rock
+* 【合成器】：synthwave（合成器浪潮）, synthpop（合成器流行）
+* 【独立气质】：alternative rock（另类摇滚）
+* 【旋律性】：chamber pop（室内流行）, art pop（艺术流行）
+
+更多见：
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/all/filtered?view=detailed&sort=desc)
+* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
 
 # 我使用的耳机
 

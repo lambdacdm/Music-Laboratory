@@ -10,20 +10,20 @@
 
 ### 第一部分 降临
 * **1** intro 罗塞塔石碑 / 尚未创作
-* **2** [降临I 后梦境现实](https://music.163.com/dj?id=2065012886&userid=477097094) / 4:24 / 2020.1 / Cubase
-* **3** [降临II 百变T台秀](http://music.163.com/dj?id=2496534801&userid=477097094) / 3:07 / 2022.1 / Cubase
+* **2** [降临I 后梦境现实](https://music.163.com/dj?id=2065012886&userid=477097094) / 4:24 / 18 Jan 2020 / Cubase
+* **3** [降临II 百变T台秀](http://music.163.com/dj?id=2496534801&userid=477097094) / 3:07 / 7 Jan 2022 / Cubase
 * **4** 降临III 墙壁的眼睛 / 尚未创作
 
 ### 第二部分 蓝洞
-* **5** [蓝洞I 云浆散落 风尘落下](http://music.163.com/dj?id=2505823206&userid=477097094) / 5:18 / 2022.6 / Cubase
-* **6** [蓝洞II 玻璃晴朗 桔子辉煌 (demo)](http://music.163.com/dj?id=2505828172&userid=477097094) / 1:38 / 2022.10 / Cubase
+* **5** [蓝洞I 云浆散落 风尘落下](http://music.163.com/dj?id=2505823206&userid=477097094) / 5:18 / 4 Jun 2022 / Cubase
+* **6** [蓝洞II 玻璃晴朗 桔子辉煌 (demo)](http://music.163.com/dj?id=2505828172&userid=477097094) / 1:38 / 4 Jun 2022 / Cubase
 * **7** 蓝洞III 戴上帽子 穿上泳装 / 尚未创作
 
 ### 第三部分 来生
-* **8** [来生I 当你醒来时](https://music.163.com/#/program?id=3059923599) / 4:15 / 2024.8 / BandLab
+* **8** [来生I 当你醒来时](https://music.163.com/#/program?id=3059923599) / 4:15 / 12 Aug 2024 / BandLab
 * **9** 来生II 困在时间里 / 尚未创作
-* **10** [来生III 庞加莱回归](https://music.163.com/dj?id=2065237607&userid=477097094) / 4:15 / 2020.2 / Cubase
-* **11** [outro 霓虹中再见](http://music.163.com/dj?id=2071162243&userid=477097094) / 0:27 / 2020.12 / Cubase
+* **10** [来生III 庞加莱回归](https://music.163.com/dj?id=2065237607&userid=477097094) / 4:15 / 5 Feb 2020 / Cubase
+* **11** [outro 霓虹中再见](http://music.163.com/dj?id=2071162243&userid=477097094) / 0:27 / 23 Dec 2020 / Cubase
 
 # 我正在听的歌
 
@@ -52,6 +52,20 @@
 更多见：
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/all/filtered?view=detailed&sort=desc)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
+
+# 我是用的播放平台
+
+听歌主要使用[Spotify](https://open.spotify.com/)。
+
+此外，我在[网易云音乐](https://music.163.com/)上有播客。
+
+其他推荐的播放平台：
+* [Apple Music](https://music.apple.com/us/browse)
+* [Youtube Music](https://music.youtube.com/)
+* [Bandcamp](https://bandcamp.com/)
+* [SoundCloud](https://soundcloud.com/discover)
+* [Amazon Music](https://music.amazon.co.uk/)
+* [QQ音乐](https://y.qq.com/)
 
 # 我使用的耳机
 

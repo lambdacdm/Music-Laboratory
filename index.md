@@ -38,6 +38,8 @@
 * [往事如歌E](https://open.spotify.com/playlist/1k5YNvapQ5NnpKltlMEAWw?si=521c4fa5cd0d47dc) 19 Sep 2021 - 19 Jun 2022
 * [往事如歌Q](https://open.spotify.com/playlist/07IPyNH1Hpwvg6zooYIcQ1?si=5a72d8a84d734638) 6 Jun 2014 - 11 Sep 2021
 
+更多歌单参见我的[Spotify主页](https://open.spotify.com/user/aodbn5sk0d56tefinucj47aqd?si=42f7a0be73a44f54)。
+
 # 我喜欢的音乐风格
 
 我的兴趣集中于如下性质的音乐：

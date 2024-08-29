@@ -59,9 +59,23 @@
 
 # 联系我
 
+## 网易云音乐
+* 我的网易云音乐主页 [寨森CDM](https://music.163.com/#/artist?id=94811041) (网易云音乐人）
 * 我的网易云音乐播客 [声学实验室](http://music.163.com/radio/?id=794396440&userid=477097094)
+
+## Spotify
 * 我的Spotify主页 [lxqd2021](https://open.spotify.com/user/aodbn5sk0d56tefinucj47aqd?si=42f7a0be73a44f54)
 * 我的Spotify[听歌数据统计](https://stats.fm/aodbn5sk0d56tefinucj47aqd)
-* 我的rate your music主页 [lxqd2021](https://rateyourmusic.com/~lxqd2021)
+
+## Rate Your Music
+* 我的Rate Your Music主页 [lxqd2021](https://rateyourmusic.com/~lxqd2021)
+* 我的Rate Your Music[乐评汇总](https://rateyourmusic.com/collection/lxqd2021/reviews)
+
+## b站
 * 我的b站主页 [寨森CDM](https://space.bilibili.com/407184818?spm_id_from=333.1007.0.0)
-* 我的github主页 [lambdacdm](https://github.com/lambdacdm)
+
+## BandLab
+* 我的BandLab主页 [lxqd2021](https://www.bandlab.com/lxqd2021)
+
+## GitHub
+* 我的GitHub主页 [lambdacdm](https://github.com/lambdacdm)

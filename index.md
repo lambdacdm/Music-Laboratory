@@ -1,5 +1,8 @@
 **本页面聚焦于华语音乐。世界范围内的流行音乐推荐歌单另见[这里](https://lambdacdm.github.io/Music-Laboratory/world)。**
 
+# 目录
+
+
 # 我的音乐作品
 
 ## 专辑 费米悖论
@@ -21,6 +24,19 @@
 * **9** 来生II 困在时间里 / 尚未创作
 * **10** [来生III 庞加莱回归](https://music.163.com/dj?id=2065237607&userid=477097094) / 4:15 / 2020.2
 * **11** [outro 霓虹中再见](http://music.163.com/dj?id=2071162243&userid=477097094) / 0:27 / 2020.12
+
+# 我正在听的歌
+
+**[点此](https://stats.fm/aodbn5sk0d56tefinucj47aqd)查看我的Spotify听歌数据统计。**
+
+以下陈列着我不同时期的Spotify歌单。
+
+* [往事如歌D](https://open.spotify.com/playlist/6PoEN68oFKEpqZcAgg9ggA?si=e495f01cc2da4742) 22 Sep 2023 - Now
+* [往事如歌S](https://open.spotify.com/playlist/4PAxpABrtr7ZeTH4l0DbmY?si=3237d5ff80bc43af) 5 Aug 2023 - 16 Sep 2023
+* [往事如歌C](https://open.spotify.com/playlist/3azceHF446Fm2m2xpO5CUV?si=65553880953a4b69) 4 Oct 2022 - 3 July 2023
+* [往事如歌N](https://open.spotify.com/playlist/6HQz7ZDRt7CDl1a3HyYV8R?si=5f3462bd0e9d4864) 16 July 2017 - 3 Oct 2022
+* [往事如歌E](https://open.spotify.com/playlist/1k5YNvapQ5NnpKltlMEAWw?si=521c4fa5cd0d47dc) 19 Sep 2021 - 19 Jun 2022
+* [往事如歌Q](https://open.spotify.com/playlist/07IPyNH1Hpwvg6zooYIcQ1?si=5a72d8a84d734638) 6 Jun 2014 - 11 Sep 2021
 
 # 联系我
 

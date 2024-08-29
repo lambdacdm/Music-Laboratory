@@ -27,6 +27,8 @@
 
 # 我正在听的歌
 
+我听歌主要使用[Spotify](https://open.spotify.com/)作为播放平台。
+
 **[点此](https://stats.fm/aodbn5sk0d56tefinucj47aqd)查看我的Spotify听歌数据统计。**
 
 以下陈列着我不同时期的Spotify歌单。
@@ -40,6 +42,15 @@
 
 更多歌单参见我的[Spotify主页](https://open.spotify.com/user/aodbn5sk0d56tefinucj47aqd?si=42f7a0be73a44f54)。
 
+其他推荐的播放平台：
+* [网易云音乐](https://music.163.com/)
+* [Apple Music](https://music.apple.com/us/browse)
+* [Youtube Music](https://music.youtube.com/)
+* [Bandcamp](https://bandcamp.com/)
+* [SoundCloud](https://soundcloud.com/discover)
+* [Amazon Music](https://music.amazon.co.uk/)
+* [QQ音乐](https://y.qq.com/)
+
 # 我喜欢的音乐风格
 
 我的兴趣集中于如下性质的音乐：
@@ -52,20 +63,6 @@
 更多见：
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/all/filtered?view=detailed&sort=desc)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
-
-# 我使用的播放平台
-
-听歌主要使用[Spotify](https://open.spotify.com/)。
-
-此外，我在[网易云音乐](https://music.163.com/)上有播客。
-
-其他推荐的播放平台：
-* [Apple Music](https://music.apple.com/us/browse)
-* [Youtube Music](https://music.youtube.com/)
-* [Bandcamp](https://bandcamp.com/)
-* [SoundCloud](https://soundcloud.com/discover)
-* [Amazon Music](https://music.amazon.co.uk/)
-* [QQ音乐](https://y.qq.com/)
 
 # 我使用的耳机
 

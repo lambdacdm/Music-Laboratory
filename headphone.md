@@ -26,3 +26,25 @@
 
 ## >300英镑
 * [Sennheiser HD 600](https://www.amazon.co.uk/Sennheiser-Audiophile-Quality-stereo-Headphones-Black/dp/B00004SY4H/ref=sr_1_3?crid=EYFH3F751JLZ&dib=eyJ2IjoiMSJ9.F3JHO7aRByO0LoXaDUsp0cv1snofP-KHWO2tkURk5i12PuBhKSqG4UBhKKEqKJLqMWLa-04TZ5ziaI4nnXfRluaQLxTqMxbGZkL7ZizSQKJLqvoqALWgeaz5Qilx5L2LOzJJ4qO3WG1TQW2PncfawiiBTTnEL7ouSFdB1m9RUNjZw9bjXCDn7iGYrZEw9JH5KUgG_EwnxAG0tf1MZwsYn1hs3VEz12NB_eLWym9G8gA.zSamzkycXtC_BwB_8K2EHlQ583qMp6QxBj215yRyePU&dib_tag=se&keywords=sennheiser+hd+600&qid=1724936958&sprefix=sennheiser+hd+600%2Caps%2C78&sr=8-3)
+
+# 耳机测试
+* [专业HIFI耳机测试工具视频](https://www.bilibili.com/video/BV1dJ411W7Rd/)
+* [Headphone test online](https://webcammictest.com/headphones/)
+
+# EQ调节
+
+## 频响曲线
+查看耳机的频响曲线和哈曼曲线：
+
+* [AutoEq](https://autoeq.app/)
+
+## 均衡器
+* HP Audio Control的AUDIO PLAYBACK TOOLS内置10-Band Equalizer
+* [Equalizer APO](https://equalizerapo.com/)
+* 一些播放软件（如Spotify、QQ音乐等）也内置简易的equalizer
+
+## 声音校准与听力测试
+* HP Audio Control的SOUND CALIBRATION是声音校准（基于人耳对各个频段的听力测试结果）
+* [免费高清高解析耳朵测听软件](https://zhuanlan.zhihu.com/p/34678625)
+
+

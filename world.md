@@ -76,6 +76,7 @@
 * 김뜻돌 / [COBALT](https://open.spotify.com/track/27ji9P5NbrjDkkMIRHMnpI?si=dcc60febaea84c5e) / 专辑：COBALT
 * Otay:onii / [Blackheart Breakables](https://open.spotify.com/track/69TjZ9FbNRojWJVpAbnFz4?si=0a4620c77d4f4265) / 专辑：冥冥
 * Clairo / [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU?si=AbvULb2cQkqqJOzo8qfnbQ) / 专辑：Sling
+* Polo & Pan / [Ani Kuni](https://open.spotify.com/track/1PiASZMKp39IsWwiiIYgPO?si=ffd7d7a5ea8847c5) / 专辑：Cyclorama
 * PACKS / [Silvertongue](https://open.spotify.com/track/0UjEhWUIpTVCOrI1sY5Yma?si=5LOXp5XJS4SheJkx4m1N6g) / 专辑：Take the Cake
 * Billie Eilish / [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8?si=L-sSKfPzS1CuPmBkwq1E0Q) / 专辑：Happier Than Ever
 

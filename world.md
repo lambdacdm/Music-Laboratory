@@ -34,6 +34,7 @@
 更多见：
 * [我的2024推荐 Spotify歌单](https://open.spotify.com/playlist/5hiJ6QO3ZvUTF4cQdbE1Xs?si=5973edf5e98947c4)
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2024/) / [AOTY](https://www.albumoftheyear.org/ratings/user-highest-rated/2024/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2024&distribution=&sort=desc&view=detailed)
+* Top Songs: [RYM](https://rateyourmusic.com/charts/top/song/2024/)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2024/) / [AOTY](https://www.albumoftheyear.org/ratings/users/singles/2024/)
 
 ## 2023
@@ -51,7 +52,8 @@
 更多见：
 * [我的2023推荐 Spotify歌单](https://open.spotify.com/playlist/75WMVS80fadbk5qjQ7LitG?si=92576a4d1dcb4c44)
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2023/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2023/) / [AOTY](https://www.albumoftheyear.org/ratings/user-highest-rated/2023/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2023&distribution=&sort=desc&view=detailed)
-* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2023/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2023/) / [AOTY](https://www.albumoftheyear.org/ratings/users/singles/2023/)
+* Top Songs: [RYM](https://rateyourmusic.com/charts/top/song/2023/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2023/)
+* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2023/) / [AOTY](https://www.albumoftheyear.org/ratings/users/singles/2023/)
 
 ## 2022
 * Black Country, New Road / [Chaos Space Marine](https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR?si=RkOLR3LYTXmu8iplVcKHrw) / 专辑：Ants From Up There
@@ -68,7 +70,8 @@
 更多见：
 * [我的2022推荐 Spotify歌单](https://open.spotify.com/playlist/70lufBZYlIQ4nbWFi4K3kE?si=dc75229fcc9a4de5)
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2022/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2022/) / [AOTY](https://www.albumoftheyear.org/ratings/user-highest-rated/2022/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2022&distribution=&sort=desc&view=detailed)
-* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2022/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2022/) / [AOTY](https://www.albumoftheyear.org/ratings/users/singles/2022/)
+* Top Songs: [RYM](https://rateyourmusic.com/charts/top/song/2022/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2022/)
+* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2022/) / [AOTY](https://www.albumoftheyear.org/ratings/users/singles/2022/)
 
 ## 2021
 * Bachelor, Jay Som, Palehound / [Stay in the Car](https://open.spotify.com/track/3zs0PDSk0CZJYNpYwzpw7P?si=bvHAkKHkQgCpccBcLHlGPg) / 专辑：Doomin' Sun
@@ -83,12 +86,14 @@
 更多见：
 * [我的2021推荐 Spotify歌单](https://open.spotify.com/playlist/6F0dW1ZFb0vd2DryUAi3v0?si=8IGbnnYQSoe51wa4XCDy8Q&pi=u-suzYT7tMTOev)
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2021/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2021/) / [AOTY](https://www.albumoftheyear.org/ratings/user-highest-rated/2021/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2021&distribution=&sort=desc&view=detailed)
-* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2021/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2021/) / [AOTY](https://www.albumoftheyear.org/ratings/users/singles/2021/)
+* Top Songs: [RYM](https://rateyourmusic.com/charts/top/song/2021/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2021/)
+* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2021/) / [AOTY](https://www.albumoftheyear.org/ratings/users/singles/2021/)
 
 ## 2020
 更多见：
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2020/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2020/) / [AOTY](https://www.albumoftheyear.org/ratings/user-highest-rated/2020/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2020&distribution=&sort=desc&view=detailed)
-* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2020/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2020/) / [AOTY](https://www.albumoftheyear.org/ratings/users/singles/2020/)
+* Top Songs: [RYM](https://rateyourmusic.com/charts/top/song/2020/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2020/)
+* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2020/) / [AOTY](https://www.albumoftheyear.org/ratings/users/singles/2020/)
 
 # 乐评网站
 

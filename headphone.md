@@ -17,7 +17,7 @@
 * [Audio-Technica M50x](https://www.audio-technica.com/en-gb/ath-m50x)
 * [beyerdynamic DT 770 PRO](https://europe.beyerdynamic.com/dt-770-pro.html)
 * [beyerdynamic DT 990 PRO](https://europe.beyerdynamic.com/dt-990-pro.html)
-* [beyerdynamic DT 880 PRO](https://europe.beyerdynamic.com/dt-880-pro.html)
+* [beyerdynamic DT 880 Edition](https://europe.beyerdynamic.com/dt-880-edition.html)
 * [AKG K701](https://uk.akg.com/professional-headphones/K701.html?cgid=professional-headphones)
 * [Sennheiser HD 560S](https://www.sennheiser-hearing.com/en-UK/p/hd-560s/)
 

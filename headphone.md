@@ -22,7 +22,7 @@
 * [Sennheiser HD 560S](https://www.sennheiser-hearing.com/en-UK/p/hd-560s/)
 
 ## 200-300英镑
-* [Audio-Technica 70x](https://www.audio-technica.com/en-gb/ath-m70x)
+* [Audio-Technica M70x](https://www.audio-technica.com/en-gb/ath-m70x)
 
 ## 300-500英镑
 * [Sennheiser HD 600](https://www.sennheiser-hearing.com/en-UK/p/hd-600/)

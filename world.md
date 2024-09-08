@@ -85,6 +85,11 @@
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2021/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2021/) / [AOTY](https://www.albumoftheyear.org/ratings/user-highest-rated/2021/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2021&distribution=&sort=desc&view=detailed)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2021/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2021/) / [AOTY](https://www.albumoftheyear.org/ratings/users/singles/2021/)
 
+## 2020
+更多见：
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2020/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2020/) / [AOTY](https://www.albumoftheyear.org/ratings/user-highest-rated/2020/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2020&distribution=&sort=desc&view=detailed)
+* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2020/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2020/) / [AOTY](https://www.albumoftheyear.org/ratings/users/singles/2020/)
+
 # 乐评网站
 
 ## 大众评分类

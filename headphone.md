@@ -19,7 +19,10 @@
 * [beyerdynamic DT 990 PRO](https://europe.beyerdynamic.com/dt-990-pro.html)
 * [beyerdynamic DT 880 Edition](https://europe.beyerdynamic.com/dt-880-edition.html)
 * [AKG K701](https://uk.akg.com/professional-headphones/K701.html?cgid=professional-headphones)
+* [AKG K612 PRO](https://uk.akg.com/professional-headphones/K612PRO.html?cgid=professional-headphones)
+* Sennheiser HD 25
 * [Sennheiser HD 560S](https://www.sennheiser-hearing.com/en-UK/p/hd-560s/)
+
 
 ## 200-300英镑
 * [Audio-Technica M70x](https://www.audio-technica.com/en-gb/ath-m70x)

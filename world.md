@@ -2,7 +2,7 @@
 
 **点击[这里](https://lambdacdm.github.io/Music-Laboratory/)返回主页。**
   
-# 按年份
+# 2020年代音乐推荐
 
 （以下按个人喜好程度排序，**纯主观**）
 
@@ -85,7 +85,58 @@
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2021/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-albums-2021/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/year/filtered?year_selected=2021&distribution=&sort=desc&view=detailed)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2021/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/best-songs-2021/)
 
-# 按风格
+# 乐评网站
+
+## 大众评分类
+* [Rate Your Music (RYM)](https://rateyourmusic.com/)
+* [Album of The Year (AOTY)](https://www.albumoftheyear.org/)
+* [Best Ever Albums (BEA)](https://www.besteveralbums.com/index.php)
+
+## 专业乐评类
+* [Pitchfork](https://pitchfork.com/)
+* [New Musical Express (NME)](https://www.nme.com/)
+* [Rolling Stone](https://www.rollingstone.com/)
+
+## 专业乐评汇总
+* [Metacritic](https://www.metacritic.com/music)
+
+# 听歌渠道（Spotify歌单）
+
+## 新歌
+
+### 平台推荐
+
+* [Spotify 新歌雷达](https://open.spotify.com/playlist/37i9dQZEVXbusQUlo8x9yF?si=c55620f3768741a8)
+* [Spotify 每周新发现](https://open.spotify.com/playlist/37i9dQZEVXcUJMKPu9JAis?si=2e5958bf29464dc6)
+
+### 乐评推荐
+* [Pitchfork's Best New Music](https://open.spotify.com/playlist/7q503YgioHAbo1iOIa67M8?si=4001177df8e14831)
+* [Pitchfork Selects](https://open.spotify.com/playlist/7f9o34JAe8ZSRq4GX7f0Ol?si=7cba313d7f95481b)
+* [享樂主義_fresh music](https://open.spotify.com/playlist/6RoOI4coYkRdGfP4agEieT?si=44b3cfc2297d4811)
+
+### 风格歌单
+例如：
+* [Neo-Psychedelic Mix](https://open.spotify.com/playlist/37i9dQZF1EIfsakW1XgaQ0?si=6b529e09bd684f4e)
+* [Neo-Psychedelic Rock](https://open.spotify.com/playlist/37i9dQZF1DX7k3T9O9bscd?si=7709590f37034dc3)
+
+## 经典歌曲
+
+### 乐评推荐
+* [RYM top 2000 singles](https://open.spotify.com/playlist/7eePphyZNlKfqbdkZATy0u?si=078aab8394dc4051)
+* [Rate Your Music Top Albums](https://open.spotify.com/playlist/5sfmWpyxPj4cSupa7suClo?si=5ae2127c2ba54061)
+* [Pitchfork: The 200 Best Songs of the 2010s](https://open.spotify.com/playlist/2ua9P1PJZ8vNU1ZOZq6tqe?si=2c330b97edcf4ca4)
+* [Pitchfork: The 200 Best Albums of the 2010s](https://open.spotify.com/playlist/0NdonfZ87AajuaMPaOwXp9?si=96e5381737c64c19)
+* [Pitchfork: The 500 Best Songs of the 2000s](https://open.spotify.com/playlist/1YHCI9W14fhev4Mlba4JOc?si=9c9a811b0878464d)
+* [Pitchfork: The 250 Best Songs of the 1990s](https://open.spotify.com/playlist/3Wz6gSlxvSLqby6D38tgYA?si=8e5e7068cd5d4d1d)
+* [Pitchfork: The 150 Best Albums of the 1990s](https://open.spotify.com/playlist/7G6Ly5URbGyJNWeEkxdhYs?si=c5003f3a8ac24c76)
+* [Pitchfork: The 200 Best Songs of the 1980s](https://open.spotify.com/playlist/7MysdOoh9OrZ8L8xylt2iR?si=93615048f49840d9)
+* [Pitchfork: The 200 Best Albums of the 1980s](https://open.spotify.com/playlist/25mALbhXBaQDUls6IptjAJ?si=082d2c1780844846)
+* [Pitchfork: The 200 Best Songs of the 1970s](https://open.spotify.com/playlist/13bCGLp2nXAXj3IRLjfPEr?si=36fac0a3a6d7494b)
+
+### 风格歌单
+见下面”风格“部分。
+
+# 风格
 
 维基百科：[List of music genres and styles](https://en.wikipedia.org/wiki/List_of_music_genres_and_styles)
 
@@ -114,7 +165,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
   * Slacker Rock [[RYM]](https://rateyourmusic.com/genre/slacker-rock/)
   * 垃圾摇滚 Grunge [[RYM]](https://rateyourmusic.com/genre/grunge/)
   * 数学摇滚 Math Rock [[RYM]](https://rateyourmusic.com/genre/math-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/0XtdxTlDxUXJtkdCXFHKHf?si=97472bec097b4250)
-  * 英伦摇滚 Britpop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/britpop/)
+  * 英伦摇滚 Britpop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/britpop/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/1DH7lyOuo1jwKxK5J1f707?si=48a14b4d2bc84172)
  
 ### Post-
 * 后朋克 Post-Punk [[RYM]](https://rateyourmusic.com/genre/post-punk/)
@@ -184,7 +235,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 
 ### 其他主要门类
 * 合成器浪潮 Synthwave [[RYM]](https://rateyourmusic.com/genre/synthwave/) / [[Spotify歌单]](https://open.spotify.com/playlist/2o7rxyqSKLbdHFZJdD76zP?si=22ee4a0003734259)
-* 智能舞曲 IDM [[RYM]](https://rateyourmusic.com/genre/idm/)
+* 智能舞曲 IDM [[RYM]](https://rateyourmusic.com/genre/idm/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/7f4YZld8a8zBQuqsFdy67F?si=3a0ea1ca69a04971)
 * 独立电子 Indietronica [[RYM]](https://rateyourmusic.com/genre/indietronica/)
   * 故障流行 Glitch Pop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/glitch-pop/)
  
@@ -257,7 +308,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 东海岸嘻哈 East Coast Hip Hop [[RYM]](https://rateyourmusic.com/genre/east-coast-hip-hop/)
 
 ## 轻音乐大类 (Easy listening)
-* 氛围音乐 Ambient （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/ambient/)
+* 氛围音乐 Ambient （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/ambient/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/6d9up0zVwVr0KD76j2Fr42?si=9f06dee55cc045f8)
 * 新世纪音乐 New Age （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/new-age/) / [[Spotify歌单]](https://open.spotify.com/playlist/0PDhmvNy00u3bpWkaPzkYY?si=d8e56020ea67441d)
 
 ## 先锋实验大类 (Avant-garde, Experimental)
@@ -272,50 +323,3 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
   * 工业摇滚 Industrial Rock （属于摇滚∩实验） [[RYM]](https://rateyourmusic.com/genre/industrial-rock/)
   * 后工业 Post-Industrial （属于电子∩实验） [[RYM]](https://rateyourmusic.com/genre/post-industrial/)
     * 电子人体音乐 EBM （属于电子∩实验） [[RYM]](https://rateyourmusic.com/genre/ebm/)
-
-# 乐评网站
-
-## 大众评分类
-* [Rate Your Music (RYM)](https://rateyourmusic.com/)
-* [Album of The Year (AOTY)](https://www.albumoftheyear.org/)
-* [Best Ever Albums (BEA)](https://www.besteveralbums.com/index.php)
-
-## 专业乐评类
-* [Pitchfork](https://pitchfork.com/)
-* [New Musical Express (NME)](https://www.nme.com/)
-* [Rolling Stone](https://www.rollingstone.com/)
-
-## 专业乐评汇总
-* [Metacritic](https://www.metacritic.com/music)
-
-# 听歌渠道（Spotify歌单）
-
-## 新歌
-
-### 平台推荐
-
-* [Spotify 新歌雷达](https://open.spotify.com/playlist/37i9dQZEVXbusQUlo8x9yF?si=c55620f3768741a8)
-* [Spotify 每周新发现](https://open.spotify.com/playlist/37i9dQZEVXcUJMKPu9JAis?si=2e5958bf29464dc6)
-
-### 乐评推荐
-* [Pitchfork's Best New Music](https://open.spotify.com/playlist/7q503YgioHAbo1iOIa67M8?si=4001177df8e14831)
-* [Pitchfork Selects](https://open.spotify.com/playlist/7f9o34JAe8ZSRq4GX7f0Ol?si=7cba313d7f95481b)
-
-### 风格歌单
-例如：
-* [Neo-Psychedelic Mix](https://open.spotify.com/playlist/37i9dQZF1EIfsakW1XgaQ0?si=6b529e09bd684f4e)
-* [Neo-Psychedelic Rock](https://open.spotify.com/playlist/37i9dQZF1DX7k3T9O9bscd?si=7709590f37034dc3)
-
-## 经典歌曲
-
-### 乐评推荐
-* [RYM top 2000 singles](https://open.spotify.com/playlist/7eePphyZNlKfqbdkZATy0u?si=078aab8394dc4051)
-* [Rate Your Music Top Albums](https://open.spotify.com/playlist/5sfmWpyxPj4cSupa7suClo?si=5ae2127c2ba54061)
-* [Pitchfork: The 200 Best Songs of the 2010s](https://open.spotify.com/playlist/2ua9P1PJZ8vNU1ZOZq6tqe?si=2c330b97edcf4ca4)
-* [Pitchfork: The 200 Best Albums of the 2010s](https://open.spotify.com/playlist/0NdonfZ87AajuaMPaOwXp9?si=96e5381737c64c19)
-* [Pitchfork: The 500 Best Songs of the 2000s](https://open.spotify.com/playlist/1YHCI9W14fhev4Mlba4JOc?si=9c9a811b0878464d)
-* [Pitchfork: The 250 Best Songs of the 1990s](https://open.spotify.com/playlist/3Wz6gSlxvSLqby6D38tgYA?si=8e5e7068cd5d4d1d)
-* [Pitchfork: The 150 Best Albums of the 1990s](https://open.spotify.com/playlist/7G6Ly5URbGyJNWeEkxdhYs?si=c5003f3a8ac24c76)
-
-### 风格歌单
-见上面”按风格“部分。

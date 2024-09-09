@@ -200,7 +200,7 @@
 * 柯泯薰 / 抛 / 专辑：画话 / 2020.12
 * 巴奈 / [总要](http://music.163.com/song?id=1495838813&userid=477097094) / 专辑：爱，不到 / 2020.11
 * 许含光 / [LCL](http://music.163.com/song?id=1490932004&userid=477097094) / 专辑：从夜晚开始从夜晚结束 / 2020.10
-* YELLOW黄宣 / [ROSE WAYNE](http://music.163.com/song?id=1485891496&userid=477097094) / 专辑：浮世击 / 2020.10
+* YELLOW黃宣 / [ROSE WAYNE](http://music.163.com/song?id=1485891496&userid=477097094) / 专辑：浮世击 / 2020.10
 * 朱婧汐Akini Jing / Cure / 专辑：塑胶天堂 / 2020.9
 * 万芳 / [时间梯](http://music.163.com/song?id=1479797867&userid=477097094) / 专辑：给你们Dear All / 2020.9
 * 李荣浩 / [如果我是海](http://music.163.com/song?id=1466675564&userid=477097094) / 专辑：麻雀 / 2020.7

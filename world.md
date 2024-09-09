@@ -11,10 +11,10 @@
 * **NO.2** Magdalena Bay / [Cry for Me](https://open.spotify.com/track/4rVs9KjC3YVA7v54kVSHUV?si=52de4d8082ed4404) / 专辑：Imaginal Disk / 23 Aug 2024 / 风格：合成器流行 新迷幻
 * **NO.3** Black Country, New Road / [Chaos Space Marine](https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR?si=RkOLR3LYTXmu8iplVcKHrw) / 专辑：Ants From Up There / 4 Feb 2022 / 风格：室内流行 艺术摇滚
 * **NO.4** 김뜻돌 / [기도](https://open.spotify.com/track/6wmQbPvNjW3fT2bSF8qbcs?si=70827e0aa29f494a) / 单曲：기도 / 29 Oct 2022 / 风格：盯鞋摇滚 另类摇滚
-* **NO.5** Bachelor, Jay Som, Palehound / [Stay in the Car](https://open.spotify.com/track/3zs0PDSk0CZJYNpYwzpw7P?si=bvHAkKHkQgCpccBcLHlGPg) / 专辑：Doomin' Sun / 28 May 2021 / 风格：slacker rock 噪音流行
+* **NO.5** Bachelor, Jay Som, Palehound / [Stay in the Car](https://open.spotify.com/track/3zs0PDSk0CZJYNpYwzpw7P?si=bvHAkKHkQgCpccBcLHlGPg) / 专辑：Doomin' Sun / 28 May 2021 / 风格：懒人摇滚 噪音流行
 * **NO.6** Beach House / [Once Twice Melody](https://open.spotify.com/track/4UexrxBMEyacoNwOvmx6XQ?si=266284a01fae4071) / 专辑：Once Twice Melody / 18 Feb 2022 / 风格：梦幻流行 新迷幻
 * **NO.7** Tanukichan / [Escape](https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI?si=AHp08NnoRBaB3jxtFcDAKw) / 专辑：GIZMO / 3 Mar 2023 / 风格：盯鞋摇滚 梦幻流行
-* **NO.8** Bully, Soccer Mommy / [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA?si=ife6w_OEROSIlDVWSMGxXQ) / 专辑：Lucky For You / 2 Jun 2023 / 风格：slacker rock 另类摇滚
+* **NO.8** Bully, Soccer Mommy / [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA?si=ife6w_OEROSIlDVWSMGxXQ) / 专辑：Lucky For You / 2 Jun 2023 / 风格：懒人摇滚 另类摇滚
 * **NO.9** Big Thief / [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz?si=0a1da50e89704874) / 专辑：Dragon New Warm Mountain I Believe In You / 11 Feb 2022 / 风格：独立民谣 民谣摇滚
 * **NO.10** La Femme / [Le sang de mon prochain](https://open.spotify.com/track/2UKt76lfD2SGturLfzRq1j?si=irA-pxNXRrGbCMJgD1QZJw&context=spotify%3Aalbum%3A1u2Q5MFWptOdPpldjC0xO9) / 专辑：Paradigmes / 2 Apr 2021 / 风格：合成器流行 新迷幻
 
@@ -174,7 +174,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
   * 盯鞋摇滚 Shoegaze [[RYM]](https://rateyourmusic.com/genre/shoegaze/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/7FmQTfn55pAjjOLSWHk9lj?si=f5c946059f5347df)
   * 梦幻流行 Dream Pop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/dream-pop/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/0jBbtuJAmSHk4OhZiOvCXx?si=358af75c37934de2)
   * 噪音流行 Noise Pop （属于摇滚∩流行∩实验） [[RYM]](https://rateyourmusic.com/genre/noise-pop/)
-  * Slacker Rock [[RYM]](https://rateyourmusic.com/genre/slacker-rock/)
+  * 懒人摇滚 Slacker Rock [[RYM]](https://rateyourmusic.com/genre/slacker-rock/)
   * 垃圾摇滚 Grunge [[RYM]](https://rateyourmusic.com/genre/grunge/)
   * 数学摇滚 Math Rock [[RYM]](https://rateyourmusic.com/genre/math-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/0XtdxTlDxUXJtkdCXFHKHf?si=97472bec097b4250)
   * 英伦摇滚 Britpop （属于摇滚∩流行） [[RYM]](https://rateyourmusic.com/genre/britpop/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/1DH7lyOuo1jwKxK5J1f707?si=48a14b4d2bc84172)

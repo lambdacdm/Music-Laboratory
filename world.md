@@ -10,13 +10,14 @@
 * **NO.1** 王若琳 / [There She Smiles (In a Memory)](https://open.spotify.com/track/3skGpSq2YA6RiLET89u9Hx?si=af8a650377b04c87) / 专辑：Hotel La Rut / 7 May 2024 / 风格：艺术流行 极客摇滚
 * **NO.2** Magdalena Bay / [Cry for Me](https://open.spotify.com/track/4rVs9KjC3YVA7v54kVSHUV?si=52de4d8082ed4404) / 专辑：Imaginal Disk / 23 Aug 2024 / 风格：合成器流行 新迷幻
 * **NO.3** Black Country, New Road / [Chaos Space Marine](https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR?si=RkOLR3LYTXmu8iplVcKHrw) / 专辑：Ants From Up There / 4 Feb 2022 / 风格：室内流行 艺术摇滚
-* **NO.4** Bachelor, Jay Som, Palehound / [Stay in the Car](https://open.spotify.com/track/3zs0PDSk0CZJYNpYwzpw7P?si=bvHAkKHkQgCpccBcLHlGPg) / 专辑：Doomin' Sun / 28 May 2021 / 风格：slacker rock 噪音流行
-* **NO.5** Beach House / [Once Twice Melody](https://open.spotify.com/track/4UexrxBMEyacoNwOvmx6XQ?si=266284a01fae4071) / 专辑：Once Twice Melody / 18 Feb 2022 / 风格：梦幻流行 新迷幻
-* **NO.6** Tanukichan / [Escape](https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI?si=AHp08NnoRBaB3jxtFcDAKw) / 专辑：GIZMO / 3 Mar 2023 / 风格：盯鞋摇滚 梦幻流行
-* **NO.7** Bully, Soccer Mommy / [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA?si=ife6w_OEROSIlDVWSMGxXQ) / 专辑：Lucky For You / 2 Jun 2023 / 风格：slacker rock 另类摇滚
-* **NO.8** Big Thief / [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz?si=0a1da50e89704874) / 专辑：Dragon New Warm Mountain I Believe In You / 11 Feb 2022 / 风格：独立民谣 民谣摇滚
-* **NO.9** La Femme / [Le sang de mon prochain](https://open.spotify.com/track/2UKt76lfD2SGturLfzRq1j?si=irA-pxNXRrGbCMJgD1QZJw&context=spotify%3Aalbum%3A1u2Q5MFWptOdPpldjC0xO9) / 专辑：Paradigmes / 2 Apr 2021 / 风格：合成器流行 新迷幻
-* **NO.10** 김뜻돌 / [기도](https://open.spotify.com/track/6wmQbPvNjW3fT2bSF8qbcs?si=70827e0aa29f494a) / 单曲：기도 / 29 Oct 2022 / 风格：盯鞋摇滚 另类摇滚
+* **NO.4** 김뜻돌 / [기도](https://open.spotify.com/track/6wmQbPvNjW3fT2bSF8qbcs?si=70827e0aa29f494a) / 单曲：기도 / 29 Oct 2022 / 风格：盯鞋摇滚 另类摇滚
+* **NO.5** Bachelor, Jay Som, Palehound / [Stay in the Car](https://open.spotify.com/track/3zs0PDSk0CZJYNpYwzpw7P?si=bvHAkKHkQgCpccBcLHlGPg) / 专辑：Doomin' Sun / 28 May 2021 / 风格：slacker rock 噪音流行
+* **NO.6** Beach House / [Once Twice Melody](https://open.spotify.com/track/4UexrxBMEyacoNwOvmx6XQ?si=266284a01fae4071) / 专辑：Once Twice Melody / 18 Feb 2022 / 风格：梦幻流行 新迷幻
+* **NO.7** Tanukichan / [Escape](https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI?si=AHp08NnoRBaB3jxtFcDAKw) / 专辑：GIZMO / 3 Mar 2023 / 风格：盯鞋摇滚 梦幻流行
+* **NO.8** Bully, Soccer Mommy / [Lose You](https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA?si=ife6w_OEROSIlDVWSMGxXQ) / 专辑：Lucky For You / 2 Jun 2023 / 风格：slacker rock 另类摇滚
+* **NO.9** Big Thief / [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz?si=0a1da50e89704874) / 专辑：Dragon New Warm Mountain I Believe In You / 11 Feb 2022 / 风格：独立民谣 民谣摇滚
+* **NO.10** La Femme / [Le sang de mon prochain](https://open.spotify.com/track/2UKt76lfD2SGturLfzRq1j?si=irA-pxNXRrGbCMJgD1QZJw&context=spotify%3Aalbum%3A1u2Q5MFWptOdPpldjC0xO9) / 专辑：Paradigmes / 2 Apr 2021 / 风格：合成器流行 新迷幻
+
 
 ## 2024
 * 王若琳 / [There She Smiles (In a Memory)](https://open.spotify.com/track/3skGpSq2YA6RiLET89u9Hx?si=af8a650377b04c87) / 专辑：Hotel La Rut
@@ -57,9 +58,9 @@
 
 ## 2022
 * Black Country, New Road / [Chaos Space Marine](https://open.spotify.com/track/2UEH1NjNHGsoEIr3GKLhNR?si=RkOLR3LYTXmu8iplVcKHrw) / 专辑：Ants From Up There
+* 김뜻돌 / [기도](https://open.spotify.com/track/6wmQbPvNjW3fT2bSF8qbcs?si=70827e0aa29f494a) / 单曲：기도
 * Beach House / [Once Twice Melody](https://open.spotify.com/track/4UexrxBMEyacoNwOvmx6XQ?si=266284a01fae4071) / 专辑：Once Twice Melody
 * Big Thief / [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz?si=0a1da50e89704874) / 专辑：Dragon New Warm Mountain I Believe In You
-* 김뜻돌 / [기도](https://open.spotify.com/track/6wmQbPvNjW3fT2bSF8qbcs?si=70827e0aa29f494a) / 单曲：기도
 * Alvvays / [Tile By Tile](spotify:track:4PZkJYffxBtM3hlvQqAgZ4) / 专辑：Blue Rev
 * Hatchie / [The Key](https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV?si=70fc2745c0c448ca) / 专辑：Giving The World Away
 * King Gizzard & The Lizard Wizard / [The Dripping Tap](https://open.spotify.com/track/3RJxtF4WDoxofuATWOI89r?si=bcde7e78815c4cc8) / 单曲：The Dripping Tap
@@ -122,6 +123,7 @@
 ### 乐评推荐
 * [Pitchfork's Best New Music](https://open.spotify.com/playlist/7q503YgioHAbo1iOIa67M8?si=4001177df8e14831)
 * [Pitchfork Selects](https://open.spotify.com/playlist/7f9o34JAe8ZSRq4GX7f0Ol?si=7cba313d7f95481b)
+* [The Needle Drop 2024 - Best tracks of the week](https://open.spotify.com/playlist/3k9iLUPXU6Ewaqhl8QGC86?si=dae2a1aed1894970)
 * [享樂主義_fresh music](https://open.spotify.com/playlist/6RoOI4coYkRdGfP4agEieT?si=44b3cfc2297d4811)
 
 ### 风格歌单

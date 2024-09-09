@@ -55,7 +55,7 @@
 
 我的兴趣集中于如下性质的音乐：
 * 【梦幻/迷幻】：dream pop（梦幻流行）, neo-psychedelic（新迷幻）
-* 【噪音/失真】：shoegaze（盯鞋摇滚）, noise pop（噪音流行）, slacker rock
+* 【噪音/失真】：shoegaze（盯鞋摇滚）, noise pop（噪音流行）, slacker rock（懒人摇滚）
 * 【合成器】：synthwave（合成器浪潮）, synthpop（合成器流行）
 * 【独立气质】：alternative rock（另类摇滚）
 * 【旋律性】：chamber pop（室内流行）, art pop（艺术流行）

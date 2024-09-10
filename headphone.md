@@ -23,8 +23,11 @@
 * [beyerdynamic DT 880 Edition](https://europe.beyerdynamic.com/dt-880-edition.html)
 * [AKG K701](https://uk.akg.com/professional-headphones/K701.html?cgid=professional-headphones)
 * [AKG K612 PRO](https://uk.akg.com/professional-headphones/K612PRO.html?cgid=professional-headphones)
+* [AKG K371](https://uk.akg.com/professional-headphones/K371-.html?dwvar_K371-_color=Black-GLOBAL-Current)
 * [Audio-Technica M50x](https://www.audio-technica.com/en-gb/ath-m50x)
 * [Shure SRH840A](https://www.shure.com/en-GB/products/headphones/srh840?variant=SRH840A-EFS)
+* [GRADO SR80x](https://gradolabs.com/products/sr80x?_pos=1&_sid=83950c2d2&_ss=r)
+* [HiFiMAN Deva Pro](https://store.hifiman.com/index.php/deva-pro-wired-openbox.html)
 * Sony MDR-CD900ST
 
 ## 200-300英镑
@@ -32,6 +35,7 @@
 * [beyerdynamic DT 900 PRO X](https://europe.beyerdynamic.com/dt-900-pro-x.html)
 * [HiFiMAN SUNDARA](https://store.hifiman.com/index.php/sundara.html)
 * [Audio-Technica R70x](https://www.audio-technica.com/en-gb/ath-r70x)
+* [AKG K712 PRO](https://uk.akg.com/professional-headphones/K712PRO.html?dwvar_K712PRO_color=Black-GLOBAL-Current)
 
 ## 300-500英镑
 * [Sennheiser HD 600](https://www.sennheiser-hearing.com/en-UK/p/hd-600/)

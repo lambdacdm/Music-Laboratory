@@ -69,19 +69,16 @@
 * [专业HIFI耳机测试工具视频](https://www.bilibili.com/video/BV1dJ411W7Rd/)
 * [Headphone test online](https://webcammictest.com/headphones/)
 
-# EQ调节
+# 声学校正（EQ调节）
 ## 频响曲线
 查看各型号耳机的频响曲线，以及如何调节EQ到哈曼目标曲线：
 
 * [AutoEq](https://autoeq.app/)
 
-## 均衡器
+## 校正工具（均衡器）
 * HP Audio Control的AUDIO PLAYBACK TOOLS内置10-Band Equalizer
+* HP Audio Control的SOUND CALIBRATION提供基于人耳听力测试的声学校正
 * [Equalizer APO](https://equalizerapo.com/)
+* [SoundID Reference](https://www.sonarworks.com/soundid-reference)
 * 一些播放软件（如Spotify、QQ音乐等）也内置简易的equalizer
-
-## 声音校准与听力测试
-* HP Audio Control的SOUND CALIBRATION是声音校准（基于人耳对各个频段的听力测试结果）
-* [免费高清高解析耳朵测听软件](https://zhuanlan.zhihu.com/p/34678625)
-
 

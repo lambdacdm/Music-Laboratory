@@ -1,7 +1,6 @@
 **点击[这里](https://lambdacdm.github.io/Music-Laboratory/)返回主页。**
 
 # 头戴式监听/高保真耳机推荐
-
 ## 0-50英镑
 * [Sony MDR-ZX310](https://www.sony.co.uk/store/product/mdrzx310apb.ce7/MDR-ZX310-ZX310AP-Headphones)
 * Sennheiser HD 206
@@ -60,14 +59,19 @@
 * [知乎 2024年618有哪些值得购买的头戴式耳机？头戴式耳机终极对比测评与音质排名](https://zhuanlan.zhihu.com/p/65766648) / [知乎 2024年最新耳机选购总结推荐指南](https://zhuanlan.zhihu.com/p/142763404)（其中千元级推荐了 DT 990 PRO, DT 880, HD 560S，千元内推荐了DT 240 PRO, SHP9600, K240 Studio, X2HR/00, SRH840A, K361, MDR-7506）
 * [知乎 究竟有没有 HiFi 圈一致好评的耳机？](https://www.zhihu.com/question/384456380)
 
-# 耳机测试
+# 耳机测评与测试
+## 测评网站
+* [RTINGS.COM](https://www.rtings.com/headphones/)
+* [Sonarworks Blog](https://www.sonarworks.com/blog)
+* [Woodenears吾等益耳](https://www.woodenears.com/)
+
+## 测试工具
 * [专业HIFI耳机测试工具视频](https://www.bilibili.com/video/BV1dJ411W7Rd/)
 * [Headphone test online](https://webcammictest.com/headphones/)
 
 # EQ调节
-
 ## 频响曲线
-查看各型号耳机的频响曲线，以及如何调节EQ到哈曼曲线：
+查看各型号耳机的频响曲线，以及如何调节EQ到哈曼目标曲线：
 
 * [AutoEq](https://autoeq.app/)
 

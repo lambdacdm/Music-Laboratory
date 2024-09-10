@@ -65,9 +65,9 @@
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
 
 # 我使用的耳机
-
-* [AKG K240 Studio](https://www.amazon.co.uk/gp/product/B0001ARCFA/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)（搭配 [beyerdynamic DT 770的耳罩](https://www.amazon.co.uk/gp/product/B0016MMYKA?ref=ppx_pt2_dt_b_prod_image)） 1 Sep 2024 - now
-* [Sony MDRZX310](https://www.amazon.co.uk/dp/B00I3LUYNG?ref=ppx_yo2ov_dt_b_fed_asin_title) 1 Feb 2022 - now
+* Sennheiser HD 560 / Sep 2024 - now
+* AKG K240 Studio（搭配beyerdynamic DT 770的耳罩） / Sep 2024 - now
+* Sony MDRZX310 / Feb 2022 - Aug 2024
 
 其他推荐的头戴式监听/高保真耳机见[这里](https://lambdacdm.github.io/Music-Laboratory/headphone)。
 

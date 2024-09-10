@@ -11,7 +11,6 @@
 * AKG K240 Studio
 * Sony MDR-7506
 * Philips SHP9500
-* [Philips Fidelio X2HR/00](https://www.philips.co.uk/c-p/X2HR_00/fidelio-headphones)
 * [HiFiMAN HE400se](https://store.hifiman.com/index.php/he400se.html)
 * [Audio-Technica M30x](https://www.audio-technica.com/en-gb/ath-m30x)
 
@@ -27,6 +26,7 @@
 * [Audio-Technica M50x](https://www.audio-technica.com/en-gb/ath-m50x)
 * [Shure SRH840A](https://www.shure.com/en-GB/products/headphones/srh840?variant=SRH840A-EFS)
 * [GRADO SR80x](https://gradolabs.com/products/sr80x?_pos=1&_sid=83950c2d2&_ss=r)
+* [Philips Fidelio X2HR/00](https://www.philips.co.uk/c-p/X2HR_00/fidelio-headphones)
 * [HiFiMAN Deva Pro](https://store.hifiman.com/index.php/deva-pro-wired-openbox.html)
 * Sony MDR-CD900ST
 

@@ -11,6 +11,7 @@
 * AKG K240 Studio
 * Sony MDR-7506
 * Philips SHP9500
+* [Philips Fidelio X2HR/00](https://www.philips.co.uk/c-p/X2HR_00/fidelio-headphones)
 * [HiFiMAN HE400se](https://store.hifiman.com/index.php/he400se.html)
 * [Audio-Technica M30x](https://www.audio-technica.com/en-gb/ath-m30x)
 
@@ -24,6 +25,7 @@
 * [AKG K612 PRO](https://uk.akg.com/professional-headphones/K612PRO.html?cgid=professional-headphones)
 * [Audio-Technica M50x](https://www.audio-technica.com/en-gb/ath-m50x)
 * [Shure SRH840A](https://www.shure.com/en-GB/products/headphones/srh840?variant=SRH840A-EFS)
+* Sony MDR-CD900ST
 
 ## 200-300英镑
 * [beyerdynamic DT 700 PRO X](https://europe.beyerdynamic.com/dt-700-pro-x.html)
@@ -35,10 +37,14 @@
 * [Sennheiser HD 600](https://www.sennheiser-hearing.com/en-UK/p/hd-600/)
 * [Sennheiser HD 650](https://www.sennheiser-hearing.com/en-UK/p/hd-650/)
 * [Sennheiser HD 660S2](https://www.sennheiser-hearing.com/en-UK/p/hd-660s2/)
+* [beyerdynamic DT 1770 PRO](https://europe.beyerdynamic.com/dt-1770-pro.html)
+* [beyerdynamic DT 1990 PRO](https://europe.beyerdynamic.com/dt-1990-pro.html)
 * [Shure SRH1840](https://www.shure.com/en-GB/products/headphones/srh1840?variant=SRH1840-BK)
+* [HiFiMAN ANANDA](https://store.hifiman.com/index.php/ananda-stealth-magnet-version.html)
 
 ## >1000英镑
 * [Sennheiser HD 800 S](https://www.sennheiser-hearing.com/en-UK/p/hd-800-s/)
+* [AKG K812](https://uk.akg.com/professional-headphones/K812.html?dwvar_K812_color=Black-GLOBAL-Current)
 
 # 耳机测试
 * [专业HIFI耳机测试工具视频](https://www.bilibili.com/video/BV1dJ411W7Rd/)

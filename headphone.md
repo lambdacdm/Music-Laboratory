@@ -23,6 +23,7 @@
 * [Audio-Technica M50x](https://www.audio-technica.com/en-gb/ath-m50x)
 * [AKG K701](https://uk.akg.com/professional-headphones/K701.html?cgid=professional-headphones)
 * [AKG K612 PRO](https://uk.akg.com/professional-headphones/K612PRO.html?cgid=professional-headphones)
+* [Shure SRH840A](https://www.shure.com/en-GB/products/headphones/srh840?variant=SRH840A-EFS)
 
 ## 200-300英镑
 * [beyerdynamic DT 700 PRO X](https://europe.beyerdynamic.com/dt-700-pro-x.html)
@@ -34,6 +35,7 @@
 * [Sennheiser HD 600](https://www.sennheiser-hearing.com/en-UK/p/hd-600/)
 * [Sennheiser HD 650](https://www.sennheiser-hearing.com/en-UK/p/hd-650/)
 * [Sennheiser HD 660S2](https://www.sennheiser-hearing.com/en-UK/p/hd-660s2/)
+* [Shure SRH1840](https://www.shure.com/en-GB/products/headphones/srh1840?variant=SRH1840-BK)
 
 ## >1000英镑
 * [Sennheiser HD 800 S](https://www.sennheiser-hearing.com/en-UK/p/hd-800-s/)

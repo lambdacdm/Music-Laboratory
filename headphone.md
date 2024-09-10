@@ -37,7 +37,7 @@
 * [Audio-Technica R70x](https://www.audio-technica.com/en-gb/ath-r70x)
 * [AKG K712 PRO](https://uk.akg.com/professional-headphones/K712PRO.html?dwvar_K712PRO_color=Black-GLOBAL-Current)
 
-## 300-500英镑
+## 300-600英镑
 * [Sennheiser HD 600](https://www.sennheiser-hearing.com/en-UK/p/hd-600/)
 * [Sennheiser HD 650](https://www.sennheiser-hearing.com/en-UK/p/hd-650/)
 * [Sennheiser HD 660S2](https://www.sennheiser-hearing.com/en-UK/p/hd-660s2/)
@@ -46,9 +46,19 @@
 * [Shure SRH1840](https://www.shure.com/en-GB/products/headphones/srh1840?variant=SRH1840-BK)
 * [HiFiMAN ANANDA](https://store.hifiman.com/index.php/ananda-stealth-magnet-version.html)
 
+## 600-1000英镑
+* [GRADO RS1x](https://gradolabs.com/products/rs1x?_pos=2&_psq=rs&_ss=e&_v=1.0)
+
 ## >1000英镑
 * [Sennheiser HD 800 S](https://www.sennheiser-hearing.com/en-UK/p/hd-800-s/)
 * [AKG K812](https://uk.akg.com/professional-headphones/K812.html?dwvar_K812_color=Black-GLOBAL-Current)
+
+## 参考资料
+* [b站 经典HiFi耳机三剑客 HD650/K701/DT880](https://www.bilibili.com/video/BV1yf4y127rE/)
+* 小红书 音乐制作耳机怎么选？录音/混音/听歌通吃 （其中推荐了M50x, DT 700 PRO X, SRH840A, MDR-7506, K240 Studio, SRH 1840, DT 900 PRO X, HD 560s）
+* [b站 【双十一耳机选购指南】20款千元级HIFI有线耳机大横评 森海 拜亚 AKG 舒尔 索尼 HIFIMAN 铁三角 歌德 飞利浦 云试听 音质主观评测618](https://www.bilibili.com/video/BV1gR4y1E73a/) （其中评测了20款千元耳机，推荐了HD 560S, SR80x, DT 770 PRO, SRH1840, SHP9500, AKG K712 PRO, AKG K701, DT 880 PRO, HE400se）
+* [知乎 2024年618有哪些值得购买的头戴式耳机？头戴式耳机终极对比测评与音质排名](https://zhuanlan.zhihu.com/p/65766648) / [知乎 2024年最新耳机选购总结推荐指南](https://zhuanlan.zhihu.com/p/142763404)（其中千元级推荐了 DT 990 PRO, DT 880, HD 560S，千元内推荐了DT 240 PRO, SHP9600, K240 Studio, X2HR/00, SRH840A, K361, MDR-7506）
+* [知乎 究竟有没有 HiFi 圈一致好评的耳机？](https://www.zhihu.com/question/384456380)
 
 # 耳机测试
 * [专业HIFI耳机测试工具视频](https://www.bilibili.com/video/BV1dJ411W7Rd/)

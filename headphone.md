@@ -55,7 +55,7 @@
 
 ## 参考资料
 * [b站 经典HiFi耳机三剑客 HD650/K701/DT880](https://www.bilibili.com/video/BV1yf4y127rE/)
-* 小红书 音乐制作耳机怎么选？录音/混音/听歌通吃 （其中推荐了M50x, DT 700 PRO X, SRH840A, MDR-7506, K240 Studio, SRH 1840, DT 900 PRO X, HD 560s）
+* 小红书 音乐制作耳机怎么选？录音/混音/听歌通吃 （其中推荐了M50x, DT 700 PRO X, SRH840A, MDR-7506, K240 Studio, SRH 1840, DT 900 PRO X, HD 560S）
 * [b站 【双十一耳机选购指南】20款千元级HIFI有线耳机大横评 森海 拜亚 AKG 舒尔 索尼 HIFIMAN 铁三角 歌德 飞利浦 云试听 音质主观评测618](https://www.bilibili.com/video/BV1gR4y1E73a/) （其中评测了20款千元耳机，推荐了HD 560S, SR80x, DT 770 PRO, SRH1840, SHP9500, AKG K712 PRO, AKG K701, DT 880 PRO, HE400se）
 * [知乎 2024年618有哪些值得购买的头戴式耳机？头戴式耳机终极对比测评与音质排名](https://zhuanlan.zhihu.com/p/65766648) / [知乎 2024年最新耳机选购总结推荐指南](https://zhuanlan.zhihu.com/p/142763404)（其中千元级推荐了 DT 990 PRO, DT 880, HD 560S，千元内推荐了DT 240 PRO, SHP9600, K240 Studio, X2HR/00, SRH840A, K361, MDR-7506）
 * [知乎 究竟有没有 HiFi 圈一致好评的耳机？](https://www.zhihu.com/question/384456380)

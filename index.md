@@ -65,7 +65,7 @@
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
 
 # 我使用的耳机
-* Sennheiser HD 560 / Sep 2024 - now
+* Sennheiser HD 560S / Sep 2024 - now
 * AKG K240 Studio（搭配beyerdynamic DT 770的耳罩） / Sep 2024 - now
 * Sony MDRZX310 / Feb 2022 - Aug 2024
 

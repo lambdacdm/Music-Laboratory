@@ -12,6 +12,7 @@
 * Sony MDR-7506
 * Philips SHP9500 / [SHP9600](https://www.philips.co.uk/c-p/SHP9600_00/over-ear-headphones)
 * [HiFiMAN HE400se](https://store.hifiman.com/index.php/he400se.html)
+* [beyerdynamic DT 240 PRO](https://europe.beyerdynamic.com/dt-240-pro.html)
 * [Audio-Technica M30x](https://www.audio-technica.com/en-gb/ath-m30x)
 
 ## 100-200英镑
@@ -42,6 +43,7 @@
 * [Sennheiser HD 600](https://www.sennheiser-hearing.com/en-UK/p/hd-600/)
 * [Sennheiser HD 650](https://www.sennheiser-hearing.com/en-UK/p/hd-650/)
 * [Sennheiser HD 660S2](https://www.sennheiser-hearing.com/en-UK/p/hd-660s2/)
+* Sennheiser HD 490 Pro
 * [beyerdynamic DT 1770 PRO](https://europe.beyerdynamic.com/dt-1770-pro.html)
 * [beyerdynamic DT 1990 PRO](https://europe.beyerdynamic.com/dt-1990-pro.html)
 * [HiFiMAN ANANDA](https://store.hifiman.com/index.php/ananda-stealth-magnet-version.html)

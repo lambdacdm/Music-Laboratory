@@ -17,7 +17,7 @@
 
 ## 100-200英镑
 * [Sennheiser HD 560S](https://www.sennheiser-hearing.com/en-UK/p/hd-560s/) (=HD 400 Pro)
-* Sennheiser HD 25
+* [Sennheiser HD 25](https://www.sennheiser.com/en-gb/catalog/products/headphones/hd-25/hd-25-506909)
 * [Sennheiser HD 599](https://www.sennheiser-hearing.com/en-UK/p/hd-599/)
 * [beyerdynamic DT 770 PRO](https://europe.beyerdynamic.com/dt-770-pro.html)
 * [beyerdynamic DT 990 PRO](https://europe.beyerdynamic.com/dt-990-pro.html)
@@ -43,7 +43,7 @@
 * [Sennheiser HD 600](https://www.sennheiser-hearing.com/en-UK/p/hd-600/)
 * [Sennheiser HD 650](https://www.sennheiser-hearing.com/en-UK/p/hd-650/)
 * [Sennheiser HD 660S2](https://www.sennheiser-hearing.com/en-UK/p/hd-660s2/)
-* Sennheiser HD 490 Pro
+* [Sennheiser HD 490 Pro](https://www.sennheiser.com/en-gb/catalog/hd-490-pro/hd-490-pro-700286)
 * [beyerdynamic DT 1770 PRO](https://europe.beyerdynamic.com/dt-1770-pro.html)
 * [beyerdynamic DT 1990 PRO](https://europe.beyerdynamic.com/dt-1990-pro.html)
 * [HiFiMAN ANANDA](https://store.hifiman.com/index.php/ananda-stealth-magnet-version.html)

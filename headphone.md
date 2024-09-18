@@ -24,7 +24,7 @@
 * [beyerdynamic DT 880 Edition](https://europe.beyerdynamic.com/dt-880-edition.html) / [DT 880 PRO](https://europe.beyerdynamic.com/dt-880-pro.html)
 * [AKG K701](https://uk.akg.com/professional-headphones/K701.html?cgid=professional-headphones) / [K702](https://uk.akg.com/professional-headphones/K702.html?dwvar_K702_color=Black-GLOBAL-Current) / Q701
 * [AKG K612 PRO](https://uk.akg.com/professional-headphones/K612PRO.html?cgid=professional-headphones)
-* [AKG K371](https://uk.akg.com/professional-headphones/K371-.html?dwvar_K371-_color=Black-GLOBAL-Current)\
+* [AKG K371](https://uk.akg.com/professional-headphones/K371-.html?dwvar_K371-_color=Black-GLOBAL-Current)
 * [Philips Fidelio X2HR](https://www.philips.co.uk/c-p/X2HR_00/fidelio-headphones)
 * [Audio-Technica M50x](https://www.audio-technica.com/en-gb/ath-m50x)
 * [Shure SRH840A](https://www.shure.com/en-GB/products/headphones/srh840?variant=SRH840A-EFS)

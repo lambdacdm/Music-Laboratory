@@ -25,7 +25,7 @@
 * [AKG K701](https://uk.akg.com/professional-headphones/K701.html?cgid=professional-headphones) / [K702](https://uk.akg.com/professional-headphones/K702.html?dwvar_K702_color=Black-GLOBAL-Current) / Q701
 * [AKG K612 PRO](https://uk.akg.com/professional-headphones/K612PRO.html?cgid=professional-headphones)
 * [AKG K371](https://uk.akg.com/professional-headphones/K371-.html?dwvar_K371-_color=Black-GLOBAL-Current)
-* [Philips Fidelio X2HR](https://www.philips.co.uk/c-p/X2HR_00/fidelio-headphones)
+* [Philips Fidelio X2HR](https://www.philips.co.uk/c-p/X2HR_00/fidelio-headphones) / [Fidelio X3](https://www.philips.co.uk/c-p/X3_00/fidelio-x3-wired-over-ear-open-back-headphones)
 * [Audio-Technica M50x](https://www.audio-technica.com/en-gb/ath-m50x)
 * [Shure SRH840A](https://www.shure.com/en-GB/products/headphones/srh840?variant=SRH840A-EFS)
 * [GRADO SR80x](https://gradolabs.com/products/sr80x?_pos=1&_sid=83950c2d2&_ss=r)

@@ -69,11 +69,14 @@
 * [知乎 2024年618有哪些值得购买的头戴式耳机？头戴式耳机终极对比测评与音质排名](https://zhuanlan.zhihu.com/p/65766648)（其中千元级推荐了 DT 990 PRO, DT 880, HD 560S，千元内推荐了DT 240 PRO, SHP9600, X2HR, SRH840A, K361, MDR-7506）
 * [知乎 究竟有没有 HiFi 圈一致好评的耳机？](https://www.zhihu.com/question/384456380)
 
-# 耳机测评与测试
+# 耳机测评、测试
 ## 测评网站
 * [RTINGS.COM](https://www.rtings.com/headphones/)
 * [Sonarworks Blog](https://www.sonarworks.com/blog)
 * [Woodenears吾等益耳](https://www.woodenears.com/)
+
+## 艺人使用的耳机
+* [Equipboard](https://equipboard.com/)
 
 ## 测试工具
 * [专业HIFI耳机测试工具视频](https://www.bilibili.com/video/BV1dJ411W7Rd/)

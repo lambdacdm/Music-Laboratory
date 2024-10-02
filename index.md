@@ -67,7 +67,7 @@
 
 # 我使用的耳机
 * Sennheiser HD 560S / Sep 2024 - now
-* AKG K240 Studio（搭配beyerdynamic DT 770的耳罩） / Sep 2024 - now
+* AKG K240 Studio / Sep 2024 - now
 * Sony MDRZX310 / Feb 2022 - Aug 2024
 
 其他推荐的头戴式有线监听/高保真耳机见[这里](https://lambdacdm.github.io/Music-Laboratory/headphone)。

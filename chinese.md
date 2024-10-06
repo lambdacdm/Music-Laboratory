@@ -56,7 +56,7 @@
 # 2024 华语音乐推荐
 ### 独立音乐
 * 华裔美国熊 / Heartbreaker (伤心情歌) / 专辑：Wah!!! / 2024.10
-* otay:onii / [You Do (acoustic)](https://music.163.com/#/song?id=2602538626) / 专辑：True Faith Ain't Blind / 2024.9
+* Otay:onii / [You Do (acoustic)](https://music.163.com/#/song?id=2602538626) / 专辑：True Faith Ain't Blind / 2024.9
 * DOUDOU / [可你听见了](https://music.163.com/#/song?id=2605274338) / 单曲：可你听见了 / 2024.7
 * 范筒 / [演技派](https://music.163.com/#/song?id=2604634955) / 专辑：上瘾须知 / 2024.7
 * 张醒婵 / [滤镜](https://music.163.com/#/song?id=2155443614) / 专辑：No，no！/ 2024.5

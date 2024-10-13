@@ -19,8 +19,8 @@
 * **NO.10** La Femme / [Le sang de mon prochain](https://open.spotify.com/track/2UKt76lfD2SGturLfzRq1j?si=irA-pxNXRrGbCMJgD1QZJw&context=spotify%3Aalbum%3A1u2Q5MFWptOdPpldjC0xO9) / 专辑：Paradigmes / 2 Apr 2021 / 风格：合成器流行 新迷幻
 
 更多见：
-* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2020s/) / [AOTY](https://www.albumoftheyear.org/ratings/user-highest-rated/2020s/)
-* Top Songs: [RYM](https://rateyourmusic.com/charts/top/song/2020s/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/the-100-best-albums-of-the-2020s-so-far/)
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/2020s/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/the-100-best-albums-of-the-2020s-so-far/) / [AOTY](https://www.albumoftheyear.org/ratings/user-highest-rated/2020s/)
+* Top Songs: [RYM](https://rateyourmusic.com/charts/top/song/2020s/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/the-100-best-songs-of-the-2020s-so-far/)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2020s/) / [AOTY](https://www.albumoftheyear.org/ratings/users/singles/2020s/)
 
 ## 2024

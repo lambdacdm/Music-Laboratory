@@ -66,6 +66,7 @@
 * Ὁπλίτης / [Παραδειγματιζομένη μουσική](https://music.163.com/#/song?id=2117200293) / 专辑：Παραμαινομένη / 2024.1
 
 ### 主流音乐
+* 方大同 / [XZMHXDXH](https://music.163.com/#/song?id=2635129374) / 专辑：梦想家 The Dreamer / 2024.10
 * 窦靖童 / 太陽升起 / 专辑：空中飛人 / 2024.9
 * YELLOW黃宣 / [Ghost Swing](https://music.163.com/#/song?id=2622054383) / 单曲：Ghost Swing / 2024.9
 * 王若琳 / [There She Smiles (In a Memory)](https://music.163.com/#/song?id=2149457789) / 专辑：Hotel La Rut / 2024.5

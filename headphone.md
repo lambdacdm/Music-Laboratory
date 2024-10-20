@@ -6,12 +6,13 @@
 
 ### 低端
 * 【Philips】 SHP9500, SHP 9600
+* 【HiFiMAN】 HE400se
 
 ### 中端
 * 【Sennheiser】 HD 560S
 * 【beyerdynamic】 DT 990 PRO
 * 【AKG】 K702, Q701
-* 【HiFiMAN】 SUNDARA, HE400se
+* 【HiFiMAN】 SUNDARA
 * 【Philips】 Fidelio X2HR
 * 【Audio-Technica】 R70x
 

@@ -34,6 +34,14 @@
 
 ## 封闭式耳机
 
+### 低端
+* 【Audio-Technica】 M20x
+* 【Sony】 MDR-7506
+
+### 中端
+* 【AKG】 K371
+* 【beyerdynamic】 DT 700 PRO X, DT 770 PRO
+
 
 # 耳机测评、测试
 ## 测评网站

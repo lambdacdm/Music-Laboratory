@@ -41,6 +41,10 @@
 ### 中端
 * 【AKG】 K371
 * 【beyerdynamic】 DT 700 PRO X, DT 770 PRO
+* 【Audio-Technica】 M50x
+
+### 高端
+* 【beyerdynamic】 DT 1770 PRO
 
 
 # 耳机测评、测试

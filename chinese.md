@@ -55,7 +55,7 @@
 
 # 2024 华语音乐推荐
 ### 独立音乐
-* 华裔美国熊 / Heartbreaker (伤心情歌) / 专辑：Wah!!! / 2024.10
+* 华裔美国熊 / [Heartbreaker (伤心情歌)](https://music.163.com/#/song?id=2637423399) / 专辑：Wah!!! / 2024.10
 * Otay:onii / [You Do (acoustic)](https://music.163.com/#/song?id=2602538626) / 专辑：True Faith Ain't Blind / 2024.9
 * 王忆灵 / [你的武器是什么](https://music.163.com/#/song?id=2614659210) / 专辑：枯萎颂（Ode to Wither）/ 2024.8
 * DOUDOU / [可你听见了](https://music.163.com/#/song?id=2605274338) / 单曲：可你听见了 / 2024.7

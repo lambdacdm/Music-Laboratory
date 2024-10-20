@@ -10,8 +10,8 @@
 
 ### 中端
 * 【Sennheiser】 HD 560S
-* 【beyerdynamic】 DT 990 PRO
 * 【AKG】 K702, Q701
+* 【beyerdynamic】 DT 990 PRO
 * 【HiFiMAN】 SUNDARA
 * 【Philips】 Fidelio X2HR
 * 【Audio-Technica】 R70x
@@ -40,8 +40,8 @@
 
 ### 中端
 * 【AKG】 K371
-* 【beyerdynamic】 DT 700 PRO X, DT 770 PRO
 * 【Audio-Technica】 M50x
+* 【beyerdynamic】 DT 700 PRO X, DT 770 PRO
 
 ### 高端
 * 【beyerdynamic】 DT 1770 PRO

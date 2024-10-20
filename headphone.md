@@ -5,7 +5,7 @@
 ## 开放式耳机
 
 ### 低端
-* 【Philips】 SHP9500, SHP 9600
+* 【Philips】 SHP9500, SHP9600
 * 【HiFiMAN】 HE400se
 
 ### 中端

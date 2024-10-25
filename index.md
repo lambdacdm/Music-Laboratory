@@ -66,8 +66,12 @@
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
 
 # 我使用的耳机
-* Sennheiser HD 560S / Sep 2024 - now
+正在使用的耳机：
+* Sennheiser HD 490 PRO / Nov 2024 - now
 * AKG K240 Studio / Sep 2024 - now
+
+曾使用的耳机：
+* Sennheiser HD 560S / Sep 2024 - Oct 2024
 * Sony MDRZX310 / Feb 2022 - Aug 2024
 
 其他推荐的头戴式有线监听/高保真耳机见[这里](https://lambdacdm.github.io/Music-Laboratory/headphone)。

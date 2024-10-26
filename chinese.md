@@ -63,6 +63,7 @@
 * 范筒 / [演技派](https://music.163.com/#/song?id=2604634955) / 专辑：上瘾须知 / 2024.7
 * 张醒婵 / [滤镜](https://music.163.com/#/song?id=2155443614) / 专辑：No，no！/ 2024.5
 * Yu Ching 黃雨晴 / [Confessions Of A Soul 靈魂的告白](https://music.163.com/#/song?id=2136005818) / 专辑：The Crystal Hum / 2024.4
+* Tartars / [Saw You in the Dream](https://music.163.com/#/song?id=2139935803) / 专辑：Scenes in Colors / 2024.3
 * Teenage Riot / [Edith's Song](https://music.163.com/#/song?id=2119980315) / 专辑：We Are Full / 2024.1
 * Ὁπλίτης / [Παραδειγματιζομένη μουσική](https://music.163.com/#/song?id=2117200293) / 专辑：Παραμαινομένη / 2024.1
 

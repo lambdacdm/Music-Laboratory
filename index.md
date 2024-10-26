@@ -67,7 +67,8 @@
 
 # 我使用的耳机
 正在使用的耳机：
-* Sennheiser HD 490 PRO / Nov 2024 - now
+* Sennheiser HD 490 PRO / Nov 2024 - now / 017333
+* AKG Q701 / Nov 2024 - now / 104450
 * AKG K240 Studio / Sep 2024 - now
 
 曾使用的耳机：

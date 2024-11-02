@@ -142,6 +142,7 @@
 ## 经典歌曲
 
 ### 乐评推荐
+* [RYM Top 10,000 Songs](https://open.spotify.com/playlist/6Wfwzp6R0c9yITUS2zlFeE?si=d5b4a828a0b34010)
 * [RYM top 2000 singles](https://open.spotify.com/playlist/7eePphyZNlKfqbdkZATy0u?si=078aab8394dc4051)
 * [Rate Your Music Top Albums](https://open.spotify.com/playlist/5sfmWpyxPj4cSupa7suClo?si=5ae2127c2ba54061)
 * [Pitchfork: The 200 Best Songs of the 2010s](https://open.spotify.com/playlist/2ua9P1PJZ8vNU1ZOZq6tqe?si=2c330b97edcf4ca4)

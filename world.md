@@ -152,6 +152,8 @@
 * [Pitchfork: The 200 Best Songs of the 1980s](https://open.spotify.com/playlist/7MysdOoh9OrZ8L8xylt2iR?si=93615048f49840d9)
 * [Pitchfork: The 200 Best Albums of the 1980s](https://open.spotify.com/playlist/25mALbhXBaQDUls6IptjAJ?si=082d2c1780844846)
 * [Pitchfork: The 200 Best Songs of the 1970s](https://open.spotify.com/playlist/13bCGLp2nXAXj3IRLjfPEr?si=36fac0a3a6d7494b)
+* [Pitchfork: The 200 Greatest Songs of the 1960s](https://open.spotify.com/playlist/03SLNSrAPMsAt7ys1ORkhY?si=9d0d9e7aa51440fe)
+* [Pitchfork: The 200 Best Albums of the 1960s](https://open.spotify.com/playlist/11S9QoBUbATlKQuFSExhkZ?si=2b2f862fb3504924)
 
 ### 风格歌单
 见下面”风格“部分。

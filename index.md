@@ -29,7 +29,7 @@
 
 我使用如下音乐平台：
 * [Apple Music](https://music.apple.com/us/browse) 用于高保真听歌
-* [Spotify](https://open.spotify.com/) 用于歌单探索
+* [Spotify](https://open.spotify.com/) 用于探索新歌
 * [网易云音乐](https://music.163.com/) 用于发布个人音乐作品
 
 此外我使用如下平台：

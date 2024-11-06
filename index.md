@@ -36,15 +36,15 @@
 * [stats.fm](https://stats.fm/aodbn5sk0d56tefinucj47aqd) 用于记录听歌数据
 * [Soundiiz](https://soundiiz.com/) 用于不同平台间歌单转移与同步
 
-以下陈列着我不同时期的Spotify歌单。
+以下陈列着我不同时期的歌单。
 
-* [往事如歌M](https://open.spotify.com/playlist/5sZC8kxpli9hMhscAUCvuB?si=41ad9e3d3f904e8a) 16 Sep 2024 - Now
-* [往事如歌D](https://open.spotify.com/playlist/6PoEN68oFKEpqZcAgg9ggA?si=e495f01cc2da4742) 22 Sep 2023 - 13 Sep 2024
-* [往事如歌S](https://open.spotify.com/playlist/4PAxpABrtr7ZeTH4l0DbmY?si=3237d5ff80bc43af) 5 Aug 2023 - 16 Sep 2023
-* [往事如歌C](https://open.spotify.com/playlist/3azceHF446Fm2m2xpO5CUV?si=65553880953a4b69) 4 Oct 2022 - 3 July 2023
-* [往事如歌N](https://open.spotify.com/playlist/6HQz7ZDRt7CDl1a3HyYV8R?si=5f3462bd0e9d4864) 16 July 2017 - 3 Oct 2022
-* [往事如歌E](https://open.spotify.com/playlist/1k5YNvapQ5NnpKltlMEAWw?si=521c4fa5cd0d47dc) 19 Sep 2021 - 19 Jun 2022
-* [往事如歌Q](https://open.spotify.com/playlist/07IPyNH1Hpwvg6zooYIcQ1?si=5a72d8a84d734638) 6 Jun 2014 - 11 Sep 2021
+* 往事如歌M [Spotify](https://open.spotify.com/playlist/5sZC8kxpli9hMhscAUCvuB?si=41ad9e3d3f904e8a)/[Apple](https://music.apple.com/gb/playlist/%E5%BE%80%E4%BA%8B%E5%A6%82%E6%AD%8Cm/pl.u-pMyl15aUW1PW8YE) 16 Sep 2024 - Now
+* 往事如歌D [Spotify](https://open.spotify.com/playlist/6PoEN68oFKEpqZcAgg9ggA?si=e495f01cc2da4742) 22 Sep 2023 - 13 Sep 2024
+* 往事如歌S [Spotify](https://open.spotify.com/playlist/4PAxpABrtr7ZeTH4l0DbmY?si=3237d5ff80bc43af) 5 Aug 2023 - 16 Sep 2023
+* 往事如歌C [Spotify](https://open.spotify.com/playlist/3azceHF446Fm2m2xpO5CUV?si=65553880953a4b69) 4 Oct 2022 - 3 July 2023
+* 往事如歌N [Spotify](https://open.spotify.com/playlist/6HQz7ZDRt7CDl1a3HyYV8R?si=5f3462bd0e9d4864) 16 July 2017 - 3 Oct 2022
+* 往事如歌E [Spotify](https://open.spotify.com/playlist/1k5YNvapQ5NnpKltlMEAWw?si=521c4fa5cd0d47dc) 19 Sep 2021 - 19 Jun 2022
+* 往事如歌Q [Spotify](https://open.spotify.com/playlist/07IPyNH1Hpwvg6zooYIcQ1?si=5a72d8a84d734638) 6 Jun 2014 - 11 Sep 2021
 
 更多歌单参见我的[Spotify主页](https://open.spotify.com/user/aodbn5sk0d56tefinucj47aqd?si=42f7a0be73a44f54)。
 

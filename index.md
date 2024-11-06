@@ -25,11 +25,16 @@
 * **10** [来生III 庞加莱回归](https://music.163.com/dj?id=2065237607&userid=477097094) / 4:15 / 5 Feb 2020 / Cubase
 * **11** [outro 霓虹中再见](http://music.163.com/dj?id=2071162243&userid=477097094) / 0:27 / 23 Dec 2020 / Cubase
 
-# 我正在听的歌
+# 我使用的音乐平台
 
-我听歌主要使用[Spotify](https://open.spotify.com/)作为播放平台。
+我使用如下音乐平台：
+* [Apple Music](https://music.apple.com/us/browse) 用于高保真听歌
+* [Spotify](https://open.spotify.com/) 用于歌单探索
+* [网易云音乐](https://music.163.com/) 用于发布个人音乐作品
 
-**[点此](https://stats.fm/aodbn5sk0d56tefinucj47aqd)查看我的Spotify听歌数据统计。**
+此外我使用如下平台：
+* [stats.fm](https://stats.fm/aodbn5sk0d56tefinucj47aqd) 用于记录听歌数据
+* [Soundiiz](https://soundiiz.com/) 用于不同平台间歌单转移与同步
 
 以下陈列着我不同时期的Spotify歌单。
 
@@ -44,8 +49,6 @@
 更多歌单参见我的[Spotify主页](https://open.spotify.com/user/aodbn5sk0d56tefinucj47aqd?si=42f7a0be73a44f54)。
 
 其他推荐的播放平台：
-* [网易云音乐](https://music.163.com/)
-* [Apple Music](https://music.apple.com/us/browse)
 * [Youtube Music](https://music.youtube.com/)
 * [Bandcamp](https://bandcamp.com/)
 * [SoundCloud](https://soundcloud.com/discover)

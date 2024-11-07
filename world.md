@@ -29,16 +29,18 @@
 * La Luz / [Good Luck With Your Secret](https://open.spotify.com/track/7hrvQ4efhWpcpWM4XA7zbN?si=f47abb2c0e7840ca) / 专辑：News of the Universe
 * Geordie Greep, Seth Evans / [Motorbike](https://open.spotify.com/track/70SiFAEhhDtd5HFYSxE3gd?si=d0604cc0373645d9) / 专辑：The New Sound
 * Kamasi Washington / [Prologue](https://open.spotify.com/track/3fkUXEFOWK2X4HXSv59BFN?si=95f99b56737f4775) / 专辑：Fearless Movement
-* Porter Robinson / [Cheerleader](https://open.spotify.com/track/5iyuwVaMliMdloOzSBxohv?si=0ddf0bde01d04495) / 专辑：SMILE! :D
+* King Gizzard & The Lizard Wizard / [Phantom Island](https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp?si=9bde36f68b0446d4) / 单曲：Phantom Island
 * Stevie Toddler / [Wake Me Like](https://open.spotify.com/track/3G1HCDlmD6XvWkhWH17IOy?si=231ad0b250bd4af6) / 专辑：Last Time Forever
 * Retrograde88 / [Whistling Winds](https://open.spotify.com/track/42L8TVbYtpGmsB7dLi16aZ?si=0b522ad72acb4a7f) / 专辑：Retrograde88
+* La Sécurité / [Détour](https://rateyourmusic.com/release/single/la-securite/detour/) / 单曲：Détour
 * Crumb / [AMAMA](https://open.spotify.com/track/2v0M1pCugLIImmFGZNkydS?si=58ed380a04064a46) / 专辑：AMAMA
-* Charli xcx / [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG?si=28b262956f0e431a) / 专辑：BRAT
 
 <!-- * La Femme / [Sur la planche](https://open.spotify.com/track/5FZj4WuWk0wtQq3hE8lFaJ?si=112b77a490284d34) / 专辑：La Femme ressort
  Billie Eilish / [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h?si=4c73ff760a944d8a) / 专辑：HIT ME HARD AND SOFT 
 * 路傍の石 / [revival](https://open.spotify.com/track/0HQCnuIRODvGelieRCeXhz?si=561a0192c7744073) / 专辑：mikgazer 2024 
-* Bodies Of Water, Brian Walsh / [Footprints](https://open.spotify.com/track/6OEt0wEeipVznEQTtkb8Up?si=6f6dcb6463e44467) / 专辑：The Journey Is Our Home -->
+* Bodies Of Water, Brian Walsh / [Footprints](https://open.spotify.com/track/6OEt0wEeipVznEQTtkb8Up?si=6f6dcb6463e44467) / 专辑：The Journey Is Our Home 
+* Charli xcx / [365](https://open.spotify.com/track/5h68SoVFGleijCtjEja3xG?si=28b262956f0e431a) / 专辑：BRAT 
+* Porter Robinson / [Cheerleader](https://open.spotify.com/track/5iyuwVaMliMdloOzSBxohv?si=0ddf0bde01d04495) / 专辑：SMILE! :D -->
   
 更多见：
 * [我的2024推荐 Spotify歌单](https://open.spotify.com/playlist/5hiJ6QO3ZvUTF4cQdbE1Xs?si=5973edf5e98947c4)

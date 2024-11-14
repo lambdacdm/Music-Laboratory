@@ -22,7 +22,7 @@
 * **NO.1** Otay:onii / [Loading](https://music.163.com/#/song?id=1433232435) / 专辑：NAG / 2018.5 / 风格：后工业 暗潮
 * **NO.2** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：艺术流行 新灵魂乐
 * **NO.3** 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10 / 风格：朋克舞曲
-* **NO.4** 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11
+* **NO.4** 万能青年旅店 / [大石碎胸口](http://music.163.com/song?id=386830&userid=477097094) / 专辑：万能青年旅店 同名专辑 / 2010.11 / 风格：前卫摇滚 艺术摇滚
 * **NO.5** 假假條 / [湘靈鼓瑟](https://music.163.com/#/song?id=411754531) / 专辑：時代在召喚 / 2016.5 / 风格：垃圾摇滚
 * **NO.6** 王若琳 / [Isn't It Exciting?](https://music.163.com/#/song?id=437608911) / 专辑：House of Bullies / 2016.11 / 风格：前卫流行 极客摇滚
 * **NO.7** 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9 / 风格：后朋克

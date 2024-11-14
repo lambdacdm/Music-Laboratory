@@ -2,11 +2,17 @@
 
 **点击[这里](https://lambdacdm.github.io/Music-Laboratory/)返回主页。**
 
-# 我个人最喜欢的华语音乐
+# 2020年代华语音乐推荐
+（以下按个人喜好程度排序，**纯主观**）
 
-**下述排名完全按照主观喜好排名。**
+* **NO.1** 王若琳 / [There She Smiles (In a Memory)](https://music.163.com/#/song?id=2149457789) / 专辑：Hotel La Rut / 2024.5 / 风格：前卫流行 极客摇滚
+* **NO.2** 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12 / 风格：前卫摇滚 艺术摇滚
+* **NO.3** 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12 / 风格：梦幻流行
+* **NO.4** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚
+* **NO.5** 八仙 8Immortals / [吞吐](https://music.163.com/#/song?id=1811283484) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1 / 风格：梦幻流行 新迷幻
+* **NO.6** DOUDOU / [最终观测](https://music.163.com/#/song?id=2093895545) / 单曲：最终观测 / 2023.10 / 风格：前卫流行
 
-下述发行时间以豆瓣音乐为准。歌曲的风格界定参考rate your music. 
+<!-- * 下述发行时间以豆瓣音乐为准。歌曲的风格界定参考rate your music. 
 
 * **NO.1 (主流 NO.1)** 王若琳 / [There She Smiles (In a Memory)](https://music.163.com/#/song?id=2149457789) / 专辑：Hotel La Rut / 2024.5 / 风格：艺术流行
 * **NO.2 (独立 NO.1)** Otay:onii / [Loading](https://music.163.com/#/song?id=1433232435) / 专辑：NAG / 2018.5 / 风格：后工业 暗潮
@@ -28,8 +34,8 @@
 * **独立 NO.14** 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6 / 风格：前卫摇滚
 * **独立 NO.15** 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10 / 风格：融合爵士 前卫摇滚
   
-<!-- **独立 NO.15** 野外合作社 / [诚实假日酒店](http://music.163.com/song?id=565890722&userid=477097094) / 专辑：台风 / 2018.5 / 风格：前卫摇滚
-**NO.15** Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9 / 风格：情绪摇滚 -->
+* **独立 NO.15** 野外合作社 / [诚实假日酒店](http://music.163.com/song?id=565890722&userid=477097094) / 专辑：台风 / 2018.5 / 风格：前卫摇滚
+**NO.15** Chinese Football / [红牌罚下](http://music.163.com/song?id=35678545&userid=477097094) / 专辑：Chinese Football / 2015.9 / 风格：情绪摇滚
 
 ### 主流音乐
 * **主流 NO.3** 巴奈 / [总要](http://music.163.com/song?id=1495838813&userid=477097094) / 专辑：爱，不到 / 2020.11 / 风格：拉丁爵士
@@ -46,8 +52,8 @@
 * **主流 NO.14** 窦靖童 / [My Days](https://music.163.com/#/song?id=410628900) / 专辑：Stone Café / 2016.4 / 风格：独立流行
 * **主流 NO.15** 祁紫檀 / [比海更深](http://music.163.com/song?id=1457750081&userid=477097094) / 专辑：爱之颤 / 2020.7 / 风格：梦幻流行
 
-<!-- * **主流 NO.15** 郭顶 / [凄美地](http://music.163.com/song?id=436346833&userid=477097094) / 专辑：飞行器的执行周期 / 2016.11 / 风格：另类摇滚 --> 
-<!-- **NO.14** 孙盛希 / [红苹果](http://music.163.com/song?id=1323302841&userid=477097094) / 专辑：希游记 / 2018.10 / 风格：放克 另类摇滚
+* **主流 NO.15** 郭顶 / [凄美地](http://music.163.com/song?id=436346833&userid=477097094) / 专辑：飞行器的执行周期 / 2016.11 / 风格：另类摇滚 
+* **NO.14** 孙盛希 / [红苹果](http://music.163.com/song?id=1323302841&userid=477097094) / 专辑：希游记 / 2018.10 / 风格：放克 另类摇滚
 * **NO.16** YELLOW黄宣 / [ROSE WAYNE](http://music.163.com/song?id=1485891496&userid=477097094) / 专辑：浮世击 / 2020.10 / 风格：融合爵士
 * **NO.12** 艾怡良 / [夜晚出生的小孩](http://music.163.com/song?id=1334667449&userid=477097094) / 专辑：垂直活着，水平留恋着 / 2018.12 / 风格：流行
 * **NO.14** 王菲 / [光之翼](http://music.163.com/song?id=299508&userid=477097094) / 专辑：王菲 / 2001.10 / 风格：另类摇滚 
@@ -68,6 +74,7 @@
 * Ὁπλίτης / [Παραδειγματιζομένη μουσική](https://music.163.com/#/song?id=2117200293) / 专辑：Παραμαινομένη / 2024.1
 
 ### 主流音乐
+* 曾轶可 / 你的温柔 Your Tenderness / 专辑：Arrogance / 2024.11
 * 方大同 / [XZMHXDXH](https://music.163.com/#/song?id=2635129374) / 专辑：梦想家 The Dreamer / 2024.10
 * 窦靖童 / 太陽升起 / 专辑：空中飛人 / 2024.9
 * YELLOW黃宣 / [Ghost Swing](https://music.163.com/#/song?id=2622054383) / 单曲：Ghost Swing / 2024.9
@@ -153,7 +160,7 @@
 * 祁紫檀 / [生命从无法被概括](http://music.163.com/song?id=1821481546&userid=477097094) / 单曲：生命从无法被概括 / 2021.3
 * Otay:onii / [Blackheart Breakables](https://music.163.com/#/song?id=1836809946) / 专辑：冥冥 / 2021.2
 * 福禄寿FloruitShow / [超度我](http://music.163.com/song?id=1818820552&userid=477097094) / 专辑：我用什么把你留住 / 2021.2
-* 八仙饭店 / [青少年哪吒 (Neon God)](https://music.163.com/#/song?id=1811506614) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1
+* 八仙 8Immortals / [吞吐](https://music.163.com/#/song?id=1811283484) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1
 * 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1
 
 ### 主流音乐

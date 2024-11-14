@@ -16,6 +16,17 @@
 * **NO.9** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚
 * **NO.10** LÜCY / [isahini](http://music.163.com/song?id=1954146692&userid=477097094) / 专辑：LÜCY / 2022.6 / 风格：独立流行
 
+# 2010年代华语音乐个人榜单
+* **NO.1** Otay:onii / [Loading](https://music.163.com/#/song?id=1433232435) / 专辑：NAG / 2018.5 / 风格：后工业 暗潮
+* **NO.2** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：艺术流行 新灵魂乐
+* **NO.3** 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10 / 风格：朋克舞曲
+* **NO.4** 假假條 / [湘靈鼓瑟](https://music.163.com/#/song?id=411754531) / 专辑：時代在召喚 / 2016.5 / 风格：垃圾摇滚
+* **NO.5** 王若琳 / [Isn't It Exciting?](https://music.163.com/#/song?id=437608911) / 专辑：House of Bullies / 2016.11 / 风格：前卫流行 极客摇滚
+* **NO.6** 重塑雕像的权利 / Red Rum Aviv / 专辑：Before the Applause / 2017.9 / 风格：后朋克
+* **NO.7** 苏打绿 / 痛快的哀艳 / 专辑：冬 未了 / 2015.11 / 风格：交响摇滚
+* **NO.8** 霍尊 / 卷珠帘 / 专辑：中国好歌曲 第一季 / 2014.1 / 风格：中国风
+* **NO.9** 苏紫旭&The Paramecia / [融解](http://music.163.com/song?id=507519914&userid=477097094) / 专辑：飞出迷楼 / 2017.10 / 风格：融合爵士 前卫摇滚
+* **NO.10** yourboyfriendsucks! / [波兰首都是上海](https://music.163.com/#/song?id=419596181) / 专辑：第一集 / 2016.5 / 风格：梦幻流行 童稚流行
 
 # 2024 华语音乐推荐
 ### 独立音乐

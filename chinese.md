@@ -11,12 +11,14 @@
 * **NO.4** 八仙 8Immortals / [吞吐](https://music.163.com/#/song?id=1811283484) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1 / 风格：梦幻流行 新迷幻
 * **NO.5** 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4 / 风格：艺术朋克
 * **NO.6** DOUDOU / [最终观测](https://music.163.com/#/song?id=2093895545) / 单曲：最终观测 / 2023.10 / 风格：前卫流行
-* **NO.7** Codie / [Mobius](http://music.163.com/song?id=1983259657&userid=477097094) / 专辑：相对性静止 / 2022.9 / 风格：盯鞋摇滚
-* **NO.8** 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6 / 风格：前卫摇滚
-* **NO.9** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚
-* **NO.10** LÜCY / [isahini](http://music.163.com/song?id=1954146692&userid=477097094) / 专辑：LÜCY / 2022.6 / 风格：独立流行
+* **NO.7** Otay:onii / [重叠](https://music.163.com/#/song?id=2024385028) / 专辑：夢之駭客 / 2023.2 / 风格：后工业 暗潮
+* **NO.8** Codie / [Mobius](http://music.163.com/song?id=1983259657&userid=477097094) / 专辑：相对性静止 / 2022.9 / 风格：盯鞋摇滚
+* **NO.9** 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6 / 风格：前卫摇滚
+* **NO.10** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚
 
 # 2010年代华语音乐个人榜单
+（以下按个人喜好程度排序，**纯主观**）
+
 * **NO.1** Otay:onii / [Loading](https://music.163.com/#/song?id=1433232435) / 专辑：NAG / 2018.5 / 风格：后工业 暗潮
 * **NO.2** 表情银行MimikBanka / [最初的欲望](http://music.163.com/song?id=33162862&userid=477097094) / 专辑：魔王 / 2015.7 / 风格：艺术流行 新灵魂乐
 * **NO.3** 后海大鲨鱼 / [Comxxpuda](http://music.163.com/song?id=357101&userid=477097094) / 专辑：浪潮 / 2010.10 / 风格：朋克舞曲

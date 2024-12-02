@@ -31,7 +31,9 @@
 
 # 我喜欢的艺人
 
-my bloody valentine, 王若琳, Magdalena Bay
+* 【乐队】：my bloody valentine
+* 【歌手】：王若琳
+* 【组合】：Magdalena Bay
 
 # 我喜欢的音乐风格
 

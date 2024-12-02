@@ -3,6 +3,10 @@
 * **华语音乐推荐歌单请见[这里](https://lambdacdm.github.io/Music-Laboratory/chinese)。**
 * **世界范围内的流行音乐推荐歌单请见[这里](https://lambdacdm.github.io/Music-Laboratory/world)。**
 
+更多推荐的音乐见：
+* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/) / [AOTY](https://www.albumoftheyear.org/ratings/user-highest-rated/all/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/all/filtered?view=detailed&sort=desc)
+* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
+
 # 我的音乐作品
 
 ## 专辑 费米悖论
@@ -25,26 +29,35 @@
 * **10** [来生III 庞加莱回归](https://music.163.com/dj?id=2065237607&userid=477097094) / 4:15 / 5 Feb 2020 / Cubase
 * **11** [outro 霓虹中再见](http://music.163.com/dj?id=2071162243&userid=477097094) / 0:27 / 23 Dec 2020 / Cubase
 
+# 我喜欢的艺人
+
+my bloody valentine, 王若琳, Magdalena Bay
+
+# 我喜欢的音乐风格
+
+我的兴趣集中于如下性质的音乐：
+* 【梦幻/迷幻】：dream pop（梦幻流行）, neo-psychedelic（新迷幻）
+* 【噪音/失真】：shoegaze（盯鞋摇滚）, noise pop（噪音流行）, slacker rock（懒人摇滚）
+* 【电子/合成器】：indietronica（独立电子）, synthwave（合成器浪潮）, synthpop（合成器流行）
+* 【另类/前卫】：alternative rock（另类摇滚）, progressive pop（前卫流行）
+* 【艺术性】：art pop（艺术流行）, art rock（艺术摇滚）
+
 # 我使用的音乐平台
 
 我使用如下音乐平台：
-* [Apple Music](https://music.apple.com/us/browse) 用于高保真听歌
-* [Spotify](https://open.spotify.com/) 用于探索新歌
+* [Spotify](https://open.spotify.com/) 用于听歌
 * [网易云音乐](https://music.163.com/) 用于发布个人音乐作品
-
-此外我使用如下平台：
 * [stats.fm](https://stats.fm/aodbn5sk0d56tefinucj47aqd) 用于记录听歌数据
-* [Soundiiz](https://soundiiz.com/) 用于不同平台间歌单转移与同步
 
-以下陈列着我不同时期的歌单。
+以下陈列着我不同时期的歌单（Spotify）。
 
-* 往事如歌M [[Spotify]](https://open.spotify.com/playlist/5sZC8kxpli9hMhscAUCvuB?si=41ad9e3d3f904e8a) / [[Apple]](https://music.apple.com/gb/playlist/%E5%BE%80%E4%BA%8B%E5%A6%82%E6%AD%8Cm/pl.u-pMyl15aUW1PW8YE) 16 Sep 2024 - Now
-* 往事如歌D [[Spotify]](https://open.spotify.com/playlist/6PoEN68oFKEpqZcAgg9ggA?si=e495f01cc2da4742) 22 Sep 2023 - 13 Sep 2024
-* 往事如歌S [[Spotify]](https://open.spotify.com/playlist/4PAxpABrtr7ZeTH4l0DbmY?si=3237d5ff80bc43af) 5 Aug 2023 - 16 Sep 2023
-* 往事如歌C [[Spotify]](https://open.spotify.com/playlist/3azceHF446Fm2m2xpO5CUV?si=65553880953a4b69) 4 Oct 2022 - 3 July 2023
-* 往事如歌N [[Spotify]](https://open.spotify.com/playlist/6HQz7ZDRt7CDl1a3HyYV8R?si=5f3462bd0e9d4864) 16 July 2017 - 3 Oct 2022
-* 往事如歌E [[Spotify]](https://open.spotify.com/playlist/1k5YNvapQ5NnpKltlMEAWw?si=521c4fa5cd0d47dc) 19 Sep 2021 - 19 Jun 2022
-* 往事如歌Q [[Spotify]](https://open.spotify.com/playlist/07IPyNH1Hpwvg6zooYIcQ1?si=5a72d8a84d734638) 6 Jun 2014 - 11 Sep 2021
+* [往事如歌M](https://open.spotify.com/playlist/5sZC8kxpli9hMhscAUCvuB?si=41ad9e3d3f904e8a) 16 Sep 2024 - Now
+* [往事如歌D](https://open.spotify.com/playlist/6PoEN68oFKEpqZcAgg9ggA?si=e495f01cc2da4742) 22 Sep 2023 - 13 Sep 2024
+* [往事如歌S](https://open.spotify.com/playlist/4PAxpABrtr7ZeTH4l0DbmY?si=3237d5ff80bc43af) 5 Aug 2023 - 16 Sep 2023
+* [往事如歌C](https://open.spotify.com/playlist/3azceHF446Fm2m2xpO5CUV?si=65553880953a4b69) 4 Oct 2022 - 3 July 2023
+* [往事如歌N](https://open.spotify.com/playlist/6HQz7ZDRt7CDl1a3HyYV8R?si=5f3462bd0e9d4864) 16 July 2017 - 3 Oct 2022
+* [往事如歌E](https://open.spotify.com/playlist/1k5YNvapQ5NnpKltlMEAWw?si=521c4fa5cd0d47dc) 19 Sep 2021 - 19 Jun 2022
+* [往事如歌Q](https://open.spotify.com/playlist/07IPyNH1Hpwvg6zooYIcQ1?si=5a72d8a84d734638) 6 Jun 2014 - 11 Sep 2021
 
 更多歌单参见我的[Spotify主页](https://open.spotify.com/user/aodbn5sk0d56tefinucj47aqd?si=42f7a0be73a44f54)。
 
@@ -54,19 +67,6 @@
 * [SoundCloud](https://soundcloud.com/discover)
 * [Amazon Music](https://music.amazon.co.uk/)
 * [QQ音乐](https://y.qq.com/)
-
-# 我喜欢的音乐风格
-
-我的兴趣集中于如下性质的音乐：
-* 【梦幻/迷幻】：dream pop（梦幻流行）, neo-psychedelic（新迷幻）
-* 【噪音/失真】：shoegaze（盯鞋摇滚）, noise pop（噪音流行）, slacker rock（懒人摇滚）
-* 【合成器】：synthwave（合成器浪潮）, synthpop（合成器流行）
-* 【独立气质】：alternative rock（另类摇滚）
-* 【旋律性】：chamber pop（室内流行）, art pop（艺术流行）
-
-更多见：
-* Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/) / [AOTY](https://www.albumoftheyear.org/ratings/user-highest-rated/all/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/all/filtered?view=detailed&sort=desc)
-* Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/all-time/)
 
 # 我使用的耳机
 正在使用的耳机：

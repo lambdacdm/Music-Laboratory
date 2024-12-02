@@ -43,7 +43,7 @@ my bloody valentine, 王若琳, Magdalena Bay
 * 【噪音/失真】：shoegaze（盯鞋摇滚）, noise pop（噪音流行）, slacker rock（懒人摇滚）
 * 【电子/合成器】：indietronica（独立电子）, synthwave（合成器浪潮）, synthpop（合成器流行）
 * 【另类/前卫】：alternative rock（另类摇滚）, progressive pop（前卫流行）
-* 【艺术性】：art pop（艺术流行）, art rock（艺术摇滚）
+* 【艺术气质】：art pop（艺术流行）, art rock（艺术摇滚）
 
 # 我使用的音乐平台
 

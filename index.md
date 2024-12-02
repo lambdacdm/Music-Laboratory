@@ -35,7 +35,10 @@ my bloody valentine, 王若琳, Magdalena Bay
 
 # 我喜欢的音乐风格
 
-我的兴趣集中于如下性质的音乐：
+笼统而言，我的兴趣集中于摇滚、流行、电子。
+
+具体而言，我的兴趣集中于如下性质的音乐：
+
 * 【梦幻/迷幻】：dream pop（梦幻流行）, neo-psychedelic（新迷幻）
 * 【噪音/失真】：shoegaze（盯鞋摇滚）, noise pop（噪音流行）, slacker rock（懒人摇滚）
 * 【电子/合成器】：indietronica（独立电子）, synthwave（合成器浪潮）, synthpop（合成器流行）

@@ -49,7 +49,7 @@ my bloody valentine, 王若琳, Magdalena Bay
 * [网易云音乐](https://music.163.com/) 用于发布个人音乐作品
 * [stats.fm](https://stats.fm/aodbn5sk0d56tefinucj47aqd) 用于记录听歌数据
 
-以下陈列着我不同时期的歌单（Spotify）。
+以下陈列着我不同时期的歌单(Spotify):
 
 * [往事如歌M](https://open.spotify.com/playlist/5sZC8kxpli9hMhscAUCvuB?si=41ad9e3d3f904e8a) 16 Sep 2024 - Now
 * [往事如歌D](https://open.spotify.com/playlist/6PoEN68oFKEpqZcAgg9ggA?si=e495f01cc2da4742) 22 Sep 2023 - 13 Sep 2024

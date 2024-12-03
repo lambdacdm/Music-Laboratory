@@ -2,23 +2,29 @@
 
 # 头戴式有线监听/高保真耳机推荐
 
+（以下推荐基于 RTINGS.COM 评分）
+
 ## 开放式耳机
 
 ### 低端
 * 【Philips】 SHP9500, SHP9600
 * 【HiFiMAN】 HE400se
 
-### 中端
-* 【Sennheiser】 HD 560S
+### 中低端
+* 【Sennheiser】 HD 560S, HD 6XX
 * 【AKG】 K702, Q701
 * 【beyerdynamic】 DT 990 PRO
 * 【HiFiMAN】 SUNDARA
 * 【Philips】 Fidelio X2HR
 * 【Audio-Technica】 R70x
 
+### 中高端
+* 【Sennheiser】 HD 490 PRO
+* 【HiFiMAN】 Edition XS, ANANDA
+
 ### 高端
-* 【Sennheiser】 HD 800 S, HD 490 PRO
-* 【HiFiMAN】 Edition XS, Arya, ANANDA
+* 【HiFiMAN】 Arya
+* 【Sennheiser】 HD 800 S
 
 ## 半开放式耳机
 
@@ -26,7 +32,7 @@
 * 【Superlux】 HD 681, HD 668B, HD 681 EVO
 * 【AKG】 K240 MKII
 
-### 中端
+### 中低端
 * 【beyerdynamic】 DT 880
 
 ### 高端
@@ -35,15 +41,16 @@
 ## 封闭式耳机
 
 ### 低端
-* 【Audio-Technica】 M20x
 * 【Sony】 MDR-7506
+* 【Shure】 SRH 440
+* 【Audio-Technica】 M20x
 
-### 中端
+### 中低端
 * 【AKG】 K371
 * 【Audio-Technica】 M50x
 * 【beyerdynamic】 DT 700 PRO X, DT 770 PRO
 
-### 高端
+### 中高端
 * 【beyerdynamic】 DT 1770 PRO
 
 

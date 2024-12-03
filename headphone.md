@@ -58,8 +58,10 @@
 ## 测评网站
 * [RTINGS.COM](https://www.rtings.com/headphones/)
 * [Sonarworks Blog](https://www.sonarworks.com/blog)
-* [Audio Science Review (ASR) Forum](https://www.audiosciencereview.com/forum/index.php)
+* [Audio Science Review (ASR) Forum](https://www.audiosciencereview.com/forum/index.php?pages/Reviews/)
 * [Woodenears吾等益耳](https://www.woodenears.com/)
+* [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/headphones/recommended-ones/)
+* [AutoEq Headphone Ranking](https://github.com/jaakkopasanen/AutoEq/blob/master/results/RANKING.md)
 
 ## 查看艺人使用的耳机
 * [Equipboard](https://equipboard.com/)

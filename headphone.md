@@ -11,7 +11,7 @@
 * 【HiFiMAN】 HE400se
 
 ### 中低端
-* 【Sennheiser】 HD 560S, HD 6XX
+* 【Sennheiser】 **HD 560S**, HD 6XX
 * 【AKG】 K702, Q701
 * 【beyerdynamic】 DT 990 PRO
 * 【HiFiMAN】 SUNDARA
@@ -19,7 +19,7 @@
 * 【Audio-Technica】 R70x
 
 ### 中高端
-* 【Sennheiser】 HD 490 PRO
+* 【Sennheiser】 **HD 490 PRO**
 * 【HiFiMAN】 Edition XS, ANANDA
 
 ### 高端
@@ -46,7 +46,7 @@
 * 【Audio-Technica】 M20x
 
 ### 中低端
-* 【AKG】 K371
+* 【AKG】 **K371**
 * 【Audio-Technica】 M50x
 * 【beyerdynamic】 DT 700 PRO X, DT 770 PRO
 

@@ -78,6 +78,7 @@
 * Sennheiser HD 490 PRO / Nov 2024 - now / 017333
 * AKG Q701 / Nov 2024 - now / 104450
 * AKG K240 Studio / Sep 2024 - now
+* Fiio FT1 / Dec 2024 - now
 
 曾使用的耳机：
 * Sennheiser HD 560S / Sep 2024 - Oct 2024

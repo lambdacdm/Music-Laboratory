@@ -75,6 +75,9 @@
 查看各型号耳机的频响曲线，以及如何调节EQ到哈曼目标曲线：
 
 * [AutoEq](https://autoeq.app/)
+* [Squiglink](https://squig.link/)
+
+（Squiglink的频响数据可以下载，然后导入到AutoEq）
 
 ## 校正工具（均衡器）
 * HP Audio Control的AUDIO PLAYBACK TOOLS内置10-Band Equalizer

@@ -4,10 +4,10 @@
 * **世界范围内的流行音乐推荐歌单请见[这里](https://lambdacdm.github.io/Music-Laboratory/world)。**
 
 各年代我心目中最喜欢的专辑：
-* 90年代：my bloody valentine《[loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb?si=cQ019mtOQPKwN6feXGIMZw)》, Radiohead《[OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE?si=Md56nlCVQCSHQMeHqMSZ9Q)》
-* 00年代：Sweet Trip《[Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2?si=v32MocRlStygCIuXrktNDA)》, Radiohead《[Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7?si=38ZC8N_4Tt2iPR7JA51CdA)》
-* 10年代：Grimes《[Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F?si=PJUt6-4xRPewlpF3VSAl0A)》, Weyes Blood《[Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk?si=rUivLJ87QjO-g3twP-aj8g)》
-* 20年代：王若琳《[Hotel La Rut](https://open.spotify.com/album/4KwldT3zrx1PGvblleu7wp?si=19a51ue7TgGnhJRCaCjz_A)》, Magdalena Bay《[Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF?si=Kv7h3-VSQvS0cb4V8OLABg)》
+* 【90年代】：my bloody valentine《[loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb?si=cQ019mtOQPKwN6feXGIMZw)》, Radiohead《[OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE?si=Md56nlCVQCSHQMeHqMSZ9Q)》
+* 【00年代】：Sweet Trip《[Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2?si=v32MocRlStygCIuXrktNDA)》, Radiohead《[Kid A](https://open.spotify.com/album/6GjwtEZcfenmOf6l18N7T7?si=38ZC8N_4Tt2iPR7JA51CdA)》
+* 【10年代】：Grimes《[Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F?si=PJUt6-4xRPewlpF3VSAl0A)》, Weyes Blood《[Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk?si=rUivLJ87QjO-g3twP-aj8g)》
+* 【20年代】：王若琳《[Hotel La Rut](https://open.spotify.com/album/4KwldT3zrx1PGvblleu7wp?si=19a51ue7TgGnhJRCaCjz_A)》, Magdalena Bay《[Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF?si=Kv7h3-VSQvS0cb4V8OLABg)》
 
 更多推荐的音乐见：
 * Top Albums: [RYM](https://rateyourmusic.com/charts/top/album/all-time/) / [AOTY](https://www.albumoftheyear.org/ratings/user-highest-rated/all/) / [Metacritic](https://www.metacritic.com/browse/albums/score/metascore/all/filtered?view=detailed&sort=desc)

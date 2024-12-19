@@ -88,6 +88,7 @@
 
 ## 2021
 * Bachelor, Jay Som, Palehound / [Stay in the Car](https://open.spotify.com/track/3zs0PDSk0CZJYNpYwzpw7P?si=bvHAkKHkQgCpccBcLHlGPg) / 专辑：Doomin' Sun
+* Black Country, New Road / [Opus](https://open.spotify.com/track/0tg48LaufDT970brtDd7Pg?si=3fd13e96bf244039) / 专辑：For the first time
 * La Femme / [Le sang de mon prochain](https://open.spotify.com/track/2UKt76lfD2SGturLfzRq1j?si=irA-pxNXRrGbCMJgD1QZJw&context=spotify%3Aalbum%3A1u2Q5MFWptOdPpldjC0xO9) / 专辑：Paradigmes
 * 김뜻돌 / [COBALT](https://open.spotify.com/track/27ji9P5NbrjDkkMIRHMnpI?si=dcc60febaea84c5e) / 专辑：COBALT
 * Otay:onii / [Blackheart Breakables](https://open.spotify.com/track/69TjZ9FbNRojWJVpAbnFz4?si=0a4620c77d4f4265) / 专辑：冥冥

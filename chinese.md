@@ -38,7 +38,7 @@
 * 王忆灵 / [你的武器是什么](https://music.163.com/#/song?id=2614659210) / 专辑：枯萎颂（Ode to Wither）/ 2024.8
 * DOUDOU / [可你听见了](https://music.163.com/#/song?id=2605274338) / 单曲：可你听见了 / 2024.7
 * 范筒 / [演技派](https://music.163.com/#/song?id=2604634955) / 专辑：上瘾须知 / 2024.7
-* 张醒婵 / [滤镜](https://music.163.com/#/song?id=2155443614) / 专辑：No，no！/ 2024.5
+* 张醒婵 / [从A到Z](https://music.163.com/#/song?id=2155451367) / 专辑：No，no！/ 2024.5
 * Yu Ching 黃雨晴 / [Confessions Of A Soul 靈魂的告白](https://music.163.com/#/song?id=2136005818) / 专辑：The Crystal Hum / 2024.4
 * Tartars / [Saw You in the Dream](https://music.163.com/#/song?id=2139935803) / 专辑：Scenes in Colors / 2024.3
 * Mola Oddity / [果酱日Marmalade Day](https://music.163.com/#/song?id=2135146702) / 专辑：The Other Side of Hope / 2024.3

@@ -58,7 +58,7 @@
 我使用如下音乐平台：
 * [Spotify](https://open.spotify.com/) 用于听歌
 * [网易云音乐](https://music.163.com/) 用于发布个人音乐作品
-* [stats.fm](https://stats.fm/aodbn5sk0d56tefinucj47aqd) 用于记录听歌数据
+* [stats.fm](https://stats.fm/lxqd2021) 用于记录听歌数据
 
 以下陈列着我不同时期的歌单(Spotify):
 
@@ -100,7 +100,7 @@
 
 ## Spotify
 * 我的Spotify主页 [lxqd2021](https://open.spotify.com/user/aodbn5sk0d56tefinucj47aqd?si=42f7a0be73a44f54)
-* 我的Spotify[听歌数据统计](https://stats.fm/aodbn5sk0d56tefinucj47aqd)
+* 我的Spotify[听歌数据统计](https://stats.fm/lxqd2021)
 
 ## Rate Your Music
 * 我的Rate Your Music主页 [lxqd2021](https://rateyourmusic.com/~lxqd2021)

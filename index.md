@@ -79,7 +79,7 @@
 * [Amazon Music](https://music.amazon.co.uk/)
 * [QQ音乐](https://y.qq.com/)
 
-# 我的桌面监听系统
+# 我的桌面听音系统
 
 ### 耳机
 * 开放式：Sennheiser HD 490 PRO (017333) / AKG Q701 (104450)

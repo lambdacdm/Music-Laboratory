@@ -79,18 +79,20 @@
 * [Amazon Music](https://music.amazon.co.uk/)
 * [QQ音乐](https://y.qq.com/)
 
-# 我使用的耳机
-正在使用的耳机：
-* Sennheiser HD 490 PRO / Nov 2024 - now / 017333
-* AKG Q701 / Nov 2024 - now / 104450
-* AKG K240 Studio / Sep 2024 - now
-* Fiio FT1 / Dec 2024 - now
+# 我的桌面监听系统
 
-曾使用的耳机：
-* Sennheiser HD 560S / Sep 2024 - Oct 2024
-* Sony MDRZX310 / Feb 2022 - Aug 2024
+### 耳机
+* 开放式：Sennheiser HD 490 PRO (017333) / AKG Q701 (104450)
+* 封闭式：Fiio FT1
 
 其他推荐的头戴式有线监听/高保真耳机见[这里](https://lambdacdm.github.io/Music-Laboratory/headphone)。
+
+### 音箱
+* IK Multimedia iLoud Micro Monitor
+
+### 数模转换与放大器
+* S.M.S.L RAW-MDA1
+
 
 # 联系我
 

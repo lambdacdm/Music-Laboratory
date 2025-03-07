@@ -62,7 +62,8 @@
 
 以下陈列着我不同时期的歌单(Spotify):
 
-* [往事如歌M](https://open.spotify.com/playlist/5sZC8kxpli9hMhscAUCvuB?si=41ad9e3d3f904e8a) 16 Sep 2024 - Now
+* [往事如歌L](https://open.spotify.com/playlist/181QVLjxEsIhOthprD9X63?si=ca741e283e1f43de) 26 Feb 2025 - Now
+* [往事如歌M](https://open.spotify.com/playlist/5sZC8kxpli9hMhscAUCvuB?si=41ad9e3d3f904e8a) 16 Sep 2024 - 25 Feb 2025
 * [往事如歌D](https://open.spotify.com/playlist/6PoEN68oFKEpqZcAgg9ggA?si=e495f01cc2da4742) 22 Sep 2023 - 13 Sep 2024
 * [往事如歌S](https://open.spotify.com/playlist/4PAxpABrtr7ZeTH4l0DbmY?si=3237d5ff80bc43af) 5 Aug 2023 - 16 Sep 2023
 * [往事如歌C](https://open.spotify.com/playlist/3azceHF446Fm2m2xpO5CUV?si=65553880953a4b69) 4 Oct 2022 - 3 July 2023

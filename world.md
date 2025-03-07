@@ -23,6 +23,14 @@
 * Top Songs: [RYM](https://rateyourmusic.com/charts/top/song/2020s/) / [Pitchfork](https://pitchfork.com/features/lists-and-guides/the-100-best-songs-of-the-2020s-so-far/)
 * Top Singles: [RYM](https://rateyourmusic.com/charts/top/single/2020s/) / [AOTY](https://www.albumoftheyear.org/ratings/users/singles/2020s/)
 
+## 2025
+* Oklou / [family and friends](https://open.spotify.com/track/2z1RDRMFL2Vy4AfXCxCGzQ?si=72bb3f1a48d7487b) / 专辑：choke enough
+* horsegiirL / [material hor$e](https://open.spotify.com/track/4OMRT2wSbKKZHRQjuJmV0q?si=472f32efcc604737) / 专辑：V.I.P. - Very Important Pony
+* FKA twigs / [Eusexua](https://open.spotify.com/track/64epDx3JBqZd9dpG9aiVpq?si=981ba9f3bcec40ff) / 专辑：EUSEXUA
+* Sharon Van Etten / [Live Forever](https://open.spotify.com/track/56D5iLqv8WVcQTvyL0N0ay?si=9fcd6c94245846c3) / 专辑：Sharon Van Etten & The Attachment Theory
+* 青葉市子 / [COLORATURA](https://open.spotify.com/track/5SCKeEcc8msC3pg2tNCc4A?si=cd216405020a4b1c) / 专辑：Luminescent Creatures
+* Saya Gray / [EXHAUST THE TOPIC](https://open.spotify.com/track/6mK1tNEFc23r92Aa663GRq?si=8770cb8668254282) / 专辑：SAYA
+
 ## 2024
 * 王若琳 / [There She Smiles (In a Memory)](https://open.spotify.com/track/3skGpSq2YA6RiLET89u9Hx?si=af8a650377b04c87) / 专辑：Hotel La Rut
 * Magdalena Bay / [Cry for Me](https://open.spotify.com/track/4rVs9KjC3YVA7v54kVSHUV?si=52de4d8082ed4404) / 专辑：Imaginal Disk

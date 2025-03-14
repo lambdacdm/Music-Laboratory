@@ -89,7 +89,7 @@
 其他推荐的头戴式有线监听/高保真耳机见[这里](https://lambdacdm.github.io/Music-Laboratory/headphone)。
 
 ### 音箱
-* IK Multimedia iLoud Micro Monitor
+* ADAM Audio D3V
 
 ### 数模转换与放大器
 * S.M.S.L RAW-MDA1

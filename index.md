@@ -84,7 +84,7 @@
 
 ### 耳机
 * 开放式：Sennheiser HD 490 PRO (017333) / AKG Q701 (104450)
-* 封闭式：Fiio FT1
+* 封闭式：Sony MDR-M1 / Fiio FT1
 
 其他推荐的头戴式有线监听/高保真耳机见[这里](https://lambdacdm.github.io/Music-Laboratory/headphone)。
 

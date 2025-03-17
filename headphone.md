@@ -1,57 +1,57 @@
 **点击[这里](https://lambdacdm.github.io/Music-Laboratory/)返回主页。**
 
-# 头戴式有线监听/高保真耳机推荐
+本文最近更新于 17 Mar 2025
 
-（以下推荐基于 RTINGS.COM 评分）
+# 头戴式有线监听/高保真耳机推荐
 
 ## 开放式耳机
 
-### 低端
-* 【Philips】 SHP9500, SHP9600
-* 【HiFiMAN】 HE400se
+### 几百元
+* 【Philips】 SHP9500
+* 【海菲曼】 HE400se
 
-### 中低端
-* 【Sennheiser】 **HD 560S**, HD 6XX
-* 【AKG】 K702, Q701
-* 【beyerdynamic】 DT 990 PRO
-* 【HiFiMAN】 SUNDARA
+### 千元左右
+* 【Sennheiser】 HD 560S
+* 【飞傲】 FT1 Pro 
 * 【Philips】 Fidelio X2HR
+* 【AKG】 K702
+
+### 两千元左右
+* 【beyerdynamic】 DT 900 PRO X
+* 【海菲曼】 Edition XS
+* 【Sennheiser】 HD 505, HD 600
 * 【Audio-Technica】 R70x
 
-### 中高端
-* 【Sennheiser】 **HD 490 PRO**
-* 【HiFiMAN】 Edition XS, ANANDA
+### 三千元左右
+* 【Sennheiser】 HD 490 PRO
+* 【Sony】 MDR-MV1
 
-### 高端
-* 【HiFiMAN】 Arya
-* 【Sennheiser】 HD 800 S
-
-## 半开放式耳机
-
-### 低端
-* 【Superlux】 HD 681, HD 668B, HD 681 EVO
-* 【AKG】 K240 MKII
-
-### 中低端
-* 【beyerdynamic】 DT 880
-
-### 高端
-* 【beyerdynamic】 T1
+### 四千元+
+* 【beyerdynamic】 DT 1990 PRO MKII
 
 ## 封闭式耳机
 
-### 低端
-* 【Sony】 MDR-7506
-* 【Shure】 SRH 440
-* 【Audio-Technica】 M20x
+### 几百元
+* 【声音记忆】 G50
+* 【兴戈】 EP5
 
-### 中低端
-* 【AKG】 **K371**
+### 千元左右
+* 【飞傲】 FT1
+* 【AKG】 K371
 * 【Audio-Technica】 M50x
-* 【beyerdynamic】 DT 700 PRO X, DT 770 PRO
+* 【Shure】 SRH840a
 
-### 中高端
-* 【beyerdynamic】 DT 1770 PRO
+### 两千元左右
+* 【绯乐】 Feature
+* 【Sony】 MDR-M1
+* 【Sennheiser】 HD 620S
+* 【beyerdynamic】 DT 700 PRO X
+
+### 三千元左右
+* 【TAGO STUDIO】 T3-01
+
+### 四千元+
+* 【beyerdynamic】 DT 1770 PRO MKII
 
 
 # 耳机测评、测试

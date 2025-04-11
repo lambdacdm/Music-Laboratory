@@ -8,13 +8,15 @@
 * **NO.1** 王若琳 / [There She Smiles (In a Memory)](https://music.163.com/#/song?id=2149457789) / 专辑：Hotel La Rut / 2024.5 / 风格：前卫流行 极客摇滚
 * **NO.2** 万能青年旅店 / [河北墨麒麟](http://music.163.com/song?id=1805290318&userid=477097094) / 专辑：冀西南林路行 / 2020.12 / 风格：前卫摇滚 艺术摇滚
 * **NO.3** 陈婧霏 / [消亡史](http://music.163.com/song?id=1804329295&userid=477097094) / 专辑：陈婧霏 / 2020.12 / 风格：梦幻流行
-* **NO.4** 八仙 8Immortals / [吞吐](https://music.163.com/#/song?id=1811283484) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1 / 风格：梦幻流行 新迷幻
-* **NO.5** 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4 / 风格：艺术朋克
-* **NO.6** DOUDOU / [最终观测](https://music.163.com/#/song?id=2093895545) / 单曲：最终观测 / 2023.10 / 风格：前卫流行
-* **NO.7** Otay:onii / [重叠](https://music.163.com/#/song?id=2024385028) / 专辑：夢之駭客 / 2023.2 / 风格：后工业 暗潮
-* **NO.8** Codie / [Mobius](http://music.163.com/song?id=1983259657&userid=477097094) / 专辑：相对性静止 / 2022.9 / 风格：盯鞋摇滚
-* **NO.9** 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6 / 风格：前卫摇滚
-* **NO.10** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚
+* **NO.4** DJ小女孩 / [为你修座坟](https://music.163.com/#/song?id=2651219789) / 专辑：节奏的奴隶 II / 2024.11 / 风格：电子浩室 陷阱音乐
+* **NO.5** 八仙 8Immortals / [吞吐](https://music.163.com/#/song?id=1811283484) / 专辑：极乐大厦揭幕 Inauguration of the Pleasure Dome / 2021.1 / 风格：梦幻流行 新迷幻
+* **NO.6** 脏手指Oh! Dirty Fingers / [Coke (我准备好了)](http://music.163.com/song?id=1837818277&userid=477097094) / 专辑：多米力高威威维利星 / 2021.4 / 风格：艺术朋克
+* **NO.7** DOUDOU / [最终观测](https://music.163.com/#/song?id=2093895545) / 单曲：最终观测 / 2023.10 / 风格：前卫流行
+* **NO.8** Otay:onii / [重叠](https://music.163.com/#/song?id=2024385028) / 专辑：夢之駭客 / 2023.2 / 风格：后工业 暗潮
+* **NO.9** Codie / [Mobius](http://music.163.com/song?id=1983259657&userid=477097094) / 专辑：相对性静止 / 2022.9 / 风格：盯鞋摇滚
+* **NO.10** 荒事乐队 / [太空牛仔](http://music.163.com/song?id=1452747403&userid=477097094) / 专辑：坏螺丝 / 2020.6 / 风格：前卫摇滚
+
+<!-- * **NO.10** 木推瓜 / [孔雀东南飞](http://music.163.com/song?id=1882420991&userid=477097094) / 专辑：孔雀 / 2021.1 / 风格：前卫摇滚 艺术摇滚 -->
 
 # 2010年代华语音乐个人榜单
 （以下按个人喜好程度排序，**纯主观**）
@@ -32,12 +34,12 @@
 
 # 2024 华语音乐推荐
 ### 独立音乐
+* DJ小女孩 / [为你修座坟](https://music.163.com/#/song?id=2651219789) / 专辑：节奏的奴隶 II / 2024.11
 * 华裔美国熊 / [Heartbreaker (伤心情歌)](https://music.163.com/#/song?id=2637423399) / 专辑：Wah!!! / 2024.10
 * Otay:onii / [You Do (acoustic)](https://music.163.com/#/song?id=2602538626) / 专辑：True Faith Ain't Blind / 2024.9
 * 想想XiangXiang / [波子汽水](https://music.163.com/#/song?id=2619449177) / 专辑：也就听个想 / 2024.9
 * 王忆灵 / [你的武器是什么](https://music.163.com/#/song?id=2614659210) / 专辑：枯萎颂（Ode to Wither）/ 2024.8
 * DOUDOU / [可你听见了](https://music.163.com/#/song?id=2605274338) / 单曲：可你听见了 / 2024.7
-* 范筒 / [演技派](https://music.163.com/#/song?id=2604634955) / 专辑：上瘾须知 / 2024.7
 * 张醒婵 / [从A到Z](https://music.163.com/#/song?id=2155451367) / 专辑：No，no！/ 2024.5
 * Yu Ching 黃雨晴 / [Confessions Of A Soul 靈魂的告白](https://music.163.com/#/song?id=2136005818) / 专辑：The Crystal Hum / 2024.4
 * Tartars / [Saw You in the Dream](https://music.163.com/#/song?id=2139935803) / 专辑：Scenes in Colors / 2024.3

@@ -263,6 +263,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 浩室 House [[RYM]](https://rateyourmusic.com/genre/house/)
 * 科技舞曲 Techno [[RYM]](https://rateyourmusic.com/genre/techno/)
 * 出神音乐 Trance [[RYM]](https://rateyourmusic.com/genre/trance/)
+* 鼓打贝斯 Drum and Bass [[RYM]](https://rateyourmusic.com/genre/drum-and-bass/)
 * 贝斯音乐类
   * 英国贝斯 UK Bass [[RYM]](https://rateyourmusic.com/genre/uk-bass/)
   * 未来贝斯 Future Bass [[RYM]](https://rateyourmusic.com/genre/future-bass/)

@@ -178,7 +178,7 @@
 
 RYM：[Music Genres](https://rateyourmusic.com/genres/)
 
-## 摇滚与朋克大类 (Rock, Punk)
+## 🟧 摇滚与朋克大类 (Rock, Punk)
 
 ### 主要门类
 * 迷幻摇滚 Psychedelic Rock [[RYM]](https://rateyourmusic.com/genre/psychedelic-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/3OYHKZXNd2bUDsppioJZfH?si=a4fe7eb71e2c44b9)
@@ -218,7 +218,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 布鲁斯摇滚 Blues Rock （属于摇滚∩布鲁斯） [[RYM]](https://rateyourmusic.com/genre/blues-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/626ZIxIXgTOjqkjX7Unbtz?si=3c5ace3365414883)
 * 工业摇滚 Industrial Rock （属于摇滚∩实验） [[RYM]](https://rateyourmusic.com/genre/industrial-rock/)
 
-## 流行大类 (Pop)
+## 🟩 流行大类 (Pop)
 
 ### 主要门类
 * 独立流行 Indie Pop [[RYM]](https://rateyourmusic.com/genre/indie-pop/)
@@ -250,7 +250,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 ### 与嘻哈融合
 * 旋律说唱 Pop Rap （属于嘻哈∩流行） [[RYM]](https://rateyourmusic.com/genre/pop-rap/) / [[Spotify歌单]](https://open.spotify.com/playlist/5x3V4XhBCNuFE3m2XIyemn?si=dc422d27944d4997)
 
-## 电子大类 (Electronic)
+## 🟪 电子大类 (Electronic)
 
 ### 电子流行
 * 电子流行 Electropop （属于电子∩流行） [[RYM]](https://rateyourmusic.com/genre/electropop/)
@@ -284,7 +284,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 后工业 Post-Industrial （属于电子∩实验） [[RYM]](https://rateyourmusic.com/genre/post-industrial/)
   * 电子人体音乐 EBM （属于电子∩实验） [[RYM]](https://rateyourmusic.com/genre/ebm/)
 
-## 爵士大类 (Jazz)
+## 🧊 爵士大类 (Jazz)
 
 ### 主要门类
 * 拉丁爵士 Latin Jazz [[RYM]](https://rateyourmusic.com/genre/latin-jazz/) / [[Spotify歌单]](https://open.spotify.com/playlist/23ZzEDMUXojfRCCujdEEmT?si=ab6f7f1ecda64256)
@@ -301,7 +301,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 爵士说唱 Jazz Rap （属于嘻哈∩爵士）[[RYM]](https://rateyourmusic.com/genre/jazz-rap/)
 * 先锋爵士 Avant-Garde Jazz （属于爵士∩先锋） [[RYM]](https://rateyourmusic.com/genre/avant-garde-jazz/)
 
-## 根源音乐大类（Folk, Blues, Country)
+## 🟨 根源音乐大类（Folk, Blues, Country)
 * 当代民谣 Contemporary Folk [[RYM]](https://rateyourmusic.com/genre/contemporary-folk/) / [[Spotify歌单]](https://open.spotify.com/playlist/6YddB6ttCctYlwSM48XbF8?si=545c30de21984338)
 * 独立民谣 Indie Folk [[RYM]](https://rateyourmusic.com/genre/indie-folk/)
 * 创作歌手 Singer-Songwriter [[RYM]](https://rateyourmusic.com/genre/singer-songwriter/)
@@ -309,7 +309,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 布鲁斯摇滚 Blues Rock （属于摇滚∩布鲁斯） [[RYM]](https://rateyourmusic.com/genre/blues-rock/) / [[Spotify歌单]](https://open.spotify.com/playlist/626ZIxIXgTOjqkjX7Unbtz?si=3c5ace3365414883)
 * 当代乡村 Contemporary Country [[RYM]](https://rateyourmusic.com/genre/contemporary-country/) / [[Spotify歌单]](https://open.spotify.com/playlist/4eGzjQvAGfsN3psQ8HGohs?si=3cb4f4968d65483e)
 
-## 节奏布鲁斯大类（R&B, Soul, Funk, Reggae, Disco)
+## 🟦 节奏布鲁斯大类（R&B, Soul, Funk, Reggae, Disco)
 * 当代节奏布鲁斯 Contemporary R&B [[RYM]](https://rateyourmusic.com/genre/contemporary-randb/) / [[Spotify歌单]](https://open.spotify.com/playlist/2CCgTcri9CF6NjFxx9g0jN?si=9641fa2aa3b34acc)
 * 另类节奏布鲁斯 Alternative R&B [[RYM]](https://rateyourmusic.com/genre/alternative-randb/)
 * 灵魂乐 Soul [[RYM]](https://rateyourmusic.com/genre/soul/) / [[Spotify歌单]](https://open.spotify.com/playlist/6MTZrnGE0rjCI9JiIX5zML?si=4ee9229ba0964c40)
@@ -318,7 +318,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 雷鬼 Reggae [[RYM]](https://rateyourmusic.com/genre/reggae/)
 * 迪斯科 Disco （属于电子∩R&B大类） [[RYM]](https://rateyourmusic.com/genre/disco/) / [[Spotify歌单]](https://open.spotify.com/playlist/0BaTBgYOhYOF2RaZCahCKg?si=106ae4e3eb264e80)
 
-## 金属大类 (Metal)
+## 🟠 金属大类 (Metal)
 * 重金属 Heavy Metal [[RYM]](https://rateyourmusic.com/genre/heavy-metal/) / [[Spotify歌单]](https://open.spotify.com/playlist/7aO7tFh6Km0MGWFdnwIHpf?si=0123642856b04807)
 * 另类金属 Alternative Metal [[RYM]](https://rateyourmusic.com/genre/alternative-metal/)
   * 新金属 Nu Metal [[RYM]](https://rateyourmusic.com/genre/nu-metal/)
@@ -330,7 +330,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 泥浆金属 Sludge Metal [[RYM]](https://rateyourmusic.com/genre/sludge-metal/)
 * 金属核 Metalcore [[RYM]](https://rateyourmusic.com/genre/metalcore/)
   
-## 嘻哈大类 (Hip hop)
+## 🟥 嘻哈大类 (Hip hop)
 
 ### 主要门类
 * 旋律说唱 Pop Rap （属于嘻哈∩流行） [[RYM]](https://rateyourmusic.com/genre/pop-rap/) / [[Spotify歌单]](https://open.spotify.com/playlist/5x3V4XhBCNuFE3m2XIyemn?si=dc422d27944d4997)
@@ -344,11 +344,11 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 西海岸嘻哈 West Coast Hip Hop [[RYM]](https://rateyourmusic.com/genre/west-coast-hip-hop/)
 * 东海岸嘻哈 East Coast Hip Hop [[RYM]](https://rateyourmusic.com/genre/east-coast-hip-hop/)
 
-## 轻音乐大类 (Easy listening)
+## ⬜ 轻音乐大类 (Easy listening)
 * 氛围音乐 Ambient （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/ambient/) / [[Pitchfork (Spotify歌单)]](https://open.spotify.com/playlist/6d9up0zVwVr0KD76j2Fr42?si=9f06dee55cc045f8)
 * 新世纪音乐 New Age （属于轻音乐∩电子） [[RYM]](https://rateyourmusic.com/genre/new-age/) / [[Spotify歌单]](https://open.spotify.com/playlist/0PDhmvNy00u3bpWkaPzkYY?si=d8e56020ea67441d)
 
-## 先锋实验大类 (Avant-garde, Experimental)
+## ⬛ 先锋实验大类 (Avant-garde, Experimental)
 
 ### 先锋类
 * 先锋爵士 Avant-Garde Jazz （属于爵士∩先锋） [[RYM]](https://rateyourmusic.com/genre/avant-garde-jazz/)

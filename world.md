@@ -318,7 +318,7 @@ RYM：[Music Genres](https://rateyourmusic.com/genres/)
 * 雷鬼 Reggae [[RYM]](https://rateyourmusic.com/genre/reggae/)
 * 迪斯科 Disco （属于电子∩R&B大类） [[RYM]](https://rateyourmusic.com/genre/disco/) / [[Spotify歌单]](https://open.spotify.com/playlist/0BaTBgYOhYOF2RaZCahCKg?si=106ae4e3eb264e80)
 
-## 🟠 金属大类 (Metal)
+## 🟧 金属大类 (Metal)
 * 重金属 Heavy Metal [[RYM]](https://rateyourmusic.com/genre/heavy-metal/) / [[Spotify歌单]](https://open.spotify.com/playlist/7aO7tFh6Km0MGWFdnwIHpf?si=0123642856b04807)
 * 另类金属 Alternative Metal [[RYM]](https://rateyourmusic.com/genre/alternative-metal/)
   * 新金属 Nu Metal [[RYM]](https://rateyourmusic.com/genre/nu-metal/)

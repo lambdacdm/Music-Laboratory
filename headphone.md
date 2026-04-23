@@ -37,17 +37,19 @@
 
 ### 千元左右
 * 【飞傲】 FT1
+* 【beyerdynamic】 DT 270 PRO
 * 【AKG】 K371
 * 【Audio-Technica】 M50x
 * 【Shure】 SRH840a
 
 ### 两千元左右
-* 【绯乐】 Feature
 * 【Sony】 MDR-M1
-* 【Sennheiser】 HD 620S
+* 【绯乐】 Feature
 * 【beyerdynamic】 DT 700 PRO X
+* 【Sennheiser】 HD 620S
 
 ### 三千元左右
+* 【Sennheiser】 HD 480 PRO
 * 【TAGO STUDIO】 T3-01
 
 ### 四千元+

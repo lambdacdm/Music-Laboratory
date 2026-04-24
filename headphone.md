@@ -7,18 +7,19 @@
 ## 开放式耳机
 
 ### 几百元
-* 【Philips】 SHP9500
 * 【海菲曼】 HE400se
+* 【Philips】 SHP9500
 
 ### 千元左右
 * 【Sennheiser】 HD 560S
+* 【海菲曼】 Edition XS
 * 【飞傲】 FT1 Pro 
 * 【Philips】 Fidelio X2HR
 * 【AKG】 K702
 
 ### 两千元左右
+* 【水月雨】 PARA 2
 * 【beyerdynamic】 DT 900 PRO X
-* 【海菲曼】 Edition XS
 * 【Sennheiser】 HD 505, HD 600
 * 【Audio-Technica】 R70x
 

@@ -94,6 +94,11 @@
 ### 数模转换与放大器
 * S.M.S.L RAW-MDA1
 
+### （乱入）显示器
+* XG27AQWMG
+
+关于显示器的方方面面见[这里](https://lambdacdm.github.io/Music-Laboratory/monitor)
+
 
 # 联系我
 

@@ -46,9 +46,9 @@ Windows中开启HDR模式时，SDR内容的显示遵循分段sRGB曲线，而非
 解决方案：我们需要让在SDR和HDR模式下的颜色显示尽可能统一。有两种方案：
 * 【方案1：追求SDR和HDR都准确】HDR模式本来就是准确的，因此只需调整SDR模式。在SDR模式下，要么开启Windows自动颜色管理，方法是通过设置中的【系统->屏幕->颜色管理->自动管理应用的颜色】；要么在显示器端设置色域为sRGB色域。注意，不要两者都做，只能选一种做。
 * 【方案2：追求SDR和HDR都过饱和】SDR模式本来就是过饱和的，因此只需调整HDR模式。方法是在HDR下调节饱和度。但要注意，以下方法不仅会影响HDR模式下SDR内容的饱和度，也会同时影响HDR内容的饱和度，会造成HDR内容颜色不准确（但既然你选择了这个方案，可能你本来就连HDR内容都想要过饱和，这可能也是你的目的之一）。
-  * 调节全局饱和度：显示器端调节饱和度；或者在Windows HDR校准的最后一步拉高饱和度；或者在Nvidia App中的【系统->颜色】里调节饱和度；或者使用Nvidia滤镜RTX 动态亮丽。
+  * 调节全局饱和度：显示器端调节饱和度；或者在Windows HDR校准的最后一步拉高饱和度；或者在Nvidia App中的【系统->颜色】里调节饱和度。
   * 调节视频(HDR内容)饱和度：在开启RTX HDR看视频时，在Nvidia App中的【系统->视频->RTX视频增强->HDR】里可以调节饱和度。
-  * 调节游戏(HDR内容)饱和度：ReShade的很多插件都有饱和度选项。专门管控HDR下饱和度的ReShade插件是[ReshadeSimpleHDRShaders](https://github.com/MaxG2D/ReshadeSimpleHDRShaders)下的HDR Saturation，ReShade软件里就有。同时，我自己也写了一个模拟从sRGB扩展到P3色域颜色变化的ReShade插件：[Reshade-HDR-Simulate-Oversaturation](https://github.com/lambdacdm/Reshade-HDR-Simulate-Oversaturation)。这个插件的意义在于模拟了色域变换带来的过饱和的感觉（也就是我们SDR模式下经历的那种过饱和感），这与单纯拉高饱和度数值并不相同，因为色域扩展时每种颜色的饱和度提升程度是不同的。
+  * 调节游戏(HDR内容)饱和度：可以使用Nvidia滤镜RTX 动态亮丽。同时，ReShade的很多插件都有饱和度选项。专门管控HDR下饱和度的ReShade插件是[ReshadeSimpleHDRShaders](https://github.com/MaxG2D/ReshadeSimpleHDRShaders)下的HDR Saturation，ReShade软件里就有。同时，我自己也写了一个模拟从sRGB扩展到P3色域颜色变化的ReShade插件：[Reshade-HDR-Simulate-Oversaturation](https://github.com/lambdacdm/Reshade-HDR-Simulate-Oversaturation)。这个插件的意义在于模拟了色域变换带来的过饱和的感觉（也就是我们SDR模式下经历的那种过饱和感），这与单纯拉高饱和度数值并不相同，因为色域扩展时每种颜色的饱和度提升程度是不同的。
 
 ## 截图
 

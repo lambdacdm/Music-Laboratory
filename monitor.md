@@ -2,26 +2,21 @@
 
 # HDR
 
-## 教程
-
-* [(Reddit) PC HDR gaming starting guide.](https://www.reddit.com/r/OLED_Gaming/comments/1otlr5h/pc_hdr_gaming_starting_guide/)
-* [(Reddit) RTX HDR — Paper White, Gamma & Reference Settings](https://www.reddit.com/r/nvidia/comments/1b03yfg/rtx_hdr_paper_white_gamma_reference_settings/)
-* [(TFT Central) Here’s Why You Should Only Enable HDR Mode on Your PC When You Are Viewing HDR Content](https://tftcentral.co.uk/articles/heres-why-you-should-only-enable-hdr-mode-on-your-pc-when-you-are-viewing-hdr-content)
+总教程：[(Reddit) PC HDR gaming starting guide.](https://www.reddit.com/r/OLED_Gaming/comments/1otlr5h/pc_hdr_gaming_starting_guide/)
 
 ## Windows设置
 
-* 切换HDR/SDR快捷键：Win + Alt + B
-* Windows HDR 校准：[(Microsoft Store) Windows HDR Calibration](https://apps.microsoft.com/detail/9N7F2SM5D1LR?hl=zh-cn&gl=CN&ocid=pdpshare)
+推荐将系统升级到Windows 11以获得HDR的最佳体验。
 
-Windows HDR校准的前两步是校准峰值亮度，第三步是黑位（最低亮度），最后一步是饱和度。
+切换HDR/SDR模式的快捷键是 Win + Alt + B
 
-## Renodx, ReShade, Special K
+首先要做的事情是Windows HDR 校准，从微软商店下载：[(Microsoft Store) Windows HDR Calibration](https://apps.microsoft.com/detail/9N7F2SM5D1LR?hl=zh-cn&gl=CN&ocid=pdpshare)
 
-* [Renodx Mods](https://github.com/clshortfuse/renodx/wiki/Mods)
-* [ReShade](https://reshade.me/)
-* [Special K](https://www.special-k.info/)
+Windows HDR 校准的前两步是校准峰值亮度，第三步是黑位（最低亮度），最后一步是饱和度。
 
 ## HDR模式下的SDR内容
+
+参考这篇文章：[(TFT Central) Here’s Why You Should Only Enable HDR Mode on Your PC When You Are Viewing HDR Content](https://tftcentral.co.uk/articles/heres-why-you-should-only-enable-hdr-mode-on-your-pc-when-you-are-viewing-hdr-content)
 
 在HDR下看SDR内容，可能会遇到三种问题：过亮/过暗问题、发灰发白问题、颜色暗淡问题。
 
@@ -29,7 +24,7 @@ Windows HDR校准的前两步是校准峰值亮度，第三步是黑位（最低
 
 外接显示器下，可通过设置中的【系统->屏幕->HDR->SDR内容亮度】来调节HDR下的SDR内容亮度。
 
-这个亮度调节遵循 $y=80+4x$ 公式，其中 $x$ $(0\leq x\leq 100)$ 是滑杆数值， $y$ 是向硬件汇报的绝对亮度(nits)，通常就是物理上的真实亮度（除非超过显示器亮度上限）。可以调节到和平时SDR模式下的相同亮度，来使得开关HDR后的全屏纸白亮度得到统一。
+这个亮度调节遵循 $y=80+4x$ 公式，其中 $x$ $(0\leq x\leq 100)$ 是滑杆数值， $y$ 是向硬件汇报的SDR纸白亮度(nits)，通常就是物理上真实的纸白亮度（除非超过显示器亮度上限）。可以调节到和平时SDR模式下的相同亮度，来使得开关HDR后的全屏纸白亮度得到统一。
 
 笔记本自带屏幕上，滑杆那里显示为【HDR内容亮度】而非【SDR内容亮度】。
 
@@ -48,7 +43,38 @@ Windows中开启HDR模式时，SDR内容的显示遵循分段sRGB曲线，而非
 * 【方案2：追求SDR和HDR都过饱和】SDR模式本来就是过饱和的，因此只需调整HDR模式。方法是在HDR下调节饱和度。但要注意，以下方法不仅会影响HDR模式下SDR内容的饱和度，也会同时影响HDR内容的饱和度，会造成HDR内容颜色不准确（但既然你选择了这个方案，可能你本来就连HDR内容都想要过饱和，这可能也是你的目的之一）。
   * 调节全局饱和度：显示器端调节饱和度；或者在Windows HDR校准的最后一步拉高饱和度；或者在Nvidia App中的【系统->颜色】里调节饱和度。
   * 调节视频(HDR内容)饱和度：在开启RTX HDR看视频时，在Nvidia App中的【系统->视频->RTX视频增强->HDR】里可以调节饱和度。
-  * 调节游戏(HDR内容)饱和度：可以使用Nvidia滤镜RTX 动态亮丽。同时，ReShade的很多插件都有饱和度选项。专门管控HDR下饱和度的ReShade插件是[ReshadeSimpleHDRShaders](https://github.com/MaxG2D/ReshadeSimpleHDRShaders)下的HDR Saturation，ReShade软件里就有。同时，我自己也写了一个模拟从sRGB扩展到P3色域颜色变化的ReShade插件：[Reshade-HDR-Simulate-Oversaturation](https://github.com/lambdacdm/Reshade-HDR-Simulate-Oversaturation)。这个插件的意义在于模拟了色域变换带来的过饱和的感觉（也就是我们SDR模式下经历的那种过饱和感），这与单纯拉高饱和度数值并不相同，因为色域扩展时每种颜色的饱和度提升程度是不同的。
+  * 调节游戏(HDR内容)饱和度：可以使用Nvidia滤镜RTX 动态亮丽。同时，ReShade的很多插件都有饱和度选项。专门管控HDR下饱和度的ReShade插件是[ReshadeSimpleHDRShaders](https://github.com/MaxG2D/ReshadeSimpleHDRShaders)下的HDR Saturation，ReShade软件里就有。同时，我自己也写了一个模拟从sRGB扩展到P3色域颜色变化的ReShade插件：[Reshade-HDR-Simulate-Oversaturation](https://github.com/lambdacdm/Reshade-HDR-Simulate-Oversaturation)。这个插件的意义在于模拟了色域变换带来的过饱和的感觉（也就是SDR模式下经历的那种过饱和感），这与单纯拉高饱和度数值并不相同，因为色域扩展时每种颜色的饱和度提升程度是不同的。
+ 
+## HDR游戏
+
+### Renodx, ReShade, Special K
+
+* [Renodx Mods](https://github.com/clshortfuse/renodx/wiki/Mods)
+* [ReShade](https://reshade.me/)
+* [Special K](https://www.special-k.info/)
+
+### DLSS与AI插帧 
+
+DLSS的模型预设推荐使用预设M与预设L，它们对HDR的光影效果更好。
+
+在使用Nvidia的AI插帧（注意不是DLSS帧生成）时，
+
+## RTX HDR
+
+### 参数调节
+
+参考这篇文章：[(Reddit) RTX HDR — Paper White, Gamma & Reference Settings](https://www.reddit.com/r/nvidia/comments/1b03yfg/rtx_hdr_paper_white_gamma_reference_settings/)
+
+* 峰值亮度：填写显示器的峰值亮度与1000 nits这二者之间的最小值。这是因为Nvidia实现有误：尽管滑块可以调节到1000 nits以上，实际汇报的峰值亮度被锁定到1000 nits的上限。这导致假如调到超过1000 nits的数值，则高于1000 nits的部分会被裁切，使得高光部分细节丢失，也就是过曝。
+* 中间灰：按如下公式填写值：中间灰 = 纸白亮度 * $0.5^\gamma$ （中间灰与纸白亮度的单位均为nits，伽马值 $\gamma$ 的标准值为2.2）。如果你想统一RTX HDR内容与SDR内容的纸白亮度，这里的纸白亮度可以设置成之前在Windows设置里调节的按 $y=80+4x$ 规律的SDR内容亮度。
+* 对比度：推荐填写25。这是因为，滑杆数值的0表示伽马值为2.0，数值25表示伽马值为2.2，数值50表示伽马值为2.4。而伽马值的标准值为2.2。
+* 饱和度：按喜好填写，但要注意数值-25表示sRGB中性。
+
+### 性能
+
+RTX HDR 对性能影响较大，解决方案：
+* 视频讲解：[(b站) 如何降低RTX HDR的性能损耗](https://www.bilibili.com/video/BV1EVSqYYEAD)
+* 资源链接：[NvTrueHDR - RTX HDR for games](https://www.nexusmods.com/site/mods/781?tab=description)
 
 ## 截图
 

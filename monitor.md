@@ -57,7 +57,7 @@ Windows中开启HDR模式时，SDR内容的显示遵循分段sRGB曲线，而非
 
 DLSS的模型预设推荐使用预设M与预设L，它们对HDR的光影效果更好。
 
-在使用Nvidia的AI插帧（注意不是DLSS帧生成）时，
+在同时使用Nvidia的AI插帧（注意这里不是指DLSS帧生成）以及某些自动HDR手段时，如果选项里有选，请选HDR 10而不是scRGB：这是因为scRGB会出现画面出现闪烁、波纹等错误。具体而言，如果你是通过ReShade来进行自动HDR，选择Use HDR10 instead of scRGB。如果还使用了Pumbo的Advanced AutoHDR插件，则需要在Output Color Space中选择HDR10 (BT.2020 PQ)。
 
 ## RTX HDR
 
@@ -66,9 +66,9 @@ DLSS的模型预设推荐使用预设M与预设L，它们对HDR的光影效果�
 参考这篇文章：[(Reddit) RTX HDR — Paper White, Gamma & Reference Settings](https://www.reddit.com/r/nvidia/comments/1b03yfg/rtx_hdr_paper_white_gamma_reference_settings/)
 
 * 峰值亮度：填写显示器的峰值亮度与1000 nits这二者之间的最小值。这是因为Nvidia实现有误：尽管滑块可以调节到1000 nits以上，实际汇报的峰值亮度被锁定到1000 nits的上限。这导致假如调到超过1000 nits的数值，则高于1000 nits的部分会被裁切，使得高光部分细节丢失，也就是过曝。
-* 中间灰：按如下公式填写值：中间灰 = 纸白亮度 * $0.5^\gamma$ （中间灰与纸白亮度的单位均为nits，伽马值 $\gamma$ 的标准值为2.2）。如果你想统一RTX HDR内容与SDR内容的纸白亮度，这里的纸白亮度可以设置成之前在Windows设置里调节的按 $y=80+4x$ 规律的SDR内容亮度。
+* 中间灰：按如下公式填写值：中间灰 = 纸白亮度 * $0.5^\gamma$ （中间灰与纸白亮度的单位均为nits，伽马值 $\gamma$ 的标准值为2.2）。如果你想统一RTX HDR内容与SDR内容的纸白亮度，这里的纸白亮度可以设置成之前在Windows设置里调节的SDR内容亮度 $y=80+4x$。
 * 对比度：推荐填写25。这是因为，滑杆数值的0表示伽马值为2.0，数值25表示伽马值为2.2，数值50表示伽马值为2.4。而伽马值的标准值为2.2。
-* 饱和度：按喜好填写，但要注意数值-25表示sRGB中性。
+* 饱和度：按喜好填写，但要注意数值-25表示中性。
 
 ### 性能
 

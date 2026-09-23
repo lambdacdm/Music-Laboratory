@@ -47,6 +47,12 @@ Windows中开启HDR模式时，SDR内容的显示遵循分段sRGB曲线，而非
  
 ## HDR游戏
 
+### RHI (Reshade HDR Installer)
+
+我们推荐使用RHI来接管游戏的HDR设置。它可以一键自动为游戏配置好ReShade + RenoDX HDR或其他HDR设置。
+
+* [RHI](https://github.com/RankFTW/RHI)
+
 ### Renodx, ReShade, Special K
 
 * [Renodx Mods](https://github.com/clshortfuse/renodx/wiki/Mods)
